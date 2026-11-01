@@ -13,19 +13,48 @@ Cette version PlayStation bénéficie de nombreuses améliorations (graphismes, 
 
 L'objectif de ce projet est de proposer une **traduction française complète** de cette version tout en s'appuyant sur le remarquable travail réalisé par la communauté de traduction anglaise.
 
-En complément de la traduction, une **police française entièrement personnalisée** a été créée afin d'ajouter les caractères spécifiques au français (accents, cédille, etc.). Cette nouvelle police est entièrement compatible avec les outils développés par **Roman215** et permet une intégration propre dans le jeu.
+En complément de la traduction, une **police française entièrement personnalisée** a été créée afin d'ajouter les caractères spécifiques au français (accents, cédille, etc.).
+
+Cette nouvelle police est entièrement compatible avec les outils développés par **Roman215** et permet une intégration propre des caractères français dans le jeu.
 
 ---
 
 # 📚 Sommaire
 
 - Présentation
+- Participer au projet
 - État de la traduction
 - Contenu traduit
 - Base du projet
 - Installation
 - Informations légales
 - Crédits
+
+---
+
+# 🤝 Participer au projet
+
+Le projet est ouvert aux contributions.
+
+Toute personne souhaitant aider à la traduction doit obligatoirement rejoindre le serveur Discord **MegaTen [FR]**.
+
+Ce serveur est le centre d'organisation du projet et permet de :
+
+- répartir les fichiers entre les différents traducteurs ;
+- éviter que plusieurs personnes travaillent sur la même partie ;
+- discuter des choix de traduction ;
+- maintenir une cohérence dans les termes utilisés ;
+- partager les tests et les retours.
+
+Avant de commencer toute traduction, il est nécessaire de passer par le serveur afin de s'organiser avec les autres contributeurs.
+
+Serveur Discord :
+
+https://discord.gg/anbTYCsK7Y
+
+Les règles de contribution et le fonctionnement de la traduction sont disponibles dans le fichier :
+
+`CONTRIBUTING.md`
 
 ---
 
@@ -39,7 +68,7 @@ L'objectif est de traduire l'intégralité du jeu tout en conservant une termino
 
 # ✅ Contenu actuellement traduit
 
-Les fichiers suivants sont actuellement entièrement traduits :
+Les fichiers suivants sont actuellement en cours de traduction :
 
 - ⏳ `map_names.py`
 - ⏳ `menu_table.py`
@@ -96,10 +125,10 @@ Aucun élément protégé par le droit d'auteur n'est fourni, notamment :
 
 Ce dépôt contient uniquement :
 
-- Les fichiers de traduction.
-- Les scripts nécessaires au projet.
-- Les outils utilisés pour la traduction.
-- La police française créée pour ce projet.
+- Les fichiers de traduction ;
+- Les scripts nécessaires au projet ;
+- Les outils utilisés pour la traduction ;
+- La police française créée pour ce projet ;
 - Le futur patch **xdelta**, permettant d'appliquer les modifications sur une copie du jeu obtenue légalement.
 
 Tous les droits relatifs à **Shin Megami Tensei II** appartiennent à **Atlus**.
@@ -115,6 +144,14 @@ Ce projet est entièrement gratuit, réalisé par des fans et n'a aucun but comm
 **gc-ultimate117**  
 Lead du projet  
 https://github.com/gc-ultimate117
+
+## Organisation communautaire
+
+**Serveur Discord MegaTen [FR]**
+
+https://discord.gg/anbTYCsK7Y
+
+Merci aux membres du serveur participant à l'organisation, aux discussions et à la relecture de la traduction.
 
 ## Projet anglais
 
@@ -132,4 +169,4 @@ https://github.com/Roman215
 
 ## Remerciements
 
-Un immense merci à **Roman215** pour son incroyable travail sur la traduction anglaise de la version PlayStation, ainsi qu'à la communauté **Megami Tensei** et aux développeurs d'outils de romhacking qui rendent ce type de projet possible.
+Un immense merci à **Roman215** pour son incroyable travail sur la traduction anglaise de la version PlayStation, ainsi qu'à la communauté **Megami Tensei**, aux membres de **MegaTen [FR]** et aux développeurs d'outils de romhacking qui rendent ce type de projet possible.
