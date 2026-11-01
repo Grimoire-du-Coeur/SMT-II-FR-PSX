@@ -1,18 +1,19 @@
 # SMT-II-FR-PSX
-Fan Traduction de Shin Megami Tensei II version PSX
-# Shin Megami Tensei II (PSX) — Traduction française
+### Fan Traduction française de **Shin Megami Tensei II** (PlayStation)
 
-> Un projet de traduction française de **Shin Megami Tensei II** sur PlayStation.
+> Un projet communautaire visant à traduire intégralement **Shin Megami Tensei II** sur PlayStation en français.
 
 ---
 
 # 📖 Présentation
 
-**Shin Megami Tensei II** est un JRPG développé par **Atlus** et sorti au Japon sur Super Famicom puis porté sur **PlayStation**.
+**Shin Megami Tensei II** est un JRPG développé par **Atlus**, initialement sorti sur **Super Famicom** avant d'être porté sur **PlayStation**.
 
-Cette version PlayStation apporte de nombreuses améliorations graphiques et sonores, mais n'a jamais quitté le Japon.
+Cette version PlayStation bénéficie de nombreuses améliorations (graphismes, musiques, interface, cinématiques...), mais n'a jamais été localisée en dehors du Japon.
 
-L'objectif de ce projet est de proposer une **traduction française complète** de cette version PlayStation tout en respectant le travail effectué par les précédents projets de traduction.
+L'objectif de ce projet est de proposer une **traduction française complète** de cette version tout en s'appuyant sur le remarquable travail réalisé par la communauté de traduction anglaise.
+
+En complément de la traduction, une **police française entièrement personnalisée** a été créée afin d'ajouter les caractères spécifiques au français (accents, cédille, etc.). Cette nouvelle police est entièrement compatible avec les outils développés par **Roman215** et permet une intégration propre dans le jeu.
 
 ---
 
@@ -22,7 +23,7 @@ L'objectif de ce projet est de proposer une **traduction française complète** 
 - État de la traduction
 - Contenu traduit
 - Base du projet
-- Installation (à venir)
+- Installation
 - Informations légales
 - Crédits
 
@@ -32,22 +33,22 @@ L'objectif de ce projet est de proposer une **traduction française complète** 
 
 Le projet est actuellement en développement.
 
-L'objectif est de traduire l'intégralité du jeu en français tout en conservant une terminologie cohérente avec la série **Shin Megami Tensei**.
+L'objectif est de traduire l'intégralité du jeu tout en conservant une terminologie cohérente avec l'univers de **Shin Megami Tensei**.
 
 ---
 
 # ✅ Contenu actuellement traduit
 
-À l'heure actuelle, les fichiers suivants ont été traduits entièrements:
+Les fichiers suivants sont actuellement entièrement traduits :
 
-- ❌ map_names.py
-- ❌ menu_table.py
-- ❌ name_tables.py
-- ❌ party_names.py
-- ❌ sys_strings.py
-- ❌ translations.py (le gros fichier avec tout les dialogues)
+- ✅ `map_names.py`
+- ✅ `menu_table.py`
+- ✅ `name_tables.py`
+- ✅ `party_names.py`
+- ✅ `sys_strings.py`
+- ⏳ `translations.py` *(principal fichier contenant les dialogues du jeu)*
 
-*(Cette liste sera mise à jour au fur et à mesure de l'avancement du projet.)*
+Cette liste sera mise à jour au fur et à mesure de l'avancement du projet.
 
 ---
 
@@ -55,54 +56,55 @@ L'objectif est de traduire l'intégralité du jeu en français tout en conservan
 
 Cette traduction française est basée sur l'excellent projet de traduction anglaise réalisé par **Roman215**.
 
-Son travail a servi de base pour la traduction française, notamment grâce aux scripts, aux outils de compilation et à la structure du projet.
+Son travail a servi de base au projet, notamment grâce à ses outils, ses scripts de compilation et l'ensemble de l'infrastructure permettant de modifier la version PlayStation.
 
-Projet original :
+En plus de la traduction française, ce dépôt intègre une **nouvelle police de caractères française**, créée spécifiquement pour ce projet afin de fonctionner avec les outils de Roman215 et de prendre en charge les caractères propres à la langue française.
 
-**Roman215 — SMT2 PSX English Translation**
+**Projet original :**
 
-[GitHub - Roman215/smt2-psx-translation](https://github.com/Roman215/smt2-psx-translation?utm_source=chatgpt.com)
+https://github.com/Roman215/smt2-psx-translation
 
-Un immense merci à lui pour avoir rendu cette traduction possible.
+Un immense merci à **Roman215** pour avoir rendu ce projet possible.
 
 ---
 
 # 💾 Installation
 
-Lorsque la traduction sera publiée, elle sera distribuée sous la forme d'un **patch xdelta**.
+Lors de sa sortie, la traduction sera distribuée exclusivement sous la forme d'un **patch xdelta**.
 
-Aucune image du jeu ne sera fournie.
+Aucune image du jeu ni aucun fichier original appartenant à Atlus ne sera fourni.
 
-L'utilisateur devra posséder sa propre copie légale de **Shin Megami Tensei II (PSX)** afin d'appliquer le patch.
+Vous devrez posséder votre propre copie légale de **Shin Megami Tensei II (PSX)** afin d'appliquer le patch.
 
-Les instructions détaillées seront ajoutées lors de la première release.
+Les instructions d'installation seront ajoutées lors de la première version publique.
 
 ---
 
 # ⚖️ Informations légales
 
-Ce dépôt **ne contient aucun fichier appartenant à Atlus**.
+Ce dépôt ne distribue **aucun contenu appartenant à Atlus**.
 
-Aucun élément protégé par le droit d'auteur n'est distribué, notamment :
+Aucun élément protégé par le droit d'auteur n'est fourni, notamment :
 
-- fichiers du jeu
-- images disque (.BIN/.CUE)
-- musiques
-- vidéos
-- polices originales
-- textures
-- ressources graphiques
+- Images disque du jeu (.BIN/.CUE)
+- Fichiers exécutables
+- Musiques
+- Vidéos
+- Ressources graphiques originales
+- Textures
+- Polices originales d'Atlus
 
-Seuls sont distribués :
+Ce dépôt contient uniquement :
 
-- les scripts de traduction
-- les fichiers nécessaires au projet
-- les outils utilisés
-- un patch **xdelta** permettant d'appliquer les modifications sur une copie du jeu obtenue légalement.
+- Les fichiers de traduction.
+- Les scripts nécessaires au projet.
+- Les outils utilisés pour la traduction.
+- La police française créée pour ce projet.
+- Le futur patch **xdelta**, permettant d'appliquer les modifications sur une copie du jeu obtenue légalement.
 
 Tous les droits relatifs à **Shin Megami Tensei II** appartiennent à **Atlus**.
 
-Ce projet est entièrement non commercial et réalisé par des fans.
+Ce projet est entièrement gratuit, réalisé par des fans et n'a aucun but commercial.
 
 ---
 
@@ -110,16 +112,24 @@ Ce projet est entièrement non commercial et réalisé par des fans.
 
 ## Traduction française
 
-- **gc-ultimate 117** : https://github.com/gc-ultimate117 -Lead du projet-
+**gc-ultimate117**  
+Lead du projet  
+https://github.com/gc-ultimate117
 
 ## Projet anglais
 
-- Roman215 : https://github.com/Roman215
+**Roman215**  
+https://github.com/Roman215
 
 ## Outils et développement
 
-- Roman215 et les contributeurs du projet original
+- Roman215
+- Les contributeurs du projet original
+
+## Police française
+
+- Création de la police française : **gc-ultimate117**
 
 ## Remerciements
 
-Un grand merci à la communauté **Megami Tensei**, aux développeurs d'outils de romhacking, ainsi qu'à toutes les personnes ayant contribué à rendre cette version PlayStation enfin accessible à davantage de joueurs.
+Un immense merci à **Roman215** pour son incroyable travail sur la traduction anglaise de la version PlayStation, ainsi qu'à la communauté **Megami Tensei** et aux développeurs d'outils de romhacking qui rendent ce type de projet possible.
