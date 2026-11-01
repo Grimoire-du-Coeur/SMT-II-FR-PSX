@@ -41,11 +41,11 @@ L'objectif est de traduire l'intégralité du jeu tout en conservant une termino
 
 Les fichiers suivants sont actuellement entièrement traduits :
 
-- ✅ `map_names.py`
-- ✅ `menu_table.py`
-- ✅ `name_tables.py`
-- ✅ `party_names.py`
-- ✅ `sys_strings.py`
+- ⏳ `map_names.py`
+- ⏳ `menu_table.py`
+- ⏳ `name_tables.py`
+- ⏳ `party_names.py`
+- ⏳ `sys_strings.py`
 - ⏳ `translations.py` *(principal fichier contenant les dialogues du jeu)*
 
 Cette liste sera mise à jour au fur et à mesure de l'avancement du projet.
