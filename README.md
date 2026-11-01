@@ -38,14 +38,14 @@ L'objectif est de traduire l'intégralité du jeu en français tout en conservan
 
 # ✅ Contenu actuellement traduit
 
-À l'heure actuelle, les fichiers suivants ont été traduits :
+À l'heure actuelle, les fichiers suivants ont été traduits entièrements:
 
-- ✔️ Fichier 1
-- ✔️ Fichier 2
-- ✔️ Fichier 3
-- ✔️ Fichier 4
-- ✔️ Fichier 5
-- ✔️ Fichier 6
+- ❌ map_names.py
+- ❌ menu_table.py
+- ❌ name_tables.py
+- ❌ party_names.py
+- ❌ sys_strings.py
+- ❌ translations.py (le gros fichier avec tout les dialogues)
 
 *(Cette liste sera mise à jour au fur et à mesure de l'avancement du projet.)*
 
@@ -110,11 +110,11 @@ Ce projet est entièrement non commercial et réalisé par des fans.
 
 ## Traduction française
 
-- **(Votre pseudo)**
+- **gc-ultimate 117** : https://github.com/gc-ultimate117 -Lead du projet-
 
 ## Projet anglais
 
-- Roman215
+- Roman215 : https://github.com/Roman215
 
 ## Outils et développement
 
