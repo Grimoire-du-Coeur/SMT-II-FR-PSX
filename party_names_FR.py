@@ -41,7 +41,7 @@ EXE_ARRAY = 0x801FBD4C             # slot 0 of the live array, in exe data
 # that the tables have not moved.
 NAMES = [
     ("Hawk",   "ホーク"),
-    #("",   "ホーク"),
+    #("Hawk",   "ホーク"),
     ("Hiroko", "ヒロコ"),
     #("", "ヒロコ"),
     ("Beth",   "ベス"),
