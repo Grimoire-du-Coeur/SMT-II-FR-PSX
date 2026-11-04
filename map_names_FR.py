@@ -72,7 +72,7 @@ BR = 0x8197                                   # line-break control char (invisib
 ENGLISH = [
     # --- region names (AREA table targets) ---
     "Malkuth", "Yesod", "Netzach", "Hod", "Tiferet", "Chesed", "Geburah",
-    #"", "", "", "", "", "", "",
+    #"Malkuth", "", "", "", "", "", "",
     "Chokmah", "Binah", "Keter", "Eden", "Underworld", "Arcadia", "Factory",
     #"", "", "", "", "", "", "",
     "Holy Town", "Center", "Valhalla",
