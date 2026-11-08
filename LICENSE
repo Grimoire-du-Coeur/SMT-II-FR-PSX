@@ -1,0 +1,59 @@
+SMT-II-FR-PSX — licences
+========================
+
+Ce dépôt contient deux sortes de contenu, sous deux licences différentes.
+Le sous-module `amont/` (traduction anglaise de Roman215) garde sa propre
+licence : voir amont/LICENSE.
+
+
+1. Texte de la traduction française (dossier trad/ et docs/Dictionnaire.md)
+---------------------------------------------------------------------------
+
+Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans
+les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0).
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+Copyright (c) 2026 les contributeurs de SMT-II-FR-PSX
+(gc-ultimate117, MegaTen [FR], le Grimoire du Cœur).
+
+Le texte traduit dérive de la traduction anglaise de Roman215 (licence MIT,
+voir plus bas) et du jeu Shin Megami Tensei II, propriété d'Atlus / SEGA.
+Cette licence ne porte que sur l'apport des traducteurs.
+
+
+2. Outils et documentation (outils/, police/, tests/, .github/, docs/)
+-----------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 les contributeurs de SMT-II-FR-PSX
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+3. Traduction anglaise et chaîne de build de Roman215 (amont/)
+---------------------------------------------------------------
+
+Le texte anglais repris dans les champs "en" de trad/ et le code exécuté
+depuis amont/ sont distribués sous licence MIT par Roman215 :
+https://github.com/Roman215/smt2-psx-translation/blob/master/LICENSE
+Sa notice de copyright et sa licence s'appliquent à ces parties.
+
+
+Shin Megami Tensei II © Atlus / SEGA. Aucune donnée du jeu n'est distribuée.
