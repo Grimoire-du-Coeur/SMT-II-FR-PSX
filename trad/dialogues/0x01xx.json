@@ -1041,12 +1041,12 @@
   {
     "id": "0x01cf",
     "en": "{PG}Okamoto: Sleep okay?{WT}{PG}{ED}",
-    "fr": ""
+    "fr": "{PG}Okamoto: Bien dormi?{WT}{PG}{ED}"
   },
   {
     "id": "0x01d0",
     "en": "{PG}Okamoto: Enough loafing around.{CR}Get in the Virtual Trainer.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Okamoto: Assez flâné.{CR}Va dans le Simulateur virtuel.{WT}{ED}"
   },
   {
     "id": "0x01d1",

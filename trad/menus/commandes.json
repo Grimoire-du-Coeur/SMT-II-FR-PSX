@@ -2,287 +2,287 @@
   {
     "id": "1",
     "en": "Call Ally",
-    "fr": ""
+    "fr": "Invoquer"
   },
   {
     "id": "2",
     "en": "Return Ally",
-    "fr": ""
+    "fr": "Rappeler"
   },
   {
     "id": "3",
     "en": "Dismiss Ally",
-    "fr": ""
+    "fr": "Congédier"
   },
   {
     "id": "4",
     "en": "Analyze Spell",
-    "fr": ""
+    "fr": "Analyse sort"
   },
   {
     "id": "5",
     "en": "Auto-Map",
-    "fr": ""
+    "fr": "Carte auto"
   },
   {
     "id": "6",
     "en": "Devil Analysis",
-    "fr": ""
+    "fr": "Analyse démon"
   },
   {
     "id": "7",
     "en": "Config",
-    "fr": ""
+    "fr": "Options"
   },
   {
     "id": "8",
     "en": "Analyze Item",
-    "fr": ""
+    "fr": "Analyse objet"
   },
   {
     "id": "9",
     "en": "Set Marker",
-    "fr": ""
+    "fr": "Placer repère"
   },
   {
     "id": "10",
     "en": "Use",
-    "fr": ""
+    "fr": "Utiliser"
   },
   {
     "id": "11",
     "en": "Sort",
-    "fr": ""
+    "fr": "Trier"
   },
   {
     "id": "12",
     "en": "Arrange",
-    "fr": ""
+    "fr": "Ranger"
   },
   {
     "id": "13",
     "en": "Discard",
-    "fr": ""
+    "fr": "Jeter"
   },
   {
     "id": "14",
     "en": "Equip",
-    "fr": ""
+    "fr": "Équiper"
   },
   {
     "id": "15",
     "en": "Unequip",
-    "fr": ""
+    "fr": "Retirer"
   },
   {
     "id": "16",
     "en": "Buy",
-    "fr": ""
+    "fr": "Acheter"
   },
   {
     "id": "17",
     "en": "Sell",
-    "fr": ""
+    "fr": "Vendre"
   },
   {
     "id": "18",
     "en": "Explain",
-    "fr": ""
+    "fr": "Détails"
   },
   {
     "id": "19",
     "en": "View Status",
-    "fr": ""
+    "fr": "Statut"
   },
   {
     "id": "20",
     "en": "Leave Shop",
-    "fr": ""
+    "fr": "Sortir"
   },
   {
     "id": "21",
     "en": "RAM Check",
-    "fr": ""
+    "fr": "Vérif. RAM"
   },
   {
     "id": "22",
     "en": "Item",
-    "fr": ""
+    "fr": "Objet"
   },
   {
     "id": "23",
     "en": "Equipment",
-    "fr": ""
+    "fr": "Équipement"
   },
   {
     "id": "24",
     "en": "Drink",
-    "fr": ""
+    "fr": "Boisson"
   },
   {
     "id": "25",
     "en": "Listen",
-    "fr": ""
+    "fr": "Écouter"
   },
   {
     "id": "26",
     "en": "Restore HP/MP",
-    "fr": ""
+    "fr": "Soins HP/MP"
   },
   {
     "id": "27",
     "en": "Buy Item",
-    "fr": ""
+    "fr": "Acheter objet"
   },
   {
     "id": "28",
     "en": "Heal Status",
-    "fr": ""
+    "fr": "Soigner état"
   },
   {
     "id": "29",
     "en": "View Status",
-    "fr": ""
+    "fr": "Statut"
   },
   {
     "id": "30",
     "en": "Revive",
-    "fr": ""
+    "fr": "Réanimer"
   },
   {
     "id": "31",
     "en": "Exit",
-    "fr": ""
+    "fr": "Sortir"
   },
   {
     "id": "32",
     "en": "Uncurse",
-    "fr": ""
+    "fr": "Exorciser"
   },
   {
     "id": "33",
     "en": "Save",
-    "fr": ""
+    "fr": "Sauver"
   },
   {
     "id": "34",
     "en": "Training",
-    "fr": ""
+    "fr": "Entraînement"
   },
   {
     "id": "35",
     "en": "Plasma Sword",
-    "fr": ""
+    "fr": "Épée plasma"
   },
   {
     "id": "36",
     "en": "Gyro Jet",
-    "fr": ""
+    "fr": "Gyro Jet"
   },
   {
     "id": "37",
     "en": "Giga Smasher",
-    "fr": ""
+    "fr": "Giga Smasher"
   },
   {
     "id": "38",
     "en": "Railgun",
-    "fr": ""
+    "fr": "Railgun"
   },
   {
     "id": "39",
     "en": "Blaster Gun",
-    "fr": ""
+    "fr": "Blaster"
   },
   {
     "id": "40",
     "en": "Haggle",
-    "fr": ""
+    "fr": "Marchander"
   },
   {
     "id": "41",
     "en": "Threaten",
-    "fr": ""
+    "fr": "Menacer"
   },
   {
     "id": "42",
     "en": "Give Up",
-    "fr": ""
+    "fr": "Abandonner"
   },
   {
     "id": "43",
     "en": "Drag Out",
-    "fr": ""
+    "fr": "Temporiser"
   },
   {
     "id": "44",
     "en": "Enter Name",
-    "fr": ""
+    "fr": "Nommer"
   },
   {
     "id": "45",
     "en": "Destroy COMP",
-    "fr": ""
+    "fr": "Détruire COMP"
   },
   {
     "id": "46",
     "en": "Virtual Battle",
-    "fr": ""
+    "fr": "Combat virtuel"
   },
   {
     "id": "47",
     "en": "LEVEL 1",
-    "fr": ""
+    "fr": "NIVEAU 1"
   },
   {
     "id": "48",
     "en": "LEVEL 2",
-    "fr": ""
+    "fr": "NIVEAU 2"
   },
   {
     "id": "49",
     "en": "LEVEL 3",
-    "fr": ""
+    "fr": "NIVEAU 3"
   },
   {
     "id": "50",
     "en": "Fuse 2 Demons",
-    "fr": ""
+    "fr": "Fusion à 2"
   },
   {
     "id": "51",
     "en": "Fuse 3 Demons",
-    "fr": ""
+    "fr": "Fusion à 3"
   },
   {
     "id": "52",
     "en": "Fuse 2 Swords",
-    "fr": ""
+    "fr": "Fusion d'épées"
   },
   {
     "id": "53",
     "en": "LEVEL 4",
-    "fr": ""
+    "fr": "NIVEAU 4"
   },
   {
     "id": "54",
     "en": "Cathedral",
-    "fr": ""
+    "fr": "Cathédrale"
   },
   {
     "id": "55",
     "en": "LAW",
-    "fr": ""
+    "fr": "LOI"
   },
   {
     "id": "56",
     "en": "CHAOS",
-    "fr": ""
+    "fr": "CHAOS"
   },
   {
     "id": "57",
     "en": "Battle",
-    "fr": ""
+    "fr": "Combat"
   },
   {
     "id": "58",
@@ -302,57 +302,57 @@
   {
     "id": "61",
     "en": "Friendly",
-    "fr": ""
+    "fr": "Amical"
   },
   {
     "id": "62",
     "en": "Threatening",
-    "fr": ""
+    "fr": "Menaçant"
   },
   {
     "id": "63",
     "en": "Game Start",
-    "fr": ""
+    "fr": "Commencer"
   },
   {
     "id": "64",
     "en": "Hear Advice",
-    "fr": ""
+    "fr": "Conseils"
   },
   {
     "id": "65",
     "en": "Teleport",
-    "fr": ""
+    "fr": "Téléport"
   },
   {
     "id": "66",
     "en": "Sword-Demon Fuse",
-    "fr": ""
+    "fr": "Fusion épée-démon"
   },
   {
     "id": "67",
     "en": "2 Sword-Demon",
-    "fr": ""
+    "fr": "2 épées-démon"
   },
   {
     "id": "68",
     "en": "Trade for Coins",
-    "fr": ""
+    "fr": "Contre jetons"
   },
   {
     "id": "69",
     "en": "Trade for Items",
-    "fr": ""
+    "fr": "Contre objets"
   },
   {
     "id": "70",
     "en": "Trade for Spirits",
-    "fr": ""
+    "fr": "Contre alcools"
   },
   {
     "id": "71",
     "en": "Code Breaker",
-    "fr": ""
+    "fr": "Casse-code"
   },
   {
     "id": "72",
@@ -372,22 +372,22 @@
   {
     "id": "75",
     "en": "KENO",
-    "fr": ""
+    "fr": "KENO"
   },
   {
     "id": "76",
     "en": "Baccarat",
-    "fr": ""
+    "fr": "Baccarat"
   },
   {
     "id": "77",
     "en": "Big or Small",
-    "fr": ""
+    "fr": "Grand ou petit"
   },
   {
     "id": "78",
     "en": "Russian Roulette",
-    "fr": ""
+    "fr": "Roulette russe"
   },
   {
     "id": "79",
@@ -417,167 +417,167 @@
   {
     "id": "84",
     "en": "Tiferet",
-    "fr": ""
+    "fr": "Tiferet"
   },
   {
     "id": "85",
     "en": "Netzach",
-    "fr": ""
+    "fr": "Netzach"
   },
   {
     "id": "86",
     "en": "Hod",
-    "fr": ""
+    "fr": "Hod"
   },
   {
     "id": "87",
     "en": "Yesod",
-    "fr": ""
+    "fr": "Yesod"
   },
   {
     "id": "88",
     "en": "Machine 1",
-    "fr": ""
+    "fr": "Machine 1"
   },
   {
     "id": "89",
     "en": "Machine 2",
-    "fr": ""
+    "fr": "Machine 2"
   },
   {
     "id": "90",
     "en": "Machine 3",
-    "fr": ""
+    "fr": "Machine 3"
   },
   {
     "id": "91",
     "en": "Machine 4",
-    "fr": ""
+    "fr": "Machine 4"
   },
   {
     "id": "92",
     "en": "Go Back",
-    "fr": ""
+    "fr": "Retour"
   },
   {
     "id": "93",
     "en": "Repair Garage",
-    "fr": ""
+    "fr": "Garage"
   },
   {
     "id": "94",
     "en": "Use Terminal",
-    "fr": ""
+    "fr": "Terminal"
   },
   {
     "id": "95",
     "en": "Return",
-    "fr": ""
+    "fr": "Retour"
   },
   {
     "id": "96",
     "en": "Gaia Temple",
-    "fr": ""
+    "fr": "Temple Gaïa"
   },
   {
     "id": "97",
     "en": "Level 1 - 20ћ",
-    "fr": ""
+    "fr": "Niv. 1 - 20ћ"
   },
   {
     "id": "98",
     "en": "Level 2 - 30ћ",
-    "fr": ""
+    "fr": "Niv. 2 - 30ћ"
   },
   {
     "id": "99",
     "en": "Level 3 - 40ћ",
-    "fr": ""
+    "fr": "Niv. 3 - 40ћ"
   },
   {
     "id": "100",
     "en": "Level 4 - 50ћ",
-    "fr": ""
+    "fr": "Niv. 4 - 50ћ"
   },
   {
     "id": "101",
     "en": "Level 1 - 45ћ",
-    "fr": ""
+    "fr": "Niv. 1 - 45ћ"
   },
   {
     "id": "102",
     "en": "Level 2 - 55ћ",
-    "fr": ""
+    "fr": "Niv. 2 - 55ћ"
   },
   {
     "id": "103",
     "en": "Level 3 - 65ћ",
-    "fr": ""
+    "fr": "Niv. 3 - 65ћ"
   },
   {
     "id": "104",
     "en": "Level 4 - 75ћ",
-    "fr": ""
+    "fr": "Niv. 4 - 75ћ"
   },
   {
     "id": "105",
     "en": "Level 1 - 80ћ",
-    "fr": ""
+    "fr": "Niv. 1 - 80ћ"
   },
   {
     "id": "106",
     "en": "Level 2 - 100ћ",
-    "fr": ""
+    "fr": "Niv. 2 - 100ћ"
   },
   {
     "id": "107",
     "en": "Level 3 - 120ћ",
-    "fr": ""
+    "fr": "Niv. 3 - 120ћ"
   },
   {
     "id": "108",
     "en": "Level 4 - 140ћ",
-    "fr": ""
+    "fr": "Niv. 4 - 140ћ"
   },
   {
     "id": "109",
     "en": "Level 1 - 100ћ",
-    "fr": ""
+    "fr": "Niv. 1 - 100ћ"
   },
   {
     "id": "110",
     "en": "Level 2 - 150ћ",
-    "fr": ""
+    "fr": "Niv. 2 - 150ћ"
   },
   {
     "id": "111",
     "en": "Level 3 - 200ћ",
-    "fr": ""
+    "fr": "Niv. 3 - 200ћ"
   },
   {
     "id": "112",
     "en": "Level 4 - 250ћ",
-    "fr": ""
+    "fr": "Niv. 4 - 250ћ"
   },
   {
     "id": "113",
     "en": "Level 1 - 200ћ",
-    "fr": ""
+    "fr": "Niv. 1 - 200ћ"
   },
   {
     "id": "114",
     "en": "Level 2 - 300ћ",
-    "fr": ""
+    "fr": "Niv. 2 - 300ћ"
   },
   {
     "id": "115",
     "en": "Level 3 - 400ћ",
-    "fr": ""
+    "fr": "Niv. 3 - 400ћ"
   },
   {
     "id": "116",
     "en": "Level 4 - 500ћ",
-    "fr": ""
+    "fr": "Niv. 4 - 500ћ"
   },
   {
     "id": "117",
@@ -662,11 +662,11 @@
   {
     "id": "133",
     "en": "NORMAL",
-    "fr": ""
+    "fr": "NORMAL"
   },
   {
     "id": "134",
     "en": "EXPERT",
-    "fr": ""
+    "fr": "EXPERT"
   }
 ]

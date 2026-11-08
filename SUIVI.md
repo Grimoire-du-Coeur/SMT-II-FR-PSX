@@ -3,14 +3,14 @@
 > Fichier **généré** par `outils/stats.py`. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 4 914 textes
+Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    5 %      253 / 4 914 textes
 Système        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 554 textes
-Menus          ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 249 textes
-Noms           ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 1 114 textes
+Menus          ██████████░░░░░░░░░░░░░░   42 %      107 / 249 textes
+Noms           █░░░░░░░░░░░░░░░░░░░░░░░    4 %       48 / 1 114 textes
 Cartes         ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 142 textes
-Équipe         ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 7 textes
+Équipe         ████████████████████████  100 %        7 / 7 textes
 
-Total          ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 6 980 textes
+Total          █░░░░░░░░░░░░░░░░░░░░░░░    5 %      415 / 6 980 textes
 ```
 
 Une entrée compte comme traduite dès que son champ `fr` est rempli. Sans traduction, le jeu affiche l'anglais de Roman215 : le patch reste jouable à chaque étape.
@@ -20,8 +20,8 @@ Une entrée compte comme traduite dès que son champ `fr` est rempli. Sans tradu
 | Fichier | Traduits | % |
 |---|---:|---:|
 | [`cartes/lieux.json`](trad/cartes/lieux.json) | 0 / 142 | 0 % |
-| [`dialogues/0x00xx.json`](trad/dialogues/0x00xx.json) | 0 / 256 | 0 % |
-| [`dialogues/0x01xx.json`](trad/dialogues/0x01xx.json) | 0 / 256 | 0 % |
+| [`dialogues/0x00xx.json`](trad/dialogues/0x00xx.json) | 251 / 256 | 98 % |
+| [`dialogues/0x01xx.json`](trad/dialogues/0x01xx.json) | 2 / 256 | 0 % |
 | [`dialogues/0x02xx.json`](trad/dialogues/0x02xx.json) | 0 / 256 | 0 % |
 | [`dialogues/0x03xx.json`](trad/dialogues/0x03xx.json) | 0 / 206 | 0 % |
 | [`dialogues/0x10xx.json`](trad/dialogues/0x10xx.json) | 0 / 43 | 0 % |
@@ -44,15 +44,15 @@ Une entrée compte comme traduite dès que son champ `fr` est rempli. Sans tradu
 | [`dialogues/0x60xx.json`](trad/dialogues/0x60xx.json) | 0 / 256 | 0 % |
 | [`dialogues/0x61xx.json`](trad/dialogues/0x61xx.json) | 0 / 45 | 0 % |
 | [`dialogues/0x70xx.json`](trad/dialogues/0x70xx.json) | 0 / 23 | 0 % |
-| [`equipe/noms.json`](trad/equipe/noms.json) | 0 / 7 | 0 % |
-| [`menus/commandes.json`](trad/menus/commandes.json) | 0 / 134 | 0 % |
+| [`equipe/noms.json`](trad/equipe/noms.json) | 7 / 7 | 100 % |
+| [`menus/commandes.json`](trad/menus/commandes.json) | 107 / 134 | 79 % |
 | [`menus/negociation.json`](trad/menus/negociation.json) | 0 / 115 | 0 % |
 | [`noms/affinites.json`](trad/noms/affinites.json) | 0 / 41 | 0 % |
-| [`noms/boissons.json`](trad/noms/boissons.json) | 0 / 9 | 0 % |
+| [`noms/boissons.json`](trad/noms/boissons.json) | 9 / 9 | 100 % |
 | [`noms/demons.json`](trad/noms/demons.json) | 0 / 311 | 0 % |
-| [`noms/lieux.json`](trad/noms/lieux.json) | 0 / 16 | 0 % |
+| [`noms/lieux.json`](trad/noms/lieux.json) | 16 / 16 | 100 % |
 | [`noms/objets.json`](trad/noms/objets.json) | 0 / 349 | 0 % |
-| [`noms/pnj.json`](trad/noms/pnj.json) | 0 / 23 | 0 % |
+| [`noms/pnj.json`](trad/noms/pnj.json) | 23 / 23 | 100 % |
 | [`noms/races.json`](trad/noms/races.json) | 0 / 44 | 0 % |
 | [`noms/sorts.json`](trad/noms/sorts.json) | 0 / 321 | 0 % |
 | [`systeme/ascii.json`](trad/systeme/ascii.json) | 0 / 44 | 0 % |

@@ -2,383 +2,383 @@
   {
     "id": "0x0000",
     "en": "What do you want to do?{ED}",
-    "fr": ""
+    "fr": "Que faire?{ED}"
   },
   {
     "id": "0x0001",
     "en": "You cannot use the COMP now.{WT}{ED}",
-    "fr": "",
+    "fr": "Le COMP est indisponible.{WT}{ED}",
     "note": "---- Bank 0: shared field / COMP / fusion system text ----"
   },
   {
     "id": "0x0002",
     "en": "You cannot use the COMP here.{WT}{ED}",
-    "fr": ""
+    "fr": "Le COMP est inutilisable ici.{WT}{ED}"
   },
   {
     "id": "0x0003",
     "en": "Summon whom?{ED}",
-    "fr": ""
+    "fr": "Invoquer qui?{ED}"
   },
   {
     "id": "0x0004",
     "en": "Summon them where?{ED}",
-    "fr": ""
+    "fr": "Invoquer à quelle place?{ED}"
   },
   {
     "id": "0x0005",
     "en": "Swap out whom?{ED}",
-    "fr": ""
+    "fr": "Remplacer qui?{ED}"
   },
   {
     "id": "0x0006",
     "en": "No one can be swapped out.{ED}",
-    "fr": ""
+    "fr": "Personne ne peut être remplacé.{ED}"
   },
   {
     "id": "0x0007",
     "en": "Not enough Macca.{ED}",
-    "fr": ""
+    "fr": "Pas assez de Macca.{ED}"
   },
   {
     "id": "0x0008",
     "en": "Its alignment is incompatible.{CR}It cannot be summoned.{ED}",
-    "fr": ""
+    "fr": "Son alignement est incompatible.{CR}Impossible de l'invoquer.{ED}"
   },
   {
     "id": "0x0009",
     "en": "NO DATA{ED}",
-    "fr": ""
+    "fr": "AUCUNE DONNÉE{ED}"
   },
   {
     "id": "0x000a",
     "en": "Send back whom?{ED}",
-    "fr": ""
+    "fr": "Rappeler qui?{ED}"
   },
   {
     "id": "0x000b",
     "en": "No demons can be sent back.{ED}",
-    "fr": ""
+    "fr": "Aucun démon à rappeler.{ED}"
   },
   {
     "id": "0x000c",
     "en": "Dismiss whom?{ED}",
-    "fr": ""
+    "fr": "Congédier qui?{ED}"
   },
   {
     "id": "0x000d",
     "en": "Dismiss {MG}?{ED}",
-    "fr": ""
+    "fr": "Congédier {MG}?{ED}"
   },
   {
     "id": "0x000e",
     "en": "Change Position{ED}",
-    "fr": ""
+    "fr": "Changer de position{ED}"
   },
   {
     "id": "0x000f",
     "en": "View which item?{ED}",
-    "fr": ""
+    "fr": "Examiner quel objet?{ED}"
   },
   {
     "id": "0x0010",
     "en": "View whose magic?{ED}",
-    "fr": ""
+    "fr": "Voir la magie de qui?{ED}"
   },
   {
     "id": "0x0011",
     "en": "Use which spell?{ED}",
-    "fr": ""
+    "fr": "Utiliser quel sort?{ED}"
   },
   {
     "id": "0x0012",
     "en": "Use it on whom?{ED}",
-    "fr": ""
+    "fr": "L'utiliser sur qui?{ED}"
   },
   {
     "id": "0x0013",
     "en": "Reorder whose spells?{ED}",
-    "fr": ""
+    "fr": "Réordonner les sorts de qui?{ED}"
   },
   {
     "id": "0x0014",
     "en": "Use which item?{ED}",
-    "fr": ""
+    "fr": "Utiliser quel objet?{ED}"
   },
   {
     "id": "0x0015",
     "en": "Rearrange{ED}",
-    "fr": ""
+    "fr": "Réorganiser{ED}"
   },
   {
     "id": "0x0016",
     "en": "Sort{ED}",
-    "fr": ""
+    "fr": "Trier{ED}"
   },
   {
     "id": "0x0017",
     "en": "Finish Sorting{ED}",
-    "fr": ""
+    "fr": "Terminer le tri{ED}"
   },
   {
     "id": "0x0018",
     "en": "Discard which item?{ED}",
-    "fr": ""
+    "fr": "Jeter quel objet?{ED}"
   },
   {
     "id": "0x0019",
     "en": "Discard {IT}?{ED}",
-    "fr": ""
+    "fr": "Jeter {IT}?{ED}"
   },
   {
     "id": "0x001a",
     "en": "Whose equipment?{ED}",
-    "fr": ""
+    "fr": "L'équipement de qui?{ED}"
   },
   {
     "id": "0x001b",
     "en": "View whose status?{ED}",
-    "fr": ""
+    "fr": "Voir le statut de qui?{ED}"
   },
   {
     "id": "0x001c",
     "en": "Wait a moment!{WT}{ED}",
-    "fr": ""
+    "fr": "Un instant!{WT}{ED}"
   },
   {
     "id": "0x001d",
     "en": "{MG}{CR}reluctantly departed.{WT}{ED}",
-    "fr": ""
+    "fr": "{MG}{CR}s'en va à contrecoeur.{WT}{ED}"
   },
   {
     "id": "0x001e",
     "en": "Is this all right?{ED}",
-    "fr": ""
+    "fr": "Est-ce correct?{ED}"
   },
   {
     "id": "0x001f",
     "en": "Transfer where?{ED}",
-    "fr": ""
+    "fr": "Transférer où?{ED}"
   },
   {
     "id": "0x0020",
     "en": "Transfer in progress!{ED}",
-    "fr": ""
+    "fr": "Transfert en cours!{ED}"
   },
   {
     "id": "0x0021",
     "en": "Your inventory is full.{WT}{ED}",
-    "fr": ""
+    "fr": "Votre inventaire est plein.{WT}{ED}"
   },
   {
     "id": "0x0022",
     "en": "You have no items.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous n'avez aucun objet.{WT}{ED}"
   },
   {
     "id": "0x0023",
     "en": "You have no equippable items.{WT}{ED}",
-    "fr": ""
+    "fr": "Aucun objet équipable.{WT}{ED}"
   },
   {
     "id": "0x0024",
     "en": "Nothing is equipped.{WT}{ED}",
-    "fr": ""
+    "fr": "Rien n'est équipé.{WT}{ED}"
   },
   {
     "id": "0x0025",
     "en": "Voice: Select a floor.{ED}",
-    "fr": ""
+    "fr": "Voix: Choisissez un étage.{ED}"
   },
   {
     "id": "0x0026",
     "en": "Go upstairs? {0xc095,True}{ED}",
-    "fr": ""
+    "fr": "Monter à l'étage? {0xc095,True}{ED}"
   },
   {
     "id": "0x0027",
     "en": "Go downstairs? {0xc095,True}{ED}",
-    "fr": ""
+    "fr": "Descendre d'un étage? {0xc095,True}{ED}"
   },
   {
     "id": "0x0028",
     "en": "No usable spells available.{WT}{ED}",
-    "fr": ""
+    "fr": "Aucun sort utilisable.{WT}{ED}"
   },
   {
     "id": "0x0029",
     "en": ">The door is locked. Open it?{ED}",
-    "fr": ""
+    "fr": ">Porte verrouillée. L'ouvrir?{ED}"
   },
   {
     "id": "0x002a",
     "en": "{AG} used {IT}{CR}and opened the door.{WT}{ED}",
-    "fr": ""
+    "fr": "{AG} utilise {IT}{CR}et ouvre la porte.{WT}{ED}"
   },
   {
     "id": "0x002b",
     "en": "You lack the right key.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous n'avez pas la bonne clé.{WT}{ED}"
   },
   {
     "id": "0x002c",
     "en": "ID card check.{CR}Insert an ID card?{ED}",
-    "fr": ""
+    "fr": "Contrôle de carte ID.{CR}Insérer une carte ID?{ED}"
   },
   {
     "id": "0x002d",
     "en": "ID card confirmed.{CR}Opening door.{WT}{ED}",
-    "fr": ""
+    "fr": "Carte ID confirmée.{CR}Ouverture de la porte.{WT}{ED}"
   },
   {
     "id": "0x002e",
     "en": "You lack the right ID card.{WT}{ED}",
-    "fr": ""
+    "fr": "Il vous faut la bonne carte ID.{WT}{ED}"
   },
   {
     "id": "0x002f",
     "en": "Beginning entry scan.{ED}",
-    "fr": ""
+    "fr": "Début du scan d'accès.{ED}"
   },
   {
     "id": "0x0030",
     "en": "Entry scan complete.{CR}Opening door.{WT}{ED}",
-    "fr": ""
+    "fr": "Scan d'accès terminé.{CR}Ouverture de la porte.{WT}{ED}"
   },
   {
     "id": "0x0031",
     "en": "Entry scan complete.{CR}Your {PP} is too low.{CR}The door will not open.{WT}{ED}",
-    "fr": ""
+    "fr": "Scan d'accès terminé.{CR}Votre {PP} est trop faible.{CR}La porte reste fermée.{WT}{ED}"
   },
   {
     "id": "0x0032",
     "en": "Entry scan complete.{CR}Alignment mismatch detected.{CR}The door will not open.{WT}{ED}",
-    "fr": ""
+    "fr": "Scan d'accès terminé.{CR}Alignement non conforme.{CR}La porte reste fermée.{WT}{ED}"
   },
   {
     "id": "0x0033",
     "en": "Voice: Enter the ID code.{WT}{ED}",
-    "fr": ""
+    "fr": "Voix: Entrez le code ID.{WT}{ED}"
   },
   {
     "id": "0x0034",
     "en": "ID code confirmed.{CR}Opening door.{WT}{ED}",
-    "fr": ""
+    "fr": "Code ID confirmé.{CR}Ouverture de la porte.{WT}{ED}"
   },
   {
     "id": "0x0035",
     "en": "Incorrect ID code.{WT}{ED}",
-    "fr": ""
+    "fr": "Code ID incorrect.{WT}{ED}"
   },
   {
     "id": "0x0036",
     "en": "Try entering it again?{ED}",
-    "fr": ""
+    "fr": "Réessayer?{ED}"
   },
   {
     "id": "0x0037",
     "en": "Strength{ED}",
-    "fr": ""
+    "fr": "Force{ED}"
   },
   {
     "id": "0x0038",
     "en": "Intelligence{ED}",
-    "fr": ""
+    "fr": "Intelligence{ED}"
   },
   {
     "id": "0x0039",
     "en": "Magic{ED}",
-    "fr": ""
+    "fr": "Magie{ED}"
   },
   {
     "id": "0x003a",
     "en": "Vitality{ED}",
-    "fr": ""
+    "fr": "Vitalité{ED}"
   },
   {
     "id": "0x003b",
     "en": "Agility{ED}",
-    "fr": ""
+    "fr": "Agilité{ED}"
   },
   {
     "id": "0x003c",
     "en": "Luck{ED}",
-    "fr": ""
+    "fr": "Chance{ED}"
   },
   {
     "id": "0x003d",
     "en": "No more attempts remain.{CR}The door will not open.{WT}{ED}",
-    "fr": ""
+    "fr": "Plus aucun essai possible.{CR}La porte reste fermée.{WT}{ED}"
   },
   {
     "id": "0x003e",
     "en": "Your party is full.{CR}Dismiss someone?{ED}",
-    "fr": ""
+    "fr": "Votre équipe est complète.{CR}Congédier quelqu'un?{ED}"
   },
   {
     "id": "0x003f",
     "en": "You gave up on recruiting it.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous abandonnez le recrutement.{WT}{ED}"
   },
   {
     "id": "0x0040",
     "en": "It does not understand you.{WT}{ED}",
-    "fr": ""
+    "fr": "Il ne vous comprend pas.{WT}{ED}"
   },
   {
     "id": "0x0041",
     "en": "This is getting nowhere!{WT}{ED}",
-    "fr": ""
+    "fr": "Ça ne mène nulle part!{WT}{ED}"
   },
   {
     "id": "0x0042",
     "en": "It suddenly attacked!{WT}{ED}",
-    "fr": ""
+    "fr": "Il attaque soudain!{WT}{ED}"
   },
   {
     "id": "0x0043",
     "en": "{SY} is in no condition to talk.{WT}{ED}",
-    "fr": ""
+    "fr": "{SY} n'est pas en état de parler.{WT}{ED}"
   },
   {
     "id": "0x0044",
     "en": "What will you do?{ED}",
-    "fr": ""
+    "fr": "Que faire?{ED}"
   },
   {
     "id": "0x0045",
     "en": "Save to which file?{ED}",
-    "fr": ""
+    "fr": "Sauvegarder dans quel fichier?{ED}"
   },
   {
     "id": "0x0046",
     "en": "Load which file?{ED}",
-    "fr": ""
+    "fr": "Charger quel fichier?{ED}"
   },
   {
     "id": "0x0047",
     "en": "Overwrite the old data?{ED}",
-    "fr": ""
+    "fr": "Écraser l'ancienne sauvegarde?{ED}"
   },
   {
     "id": "0x0048",
     "en": "Overwrite the old data?{ED}",
-    "fr": ""
+    "fr": "Écraser l'ancienne sauvegarde?{ED}"
   },
   {
     "id": "0x0049",
     "en": "COMP activated{ED}",
-    "fr": ""
+    "fr": "COMP activé{ED}"
   },
   {
     "id": "0x004a",
     "en": "COMP activated{ED}",
-    "fr": ""
+    "fr": "COMP activé{ED}"
   },
   {
     "id": "0x004b",
     "en": "COMP activated{ED}",
-    "fr": ""
+    "fr": "COMP activé{ED}"
   },
   {
     "id": "0x004c",
@@ -388,7 +388,7 @@
   {
     "id": "0x004d",
     "en": "{PG}Thank you for using TMTS.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Merci d'utiliser le TMTS.{WT}{ED}"
   },
   {
     "id": "0x004e",
@@ -398,7 +398,7 @@
   {
     "id": "0x004f",
     "en": "{PG}Thank you for using TMTS.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Merci d'utiliser le TMTS.{WT}{ED}"
   },
   {
     "id": "0x0050",
@@ -408,243 +408,243 @@
   {
     "id": "0x0051",
     "en": "{PG}............{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}............{WT}{ED}"
   },
   {
     "id": "0x0052",
     "en": "{PG}Message request error.{WT}Check the request number.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Erreur de requête de message.{WT}Vérifiez le numéro de requête.{WT}{ED}"
   },
   {
     "id": "0x0053",
     "en": "Choose the first demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le premier démon.{ED}"
   },
   {
     "id": "0x0054",
     "en": "Choose the second demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le deuxième démon.{ED}"
   },
   {
     "id": "0x0055",
     "en": "Now choose the third demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le troisième démon.{ED}"
   },
   {
     "id": "0x0056",
     "en": "Choose the first sword.{ED}",
-    "fr": ""
+    "fr": "Choisissez la première épée.{ED}"
   },
   {
     "id": "0x0057",
     "en": "Now choose the second sword.{ED}",
-    "fr": ""
+    "fr": "Choisissez la deuxième épée.{ED}"
   },
   {
     "id": "0x0058",
     "en": "Fuse it with which demon?{ED}",
-    "fr": ""
+    "fr": "Fusionner avec quel démon?{ED}"
   },
   {
     "id": "0x0059",
     "en": "Proceed with fusion?{ED}",
-    "fr": ""
+    "fr": "Procéder à la fusion?{ED}"
   },
   {
     "id": "0x005a",
     "en": "Then let the fusion begin.{ED}",
-    "fr": ""
+    "fr": "Alors, que la fusion commence.{ED}"
   },
   {
     "id": "0x005b",
     "en": "A pity...{CR}You lack the skill to command it.{WT}{ED}",
-    "fr": ""
+    "fr": "Dommage...{CR}Vous n'avez pas le niveau requis.{WT}{ED}"
   },
   {
     "id": "0x005c",
     "en": "Its alignment differs from yours.{CR}Fuse anyway?{ED}",
-    "fr": "",
+    "fr": "Son alignement diffère du vôtre.{CR}Fusionner quand même?{ED}",
     "note": "Fusion result versus the player's alignment, not the two ingredients."
   },
   {
     "id": "0x005d",
     "en": "You already have that demon.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous avez déjà ce démon.{WT}{ED}"
   },
   {
     "id": "0x005e",
     "en": "The name's {ZK} {MG}!{WT} Here's to a beautiful friendship!{WT}{ED}",
-    "fr": ""
+    "fr": "Le nom, c'est {ZK} {MG}!{WT} Le début d'une belle amitié!{WT}{ED}"
   },
   {
     "id": "0x005f",
     "en": "I am {ZK} {MG}.{WT} I shall lend you my power!{WT}{ED}",
-    "fr": ""
+    "fr": "Je suis {ZK} {MG}.{WT} Je vous prête ma puissance!{WT}{ED}"
   },
   {
     "id": "0x0060",
     "en": "I'm {ZK} {MG}!{WT} Let's be best friends, okay?{WT}{ED}",
-    "fr": ""
+    "fr": "Moi, c'est {ZK} {MG}!{WT} On va être super potes, hein?{WT}{ED}"
   },
   {
     "id": "0x0061",
     "en": "I-I'm... {ZK}... {MG}.{WT} I-I'll be your ally...{WT}{ED}",
-    "fr": ""
+    "fr": "J-Je suis... {ZK}... {MG}.{WT} J-Je combattrai à tes côtés...{WT}{ED}"
   },
   {
     "id": "0x0062",
     "en": "I am {ZK} {MG}.{WT} I look forward to serving you.{WT}{ED}",
-    "fr": ""
+    "fr": "Je suis {ZK} {MG}.{WT} Je suis à votre service.{WT}{ED}"
   },
   {
     "id": "0x0063",
     "en": "View which one?{ED}{MH} was used.{WT}{ED}",
-    "fr": ""
+    "fr": "Voir lequel?{ED}{MH} est utilisé.{WT}{ED}"
   },
   {
     "id": "0x0064",
     "en": "What!? A fusion accident!{ED}",
-    "fr": ""
+    "fr": "Quoi?! Un accident de fusion!{ED}"
   },
   {
     "id": "0x0065",
     "en": "My apologies... This is not{CR}the demon you were promised.{WT}{ED}",
-    "fr": ""
+    "fr": "Navré... Ce n'est pas le démon{CR}que l'on vous avait promis.{WT}{ED}"
   },
   {
     "id": "0x0066",
     "en": "This is the {IT}.{WT}Take it with you...{WT}{ED}",
-    "fr": ""
+    "fr": "Voici {IT}.{WT}Prenez-en soin...{WT}{ED}"
   },
   {
     "id": "0x0067",
     "en": "Your inventory is full...{WT}{ED}",
-    "fr": ""
+    "fr": "Votre inventaire est plein...{WT}{ED}"
   },
   {
     "id": "0x0068",
     "en": "You lack enough demons.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous n'avez pas assez de démons.{WT}{ED}"
   },
   {
     "id": "0x0069",
     "en": "You lack the swords needed{CR}for this fusion.{WT}{ED}",
-    "fr": ""
+    "fr": "Il vous manque les épées{CR}nécessaires à cette fusion.{WT}{ED}"
   },
   {
     "id": "0x006a",
     "en": "The elevator is not running...{WT}{ED}",
-    "fr": ""
+    "fr": "L'ascenseur ne fonctionne pas...{WT}{ED}"
   },
   {
     "id": "0x006b",
     "en": "Someone is already drunk...{WT}I can't serve another drink.{WT}{ED}",
-    "fr": ""
+    "fr": "Quelqu'un est déjà ivre...{WT}Je ne peux plus servir à boire.{WT}{ED}"
   },
   {
     "id": "0x006c",
     "en": "Analyze which demon?{ED}",
-    "fr": ""
+    "fr": "Analyser quel démon?{ED}"
   },
   {
     "id": "0x006d",
     "en": "No demon can be analyzed.{WT}{ED}",
-    "fr": ""
+    "fr": "Aucun démon à analyser.{WT}{ED}"
   },
   {
     "id": "0x006e",
     "en": "No magic available.{WT}{ED}",
-    "fr": ""
+    "fr": "Aucune magie disponible.{WT}{ED}"
   },
   {
     "id": "0x006f",
     "en": "{AL} learned {MH}.{WT}{ED}",
-    "fr": ""
+    "fr": "{AL} apprend {MH}.{WT}{ED}"
   },
   {
     "id": "0x0070",
     "en": "It cannot be used here.{WT}{ED}",
-    "fr": ""
+    "fr": "Impossible de l'utiliser ici.{WT}{ED}"
   },
   {
     "id": "0x0071",
     "en": "No destination is registered.{WT}{ED}",
-    "fr": ""
+    "fr": "Aucune destination enregistrée.{WT}{ED}"
   },
   {
     "id": "0x0072",
     "en": "Activate Auto-Recover?{ED}",
-    "fr": ""
+    "fr": "Activer la récupération auto?{ED}"
   },
   {
     "id": "0x0073",
     "en": "That is not its true name.{WT}{ED}",
-    "fr": ""
+    "fr": "Ce n'est pas son vrai nom.{WT}{ED}"
   },
   {
     "id": "0x0074",
     "en": "This demon cannot be dismissed.{WT}{ED}",
-    "fr": ""
+    "fr": "Ce démon ne peut être congédié.{WT}{ED}"
   },
   {
     "id": "0x0075",
     "en": "Your inventory is full.{CR}It cannot be dismissed.{WT}{ED}",
-    "fr": ""
+    "fr": "Votre inventaire est plein.{CR}Impossible de le congédier.{WT}{ED}"
   },
   {
     "id": "0x0076",
     "en": "Not enough Macca.{WT}{ED}",
-    "fr": ""
+    "fr": "Pas assez de Macca.{WT}{ED}"
   },
   {
     "id": "0x0077",
     "en": "Discarded {MG}'s{CR}remains.{WT}{ED}",
-    "fr": ""
+    "fr": "Les restes de {MG}{CR}ont été jetés.{WT}{ED}"
   },
   {
     "id": "0x0078",
     "en": "It is cursed and cannot{CR}be removed.{WT}{ED}",
-    "fr": ""
+    "fr": "Objet maudit: impossible{CR}de le retirer.{WT}{ED}"
   },
   {
     "id": "0x0079",
     "en": "Nothing special{ED}",
-    "fr": ""
+    "fr": "Rien de spécial{ED}"
   },
   {
     "id": "0x007a",
     "en": "Not enough MP.{WT}{ED}",
-    "fr": ""
+    "fr": "Pas assez de MP.{WT}{ED}"
   },
   {
     "id": "0x007b",
     "en": "They cannot use magic now.{WT}{ED}",
-    "fr": ""
+    "fr": "Magie impossible pour l'instant.{WT}{ED}"
   },
   {
     "id": "0x007c",
     "en": "Discard {IT}?{ED}",
-    "fr": ""
+    "fr": "Jeter {IT}?{ED}"
   },
   {
     "id": "0x007d",
     "en": "DEAD{ED}",
-    "fr": ""
+    "fr": "MORT{ED}"
   },
   {
     "id": "0x007e",
     "en": "UNDEAD{ED}",
-    "fr": ""
+    "fr": "ZOMBIE{ED}"
   },
   {
     "id": "0x007f",
     "en": "STONE{ED}",
-    "fr": ""
+    "fr": "PIERRE{ED}"
   },
   {
     "id": "0x0080",
     "en": "PALYZE{ED}",
-    "fr": ""
+    "fr": "PARALY{ED}"
   },
   {
     "id": "0x0081",
@@ -659,629 +659,629 @@
   {
     "id": "0x0083",
     "en": "CHARM{ED}",
-    "fr": ""
+    "fr": "CHARME{ED}"
   },
   {
     "id": "0x0084",
     "en": "FREEZE{ED}",
-    "fr": ""
+    "fr": "GEL{ED}"
   },
   {
     "id": "0x0085",
     "en": "SHOCK{ED}",
-    "fr": ""
+    "fr": "CHOC{ED}"
   },
   {
     "id": "0x0086",
     "en": "SLEEP{ED}",
-    "fr": ""
+    "fr": "SOMMEIL{ED}"
   },
   {
     "id": "0x0087",
     "en": "BIND{ED}",
-    "fr": ""
+    "fr": "ENTRAVE{ED}"
   },
   {
     "id": "0x0088",
     "en": "PANIC{ED}",
-    "fr": ""
+    "fr": "PANIQUE{ED}"
   },
   {
     "id": "0x0089",
     "en": "HAPPY{ED}",
-    "fr": ""
+    "fr": "JOIE{ED}"
   },
   {
     "id": "0x008a",
     "en": "POISON{ED}",
-    "fr": ""
+    "fr": "POISON{ED}"
   },
   {
     "id": "0x008b",
     "en": "CLOSE{ED}",
-    "fr": ""
+    "fr": "SCELLÉ{ED}"
   },
   {
     "id": "0x008c",
     "en": "CURSE{ED}",
-    "fr": ""
+    "fr": "MAUDIT{ED}"
   },
   {
     "id": "0x008d",
     "en": "Weapon Shop: Welcome.{WT}{ED}",
-    "fr": "",
+    "fr": "Armes: Bienvenue.{WT}{ED}",
     "note": "---- Bank 0: shops and item descriptions ----"
   },
   {
     "id": "0x008e",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous acheter?{ED}"
   },
   {
     "id": "0x008f",
     "en": "Nothing here I can buy.{WT}Bring me something worthwhile.{WT}{ED}",
-    "fr": ""
+    "fr": "Rien que je puisse acheter.{WT}Revenez avec mieux que ça.{WT}{ED}"
   },
   {
     "id": "0x0090",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous vendre?{ED}"
   },
   {
     "id": "0x0091",
     "en": ">Which item do you want to hear about?{ED}",
-    "fr": ""
+    "fr": ">Sur quel objet se renseigner?{ED}"
   },
   {
     "id": "0x0092",
     "en": "This is... {SE}{WT}{ED}",
-    "fr": ""
+    "fr": "Il s'agit de... {SE}{WT}{ED}"
   },
   {
     "id": "0x0093",
     "en": "Much obliged. Come again.{ED}",
-    "fr": ""
+    "fr": "Bien obligé. Revenez nous voir.{ED}"
   },
   {
     "id": "0x0094",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x0095",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x0096",
     "en": "Armor Shop: Well, hello there!{WT}{ED}",
-    "fr": ""
+    "fr": "Armures: Eh bien, bonjour!{WT}{ED}"
   },
   {
     "id": "0x0097",
     "en": "What can I get you, dear?{ED}",
-    "fr": ""
+    "fr": "Je vous sers quoi, mon chou?{ED}"
   },
   {
     "id": "0x0098",
     "en": "You haven't got a thing I want.{WT}Bring me something nice, okay?{WT}{ED}",
-    "fr": ""
+    "fr": "Rien ne m'intéresse, là.{WT}Apportez-moi du joli, d'accord?{WT}{ED}"
   },
   {
     "id": "0x0099",
     "en": "What are you selling, dear?{ED}",
-    "fr": ""
+    "fr": "Vous vendez quoi, mon chou?{ED}"
   },
   {
     "id": "0x009a",
     "en": "Thanks, hon. Come back soon!{ED}",
-    "fr": ""
+    "fr": "Merci, chéri. Revenez vite!{ED}"
   },
   {
     "id": "0x009b",
     "en": "Will that be all, dear?{ED}",
-    "fr": ""
+    "fr": "Ce sera tout, mon chou?{ED}"
   },
   {
     "id": "0x009c",
     "en": "Is that all you're selling?{ED}",
-    "fr": ""
+    "fr": "C'est tout ce que vous vendez?{ED}"
   },
   {
     "id": "0x009d",
     "en": "Junk Shop: You buying or not?{WT}{ED}",
-    "fr": ""
+    "fr": "Brocante: Vous achetez ou pas?{WT}{ED}"
   },
   {
     "id": "0x009e",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Vous achetez quoi?{ED}"
   },
   {
     "id": "0x009f",
     "en": "This junk's worthless to me.{WT}Come back with something good.{WT}{ED}",
-    "fr": ""
+    "fr": "Votre camelote vaut rien.{WT}Revenez avec du bon matos.{WT}{ED}"
   },
   {
     "id": "0x00a0",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Vous vendez quoi?{ED}"
   },
   {
     "id": "0x00a1",
     "en": "Pleasure doing business.{ED}",
-    "fr": ""
+    "fr": "Un plaisir de faire affaire.{ED}"
   },
   {
     "id": "0x00a2",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00a3",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00a4",
     "en": "Researcher: Please have a look{CR}at our latest developments.{WT}{ED}",
-    "fr": ""
+    "fr": "Chercheur: Découvrez nos{CR}dernières innovations.{WT}{ED}"
   },
   {
     "id": "0x00a5",
     "en": "What may we provide?{ED}",
-    "fr": ""
+    "fr": "Que pouvons-nous vous fournir?{ED}"
   },
   {
     "id": "0x00a6",
     "en": "You have nothing we can use.{WT}Please return with new samples.{WT}{ED}",
-    "fr": ""
+    "fr": "Rien d'utile pour nous.{WT}Revenez avec des échantillons.{WT}{ED}"
   },
   {
     "id": "0x00a7",
     "en": "What can you offer us?{ED}",
-    "fr": ""
+    "fr": "Que pouvez-vous nous offrir?{ED}"
   },
   {
     "id": "0x00a8",
     "en": "Thank you for your cooperation.{ED}",
-    "fr": ""
+    "fr": "Merci de votre coopération.{ED}"
   },
   {
     "id": "0x00a9",
     "en": "Will that be all?{ED}",
-    "fr": ""
+    "fr": "Ce sera tout?{ED}"
   },
   {
     "id": "0x00aa",
     "en": "Is that all you wish to sell?{ED}",
-    "fr": ""
+    "fr": "C'est tout ce que vous vendez?{ED}"
   },
   {
     "id": "0x00ab",
     "en": "Armor Shop: Welcome.{WT}{ED}",
-    "fr": ""
+    "fr": "Armures: Bienvenue.{WT}{ED}"
   },
   {
     "id": "0x00ac",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous acheter?{ED}"
   },
   {
     "id": "0x00ad",
     "en": "Nothing there interests me.{WT}Come back when you have more.{WT}{ED}",
-    "fr": ""
+    "fr": "Rien ne m'intéresse là-dedans.{WT}Revenez quand vous aurez mieux.{WT}{ED}"
   },
   {
     "id": "0x00ae",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous vendre?{ED}"
   },
   {
     "id": "0x00af",
     "en": "Thank you kindly.{ED}",
-    "fr": ""
+    "fr": "Merci bien.{ED}"
   },
   {
     "id": "0x00b0",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00b1",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00b2",
     "en": "Hanoun: O-Oh! Welcome.{WT}{ED}",
-    "fr": ""
+    "fr": "Hanoun: O-Oh! Bienvenue.{WT}{ED}"
   },
   {
     "id": "0x00b3",
     "en": "W-What would you like?{ED}",
-    "fr": ""
+    "fr": "Qu-Que désirez-vous?{ED}"
   },
   {
     "id": "0x00b4",
     "en": "I-I can't buy any of those.{WT}Please bring something else.{WT}{ED}",
-    "fr": ""
+    "fr": "J-Je ne peux rien acheter de ça.{WT}Ap-Apportez autre chose...{WT}{ED}"
   },
   {
     "id": "0x00b5",
     "en": "Wh-What are you selling?{ED}",
-    "fr": ""
+    "fr": "Qu-Qu'avez-vous à vendre?{ED}"
   },
   {
     "id": "0x00b6",
     "en": "Th-Thank you very much.{ED}",
-    "fr": ""
+    "fr": "M-Merci beaucoup.{ED}"
   },
   {
     "id": "0x00b7",
     "en": "I-Is that everything?{ED}",
-    "fr": ""
+    "fr": "C-C'est tout?{ED}"
   },
   {
     "id": "0x00b8",
     "en": "A-Are you done selling?{ED}",
-    "fr": ""
+    "fr": "V-Vous avez fini de vendre?{ED}"
   },
   {
     "id": "0x00b9",
     "en": "Weapon Shop: Only the finest{CR}weapons grace these shelves.{WT}{ED}",
-    "fr": ""
+    "fr": "Armes: Seules les meilleures{CR}armes ornent ces étagères.{WT}{ED}"
   },
   {
     "id": "0x00ba",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous acheter?{ED}"
   },
   {
     "id": "0x00bb",
     "en": "There is nothing I can purchase.{WT}Please bring something suitable.{WT}{ED}",
-    "fr": ""
+    "fr": "Je ne peux rien vous acheter.{WT}Revenez avec autre chose.{WT}{ED}"
   },
   {
     "id": "0x00bc",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous vendre?{ED}"
   },
   {
     "id": "0x00bd",
     "en": "Thank you. Do come again.{ED}",
-    "fr": ""
+    "fr": "Merci. Revenez nous voir.{ED}"
   },
   {
     "id": "0x00be",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00bf",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00c0",
     "en": "Armor Shop: Our armor stops{CR}any attack, it does!{WT}{ED}",
-    "fr": ""
+    "fr": "Armures: Nos armures arrêtent{CR}toutes les attaques, c'est sûr!{WT}{ED}"
   },
   {
     "id": "0x00c1",
     "en": "Which one are you buying?{ED}",
-    "fr": ""
+    "fr": "Laquelle vous achetez?{ED}"
   },
   {
     "id": "0x00c2",
     "en": "Nothing here I can buy, there isn't.{WT}Bring me something else.{WT}{ED}",
-    "fr": ""
+    "fr": "Je n'achète rien, rien du tout.{WT}Apportez-moi autre chose.{WT}{ED}"
   },
   {
     "id": "0x00c3",
     "en": "What will you be selling?{ED}",
-    "fr": ""
+    "fr": "Vous vendez quoi, alors?{ED}"
   },
   {
     "id": "0x00c4",
     "en": "Thank you very much, I say!{ED}",
-    "fr": ""
+    "fr": "Merci beaucoup, c'est sûr!{ED}"
   },
   {
     "id": "0x00c5",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00c6",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00c7",
     "en": "Weapon Shop: Got some good stuff!{WT}{ED}",
-    "fr": ""
+    "fr": "Armes: J'ai du bon matos!{WT}{ED}"
   },
   {
     "id": "0x00c8",
     "en": "They're all good. Pick one.{ED}",
-    "fr": ""
+    "fr": "Tout est bon. Choisissez.{ED}"
   },
   {
     "id": "0x00c9",
     "en": "Nothing there I can use.{WT}Bring me something good, yeah?{WT}{ED}",
-    "fr": ""
+    "fr": "Rien qui me serve, là-dedans.{WT}Ramenez du bon, hein?{WT}{ED}"
   },
   {
     "id": "0x00ca",
     "en": "Got anything to sell me?{ED}",
-    "fr": ""
+    "fr": "Vous avez un truc à me vendre?{ED}"
   },
   {
     "id": "0x00cb",
     "en": "Thanks. See you around.{ED}",
-    "fr": ""
+    "fr": "Merci. À plus.{ED}"
   },
   {
     "id": "0x00cc",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00cd",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00ce",
     "en": "Armor Shop: Need something tough?{WT}{ED}Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Armures: Besoin de solide?{WT}{ED}Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00cf",
     "en": "Junk Shop: Step right up!{WT}{ED}",
-    "fr": ""
+    "fr": "Brocante: Approchez, approchez!{WT}{ED}"
   },
   {
     "id": "0x00d0",
     "en": "Now, what'll it be?{ED}",
-    "fr": ""
+    "fr": "Alors, ce sera quoi?{ED}"
   },
   {
     "id": "0x00d1",
     "en": "I can't buy anything you have.{WT}Sorry about that.{WT}{ED}",
-    "fr": ""
+    "fr": "Je ne peux rien vous acheter.{WT}Désolé.{WT}{ED}"
   },
   {
     "id": "0x00d2",
     "en": "What are you offering?{ED}",
-    "fr": ""
+    "fr": "Vous proposez quoi?{ED}"
   },
   {
     "id": "0x00d3",
     "en": "Much obliged!{ED}",
-    "fr": ""
+    "fr": "Bien obligé!{ED}"
   },
   {
     "id": "0x00d4",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00d5",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00d6",
     "en": "These wares bear the blessing{CR}of Almighty God.{WT}{ED}",
-    "fr": ""
+    "fr": "Ces articles sont bénis{CR}par Dieu Tout-Puissant.{WT}{ED}"
   },
   {
     "id": "0x00d7",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous acheter?{ED}"
   },
   {
     "id": "0x00d8",
     "en": "I cannot buy from you.{WT}{ED}",
-    "fr": ""
+    "fr": "Je ne puis rien vous acheter.{WT}{ED}"
   },
   {
     "id": "0x00d9",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous vendre?{ED}"
   },
   {
     "id": "0x00da",
     "en": "Return whenever you have need.{ED}",
-    "fr": ""
+    "fr": "Revenez en cas de besoin.{ED}"
   },
   {
     "id": "0x00db",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00dc",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00dd",
     "en": "These relics brim with the power{CR}of Chaos.{WT}Which do you desire?{ED}",
-    "fr": "",
+    "fr": "Ces reliques débordent de la{CR}puissance du Chaos.{WT}Lesquelles désirez-vous?{ED}",
     "note": "Original 0x0dd has no [ED]: it flows into 0x0de's stream. Flow-through only survives the rebuild when the stream's nibble count happens to be even, so author it self-contained instead (0x0de still works alone)."
   },
   {
     "id": "0x00de",
     "en": "What will you buy?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous acheter?{ED}"
   },
   {
     "id": "0x00df",
     "en": "You have nothing I can buy.{WT}{ED}",
-    "fr": ""
+    "fr": "Rien à vous acheter.{WT}{ED}"
   },
   {
     "id": "0x00e0",
     "en": "What will you sell?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous vendre?{ED}"
   },
   {
     "id": "0x00e1",
     "en": "Return whenever desire takes you.{ED}",
-    "fr": ""
+    "fr": "Revenez quand l'envie viendra.{ED}"
   },
   {
     "id": "0x00e2",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00e3",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00e4",
     "en": "I've got all sorts of goodies!{WT}{ED}",
-    "fr": ""
+    "fr": "J'ai plein de trucs sympas!{WT}{ED}"
   },
   {
     "id": "0x00e5",
     "en": "What catches your eye?{ED}",
-    "fr": ""
+    "fr": "Qu'est-ce qui vous tente?{ED}"
   },
   {
     "id": "0x00e6",
     "en": "Nothing there I want, sorry!{WT}{ED}",
-    "fr": ""
+    "fr": "Rien qui me plaise, désolé!{WT}{ED}"
   },
   {
     "id": "0x00e7",
     "en": "What're you selling me?{ED}",
-    "fr": ""
+    "fr": "Vous me vendez quoi?{ED}"
   },
   {
     "id": "0x00e8",
     "en": "I'll be here whenever you need me!{WT}{ED}",
-    "fr": ""
+    "fr": "Je suis là quand vous voulez!{WT}{ED}"
   },
   {
     "id": "0x00e9",
     "en": "Anything else to buy?{ED}",
-    "fr": ""
+    "fr": "Autre chose à acheter?{ED}"
   },
   {
     "id": "0x00ea",
     "en": "Anything else to sell?{ED}",
-    "fr": ""
+    "fr": "Autre chose à vendre?{ED}"
   },
   {
     "id": "0x00eb",
     "en": "We sell items, too!{WT}{ED}",
-    "fr": ""
+    "fr": "On vend aussi des objets!{WT}{ED}"
   },
   {
     "id": "0x00ec",
     "en": "What would you like?{ED}",
-    "fr": ""
+    "fr": "Que désirez-vous?{ED}"
   },
   {
     "id": "0x00ed",
     "en": "Will that be all?{ED}",
-    "fr": ""
+    "fr": "Ce sera tout?{ED}"
   },
   {
     "id": "0x00ee",
     "en": "There's nothing here we can buy.{ED}",
-    "fr": ""
+    "fr": "Rien que nous puissions acheter.{ED}"
   },
   {
     "id": "0x00ef",
     "en": "Don't forget to stock up on items!{WT}{ED}",
-    "fr": ""
+    "fr": "Faites le plein d'objets!{WT}{ED}"
   },
   {
     "id": "0x00f0",
     "en": "What are you selling?{ED}",
-    "fr": ""
+    "fr": "Vous vendez quoi?{ED}"
   },
   {
     "id": "0x00f1",
     "en": "Is that everything?{ED}",
-    "fr": ""
+    "fr": "C'est tout?{ED}"
   },
   {
     "id": "0x00f2",
     "en": "Bartender: Welcome.{WT}{ED}",
-    "fr": "",
+    "fr": "Barman: Bienvenue.{WT}{ED}",
     "note": "---- Bank 0: early Valhalla bar / shared item labels ----"
   },
   {
     "id": "0x00f3",
     "en": "What can I do for you?{ED}",
-    "fr": ""
+    "fr": "Que puis-je pour vous?{ED}"
   },
   {
     "id": "0x00f4",
     "en": "What will you order?{ED}",
-    "fr": ""
+    "fr": "Qu'est-ce que je vous sers?{ED}"
   },
   {
     "id": "0x00f5",
     "en": ">There are no other customers.{WT}{ED}",
-    "fr": ""
+    "fr": ">Il n'y a aucun autre client.{WT}{ED}"
   },
   {
     "id": "0x00f6",
     "en": ">Talk to whom?{ED}",
-    "fr": ""
+    "fr": ">Parler à qui?{ED}"
   },
   {
     "id": "0x00f7",
     "en": "Thank you.{WT}{ED}",
-    "fr": ""
+    "fr": "Merci.{WT}{ED}"
   },
   {
     "id": "0x00f8",
     "en": "Dapper Man: They say someone{CR}spotted a man in a wheelchair{CR}during a Virtual Battle.{WT}{ED}",
-    "fr": ""
+    "fr": "Homme chic: Il paraît qu'on a{CR}vu un homme en fauteuil roulant{CR}pendant un Combat virtuel.{WT}{ED}"
   },
   {
     "id": "0x00f9",
     "en": "Old Man: You're {SY}, right?{CR}Should you be wasting time here?{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: Tu es {SY}, non?{CR}Tu n'as pas mieux à faire?{WT}{ED}"
   },
   {
     "id": "0x00fa",
     "en": "Madwoman: Give it your all in{CR}the finals, Hawk!{WT}Win, and I'll do anything{CR}you want!{WT}{ED}",
-    "fr": ""
+    "fr": "Folle: Donne tout en finale,{CR}Hawk!{WT}Gagne, et je ferai tout{CR}ce que tu veux!{WT}{ED}"
   },
   {
     "id": "0x00fb",
     "en": "Shady Man: The final is{CR}Red Bear versus {SY}.{CR}My prediction...{WT}{ED}",
-    "fr": ""
+    "fr": "Type louche: La finale, c'est{CR}Ours Rouge contre {SY}.{CR}Mon pronostic...{WT}{ED}"
   },
   {
     "id": "0x00fc",
     "en": "Red Bear will win.{WT}{ED}",
-    "fr": ""
+    "fr": "Ours Rouge va gagner.{WT}{ED}"
   },
   {
     "id": "0x00fd",
     "en": "Either one could win.{WT}{ED}",
-    "fr": ""
+    "fr": "Les deux peuvent gagner.{WT}{ED}"
   },
   {
     "id": "0x00fe",
     "en": "{SY} will win.{WT}{ED}",
-    "fr": ""
+    "fr": "{SY} va gagner.{WT}{ED}"
   },
   {
     "id": "0x00ff",
     "en": "Old Man: That fool Okamoto{CR}spends all his time at the casino.{CR}Killer Tsune's forgotten{CR}what it means to be a fighter.{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: Ce fou d'Okamoto{CR}passe tout son temps au casino.{CR}Tsune le Tueur a oublié ce{CR}qu'être un combattant veut dire.{WT}{ED}"
   }
 ]
