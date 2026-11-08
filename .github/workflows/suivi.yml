@@ -1,0 +1,35 @@
+# Recalcule SUIVI.md, les badges et le bloc d'avancement du README après
+# chaque fusion qui touche aux traductions.
+name: Suivi
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'trad/**'
+      - 'outils/stats.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi
+  cancel-in-progress: false
+
+jobs:
+  suivi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python outils/stats.py
+      - name: Publier
+        run: |
+          if git diff --quiet; then echo "rien à publier"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Suivi : avancement recalculé"
+          git push
