@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "0x4000",
+    "en": "How will you respond?{A14}{A0F}",
+    "fr": "",
+    "note": "---- Bank 4: demon negotiation fragments (A/B tree; translated in batches) ---- Core prompts and negotiation outcomes."
+  },
+  {
+    "id": "0x4001",
+    "en": "But your inventory is full.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4002",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4003",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4004",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4005",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4006",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4007",
+    "en": "{A63} recovered.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4008",
+    "en": "Whom will you imitate?{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4009",
+    "en": "There are no demons to imitate.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400a",
+    "en": "{A6B} and the others obtained{A65}ћ{A69}.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400b",
+    "en": "{A6B} and the others obtained{A65}{A69} MAG.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400c",
+    "en": "{A6B} and the others obtained{A65}{A69} EXP.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400d",
+    "en": "{A63} used{A65}{A62}.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400e",
+    "en": "{A6B} obtained{A65}\"{A62}\".{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x400f",
+    "en": "{A6B} obtained{A65}\"{A62}\".{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4010",
+    "en": "{A6B} was punched by{A65}{A63}!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4011",
+    "en": "{A63} tossed something{A65}your way.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4012",
+    "en": "{A63} planted a kiss on{A65}{A6B}!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4013",
+    "en": "{A6B} had{A65}{A69} HP drained!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4014",
+    "en": "{A6B} had{A65}{A69} EXP drained!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4015",
+    "en": "{A6B} was captivated by{A65}{A63}.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4016",
+    "en": "{A63} tried to kiss{A65}{A6E}...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4017",
+    "en": "But a vicious elbow strike floored them!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4018",
+    "en": "A crushing drowsiness took hold.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4019",
+    "en": "A crushing drowsiness took hold.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x401a",
+    "en": "A crushing drowsiness took hold.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x401b",
+    "en": "Which gem will you offer?{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x401c",
+    "en": "Dismiss this demon?{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x401d",
+    "en": "Which demon will you dismiss?{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x401e",
+    "en": "This demon cannot be dismissed.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x401f",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": "",
+    "note": "Threats and reactions, grouped by the original demon personality voices."
+  },
+  {
+    "id": "0x4020",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4021",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4022",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4023",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4024",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4025",
+    "en": "Heh heh... Here, a life weighs{A65}less than a wisp of cotton!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4026",
+    "en": "Will these hands be stained{A65}with blood again today?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4027",
+    "en": "The demon festering inside you{A65}drives me into a frenzy!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4028",
+    "en": "Survival of the fittest!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4029",
+    "en": "You make my skin crawl!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402a",
+    "en": "You make my skin crawl!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402b",
+    "en": "Eww! What a total weirdo!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402c",
+    "en": "YOU ARE... AN ODDITY.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402d",
+    "en": "Leave your demons' wounds to me!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402e",
+    "en": "I'll tend to your demons...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x402f",
+    "en": "I'll patch up your demons!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4030",
+    "en": "{A63} WILL HEAL YOUR DEMON.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4031",
+    "en": "Then I'll take you to Hell with me!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4032",
+    "en": "Then you're dying with me!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4033",
+    "en": "Kee-ho! You're goin' to Hell{A65}with meee!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4034",
+    "en": "THEN WE FALL INTO HELL TOGETHER!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4035",
+    "en": "You have no Macca?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4036",
+    "en": "You're outta Macca?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4037",
+    "en": "You're broke!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4038",
+    "en": "NO MACCA?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4039",
+    "en": "What happened to my demon?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403a",
+    "en": "My demon! A-Are you all right?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403b",
+    "en": "Aaaah! My buddy!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403c",
+    "en": "WHAT DID YOU DO TO MY ALLY?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403d",
+    "en": "How naive!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403e",
+    "en": "Tsk, tsk, tsk! Too sweet!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x403f",
+    "en": "Sugar! Sugar!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4040",
+    "en": "A wicked grin...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4041",
+    "en": "What?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4042",
+    "en": "Whaaat?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4043",
+    "en": "Say what?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4044",
+    "en": "Grrr...!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4045",
+    "en": "I won't forgive you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4046",
+    "en": "I won't forgive you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4047",
+    "en": "Now you've done it!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4048",
+    "en": "UNFORGIVABLE!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4049",
+    "en": "Drop dead!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404a",
+    "en": "B-B-Blood!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404b",
+    "en": "Grrr! Now I'm really mad!{A65}I'm sending you straight to Hell!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404c",
+    "en": "DIE!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404d",
+    "en": "Behold my power!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404e",
+    "en": "You ain't seen scary yet!{A67}{A66}I'll teach you true terror!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x404f",
+    "en": "I'll show ya!{A67}{A66}I've got a million horsepower!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4050",
+    "en": "BEHOLD MY POWER!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4051",
+    "en": "Very well.{A0F}",
+    "fr": "",
+    "note": "Recruitment, farewells, roster handling, and friendship responses."
+  },
+  {
+    "id": "0x4052",
+    "en": "Fine by me.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4053",
+    "en": "All right!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4054",
+    "en": "{A63} nodded.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4055",
+    "en": "I am {A64} {A63}.{A65}{A67}I trust we'll work well together.{A67}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4056",
+    "en": "I'm {A64} {A63}.{A65}{A67}Well, you'd better take care of me.{A67}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4057",
+    "en": "I'm {A64} {A63}, hee-ho!{A65}{A67}Let's get along, hee-ho!{A67}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4058",
+    "en": "I AM {A64} {A63}.{A65}{A67}LET US GET ALONG.{A67}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4059",
+    "en": "Farewell...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405a",
+    "en": "Later!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405b",
+    "en": "Buh-bye!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405c",
+    "en": "FAREWELL!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405d",
+    "en": "Your demon roster is full.{A65}Will you dismiss one?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405e",
+    "en": "Your demon roster's full...{A65}Gonna ditch one?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x405f",
+    "en": "Too many demons! Will you drop one?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4060",
+    "en": "CANNOT ADD MORE DEMONS.{A65}DISMISS ONE?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4061",
+    "en": "I have no business with you. Farewell!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4062",
+    "en": "I've had enough of this!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4063",
+    "en": "I'm bored. Bye!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4064",
+    "en": "I AM LEAVING!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4065",
+    "en": "Farewell. Stay well...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4066",
+    "en": "Hyahahaha!!{A67}{A66}I won't forget you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4067",
+    "en": "Brother!{A67}{A66}I won't forget you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4068",
+    "en": "I SHALL NOT FORGET YOU...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4069",
+    "en": "You greedy wretch!{A65}I want no part of you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406a",
+    "en": "Oh... Is that so?{A65}You'll get what's coming to you!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406b",
+    "en": "Whoa, what a cheapskate!{A65}Count me out!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406c",
+    "en": "I WANT NOTHING MORE TO DO WITH YOU!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406d",
+    "en": "Do you truly {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406e",
+    "en": "You seriously {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x406f",
+    "en": "You really {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4070",
+    "en": "DO YOU REALLY {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4071",
+    "en": "You utter fool!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4072",
+    "en": "You're beyond saving, idiot!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4073",
+    "en": "You total screwball!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4074",
+    "en": "YOU FOOL!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4075",
+    "en": "I cannot abide this.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4076",
+    "en": "Tch. I'm done with this!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4077",
+    "en": "What a dummy!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4078",
+    "en": "{A63} scoffed.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4079",
+    "en": "Friendship beyond race, eh?{A65}Not bad...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407a",
+    "en": "Tch. Forbidden love, huh?{A65}Well, I can live with that!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407b",
+    "en": "Woo-hoo!{A65}You're my bestest buddy!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407c",
+    "en": "HENCEFORTH,{A65}YOU SHALL BE KNOWN AS {A64}'S FRIEND, {A6B}.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407d",
+    "en": "Take good care of my ally.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407e",
+    "en": "Take good care of my ally.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x407f",
+    "en": "Take care of my buddy!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4080",
+    "en": "TAKE CARE OF MY ALLY...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4081",
+    "en": "Take this.{A0F}{A0F}",
+    "fr": "",
+    "note": "Gifts, demands, and requests made during negotiation."
+  },
+  {
+    "id": "0x4082",
+    "en": "Here, this is yours!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4083",
+    "en": "Here ya go!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4084",
+    "en": "TAKE THIS.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4085",
+    "en": "I'll give you something valuable. Spare me!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4086",
+    "en": "Take this{A65}and leave me alone!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4087",
+    "en": "Waaah... Here!{A65}Now forgive me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4088",
+    "en": "GRRR...{A65}TAKE THIS AND SPARE ME.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4089",
+    "en": "Here, maggot!{A65}Take it!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408a",
+    "en": "Hyahaha! You look pathetic!{A65}Here, take this!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408b",
+    "en": "Here, here! Take it! There!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408c",
+    "en": "HM. PITIFUL...{A65}I SHALL GIVE YOU THIS.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408d",
+    "en": "{A69} Macca should suffice, yes?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408e",
+    "en": "Will you hand over {A69} Macca?{A65}I won't hurt you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x408f",
+    "en": "Could I have {A69} Macca,{A65}pretty please?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4090",
+    "en": "MAY I HAVE {A69} MACCA?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4091",
+    "en": "What?{A65}You do not wish to fight?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4092",
+    "en": "What?{A65}You don't wanna fight?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4093",
+    "en": "So you aren't trying to turn me{A65}into EXP?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4094",
+    "en": "YOU DO NOT INTEND TO FIGHT?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4095",
+    "en": "One more.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4096",
+    "en": "One more.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4097",
+    "en": "One more!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4098",
+    "en": "ONE MORE.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4099",
+    "en": "Might I have something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409a",
+    "en": "Might I have something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409b",
+    "en": "Can I have something? Pretty please?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409c",
+    "en": "WILL YOU OFFER SOMETHING?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409d",
+    "en": "You want me to join you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409e",
+    "en": "You want me to join you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x409f",
+    "en": "Huh? You want me to join you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a0",
+    "en": "JOIN... YOU?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a1",
+    "en": "You want something, do you?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a2",
+    "en": "I might hear you out.{A67}{A66}Go on. What do you want?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a3",
+    "en": "You're gonna mooch off me?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a4",
+    "en": "YOU WANT SOMETHING?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a5",
+    "en": "You wished to converse with me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a6",
+    "en": "I get it! This is what you want!{A65}You've fallen for my butt, haven't you?!{A65}Geh heh heh!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a7",
+    "en": "You just wanted to chat with me?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a8",
+    "en": "YOU WISHED TO SPEAK WITH {A63}{A65}...THAT IS ALL?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40a9",
+    "en": "C'mon, dance! Will you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40aa",
+    "en": "READY? IT'S SHOWTIME!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ab",
+    "en": "Wanna do the hee-ho dance?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ac",
+    "en": "WILL YOU DANCE MORE?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ad",
+    "en": "Yes, yes! Very good!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ae",
+    "en": "Yaa-haaa!{A65}Now that's what I'm talking about!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40af",
+    "en": "Hee-ho! Feelin' the beat?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b0",
+    "en": "{A63} is having a blast!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b1",
+    "en": "You want me to join you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b2",
+    "en": "You want my power, huh?{A65}Huh?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b3",
+    "en": "You wanna be my servant?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b4",
+    "en": "{A63}{A65}SHOULD JOIN YOU?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b5",
+    "en": "Much obliged!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b6",
+    "en": "Tch. Thanks!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b7",
+    "en": "Thank you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b8",
+    "en": "THANK YOU...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40b9",
+    "en": "Will you take good care of my kin?{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ba",
+    "en": "You'd better treat my ally right!{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40bb",
+    "en": "Be nice to my buddy!{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40bc",
+    "en": "ALLY... SAFE?{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x40bd",
+    "en": "Who would do such a thing?!{A0F}",
+    "fr": "",
+    "note": "Refusals, demands, threats, and early negotiation reactions."
+  },
+  {
+    "id": "0x40be",
+    "en": "Not a chance!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40bf",
+    "en": "Not a chance!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c0",
+    "en": "The demon shook its head.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c1",
+    "en": "GRAAAH!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c2",
+    "en": "Y-You miserable wretch!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c3",
+    "en": "Help meee!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c4",
+    "en": "{A63} let out a cry.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c5",
+    "en": "So you DO mean to kill me, don't you?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c6",
+    "en": "So you DO mean to kill me, don't you?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c7",
+    "en": "So you DO mean to kill me, don't you?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c8",
+    "en": "YOU INTEND TO KILL ME AFTER ALL, CORRECT?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40c9",
+    "en": "Forgive me. I was wrong!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ca",
+    "en": "My bad! My bad!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40cb",
+    "en": "Eek! I'm sooo sorry!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40cc",
+    "en": "MY APOLOGIES...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40cd",
+    "en": "You say you lack MAG?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ce",
+    "en": "You're short on MAG?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40cf",
+    "en": "Seriously? No MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d0",
+    "en": "INSUFFICIENT MAG?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d1",
+    "en": "No Life Stones, either?!{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d2",
+    "en": "You're outta Life Stones?{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d3",
+    "en": "No deal without a Life Stone!{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d4",
+    "en": "YOU HAVE NO LIFE STONES?!{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d5",
+    "en": "{A69} MAG, then.{A65}You won't refuse, will you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d6",
+    "en": "Will you hand over {A69} MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d7",
+    "en": "Gimme {A69} MAG, okay?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d8",
+    "en": "MAY I HAVE {A69} MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40d9",
+    "en": "In that case... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x40da",
+    "en": "Then... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x40db",
+    "en": "Well then... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40dc",
+    "en": "IN THAT CASE... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40dd",
+    "en": "Would a gem perhaps do?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40de",
+    "en": "A gem! You've got one, right?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40df",
+    "en": "Gimme a gem, okay?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e0",
+    "en": "WILL A GEM SUFFICE?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e1",
+    "en": "Not enough...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e2",
+    "en": "That's a little light...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e3",
+    "en": "Not enough! Not even close!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e4",
+    "en": "MORE...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e5",
+    "en": "Ngh... No!{A65}This isn't what I truly{A65}want at all!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e6",
+    "en": "Tch! You're a cheapskate after all!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e7",
+    "en": "Nope! Still don't want it!{A65}Time for a tantrum!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e8",
+    "en": "THIS IS WORTHLESS...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40e9",
+    "en": "Might I have a Life Stone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ea",
+    "en": "Will you hand over a Life Stone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40eb",
+    "en": "Gimme a Life Stone, okay?{A65}A Life Stone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ec",
+    "en": "WILL YOU GIVE ME A LIFE STONE?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ed",
+    "en": "Did you come to kill me?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ee",
+    "en": "You mean to kill me, huh?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ef",
+    "en": "If I don't join you,{A67}{A66}I'm dead meat?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f0",
+    "en": "WILL YOU KILL ME?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f1",
+    "en": "You're no fun...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f2",
+    "en": "You've got no sense of camaraderie!{A65}In other words, you're bad company!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f3",
+    "en": "You've got no sense of camaraderie!{A65}In other words, you're bad company!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f4",
+    "en": "{A63}{A65}looks a little lonely.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f5",
+    "en": "I pride myself on being broad-minded.{A65}I forgive you. Will you be on your way?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f6",
+    "en": "Hey, hey, pal!{A65}I'll let you off. Will you leave?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f7",
+    "en": "Whatever!{A65}Will you go away, ho?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f8",
+    "en": "YOU ARE FORGIVEN. WILL YOU GO?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40f9",
+    "en": "You dare mock me?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40fa",
+    "en": "Quit screwin' around!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40fb",
+    "en": "Kee-ho!!{A67}{A66}Don't get cocky with me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40fc",
+    "en": "DO NOT MOCK ME!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40fd",
+    "en": "Perhaps I shall take your life!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40fe",
+    "en": "Time for my killer catchphrase!{A65}Offer up your soul to me!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x40ff",
+    "en": "Gimme your life!!{A0F}",
+    "fr": ""
+  }
+]

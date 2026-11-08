@@ -1,0 +1,6 @@
+# Fins de ligne LF partout : les JSON de trad/ sont relus ligne à ligne par
+# le validateur, et les traducteurs sous Windows ne doivent pas créer de
+# diffs fantômes.
+* text=auto eol=lf
+*.png binary
+*.jpg binary

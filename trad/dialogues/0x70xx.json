@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0x7009",
+    "en": "Saving Clear Data lets you carry{CR}your completion data into{CR}a new game.{CR}Save Clear Data?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x700a",
+    "en": "Choose a mode for your new game.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x700b",
+    "en": "Finish saving Clear Data and{CR}return to the title screen.{CR}Is that okay?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x700c",
+    "en": "Izanami: Welcome,{CR}{SY}.{CR}{WT}{PG}I hear you saved my child Hiruko{CR}in the Underworld.{CR}You have my thanks.{WT}{PG}{SY}.{CR}{WT}Never lose sight of the person{CR}most precious to you.{CR}Keep them close. Never let go.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x700d",
+    "en": "{AL}'s attack missed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x700e",
+    "en": "You don't seem to have enough money.{TW}{ED}",
+    "fr": "",
+    "note": "Each response retains the register of its original shopkeeper."
+  },
+  {
+    "id": "0x700f",
+    "en": "You don't seem to have enough money.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7010",
+    "en": "You don't seem to have enough money.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7011",
+    "en": "You're short on cash...{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7012",
+    "en": "Bring me some money, 'kay?{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7013",
+    "en": "You don't have enough money.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7014",
+    "en": "...You're short on cash, huh?{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7015",
+    "en": "Your order has already been placed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7016",
+    "en": "You have already placed an order.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7017",
+    "en": "You're already drinking...{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7018",
+    "en": "It appears you are already drinking.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x7019",
+    "en": "Order something else, 'kay?{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701a",
+    "en": "You're already drinking.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701b",
+    "en": "...You're already drinking.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701c",
+    "en": "{MG}'s attack missed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701d",
+    "en": "Izanami: Welcome,{CR}{SY},{CR}{Fe}.{WT}{PG}{SY},{CR}{Fe}.{WT} Seeing you two together reminds me{CR}of the happy days Izanagi and I{CR}once shared.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701e",
+    "en": "Izanami: Welcome,{CR}{SY}.{WT}{PG}{SY}.{CR}{WT}Never lose sight of the person{CR}most precious to you.{CR}Keep them close. Never let go.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x701f",
+    "en": "A ward protects {AG}.{TW}{ED}",
+    "fr": ""
+  }
+]

@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "0x6000",
+    "en": "{ZK} {MG} x{SU} appeared!{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 6: battle messages (essential; inserts: AL=actor MG/MN=demon SU=num IT=item MH=skill) ---- Voice matches banks 0-3: the battle narrator speaks plainly and without contractions (\"You cannot ...\", \"Not enough ...\"); only demons and NPCs speaking aloud use contractions."
+  },
+  {
+    "id": "0x6001",
+    "en": "{ZK} {MG} x{SU} and{CR}{ZO} {MN} x{S2} appeared!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6002",
+    "en": "{MG} x{SU}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6003",
+    "en": "{MN} x{S2}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6004",
+    "en": "What will you do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6005",
+    "en": "{AL}, what will you do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6006",
+    "en": "Which attack?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6007",
+    "en": "Which spell?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6008",
+    "en": "{AG} tried to flee{CR}...{TI}...{TI}...{TI}and got away!{TW}{0xc097,True}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6009",
+    "en": "{AG} tried to flee{CR}...{TI}...{TI}...{TI}but tripped!{TW}{0xc098,True}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600a",
+    "en": "A wall blocks the way!{CR}There is no escape!{TW}{0xc098,True}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600b",
+    "en": "{AG} tried to talk.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600c",
+    "en": "Everyone is giving it their all.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600d",
+    "en": "Everyone is giving it their all.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600e",
+    "en": "Which target?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x600f",
+    "en": "Is this all right?{0xc095,True}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6010",
+    "en": "{AL} opened fire!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6011",
+    "en": "{AL} slashed!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6012",
+    "en": "{AL}'s attack!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6013",
+    "en": "A deadly blow!!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6014",
+    "en": "A critical hit!!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6015",
+    "en": "The attack was dodged!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6016",
+    "en": "{AL} dodged the attack!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6017",
+    "en": "{AL} took {SU} damage.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6018",
+    "en": "{AL} took {SU} damage.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6019",
+    "en": "{AL} cast a spell,{TW}{CR}but magic was sealed!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601a",
+    "en": "The attack missed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601b",
+    "en": "{AL} is unharmed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601c",
+    "en": "No effect at all.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601d",
+    "en": "No effect on {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601e",
+    "en": "{AL} collapsed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x601f",
+    "en": "Finished off {MG} x{S2}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6020",
+    "en": "Defeated {ZK} {MG}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6021",
+    "en": "Defeated the demon.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6022",
+    "en": "{AL} gained {SU} EXP.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6023",
+    "en": "Obtained ћ{SU}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6024",
+    "en": "Obtained {SU} MAG.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6025",
+    "en": "Obtained \"{IT}\" x{SU}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6026",
+    "en": "Obtained \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6027",
+    "en": "{AL} leveled up!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6028",
+    "en": "{AL} learned {MH}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6029",
+    "en": "No time for that in battle.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602a",
+    "en": "Not in any state to talk.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602b",
+    "en": "Nothing is equipped.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602c",
+    "en": "No gun is equipped.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602d",
+    "en": "No ammo is loaded.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602e",
+    "en": "You cannot use the COMP now.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x602f",
+    "en": "{AL} has no special skills.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6030",
+    "en": "{AG} caught them off guard!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6031",
+    "en": "The demons took you by surprise!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6032",
+    "en": "The demons appeared behind you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6033",
+    "en": "{AL} summoned an ally.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6034",
+    "en": "{AL} recalled an ally.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6035",
+    "en": "{AL} returned to the COMP.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6036",
+    "en": "{AL} repelled the attack.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6037",
+    "en": "The attack was repelled!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6038",
+    "en": "{AL} absorbed the attack.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6039",
+    "en": "The attack was absorbed!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603a",
+    "en": "{AL} is lost in bliss.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603b",
+    "en": "{AL} is defending.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603c",
+    "en": "You have no usable items.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603d",
+    "en": "You have no equippable items.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603e",
+    "en": "{AL} used {IT}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x603f",
+    "en": "Used {IT}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6040",
+    "en": "But it had no effect.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6041",
+    "en": "No usable magic is available.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6042",
+    "en": "{AL}'s magic is sealed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6043",
+    "en": "{AL} cast {MH}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6044",
+    "en": "No one needs healing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6045",
+    "en": "{AL} recovered.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6046",
+    "en": "It failed!!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6047",
+    "en": "Already in effect.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6048",
+    "en": "Not enough MP.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6049",
+    "en": "Out of MP.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604a",
+    "en": "Not enough HP.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604b",
+    "en": "Out of HP.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604c",
+    "en": "Use it on whom?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604d",
+    "en": "There is no Magnetite left.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604e",
+    "en": "{AL} was defeated.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x604f",
+    "en": "Defeated {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6050",
+    "en": "{AL} became undead.{TW}{ED}",
+    "fr": "",
+    "note": "-- status ailments inflicted (AL = the affected side) --"
+  },
+  {
+    "id": "0x6051",
+    "en": "{AL} became undead.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6052",
+    "en": "{AL} turned to stone.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6053",
+    "en": "Turned {AL} to stone.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6054",
+    "en": "{AL} was paralyzed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6055",
+    "en": "Paralyzed {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6056",
+    "en": "{AL} became a fly.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6057",
+    "en": "{AL} became a fly.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6058",
+    "en": "{AL} became a bat.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6059",
+    "en": "{AL} became a bat.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605a",
+    "en": "{AL} was charmed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605b",
+    "en": "Charmed {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605c",
+    "en": "{AL} was frozen.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605d",
+    "en": "Froze {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605e",
+    "en": "{AL} was shocked.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x605f",
+    "en": "Shocked {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6060",
+    "en": "{AL} fell asleep.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6061",
+    "en": "Put {AL} to sleep.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6062",
+    "en": "{AL} was bound.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6063",
+    "en": "Bound {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6064",
+    "en": "{AL} panicked.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6065",
+    "en": "Made {AL} panic.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6066",
+    "en": "{AL} was overcome with joy.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6067",
+    "en": "Filled {AL} with joy.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6068",
+    "en": "{AL} was poisoned.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6069",
+    "en": "Poisoned {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606a",
+    "en": "{AL}'s magic was sealed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606b",
+    "en": "Sealed {AL}'s magic.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606c",
+    "en": "{AL} grew weaker.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606d",
+    "en": "{AL} grew weaker.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606e",
+    "en": "{AL} grew weaker.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x606f",
+    "en": "{AG} walked away from{CR}{MG}.{TW}{ED}",
+    "fr": "",
+    "note": "-- negotiation / demon behavior --"
+  },
+  {
+    "id": "0x6070",
+    "en": "{MG} went away.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6071",
+    "en": "{MG} went away.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6072",
+    "en": "{MG} fled.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6073",
+    "en": "{MG} called allies.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6074",
+    "en": "{MG} joined you.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6075",
+    "en": "{MG} obeyed {AG}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6076",
+    "en": "{MG} caught you off guard!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6077",
+    "en": "{AG} caught it off guard!{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6078",
+    "en": "{MG} is eager to fight.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6079",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": "",
+    "note": "-- debuffs (0x6079-0x6086 are one repeated line; the build interns them) --"
+  },
+  {
+    "id": "0x607a",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x607b",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x607c",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x607d",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x607e",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x607f",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6080",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6081",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6082",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6083",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6084",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6085",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6086",
+    "en": "Demons' attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6087",
+    "en": "{AG}'s attack fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6088",
+    "en": "Demons' defense fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6089",
+    "en": "{AG}'s defense fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608a",
+    "en": "Demons' accuracy fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608b",
+    "en": "{AG}'s accuracy fell.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608c",
+    "en": "Drove the demons off.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608d",
+    "en": "The demons' Kaja effects vanished.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608e",
+    "en": "{AG}'s Kaja effects vanished.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x608f",
+    "en": "{AG} regained power.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6090",
+    "en": "Demons regained power.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6091",
+    "en": "Mist veiled the demons.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6092",
+    "en": "Mist veiled {AG}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6093",
+    "en": "Raised {AG}'s attack.{TW}{ED}",
+    "fr": "",
+    "note": "-- buffs --"
+  },
+  {
+    "id": "0x6094",
+    "en": "Demons' attack rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6095",
+    "en": "Raised {AG}'s defense.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6096",
+    "en": "Demons' defense rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6097",
+    "en": "Raised {AG}'s accuracy.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6098",
+    "en": "Demons' accuracy rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6099",
+    "en": "Raised {AG}'s magic power.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609a",
+    "en": "Demons' magic power rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609b",
+    "en": "{AG} gained a ward.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609c",
+    "en": "{AG} gained a ward.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609d",
+    "en": "{AG} gained a shield.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609e",
+    "en": "Demons gained a shield.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x609f",
+    "en": "{AG} gained a barrier.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a0",
+    "en": "Demons gained a barrier.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a1",
+    "en": "{AL} recovered.{TW}{ED}",
+    "fr": "",
+    "note": "-- healing / revival --"
+  },
+  {
+    "id": "0x60a2",
+    "en": "{AG} recovered.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a3",
+    "en": "{AL}'s party recovered.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a4",
+    "en": "{AL} snapped out of it.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a5",
+    "en": "{AG} snapped out of it.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a6",
+    "en": "{AL} and the others came to.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a7",
+    "en": "{AL} was cured of poison.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a8",
+    "en": "{AL} was cured of paralysis.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60a9",
+    "en": "{AL} returned to normal.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60aa",
+    "en": "{AL} came back to life.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ab",
+    "en": "{AL} was revived.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ac",
+    "en": "{AL} collapsed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ad",
+    "en": "Summoned {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ae",
+    "en": "Revived {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60af",
+    "en": "{AL} glared.{TW}{ED}",
+    "fr": "",
+    "note": "-- skill flavor actions (AL = the acting demon) --"
+  },
+  {
+    "id": "0x60b0",
+    "en": "{AL} cast a curse.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b1",
+    "en": "{AL} danced.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b2",
+    "en": "{AL} broke into a dance.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b3",
+    "en": "{AL} sang a song of joy.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b4",
+    "en": "{AL} sang a lullaby.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b5",
+    "en": "{AL} let out a roar.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b6",
+    "en": "{AL} sank its fangs in.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b7",
+    "en": "{AL} breathed fire.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b8",
+    "en": "{AL} unleashed an icy breath.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60b9",
+    "en": "{AL} spewed poison gas.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ba",
+    "en": "{AL} discharged electricity.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60bb",
+    "en": "{AL} summoned a hail of ice.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60bc",
+    "en": "{AL} blew a gust of breath.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60bd",
+    "en": "{AL} began glowing white.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60be",
+    "en": "{AL} began glowing black.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60bf",
+    "en": "{AL} raised its voice.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c0",
+    "en": "{AL} kissed its foe.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c1",
+    "en": "{AL} smiled.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c2",
+    "en": "{AL} exhaled.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c3",
+    "en": "{AL} raised a wall of water.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c4",
+    "en": "{AL} raised a wall of flame.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c5",
+    "en": "{AL} began to tremble.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c6",
+    "en": "{AL} began to pray.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c7",
+    "en": "{AL} reached out and touched its foe.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c8",
+    "en": "{AL} clasped its hands.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60c9",
+    "en": "{AL} shouted to the heavens.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ca",
+    "en": "{AL} cried out.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60cb",
+    "en": "{AL} called someone's name.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60cc",
+    "en": "{AL} fired bolts from its eyes.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60cd",
+    "en": "{AL} gathered light.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ce",
+    "en": "Satan pointed at {AL}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60cf",
+    "en": "{AL} bit down.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d0",
+    "en": "{AL} clawed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d1",
+    "en": "{AL} launched a needle.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d2",
+    "en": "{AL} coiled around its foe.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d3",
+    "en": "{AL} went for the throat.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d4",
+    "en": "{AL} pressed a switch.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d5",
+    "en": "{AL} spread its wings.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d6",
+    "en": "{AL} swung its sword wildly.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d7",
+    "en": "{AL} gathered its strength.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d8",
+    "en": "{AL} spat out clear fluid.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60d9",
+    "en": "{AL} spewed white smoke.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60da",
+    "en": "{AL} beat its wings.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60db",
+    "en": "{AL} fired countless needles.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60dc",
+    "en": "{AL} body slammed.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60dd",
+    "en": "{AL} rampaged.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60de",
+    "en": "{AL} bore down.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60df",
+    "en": "{AL} swung its tail.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e0",
+    "en": "{AL} let out a battle cry.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e1",
+    "en": "{AL} threw a punch.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e2",
+    "en": "{AL} fired a shock wave.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e3",
+    "en": "{AL} lashed out with a kick.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e4",
+    "en": "{AL} fired its gun.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e5",
+    "en": "{AL} raised its sword.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e6",
+    "en": "{AL} pounced.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e7",
+    "en": "{AL} ate Magnetite.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e8",
+    "en": "{AL} shielded an ally.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60e9",
+    "en": "{AL} clung to an ally.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ea",
+    "en": "{AL} exploded.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60eb",
+    "en": "{AL} latched on.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ec",
+    "en": "{AL} drew a circle with both hands.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ed",
+    "en": "{AL} rested.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ee",
+    "en": "{AL} waved its staff.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ef",
+    "en": "{AL} rocked its body wildly.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f0",
+    "en": "{AL} readied itself.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f1",
+    "en": "{AL} fled.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f2",
+    "en": "{AL} called for allies.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f3",
+    "en": "{AL} recovered.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f4",
+    "en": "{AL} perked up.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f5",
+    "en": "{AL} fully recovered.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f6",
+    "en": "{AL}'s Luck rose.{TW}{ED}",
+    "fr": "",
+    "note": "-- stat gains (names match the status screen: Strength/Intelligence/Magic/Vitality/Agility/Luck) --"
+  },
+  {
+    "id": "0x60f7",
+    "en": "{AL}'s Vitality rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f8",
+    "en": "{AL}'s Intelligence rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60f9",
+    "en": "{AL}'s Strength rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60fa",
+    "en": "{AL}'s Agility rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60fb",
+    "en": "{AL}'s Magic rose.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60fc",
+    "en": "But {IT} took the blow.{TW}{ED}",
+    "fr": "",
+    "note": "-- item / field effects --"
+  },
+  {
+    "id": "0x60fd",
+    "en": "But {IT} took the blow.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60fe",
+    "en": "The demons turned into Slimes.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x60ff",
+    "en": "{IT} raised a shield.{TW}{ED}",
+    "fr": ""
+  }
+]

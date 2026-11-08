@@ -1,0 +1,914 @@
+[
+  {
+    "id": "0x0bc0",
+    "en": "Suspend data is corrupted.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0bdc",
+    "en": "The Memory Card is damaged.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0bf8",
+    "en": "Could not format the Memory Card.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0c14",
+    "en": "This save data is corrupted.",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0c38",
+    "en": "or overwrite another file.",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0c5c",
+    "en": "that has at least two free blocks,",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0c78",
+    "en": "Replace it with a Memory Card",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x0ca0",
+    "en": "The Memory Card lacks free space.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x0cc8",
+    "en": "Could not load the data.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0ce0",
+    "en": "Could not save the data.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0cf8",
+    "en": "suspend data was found.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0d10",
+    "en": "save data was found.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0d2c",
+    "en": "No Shin Megami Tensei II",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0d44",
+    "en": "Insert the Memory Card correctly in slot 1.",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0d68",
+    "en": "No Memory Card is inserted.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x0d90",
+    "en": "Free space is required.",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x0da4",
+    "en": "Saving requires at least two free blocks.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x0dcc",
+    "en": "There is not enough free space.",
+    "fr": "",
+    "max_octets": 16
+  },
+  {
+    "id": "0x0ddc",
+    "en": "The Memory Card lacks free blocks.",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x0dfc",
+    "en": "to save or load.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0e18",
+    "en": "A Memory Card must be inserted in slot 1",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0e3c",
+    "en": "in slot 1.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0e54",
+    "en": "No Memory Card is inserted",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0e70",
+    "en": "Suspend saving will be unavailable.",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x0e90",
+    "en": "There will not be enough free blocks.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0eac",
+    "en": "This save may prevent suspend saving.",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0ed0",
+    "en": "Continue playing?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0ee8",
+    "en": "Format it?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0f00",
+    "en": "Format the Memory Card before saving.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x0f28",
+    "en": "is not formatted.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0f44",
+    "en": "The Memory Card in slot 1",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0f60",
+    "en": "Loading will erase the suspend data.",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x0f84",
+    "en": "Load this file?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0f9c",
+    "en": "Overwriting will erase",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x0fbc",
+    "en": "Suspend data already exists.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x0fd8",
+    "en": "Create suspend data?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x0ff0",
+    "en": "Is that okay?",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x1004",
+    "en": "the previous data.",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x1018",
+    "en": "Overwriting will erase",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x103c",
+    "en": "This file already contains save data.",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x1068",
+    "en": "At least four free blocks are required.",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x1094",
+    "en": "To create both save and suspend data,",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x10b4",
+    "en": "there are not enough free blocks.",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x10d4",
+    "en": "A save may prevent suspend saving.",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x1100",
+    "en": "Formatting...",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x1114",
+    "en": "Loading...",
+    "fr": "",
+    "max_octets": 16
+  },
+  {
+    "id": "0x1124",
+    "en": "Saving...",
+    "fr": "",
+    "max_octets": 16
+  },
+  {
+    "id": "0x1134",
+    "en": "Memory Card or controller.",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1150",
+    "en": "Do not insert or remove the",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1170",
+    "en": "Checking Memory Card...",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1190",
+    "en": "your body...",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x11a4",
+    "en": "beware of demons possessing",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x11c4",
+    "en": "While you sleep,",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x11d8",
+    "en": "You may now turn off the power.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x1200",
+    "en": "Save complete.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1218",
+    "en": "Select a file to load.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x1244",
+    "en": "Select a file to save.",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x16f4",
+    "en": "Summon which?",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1718",
+    "en": " summoned",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x1730",
+    "en": "Replace who?",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x174c",
+    "en": "Put where?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1764",
+    "en": "Return who?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1780",
+    "en": " to COMP",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x179c",
+    "en": "Part with?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x17e8",
+    "en": " discarded",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1800",
+    "en": " parted",
+    "fr": "",
+    "max_octets": 16
+  },
+  {
+    "id": "0x182c",
+    "en": "Analyze who?",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1848",
+    "en": "On who?",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x185c",
+    "en": "Mimic whom?",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1878",
+    "en": "Can't summon",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1894",
+    "en": "Can't cast now",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x18b4",
+    "en": "COMP unusable now",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x18d8",
+    "en": "Cursed gear!",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x18f4",
+    "en": "No spells",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x191c",
+    "en": "Wrong alignment",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x193c",
+    "en": "No items to reorder",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x1974",
+    "en": "Locked in",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x198c",
+    "en": "No COMP here",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x19b0",
+    "en": "No spells",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x19c8",
+    "en": "Not here",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x19e0",
+    "en": "No items.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x19f8",
+    "en": "No one to scan",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1a18",
+    "en": "No items to drop",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x1a3c",
+    "en": "No usable items",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1a5c",
+    "en": "No one free",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1a74",
+    "en": "No one back",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1a8c",
+    "en": "No demons",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1ac0",
+    "en": "Cast whose?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1ad8",
+    "en": "Cast what?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1af8",
+    "en": "Use which item?",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1b1c",
+    "en": "Pick item to move",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x1b40",
+    "en": "Pick destination",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x1b64",
+    "en": "Drop which?",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1558",
+    "en": "Is this OK?",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1c60",
+    "en": "Cursed!",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1c78",
+    "en": "Item bag full",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1c98",
+    "en": "No equipment",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x1cbc",
+    "en": "Whose stats?",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1e00",
+    "en": "Gun",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e08",
+    "en": "Arm",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e10",
+    "en": "Hlm",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e18",
+    "en": "Leg",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e20",
+    "en": "Bdy",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e28",
+    "en": "Swd",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x4118",
+    "en": "Voice: Select a floor.",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x4138",
+    "en": "B",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1d5c",
+    "en": "Points",
+    "fr": "",
+    "max_octets": 16
+  },
+  {
+    "id": "0x22f8",
+    "en": "Buy",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x2300",
+    "en": "Sell",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x2308",
+    "en": "Exit",
+    "fr": "",
+    "max_octets": 12
+  },
+  {
+    "id": "0x1eec",
+    "en": "Oh, you're short on ћ.",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1f0c",
+    "en": "Code:",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x3f78",
+    "en": "Str",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x3f80",
+    "en": "Int",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x3f88",
+    "en": "Mag",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x3f90",
+    "en": "Sta",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x3f98",
+    "en": "Spd",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x3fa0",
+    "en": "Lck",
+    "fr": "",
+    "max_octets": 8
+  },
+  {
+    "id": "0x1e4c",
+    "en": "Swap places",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x1e64",
+    "en": "Open settings",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1e80",
+    "en": "Load a save",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x1e9c",
+    "en": "Quit save",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x201c",
+    "en": "On who?",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x23dc",
+    "en": "Sorted!",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x23f4",
+    "en": "Reorder",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x2408",
+    "en": "Show details",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2424",
+    "en": "Equip",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x2438",
+    "en": "Use, sort, drop items",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x2464",
+    "en": "Use magic",
+    "fr": "",
+    "max_octets": 20
+  },
+  {
+    "id": "0x2478",
+    "en": "Open COMP",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x2944",
+    "en": "To system menu",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x2964",
+    "en": "End CONFIG",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2980",
+    "en": "Play in stereo",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x29a0",
+    "en": "Play in mono",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x29c0",
+    "en": "Auto-heal: magic",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x29e4",
+    "en": "Auto-heal: items",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x2a08",
+    "en": "Face travel up",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x2a28",
+    "en": "North stays up",
+    "fr": "",
+    "max_octets": 32
+  },
+  {
+    "id": "0x2a48",
+    "en": "Guard if no MP/item",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x2a70",
+    "en": "Attack if no MP/item",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x2a9c",
+    "en": "Repeat action",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2ab8",
+    "en": "Sword/gun",
+    "fr": "",
+    "max_octets": 24
+  },
+  {
+    "id": "0x2ad0",
+    "en": "Battle effects off",
+    "fr": "",
+    "max_octets": 40
+  },
+  {
+    "id": "0x2af8",
+    "en": "Show effects",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2b14",
+    "en": "Fast battle messages",
+    "fr": "",
+    "max_octets": 56
+  },
+  {
+    "id": "0x2b4c",
+    "en": "Battle text: normal",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x2b78",
+    "en": "Show messages faster",
+    "fr": "",
+    "max_octets": 44
+  },
+  {
+    "id": "0x2ba4",
+    "en": "Normal msg speed",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x2bc8",
+    "en": "Sort by align",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2be4",
+    "en": "Sort by level",
+    "fr": "",
+    "max_octets": 28
+  },
+  {
+    "id": "0x2c00",
+    "en": "Sort by name",
+    "fr": "",
+    "max_octets": 36
+  },
+  {
+    "id": "0x2c24",
+    "en": "Sort by race",
+    "fr": "",
+    "max_octets": 28
+  }
+]

@@ -1,0 +1,1747 @@
+[
+  {
+    "id": "0",
+    "en": "Attack Knife",
+    "fr": ""
+  },
+  {
+    "id": "1",
+    "en": "Spike Rod",
+    "fr": ""
+  },
+  {
+    "id": "2",
+    "en": "Queen Bute",
+    "fr": ""
+  },
+  {
+    "id": "3",
+    "en": "Battle Hammer",
+    "fr": ""
+  },
+  {
+    "id": "4",
+    "en": "Bollock Knife",
+    "fr": ""
+  },
+  {
+    "id": "5",
+    "en": "Slicer",
+    "fr": ""
+  },
+  {
+    "id": "6",
+    "en": "Scorpion Whip",
+    "fr": ""
+  },
+  {
+    "id": "7",
+    "en": "Corseque",
+    "fr": ""
+  },
+  {
+    "id": "8",
+    "en": "Guillotine Axe",
+    "fr": ""
+  },
+  {
+    "id": "9",
+    "en": "Bizen Dagger",
+    "fr": ""
+  },
+  {
+    "id": "10",
+    "en": "Jet Bola",
+    "fr": ""
+  },
+  {
+    "id": "11",
+    "en": "Aseimi Knife",
+    "fr": ""
+  },
+  {
+    "id": "12",
+    "en": "Heat Glaive",
+    "fr": ""
+  },
+  {
+    "id": "13",
+    "en": "Harakiri Saber",
+    "fr": ""
+  },
+  {
+    "id": "14",
+    "en": "Shadow Needle",
+    "fr": ""
+  },
+  {
+    "id": "15",
+    "en": "Cherry Sword",
+    "fr": ""
+  },
+  {
+    "id": "16",
+    "en": "Head Basher",
+    "fr": ""
+  },
+  {
+    "id": "17",
+    "en": "Vacuum Axe",
+    "fr": ""
+  },
+  {
+    "id": "18",
+    "en": "Chainsaw",
+    "fr": ""
+  },
+  {
+    "id": "19",
+    "en": "Screw Lance",
+    "fr": ""
+  },
+  {
+    "id": "20",
+    "en": "Light Kodachi",
+    "fr": ""
+  },
+  {
+    "id": "21",
+    "en": "Crimson Whip",
+    "fr": ""
+  },
+  {
+    "id": "22",
+    "en": "Rocket Hammer",
+    "fr": ""
+  },
+  {
+    "id": "23",
+    "en": "Cursed Gear",
+    "fr": ""
+  },
+  {
+    "id": "24",
+    "en": "Thunder Whip",
+    "fr": ""
+  },
+  {
+    "id": "25",
+    "en": "Crim. Nagamaki",
+    "fr": ""
+  },
+  {
+    "id": "26",
+    "en": "Glamour Axe",
+    "fr": ""
+  },
+  {
+    "id": "27",
+    "en": "Skip Hammer",
+    "fr": ""
+  },
+  {
+    "id": "28",
+    "en": "Plasma Sword",
+    "fr": ""
+  },
+  {
+    "id": "29",
+    "en": "Aqua Flail",
+    "fr": ""
+  },
+  {
+    "id": "30",
+    "en": "Fire Standard",
+    "fr": ""
+  },
+  {
+    "id": "31",
+    "en": "Vajra Club",
+    "fr": ""
+  },
+  {
+    "id": "32",
+    "en": "Sonic Blade",
+    "fr": ""
+  },
+  {
+    "id": "33",
+    "en": "Thousand Needle",
+    "fr": ""
+  },
+  {
+    "id": "34",
+    "en": "Vital Lance",
+    "fr": ""
+  },
+  {
+    "id": "35",
+    "en": "Flying Sanko",
+    "fr": ""
+  },
+  {
+    "id": "36",
+    "en": "Sun Kodachi",
+    "fr": ""
+  },
+  {
+    "id": "37",
+    "en": "Scrap",
+    "fr": ""
+  },
+  {
+    "id": "38",
+    "en": "Companion Axe",
+    "fr": ""
+  },
+  {
+    "id": "39",
+    "en": "Charon's Staff",
+    "fr": ""
+  },
+  {
+    "id": "40",
+    "en": "Ankou's Scythe",
+    "fr": ""
+  },
+  {
+    "id": "41",
+    "en": "Headhunt Spoon",
+    "fr": ""
+  },
+  {
+    "id": "42",
+    "en": "Nine-Tails Whip",
+    "fr": ""
+  },
+  {
+    "id": "43",
+    "en": "Answerer",
+    "fr": ""
+  },
+  {
+    "id": "44",
+    "en": "Valhalla Sword",
+    "fr": ""
+  },
+  {
+    "id": "45",
+    "en": "Magma Spear",
+    "fr": ""
+  },
+  {
+    "id": "46",
+    "en": "Caduceus",
+    "fr": ""
+  },
+  {
+    "id": "47",
+    "en": "Purify Fan",
+    "fr": ""
+  },
+  {
+    "id": "48",
+    "en": "Longinus",
+    "fr": ""
+  },
+  {
+    "id": "49",
+    "en": "Fergus' Sword",
+    "fr": ""
+  },
+  {
+    "id": "50",
+    "en": "Lotus Wand",
+    "fr": ""
+  },
+  {
+    "id": "51",
+    "en": "Cursed Nihil",
+    "fr": ""
+  },
+  {
+    "id": "52",
+    "en": "Luna Blade",
+    "fr": ""
+  },
+  {
+    "id": "53",
+    "en": "Sol Blade",
+    "fr": ""
+  },
+  {
+    "id": "54",
+    "en": "Lion War Fan",
+    "fr": ""
+  },
+  {
+    "id": "55",
+    "en": "Crescent Blade",
+    "fr": ""
+  },
+  {
+    "id": "56",
+    "en": "Kuchinawa",
+    "fr": ""
+  },
+  {
+    "id": "57",
+    "en": "Houten Halberd",
+    "fr": ""
+  },
+  {
+    "id": "58",
+    "en": "Deathbringer",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "Brionac",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "Gae Bolg",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Gleipnir",
+    "fr": ""
+  },
+  {
+    "id": "62",
+    "en": "Dagda's Club",
+    "fr": ""
+  },
+  {
+    "id": "63",
+    "en": "Zuftaf Spear",
+    "fr": ""
+  },
+  {
+    "id": "64",
+    "en": "Ki Sword",
+    "fr": ""
+  },
+  {
+    "id": "65",
+    "en": "Kogitsunemaru",
+    "fr": ""
+  },
+  {
+    "id": "66",
+    "en": "Wind God Sword",
+    "fr": ""
+  },
+  {
+    "id": "67",
+    "en": "Bolt God Sword",
+    "fr": ""
+  },
+  {
+    "id": "68",
+    "en": "Bizen Osafune",
+    "fr": ""
+  },
+  {
+    "id": "69",
+    "en": "Kotetsu",
+    "fr": ""
+  },
+  {
+    "id": "70",
+    "en": "Kanesada",
+    "fr": ""
+  },
+  {
+    "id": "71",
+    "en": "H. Nagamitsu",
+    "fr": ""
+  },
+  {
+    "id": "72",
+    "en": "Muramasa",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Masamune",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Kenunmaru",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "Konryumaru",
+    "fr": ""
+  },
+  {
+    "id": "76",
+    "en": "Yatsuka Sword",
+    "fr": ""
+  },
+  {
+    "id": "77",
+    "en": "Ama-Murakumo",
+    "fr": ""
+  },
+  {
+    "id": "78",
+    "en": "Ama-Nuboko",
+    "fr": ""
+  },
+  {
+    "id": "79",
+    "en": "Hinokagutsuchi",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "Old Ki Staff",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "Bound Ki Staff",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "Death Ki Staff",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "Ai Ki Staff",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Prime Ki Staff",
+    "fr": ""
+  },
+  {
+    "id": "85",
+    "en": "Ame Sword",
+    "fr": ""
+  },
+  {
+    "id": "86",
+    "en": "Masakado Blade",
+    "fr": ""
+  },
+  {
+    "id": "87",
+    "en": "Kurikara Sword",
+    "fr": ""
+  },
+  {
+    "id": "88",
+    "en": "Beretta 92F",
+    "fr": ""
+  },
+  {
+    "id": "89",
+    "en": "Desert Eagle",
+    "fr": ""
+  },
+  {
+    "id": "90",
+    "en": "Miracle Glock",
+    "fr": ""
+  },
+  {
+    "id": "91",
+    "en": "Gonz Pistol",
+    "fr": ""
+  },
+  {
+    "id": "92",
+    "en": "Dominator",
+    "fr": ""
+  },
+  {
+    "id": "93",
+    "en": "Gyro Jet",
+    "fr": ""
+  },
+  {
+    "id": "94",
+    "en": "M16 Rifle",
+    "fr": ""
+  },
+  {
+    "id": "95",
+    "en": "Smile Steyr",
+    "fr": ""
+  },
+  {
+    "id": "96",
+    "en": "M249 Minimi",
+    "fr": ""
+  },
+  {
+    "id": "97",
+    "en": "SPAS 12",
+    "fr": ""
+  },
+  {
+    "id": "98",
+    "en": "Oni Cannon",
+    "fr": ""
+  },
+  {
+    "id": "99",
+    "en": "Reaper Colt",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "Bullet M90",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Golden Gun",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "M134 Vulcan",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "Giga Smasher",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "Kunitomo Gun",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "Railgun",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "Bodribin",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "Blaster Gun",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "Randal Custom",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "Megido Fire",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Peacemaker",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Brahmastra",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Normal Ammo",
+    "fr": ""
+  },
+  {
+    "id": "113",
+    "en": "Poison Ammo",
+    "fr": ""
+  },
+  {
+    "id": "114",
+    "en": "Shot Shell",
+    "fr": ""
+  },
+  {
+    "id": "115",
+    "en": "Randy Shot",
+    "fr": ""
+  },
+  {
+    "id": "116",
+    "en": "Nerve Ammo",
+    "fr": ""
+  },
+  {
+    "id": "117",
+    "en": "Cursed Ammo",
+    "fr": ""
+  },
+  {
+    "id": "118",
+    "en": "Cop Killer",
+    "fr": ""
+  },
+  {
+    "id": "119",
+    "en": "Holy Ammo",
+    "fr": ""
+  },
+  {
+    "id": "120",
+    "en": "Seal Ammo",
+    "fr": ""
+  },
+  {
+    "id": "121",
+    "en": "Plutonium Ammo",
+    "fr": ""
+  },
+  {
+    "id": "122",
+    "en": "Carbo Liner",
+    "fr": ""
+  },
+  {
+    "id": "123",
+    "en": "Corona Shot",
+    "fr": ""
+  },
+  {
+    "id": "124",
+    "en": "Light Ammo",
+    "fr": ""
+  },
+  {
+    "id": "125",
+    "en": "Dark Ammo",
+    "fr": ""
+  },
+  {
+    "id": "126",
+    "en": "Corrode Ammo",
+    "fr": ""
+  },
+  {
+    "id": "127",
+    "en": "Skull Ammo",
+    "fr": ""
+  },
+  {
+    "id": "128",
+    "en": "Headgear",
+    "fr": ""
+  },
+  {
+    "id": "129",
+    "en": "Fritz Helm",
+    "fr": ""
+  },
+  {
+    "id": "130",
+    "en": "Nap Guard",
+    "fr": ""
+  },
+  {
+    "id": "131",
+    "en": "Metal Turban",
+    "fr": ""
+  },
+  {
+    "id": "132",
+    "en": "Iron Bunny",
+    "fr": ""
+  },
+  {
+    "id": "133",
+    "en": "Frog Helm",
+    "fr": ""
+  },
+  {
+    "id": "134",
+    "en": "Dolphin Helm",
+    "fr": ""
+  },
+  {
+    "id": "135",
+    "en": "Ping-Pong Hat",
+    "fr": ""
+  },
+  {
+    "id": "136",
+    "en": "Iron Face",
+    "fr": ""
+  },
+  {
+    "id": "137",
+    "en": "Dragon Helm",
+    "fr": ""
+  },
+  {
+    "id": "138",
+    "en": "Dawn Helm",
+    "fr": ""
+  },
+  {
+    "id": "139",
+    "en": "Shiranui Helm",
+    "fr": ""
+  },
+  {
+    "id": "140",
+    "en": "Panzer Helm",
+    "fr": ""
+  },
+  {
+    "id": "141",
+    "en": "Jagd Helm",
+    "fr": ""
+  },
+  {
+    "id": "142",
+    "en": "Sturm Helm",
+    "fr": ""
+  },
+  {
+    "id": "143",
+    "en": "Tenma Helm",
+    "fr": ""
+  },
+  {
+    "id": "144",
+    "en": "Masakado Helm",
+    "fr": ""
+  },
+  {
+    "id": "145",
+    "en": "Zipanium Helm",
+    "fr": ""
+  },
+  {
+    "id": "146",
+    "en": "Jesus Helm",
+    "fr": ""
+  },
+  {
+    "id": "147",
+    "en": "Huaton",
+    "fr": ""
+  },
+  {
+    "id": "148",
+    "en": "Survival Vest",
+    "fr": ""
+  },
+  {
+    "id": "149",
+    "en": "Amigo Poncho",
+    "fr": ""
+  },
+  {
+    "id": "150",
+    "en": "High-Leg Armor",
+    "fr": ""
+  },
+  {
+    "id": "151",
+    "en": "Kaiser Armor",
+    "fr": ""
+  },
+  {
+    "id": "152",
+    "en": "Sun Armor",
+    "fr": ""
+  },
+  {
+    "id": "153",
+    "en": "Lion Happi",
+    "fr": ""
+  },
+  {
+    "id": "154",
+    "en": "Rearguard Armor",
+    "fr": ""
+  },
+  {
+    "id": "155",
+    "en": "Skull Gi",
+    "fr": ""
+  },
+  {
+    "id": "156",
+    "en": "Tetra Jammer",
+    "fr": ""
+  },
+  {
+    "id": "157",
+    "en": "Dragon Mail",
+    "fr": ""
+  },
+  {
+    "id": "158",
+    "en": "Dawn Armor",
+    "fr": ""
+  },
+  {
+    "id": "159",
+    "en": "Flame Armor",
+    "fr": ""
+  },
+  {
+    "id": "160",
+    "en": "Panzer Suit",
+    "fr": ""
+  },
+  {
+    "id": "161",
+    "en": "Jagd Armor",
+    "fr": ""
+  },
+  {
+    "id": "162",
+    "en": "Sturm Suit",
+    "fr": ""
+  },
+  {
+    "id": "163",
+    "en": "Tenma Armor",
+    "fr": ""
+  },
+  {
+    "id": "164",
+    "en": "Masakado Armor",
+    "fr": ""
+  },
+  {
+    "id": "165",
+    "en": "Zipanium Suit",
+    "fr": ""
+  },
+  {
+    "id": "166",
+    "en": "Jesus Armor",
+    "fr": ""
+  },
+  {
+    "id": "167",
+    "en": "Tapsuan",
+    "fr": ""
+  },
+  {
+    "id": "168",
+    "en": "Leather Glove",
+    "fr": ""
+  },
+  {
+    "id": "169",
+    "en": "Star Glove",
+    "fr": ""
+  },
+  {
+    "id": "170",
+    "en": "Rivet Knuckle",
+    "fr": ""
+  },
+  {
+    "id": "171",
+    "en": "Jamming Arm",
+    "fr": ""
+  },
+  {
+    "id": "172",
+    "en": "Arm Bridge",
+    "fr": ""
+  },
+  {
+    "id": "173",
+    "en": "Whirl Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "174",
+    "en": "Blade Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "175",
+    "en": "Power Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "176",
+    "en": "Revenge Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "177",
+    "en": "Draupnir",
+    "fr": ""
+  },
+  {
+    "id": "178",
+    "en": "Dawn Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "179",
+    "en": "Blaze Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "180",
+    "en": "Panzer Fist",
+    "fr": ""
+  },
+  {
+    "id": "181",
+    "en": "Jagd Glove",
+    "fr": ""
+  },
+  {
+    "id": "182",
+    "en": "Sturm Glove",
+    "fr": ""
+  },
+  {
+    "id": "183",
+    "en": "Tenma Gauntlet",
+    "fr": ""
+  },
+  {
+    "id": "184",
+    "en": "Masakado Glove",
+    "fr": ""
+  },
+  {
+    "id": "185",
+    "en": "Zipanium Glove",
+    "fr": ""
+  },
+  {
+    "id": "186",
+    "en": "Jesus Glove",
+    "fr": ""
+  },
+  {
+    "id": "187",
+    "en": "Parhurat",
+    "fr": ""
+  },
+  {
+    "id": "188",
+    "en": "Leather Boots",
+    "fr": ""
+  },
+  {
+    "id": "189",
+    "en": "Legger Slam",
+    "fr": ""
+  },
+  {
+    "id": "190",
+    "en": "Happy Sandals",
+    "fr": ""
+  },
+  {
+    "id": "191",
+    "en": "Titanium Boots",
+    "fr": ""
+  },
+  {
+    "id": "192",
+    "en": "Dancing Heels",
+    "fr": ""
+  },
+  {
+    "id": "193",
+    "en": "Aero Jet",
+    "fr": ""
+  },
+  {
+    "id": "194",
+    "en": "Cres. Greaves",
+    "fr": ""
+  },
+  {
+    "id": "195",
+    "en": "Climb Shoes",
+    "fr": ""
+  },
+  {
+    "id": "196",
+    "en": "Bell Greaves",
+    "fr": ""
+  },
+  {
+    "id": "197",
+    "en": "Dragon Boots",
+    "fr": ""
+  },
+  {
+    "id": "198",
+    "en": "Dawn Greaves",
+    "fr": ""
+  },
+  {
+    "id": "199",
+    "en": "Blaze Greaves",
+    "fr": ""
+  },
+  {
+    "id": "200",
+    "en": "Panzer Leg",
+    "fr": ""
+  },
+  {
+    "id": "201",
+    "en": "Jagd Leg",
+    "fr": ""
+  },
+  {
+    "id": "202",
+    "en": "Sturm Leg",
+    "fr": ""
+  },
+  {
+    "id": "203",
+    "en": "Tenma Greaves",
+    "fr": ""
+  },
+  {
+    "id": "204",
+    "en": "Masakado Boots",
+    "fr": ""
+  },
+  {
+    "id": "205",
+    "en": "Zipanium Leg",
+    "fr": ""
+  },
+  {
+    "id": "206",
+    "en": "Jesus Leg",
+    "fr": ""
+  },
+  {
+    "id": "207",
+    "en": "Kamraiterao",
+    "fr": ""
+  },
+  {
+    "id": "208",
+    "en": "Mazio Stone",
+    "fr": ""
+  },
+  {
+    "id": "209",
+    "en": "Mabufu Stone",
+    "fr": ""
+  },
+  {
+    "id": "210",
+    "en": "Maragi Stone",
+    "fr": ""
+  },
+  {
+    "id": "211",
+    "en": "Spiral Bomb",
+    "fr": ""
+  },
+  {
+    "id": "212",
+    "en": "Punch Gun",
+    "fr": ""
+  },
+  {
+    "id": "213",
+    "en": "Poison Dish",
+    "fr": ""
+  },
+  {
+    "id": "214",
+    "en": "Segaki Rice",
+    "fr": ""
+  },
+  {
+    "id": "215",
+    "en": "Secret Needle",
+    "fr": ""
+  },
+  {
+    "id": "216",
+    "en": "Hama Arrow",
+    "fr": ""
+  },
+  {
+    "id": "217",
+    "en": "Poison Arrow",
+    "fr": ""
+  },
+  {
+    "id": "218",
+    "en": "Medicine",
+    "fr": ""
+  },
+  {
+    "id": "219",
+    "en": "Jewel",
+    "fr": ""
+  },
+  {
+    "id": "220",
+    "en": "Distone",
+    "fr": ""
+  },
+  {
+    "id": "221",
+    "en": "Disparalyze",
+    "fr": ""
+  },
+  {
+    "id": "222",
+    "en": "Dispoison",
+    "fr": ""
+  },
+  {
+    "id": "223",
+    "en": "Recall Orb",
+    "fr": ""
+  },
+  {
+    "id": "224",
+    "en": "Amida Beads",
+    "fr": ""
+  },
+  {
+    "id": "225",
+    "en": "React Sheet",
+    "fr": ""
+  },
+  {
+    "id": "226",
+    "en": "Seal Bell",
+    "fr": ""
+  },
+  {
+    "id": "227",
+    "en": "Saint's Flute",
+    "fr": ""
+  },
+  {
+    "id": "228",
+    "en": "Hiranya",
+    "fr": ""
+  },
+  {
+    "id": "229",
+    "en": "Magic Stone",
+    "fr": ""
+  },
+  {
+    "id": "230",
+    "en": "Muscle Drink",
+    "fr": ""
+  },
+  {
+    "id": "231",
+    "en": "Soma",
+    "fr": ""
+  },
+  {
+    "id": "232",
+    "en": "Elixir",
+    "fr": ""
+  },
+  {
+    "id": "233",
+    "en": "Revive Incense",
+    "fr": ""
+  },
+  {
+    "id": "234",
+    "en": "Luck Incense",
+    "fr": ""
+  },
+  {
+    "id": "235",
+    "en": "Vitality Incense",
+    "fr": ""
+  },
+  {
+    "id": "236",
+    "en": "Wisdom Incense",
+    "fr": ""
+  },
+  {
+    "id": "237",
+    "en": "Str Incense",
+    "fr": ""
+  },
+  {
+    "id": "238",
+    "en": "Speed Incense",
+    "fr": ""
+  },
+  {
+    "id": "239",
+    "en": "Magic Incense",
+    "fr": ""
+  },
+  {
+    "id": "240",
+    "en": "Blue Scroll",
+    "fr": ""
+  },
+  {
+    "id": "241",
+    "en": "Asura's Palm",
+    "fr": ""
+  },
+  {
+    "id": "242",
+    "en": "Angel Hair",
+    "fr": ""
+  },
+  {
+    "id": "243",
+    "en": "Buddha Statue",
+    "fr": ""
+  },
+  {
+    "id": "244",
+    "en": "Rosary",
+    "fr": ""
+  },
+  {
+    "id": "245",
+    "en": "Melt Orb",
+    "fr": ""
+  },
+  {
+    "id": "246",
+    "en": "Hyper Drop",
+    "fr": ""
+  },
+  {
+    "id": "247",
+    "en": "Core Shield",
+    "fr": ""
+  },
+  {
+    "id": "248",
+    "en": "Red Scroll",
+    "fr": ""
+  },
+  {
+    "id": "249",
+    "en": "Balloon Shield",
+    "fr": ""
+  },
+  {
+    "id": "250",
+    "en": "Mist Jar",
+    "fr": ""
+  },
+  {
+    "id": "251",
+    "en": "Bronze Box",
+    "fr": ""
+  },
+  {
+    "id": "252",
+    "en": "Survey Bell",
+    "fr": ""
+  },
+  {
+    "id": "253",
+    "en": "Amulet",
+    "fr": ""
+  },
+  {
+    "id": "254",
+    "en": "Metal Card",
+    "fr": ""
+  },
+  {
+    "id": "255",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "256",
+    "en": "Invitation",
+    "fr": ""
+  },
+  {
+    "id": "257",
+    "en": "Citizen ID",
+    "fr": ""
+  },
+  {
+    "id": "258",
+    "en": "Laughing Doll",
+    "fr": ""
+  },
+  {
+    "id": "259",
+    "en": "Crying Doll",
+    "fr": ""
+  },
+  {
+    "id": "260",
+    "en": "Angry Doll",
+    "fr": ""
+  },
+  {
+    "id": "261",
+    "en": "Dancing Doll",
+    "fr": ""
+  },
+  {
+    "id": "262",
+    "en": "Sleeping Doll",
+    "fr": ""
+  },
+  {
+    "id": "263",
+    "en": "Mekata's Memo",
+    "fr": ""
+  },
+  {
+    "id": "264",
+    "en": "Fickle Dew",
+    "fr": ""
+  },
+  {
+    "id": "265",
+    "en": "Masakado Body",
+    "fr": ""
+  },
+  {
+    "id": "266",
+    "en": "Lord's Head",
+    "fr": ""
+  },
+  {
+    "id": "267",
+    "en": "Lord's Torso",
+    "fr": ""
+  },
+  {
+    "id": "268",
+    "en": "Lord's R.Arm",
+    "fr": ""
+  },
+  {
+    "id": "269",
+    "en": "Lord's L.Arm",
+    "fr": ""
+  },
+  {
+    "id": "270",
+    "en": "Lord's R.Leg",
+    "fr": ""
+  },
+  {
+    "id": "271",
+    "en": "Lord's L.Leg",
+    "fr": ""
+  },
+  {
+    "id": "272",
+    "en": "Sun Pillar",
+    "fr": ""
+  },
+  {
+    "id": "273",
+    "en": "Moon Pillar",
+    "fr": ""
+  },
+  {
+    "id": "274",
+    "en": "Mars Pillar",
+    "fr": ""
+  },
+  {
+    "id": "275",
+    "en": "Mercury Pillar",
+    "fr": ""
+  },
+  {
+    "id": "276",
+    "en": "Jupiter Pillar",
+    "fr": ""
+  },
+  {
+    "id": "277",
+    "en": "Venus Pillar",
+    "fr": ""
+  },
+  {
+    "id": "278",
+    "en": "Saturn Pillar",
+    "fr": ""
+  },
+  {
+    "id": "279",
+    "en": "Masakado Blade",
+    "fr": ""
+  },
+  {
+    "id": "280",
+    "en": "Ain Key",
+    "fr": ""
+  },
+  {
+    "id": "281",
+    "en": "Lamed Key",
+    "fr": ""
+  },
+  {
+    "id": "282",
+    "en": "MAG Presser",
+    "fr": ""
+  },
+  {
+    "id": "283",
+    "en": "Hagoromo",
+    "fr": ""
+  },
+  {
+    "id": "284",
+    "en": "Hihiirokane",
+    "fr": ""
+  },
+  {
+    "id": "285",
+    "en": "Invitation",
+    "fr": ""
+  },
+  {
+    "id": "286",
+    "en": "Invitation",
+    "fr": ""
+  },
+  {
+    "id": "287",
+    "en": "Invitation",
+    "fr": ""
+  },
+  {
+    "id": "288",
+    "en": "Amethyst",
+    "fr": ""
+  },
+  {
+    "id": "289",
+    "en": "Aquamarine",
+    "fr": ""
+  },
+  {
+    "id": "290",
+    "en": "Emerald",
+    "fr": ""
+  },
+  {
+    "id": "291",
+    "en": "Onyx",
+    "fr": ""
+  },
+  {
+    "id": "292",
+    "en": "Opal",
+    "fr": ""
+  },
+  {
+    "id": "293",
+    "en": "Garnet",
+    "fr": ""
+  },
+  {
+    "id": "294",
+    "en": "Sapphire",
+    "fr": ""
+  },
+  {
+    "id": "295",
+    "en": "Diamond",
+    "fr": ""
+  },
+  {
+    "id": "296",
+    "en": "Turquoise",
+    "fr": ""
+  },
+  {
+    "id": "297",
+    "en": "Topaz",
+    "fr": ""
+  },
+  {
+    "id": "298",
+    "en": "Pearl",
+    "fr": ""
+  },
+  {
+    "id": "299",
+    "en": "Ruby",
+    "fr": ""
+  },
+  {
+    "id": "300",
+    "en": "Sacred stone:\nMazio",
+    "fr": ""
+  },
+  {
+    "id": "301",
+    "en": "Sacred stone:\nMabufu",
+    "fr": ""
+  },
+  {
+    "id": "302",
+    "en": "Sacred stone:\nMaragi",
+    "fr": ""
+  },
+  {
+    "id": "303",
+    "en": "SLEEP,\nseveral foes",
+    "fr": ""
+  },
+  {
+    "id": "304",
+    "en": "Blows 1 foe\nout of battle",
+    "fr": ""
+  },
+  {
+    "id": "305",
+    "en": "Curse-kills\n2 foes",
+    "fr": ""
+  },
+  {
+    "id": "306",
+    "en": "Expel 2 foes\n(Hama)",
+    "fr": ""
+  },
+  {
+    "id": "307",
+    "en": "Curse-kills\nseveral foes",
+    "fr": ""
+  },
+  {
+    "id": "308",
+    "en": "Almighty dmg,\nall foes",
+    "fr": ""
+  },
+  {
+    "id": "309",
+    "en": "POISON,\nall foes",
+    "fr": ""
+  },
+  {
+    "id": "310",
+    "en": "Minor HP heal,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "311",
+    "en": "Full HP heal,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "312",
+    "en": "Cures STONE,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "313",
+    "en": "Cures PALYZE,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "314",
+    "en": "Cures POISON,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "315",
+    "en": "Revive 1/4 HP,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "316",
+    "en": "Avoids Drain\n(non-Law)",
+    "fr": ""
+  },
+  {
+    "id": "317",
+    "en": "Summon ally,\nno COMP",
+    "fr": ""
+  },
+  {
+    "id": "318",
+    "en": "Fewer\nweak foes",
+    "fr": ""
+  },
+  {
+    "id": "319",
+    "en": "Reflects DARK\nphys 1 turn",
+    "fr": ""
+  },
+  {
+    "id": "320",
+    "en": "Heals HP/MP,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "321",
+    "en": "Heals 25% max\nHP, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "322",
+    "en": "Big HP heal\n(side effect?)",
+    "fr": ""
+  },
+  {
+    "id": "323",
+    "en": "Full HP/MP,\ncure ailments",
+    "fr": ""
+  },
+  {
+    "id": "324",
+    "en": "Revive 1/8 HP,\n1 ally",
+    "fr": ""
+  },
+  {
+    "id": "325",
+    "en": "Revive full\nHP, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "326",
+    "en": "Full heal,\n+1 Luck",
+    "fr": ""
+  },
+  {
+    "id": "327",
+    "en": "Full heal,\n+1 Vitality",
+    "fr": ""
+  },
+  {
+    "id": "328",
+    "en": "Full heal,\n+1 Wisdom",
+    "fr": ""
+  },
+  {
+    "id": "329",
+    "en": "Full heal,\n+1 Strength",
+    "fr": ""
+  },
+  {
+    "id": "330",
+    "en": "Full heal,\n+1 Speed",
+    "fr": ""
+  },
+  {
+    "id": "331",
+    "en": "Full heal,\n+1 Magic",
+    "fr": ""
+  },
+  {
+    "id": "332",
+    "en": "Random heal\nspell effect",
+    "fr": ""
+  },
+  {
+    "id": "333",
+    "en": "Heals CHAOS,\nharms others",
+    "fr": ""
+  },
+  {
+    "id": "334",
+    "en": "Heals LAW,\nharms others",
+    "fr": ""
+  },
+  {
+    "id": "335",
+    "en": "Auto-revive\n(non-Law)",
+    "fr": ""
+  },
+  {
+    "id": "336",
+    "en": "Guards Drain,\nauto-revive Law",
+    "fr": ""
+  },
+  {
+    "id": "337",
+    "en": "1/4 chance:\nslime all foes",
+    "fr": ""
+  },
+  {
+    "id": "338",
+    "en": "Big HP heal\n(side effect!)",
+    "fr": ""
+  },
+  {
+    "id": "339",
+    "en": "Nulls damage\nzone (1 moon)",
+    "fr": ""
+  },
+  {
+    "id": "340",
+    "en": "Random attack\nspell effect",
+    "fr": ""
+  },
+  {
+    "id": "341",
+    "en": "Nulls foe\nattack once",
+    "fr": ""
+  },
+  {
+    "id": "342",
+    "en": "Preemptive\nstrikes (1 moon)",
+    "fr": ""
+  },
+  {
+    "id": "343",
+    "en": "Summons a\nregistered demon",
+    "fr": ""
+  },
+  {
+    "id": "344",
+    "en": "Auto-maps\n5x5 area",
+    "fr": ""
+  },
+  {
+    "id": "345",
+    "en": "Nulls floor\ndamage zone",
+    "fr": ""
+  },
+  {
+    "id": "346",
+    "en": "Card for\nCode Breaker",
+    "fr": ""
+  },
+  {
+    "id": "347",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "348",
+    "en": "Attack Knife",
+    "fr": ""
+  }
+]

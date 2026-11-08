@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "0x0200",
+    "en": "Fighter: ...I'll probably lose{CR}my next match anyway.{CR}...I don't want to die...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0201",
+    "en": "Fighter: Haneda Gym has produced{CR}champion after champion.{CR}It's the largest gym in Valhalla.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0202",
+    "en": "Fighter: Okamoto Gym is where{CR}the new Champion, {SY}, trains.{CR}It's really popular now...{WT}W-Wait! You're the Champion!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0203",
+    "en": "Fighter: Okamoto Gym is the{CR}famous gym where the Messiah,{CR}{SY}, once trained...{WT}Y-You're the Messiah!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0204",
+    "en": "Colosseum Staff: Hey, Okamoto.{CR}Looks like you brought your fighter,{CR}{SY}.{WT}{PG}Don't let him go down too easy.{CR}The crowd'll riot if they don't{CR}get their money's worth.{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 0: tournament final / Hall of Fame (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x0205",
+    "en": "{PG}The final will be a Dungeon Match.{WT}Each fighter enters through{CR}a different gate and makes for{CR}the ring in the center.{WT}{PG}There are items scattered{CR}throughout the dungeon.{WT}Grab them, and you'll have{CR}an edge in the fight.{WT}But we've let demons loose in{CR}there, so watch yourself.{WT}{PG}Once both fighters reach the{CR}ring, the real match begins.{WT}First one to put the other{CR}fighter down wins.{WT}{PG}Got the rules?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0206",
+    "en": "All right, {SY}. Head upstairs.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0207",
+    "en": "Okamoto: We've made it this far.{CR}There's nothing else I can teach you!{WT}Trust yourself!{CR}You're strong, and you're going to win!{WT}Just promise me you'll come{CR}back alive!{WT}{PG}Now get in there!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0208",
+    "en": "Colosseum Staff: Hey, Champ.{CR}That was one hell of a fight.{WT}Give us another show like that{CR}next time, will you?{WT}{PG}Did Okamoto give you your cut?{CR}The purse was ћ1,000,000.{WT}What? He didn't give you any?{WT}{PG}...That old fool's at the{CR}casino again, isn't he?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0209",
+    "en": "Colosseum Staff: The Messiah!{CR}Never thought our Champion{CR}would turn out to be the savior.{WT}Guess might really does make right.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020a",
+    "en": "Announcer: Today's main event!{CR}The tournament final begins now!{WT}The fighters competing for the{CR}title of Champion are...{WT}Red Bear!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020b",
+    "en": "{WT}...and {SY}!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020c",
+    "en": "{WT}{PG}READY!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020d",
+    "en": "GO!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020e",
+    "en": "{MG}: So you're the one...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x020f",
+    "en": "{MG}: ...Hey!{CR}Where are you looking?{CR}Pay attention when I'm talking!{WT}Ignoring me takes guts...{CR}or maybe you're just an idiot. {WT}{SY}, you've done well to make it{CR}this far.{WT}I'll praise the fight you put up...{TI}{CR}And then...{TI}{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0210",
+    "en": "I'll mourn you when you're dead!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0211",
+    "en": "...One more win...{CR}and I'd have been Champion...{CR}I could've gone to the Center...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0212",
+    "en": "Announcer: We have our Champion!{CR}{SY} wins the match!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0213",
+    "en": "The new Champion is {SY}!{TI}{CR}The new Champion is...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0214",
+    "en": "Guide: This is the Hall of Fame.{WT}These statues honor the Champions{CR}who won the tournament and earned{CR}passage to the Center.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0215",
+    "en": ">The Hero{CR}The very first Champion.{CR}Said to have summoned demons{CR}at will.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0216",
+    "en": ">The Hero's statue is{CR}weeping...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0217",
+    "en": ">Feather Adonis{CR}A powerhouse the likes of which{CR}the Colosseum had never seen.{CR}His death match with Killer Tsune{CR}is legendary.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0218",
+    "en": ">Thomas Tank{CR}An incredibly resilient fighter.{CR}His bio-MAG was said to be three{CR}times that of an ordinary person.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0219",
+    "en": ">Go Mifune{CR}He always fought fair and was{CR}known as a true samurai. His{CR}honesty still wins him fans today.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x021a",
+    "en": ">King Muscle{CR}He took great pride in his{CR}magnificent physique, and was also{CR}known for his incredible luck.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x021b",
+    "en": ">Akira Otomo{CR}Small in stature, he defeated one{CR}powerful opponent after another by{CR}turning their strength against them.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x021c",
+    "en": "Colosseum Staff: There you are,{CR}Champion.{WT}You're scheduled to fight {FO}{CR}here today. You already know{CR}what this is about, right?{ED}",
+    "fr": "",
+    "note": "---- Bank 0: false Messiah match / Beth's sacrifice (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x021d",
+    "en": "Then you'd better hear the story.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x021e",
+    "en": "{FO} is the man everyone's{CR}calling Millennium's Messiah.{WT}He claims he's the true Messiah,{CR}and he challenged you to settle{CR}the question once and for all.{WT}{PG}Both you and {FO} are rumored{CR}to be the Messiah.{CR}A match between you two{CR}is good business for us.{WT}So we arranged this special match.{CR}Now you understand?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x021f",
+    "en": "All right, get in there.{CR}{FO} is already waiting.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0220",
+    "en": "Voice: So you've come, {SY}!{CR}Anti-Messiah! Your false{CR}salvation leads people astray!{WT}{PG}For their sake, you must die!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0221",
+    "en": "...But a fight with you in that{CR}condition wouldn't be much of{CR}a match. Go get yourself healed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0222",
+    "en": "Voice: Look! There he is!{CR}The impostor! The false savior!{CR}The Anti-Messiah!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0223",
+    "en": "{FO}: You came this far. Impressive.{WT}But God wills your death,{CR}impostor! Prepare yourself!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0224",
+    "en": "{FO}: I am the savior!{CR}In the Messiah's name, I will{CR}strike you down!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0225",
+    "en": "{FO}: Know your place!{CR}Behold the true Messiah's power!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0226",
+    "en": "{PG}{FO} unleashes his finishing blow!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0227",
+    "en": "{FO}: You're a stubborn one!{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0228",
+    "en": "{CR}But this is the end!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0229",
+    "en": "{NI}: Look out!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022a",
+    "en": "{SY}, move!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022b",
+    "en": "Aaaaaah!!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022c",
+    "en": "{PG}{FO}: Y-{TI}You bastard!!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022d",
+    "en": "Using a woman as your shield...{CR}I'll never forgive you!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022e",
+    "en": "{PG}{FO}: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x022f",
+    "en": "Why did I...{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0230",
+    "en": "How could I, the savior, lose...?{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0231",
+    "en": "Why...?{TI}{TI}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0232",
+    "en": ">Deal the final blow to {FO}?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0233",
+    "en": "{PG}{NI}: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0234",
+    "en": "Stop.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0235",
+    "en": "...{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0236",
+    "en": "Don't kill him.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0237",
+    "en": "......{TI}{TI}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0238",
+    "en": ">Are you sure you want to{CR}finish {FO}?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0239",
+    "en": "Please listen{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023a",
+    "en": "to me, {SY}.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023b",
+    "en": "......{TI}{TI} {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023c",
+    "en": "No...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023d",
+    "en": "...{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023e",
+    "en": "You mustn't kill him.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x023f",
+    "en": "...{CR}{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0240",
+    "en": "You changed your{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0241",
+    "en": "mind... didn't you?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0242",
+    "en": "......{TI}{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0243",
+    "en": "{CR}I'm not going to make it...{TI}{TI} So...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0244",
+    "en": "{CR}I want him to live...{TI}{TI} and...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0245",
+    "en": "{CR}I want you to live, too.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0246",
+    "en": "......{TI}{TI}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0247",
+    "en": "My purpose was {TI}to protect{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0248",
+    "en": " you.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0249",
+    "en": "...{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024a",
+    "en": "{CR}We weren't together {TI}for long, but...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024b",
+    "en": "{CR}being {TI}with you...{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024c",
+    "en": "{CR}made me so{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024d",
+    "en": " hap-{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024e",
+    "en": "py...{TI}{TI}{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x024f",
+    "en": "{PG}>{NI} breathed her last.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0250",
+    "en": "{FO}: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0251",
+    "en": "D-Damn you...!{TI}{CR}I'll{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0252",
+    "en": " never{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0253",
+    "en": " for-{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0254",
+    "en": "get{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0255",
+    "en": " this{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0256",
+    "en": "...!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0257",
+    "en": ">{FO} fled.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0258",
+    "en": "Center Bishop: {FO}, who called{CR}himself the savior, has been{CR}defeated!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0259",
+    "en": "{PG}As God foretold, the Anti-Messiah{CR}appeared to lead the people astray{CR}and was struck down by the hand{CR}of the true Messiah!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x025a",
+    "en": "{PG}{SY} is the one true Messiah!{WT}At last, God has sent us{CR}our savior!{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 0: Madam / restored identity / Center missions (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x025b",
+    "en": "{PG}Voice: Long live our savior,{CR}{SY}!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x025c",
+    "en": "Child: Some weird old guy told me{CR}to give you this. Here!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x025d",
+    "en": "{PG}>The child gave you a note.{WT}{PG}It read: {WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x025e",
+    "en": "I want to tell you the truth.{TI}{CR}Meet me behind Gaia Temple{CR}on the first floor of the Slums.{CR}                    Mekata{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x025f",
+    "en": "Gatekeeper: This is Madam's manor.{CR}Unless you have business here,{CR}you're not getting in.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0260",
+    "en": "Gatekeeper: You have the \"{IT}\"...{WT}Y-You're the new Champion,{CR}{SY}!{CR}Right this way to the elevator.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0261",
+    "en": "Gatekeeper: Ah, {SY}.{CR}Please come in.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0262",
+    "en": "Go up?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0263",
+    "en": ">Go down?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0264",
+    "en": "Alfred: Ah, our new Champion.{CR}Welcome. Madam is expecting you.{WT}Madam, the new Champion{CR}has arrived.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0265",
+    "en": "Madam: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0266",
+    "en": "I am the ruler of Valhalla.{CR}Everyone here calls me \"Madam.\"{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0267",
+    "en": "{PG}The Center has entrusted me with{CR}all matters concerning Valhalla.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0268",
+    "en": "{PG}The people flock to the Colosseum{CR}and casino we operate,{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0269",
+    "en": " surrendering themselves{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026a",
+    "en": "{CR}to fleeting pleasures.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026b",
+    "en": "{PG}And so Valhalla prospers in peace.{CR}Its people enjoy life without{CR}conflict. Isn't that wonderful?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026c",
+    "en": "{PG}I believe Valhalla is exactly{CR}as it should be.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026d",
+    "en": "Take a look at this.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026e",
+    "en": "{PG}This is the Center, the body{CR}that governs all of Millennium.{WT}The Center intends to tighten{CR}its control over every district.{WT}{PG}But I intend for Valhalla{CR}to remain what it has always been...{CR}free and open.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x026f",
+    "en": "...However, a problem has{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0270",
+    "en": " arisen.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0271",
+    "en": "A scientist in my employ{CR}has escaped.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0272",
+    "en": "{PG}He intends to open a gateway to{CR}the Underworld and summon hordes{CR}of demons to the surface.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0273",
+    "en": "{PG}I called you here so that you{CR}could find him and bring him{CR}back... Will you do it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0274",
+    "en": "{PG}His name is Hanada.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0275",
+    "en": "{Fe}: Hanada?!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0276",
+    "en": "Hanada isn't{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0277",
+    "en": " here?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0278",
+    "en": "Correct. It seems Hanada fled{CR}into the Slums.{CR}I'm counting on you, {SY}.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0279",
+    "en": "Oh, one more thing.{CR}I'll lend you one of my pets.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027a",
+    "en": "...{MG}, come here.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027b",
+    "en": "{ZK} {MG} will lend you{CR}its strength.{WT}I'm certain it will prove useful. {WT}{MG}, introduce yourself to {SY}.{WT}{PG}{MG}: So you're Hawk,{CR}the new Champion.{WT}I don't usually waste my time{CR}on low-level humans.{WT}But Madam asked, so I guess{CR}I'll tag along.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027c",
+    "en": "Guess we're partners now...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027d",
+    "en": ">{ZK} {MG}{CR}joined as an ally.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027e",
+    "en": "I'm counting on you, {SY}.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x027f",
+    "en": "...Oh, it seems you already have{CR}all the allies you can manage.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0280",
+    "en": "Come back if you find yourself{CR}in need of a powerful demon.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0281",
+    "en": "Welcome back, {SY}.{CR}I'll lend you one of my pets.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0282",
+    "en": "Alfred: Please bring Hanada back{CR}as soon as possible.{CR}Madam is waiting.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0283",
+    "en": "Alfred: We've been expecting you,{CR}{SY}.{CR}I'll summon Madam at once.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0284",
+    "en": "{MG}: I suppose this is goodbye.{CR}We failed to bring Hanada back,{CR}but you're strong. I like that.{WT}I'm sure we'll meet again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0285",
+    "en": "{PG}>{MG} left the party.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0286",
+    "en": "{SY}, thank you for your efforts.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0287",
+    "en": "{PG}I was certain that you{CR}would bring Hanada{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0288",
+    "en": " back...{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0289",
+    "en": "How disappointing.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028a",
+    "en": "{PG}Oh? {MG} isn't with you.{CR}After I went to the trouble of{CR}lending it to you... What a shame.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028b",
+    "en": "{PG}In any case, you have a visitor.{CR}An envoy from the Center.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028c",
+    "en": "Man: So you're the new Champion,{CR}{SY}...{WT} Remember! Remember your real name!{WT}Your name is...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028d",
+    "en": "Man: ...{SY}!{WT}{PG}Does that stir your memory, {SY}?{WT} I'm {FI}. I've been looking{CR}for you all this time.{WT}You were originally a citizen{CR}of the Center, {SY}.{WT} And {Fe}...{CR}the Center has ordered you{CR}to return as well.{WT}Both of you will come with me{CR}to the Center immediately.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028e",
+    "en": "What a surprise...{CR}To think you were a citizen{CR}of the Center all along...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x028f",
+    "en": "{PG}Then there was no need for you to{CR}fight all those dangerous{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0290",
+    "en": " battles{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0291",
+    "en": "{CR}in the Colosseum...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0292",
+    "en": "{PG}You don't belong in a place like{CR}this. Return to the Center at once.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0293",
+    "en": "Alfred: Madam is terribly busy{CR}and cannot see you right now.{CR}Please accept my apologies.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0294",
+    "en": "Center Bishop: You both came.{CR}Or should I say... returned?{WT}In any event, I am relieved{CR}to see you safe.{WT}{PG}This {IT} belongs to you.{CR}At last, I can return it{CR}to its rightful owner.{WT}{PG}>Obtained the \"{IT}\".{WT}{PG}Center Bishop: Now then, {Fe}.{CR}A proud Temple Knight may not{CR}leave the Center without permission.{WT}We will discuss your reasons{CR}in private. Someone escort{CR}{Fe} inside.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0295",
+    "en": "{Fe}: Thank you for everything,{CR}{SY}.{WT} I'm sorry we never found that boy...{TI}{CR}I hope we meet again someday.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0296",
+    "en": "Center Bishop: {SY},{CR}we rejoice at your return.{WT}{PG}When Mekata abducted you from{CR}the Center, he erased your memory.{WT}It seems you have forgotten{CR}even the duty you were born to bear.{WT}{PG}{SY}...{WT} You are destined to become{CR}the Messiah.{WT}You came into this world bearing{CR}the fate of its savior.{WT}{PG}Your extraordinary power exists{CR}for the salvation of mankind.{WT}{PG}Upon this land once called Tokyo,{CR}we built Millennium.{WT}We built it to save the people{CR}from a world laid waste...{CR}to make real a Thousand-Year{CR}Kingdom of eternal peace.{WT}{PG}But for Millennium to become{CR}that true and holy Kingdom,{CR}we require a Messiah to lead us.{WT}{PG}And then you were born.{CR}You are the one God sent to us{CR}as mankind's savior.{WT}{PG}God also sent a partner worthy{CR}of standing beside His Messiah. {WT}{NI}, come in.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0297",
+    "en": "{NI}: Welcome home...{TI}{CR}Though I suppose you don't{CR}remember this place at all.{TI}{CR}Poor {SY}...{WT} But from now on, I'll be here{CR}beside you.{WT}{PG}Take your time. As your memories{CR}return little by little,{CR}you'll find your way back{CR}to the {SY} you used to be.{WT}I will never leave your side{CR}again, {SY}...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0298",
+    "en": "{PG}>{NI} joined the party.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0299",
+    "en": "Center Bishop: {SY}.{CR}A terrible calamity has befallen{CR}the Holy Town district. {WT}{MG} has frozen the entire district,{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029a",
+    "en": "{MG} has filled it with poison gas,{CR}and countless people are dying.{WT}Save Holy Town...{CR}Save its people.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029b",
+    "en": "Center Bishop: Hurry. Defeat {MG}{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029c",
+    "en": "and {MG}, and save the people{CR}of Holy Town.{WT}The passcode is 0352.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029d",
+    "en": "Enter through the Center's west{CR}gate. Input passcode 0352 to{CR}access Holy Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029e",
+    "en": "Center Bishop: {SY}.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x029f",
+    "en": "Your work in Holy Town{CR}was most commendable.{WT}{PG}{Fe} has told me how Hanada{CR}met his end.{WT}It seems he was far too confident{CR}in his own abilities.{WT}That leaves only Mekata...{CR}but where could he be?{WT}{PG}If left unchecked, he could do{CR}things even Hanada never dared.{WT}He is the more dangerous{CR}of the two by far.{WT}{PG}Voice: Your Grace!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a0",
+    "en": "Priest: Your Grace! Something{CR}terrible has happened...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a1",
+    "en": "Bishop: ...That will be all.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a2",
+    "en": "...{SY}, another grave incident{CR}has occurred.{WT}{PG}{MG} has appeared at the{CR}excavation site beneath Factory.{WT}Perhaps because of its presence,{CR}the {MN} raised there for food{CR}have begun to rampage.{WT}{PG}The lives of everyone working{CR}in Factory are now in danger.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a3",
+    "en": "Defeat {MG} and {MN},{CR}and save the Factory's people.{WT}{PG}Take the Center's south entrance{CR}underground.{WT}{PG}The Factory area passcode{CR}is 6191.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a4",
+    "en": "{FI}: Well done.{CR}Thank you for saving so many lives.{WT}{PG}There's somewhere I'd like{CR}you to see next: Arcadia.{WT}That district is an experiment{CR}in making our ideal{CR}Thousand-Year Kingdom a reality.{WT}{PG}{SN} is there.{CR}Do you remember him?{WT}If you still can't, perhaps{CR}seeing him will bring something back.{WT}{PG}Take the east passage out{CR}of the Center to reach Arcadia.{CR}The passcode is 9103.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a5",
+    "en": "Center Bishop: This is dire.{CR}Demons have breached the Center{CR}itself at last.{WT}{PG}Yet an even greater threat{CR}has appeared: a false Messiah.{WT}{PG}This impostor has skillfully won{CR}the hearts of the people.{WT}If he is allowed to continue,{CR}all of Millennium will fall into chaos.{WT}{PG}Reports place him in Holy Town{CR}and Valhalla, but at present{CR}we do not know where he is.{WT}{PG}Who is claiming to be our savior,{CR}and to what end?{CR}You must uncover the truth.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a6",
+    "en": "Center Bishop: Deal with the{CR}false Messiah immediately.{CR}Use any means necessary.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a7",
+    "en": "Center Bishop: The earthquakes{CR}have become alarmingly frequent.{WT}Their source appears to lie{CR}somewhere underground.{WT}{PG}As for the missing Mekata...{CR}we believe he is hiding in{CR}Valhalla's Slums.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a8",
+    "en": "Center Bishop: {SY}...{TI}{CR}It is no longer my place{CR}to give you orders.{WT}{PG}The members of the Senate wish{CR}to address you personally.{CR}Proceed to the 22nd floor.{WT}The passcode is 2784.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02a9",
+    "en": "{FI}: Please find out what{CR}happened in Holy Town{CR}as quickly as you can.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02aa",
+    "en": "{FI}: Holy Town's tower is{CR}a giant demon's tail.{WT}{PG}Its body must be in the{CR}Underworld. But how do we enter?{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 0: Holy Town / Factory / prison rescue (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x02ab",
+    "en": "Akira Otomo: Ha ha ha!{CR}I risked my life in Valhalla{CR}and earned an easy retirement.{WT}{PG}A Champion's life looked grand,{CR}but one loss meant death.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ac",
+    "en": "Akira Otomo: I finally became a{CR}Center citizen, and now the whole{CR}place might collapse? What a joke!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ad",
+    "en": "Researcher: We develop weapons{CR}here so citizens can protect{CR}themselves.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ae",
+    "en": "Want to hear about{CR}the weapons we're developing?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02af",
+    "en": "{PG}Which weapon?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b0",
+    "en": "Researcher: Every weapon we had{CR}in development was stolen.{CR}The Stalkers are responsible.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b1",
+    "en": "{PG}The \"{IT}\"?{CR}Let's see...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b2",
+    "en": "Researcher: We study biotechnology{CR}here.{WT}We distribute the items created{CR}by our research to the citizens.{CR}Is there something you need?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b3",
+    "en": "We'll prepare it for you.{CR}Please wait a moment.{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b4",
+    "en": "Researcher: A horde of demons{CR}ravaged the lab and stole every{CR}item we were developing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b5",
+    "en": ">Center entrance{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b6",
+    "en": ">The Center entrance is sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b7",
+    "en": "{PG}>Transfer function unavailable.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b8",
+    "en": "{FI}: {SY}!{CR}Something terrible has happened!{WT}I'm in a hurry, so I can't explain.{CR}Ask the Bishop for the details!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02b9",
+    "en": "{MG}: Hee! Ho!{CR}Hee-ho, hee-ho! Hee! Ho!{CR}Hee! Ho! Hee-ho!{CR}I'm in such a good mood!{WT}After all, I get to freeze{CR}as much as I want!{CR}Hee-ho! Hee... ho?{WT}Hey! Are you here to stop me?{CR}Then I'll freeze you solid!{CR}Hee! Ho!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ba",
+    "en": "Stalker: {MG} gone.{CR}Still cold here. Make refrigerator.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02bb",
+    "en": ">{ZK} {MG} appeared!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02bc",
+    "en": "...{MG} ran away...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02bd",
+    "en": "{MG} spewed poison gas!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02be",
+    "en": "{WT}{PG}{SY} and company were poisoned!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02bf",
+    "en": ">{ZK} {MG} appeared!{CR}...It looks ready to fight.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c0",
+    "en": "Messian Priest: Please help us{CR}rebuild the church in this land.{WT}Even a small portion of the{CR}Macca you carry would suffice.{WT}In God's name, we will put{CR}your offering to sacred purpose.{WT}A single donation is ћ1,000.{CR}Please give what you can.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c1",
+    "en": "Thank you. We are one step closer{CR}to rebuilding the church.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c2",
+    "en": "Thanks to you, we can rebuild{CR}the church. You have our gratitude.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c3",
+    "en": "...It seems you don't have{CR}much Macca to spare.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c4",
+    "en": "Perhaps another time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c5",
+    "en": "Messian Priest: At last, the{CR}church has been rebuilt.{WT}God will surely rejoice, and many{CR}more people will find salvation.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c6",
+    "en": "Messian Priest: The church will{CR}be rebuilt very soon.{CR}Please be patient{CR}just a little longer.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c7",
+    "en": "Messian Priest: Not a single Macca{CR}has been donated to rebuild{CR}the church. God, forgive me...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c8",
+    "en": "The area ahead is dangerous.{CR}You are forbidden to enter.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02c9",
+    "en": "Returning to the Center?{CR}Have a safe trip.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ca",
+    "en": "Stalker: Found weird severed head.{CR}Creepy. Can't sell.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02cb",
+    "en": "Stalker: What?{CR}You want head? Want it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02cc",
+    "en": "You don't want it...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02cd",
+    "en": "How about ћ20,000?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ce",
+    "en": "Pay ћ20,000 for it?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02cf",
+    "en": "...You not have enough Macca.{CR}Bring Macca, then come back.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d0",
+    "en": "Head is yours.{CR}Thanks.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d1",
+    "en": "Want it or not? Make up mind.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d2",
+    "en": "Fine. I sell it for ћ10,000.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d3",
+    "en": "Okay, okay! You can have it!{CR}Just put the weapon away!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d4",
+    "en": "Stalker: Any valuable items{CR}lying around?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d5",
+    "en": ">Go inside?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d6",
+    "en": ">The door is frozen shut.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d7",
+    "en": "Stalker: We looking for treasure{CR}up ahead. You can't pass yet.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d8",
+    "en": "{FO}: {SY}! I won't lose{CR}to you this time!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02d9",
+    "en": "{PG}{FO}: Damn it!{CR}I lost again...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02da",
+    "en": "Man: The ground east of the{CR}Cathedral is shaking.{CR}Something isn't right.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02db",
+    "en": "Man: M-My strength is fading...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02dc",
+    "en": "Stalker: I heal HP, MP, status.{CR}Whole party for ћ2,000.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02dd",
+    "en": "Want healing?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02de",
+    "en": "{PG}Come back if you want healing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02df",
+    "en": "{PG}No Macca, no healing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e0",
+    "en": "Man: Thank you for defeating {MG}.{CR}Now I can put my back into{CR}my work again!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e1",
+    "en": "Man: Work is what I live for.{CR}I'll dig and dig until I break{CR}right through!{WT}I uncovered a \"{IT}\" recently.{CR}Just imagine what else I'll find!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e2",
+    "en": "Man: I...{TI}{CR}What was I doing in a place{CR}like this?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e3",
+    "en": "You can have the \"{IT}\".{CR}Looking at it reminds me that{CR}I was digging for no reason.{CR}It all feels so pointless now.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e4",
+    "en": "Woman: The {MG} suddenly{CR}started rampaging.{CR}It's dangerous. Stay away!{WT}{PG}Aah! Here they come again!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e5",
+    "en": "{PG}Woman: Thanks to you,{CR}the other {MG} have calmed down.{CR}Thank you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e6",
+    "en": "Woman: The Factory produces food{CR}for everyone in Millennium.{CR}That's why I have to work hard.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e7",
+    "en": "Woman: I hate taking care of these{CR}demon cows the Center created.{CR}I'd like to raise real cows.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e8",
+    "en": "{FI}: So you came, {SY}.{WT} I'm sorry, but I cannot allow{CR}you to rescue her. {WT}{Fe} was imprisoned for leaving{CR}the Center without permission.{WT}{PG}I understand why she did it.{CR}But breaking the law{CR}is still a crime.{WT}Whatever the law may be,{CR}it must be obeyed. Every crime{CR}demands atonement.{WT}{PG}If you mean to defy that law,{CR}then I have no choice but to{CR}fight you, {SY}.{WT} I will not disobey the Center.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02e9",
+    "en": "{FI}: ...You're every bit as good{CR}as Valhalla's Champion should be.{WT}Fighting you has finally helped{CR}me make up my mind.{WT}{PG}The law must be obeyed...{CR}but a law that is wrong must{CR}also be corrected.{WT}I will no longer blindly follow{CR}the Center's way.{WT}From now on, I will do what{CR}I believe must be done.{WT}{PG}Go. Rescue {Fe}.{CR}But she isn't in her right mind.{WT}Getting her out may not{CR}be as easy as you think.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ea",
+    "en": ">{Fe} is locked in the cell.{WT}{PG}{Fe}: Who are you?{CR}{SY}?{TI}{CR}I have nothing to say to you.{CR}Just leave me alone.{WT}{PG}>She refuses to move.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02eb",
+    "en": "{Fe}: What are you doing?{CR}Stop! I want to stay here!{CR}Leave me alone!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ec",
+    "en": "{MG}: Is this girl your sweetheart?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ed",
+    "en": "{PG}Liar!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ee",
+    "en": "You've never even held her hand{CR}or kissed her!{TI}{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ef",
+    "en": "Liar! {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f0",
+    "en": "Liar!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f1",
+    "en": "{PG}But you really do love her, right?{TI}{CR}I can tell. I can tell.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f2",
+    "en": "{PG}It looks like I{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f3",
+    "en": "{CR}can't live in your heart.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f4",
+    "en": "{PG}But if I give my power{CR}to {Fe}...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f5",
+    "en": "{PG}If I live inside {Fe},{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f6",
+    "en": "{CR}then whenever you think of her,{CR}you'll be thinking of me, too.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f7",
+    "en": "I've decided! I've decided!{CR}{TI}I'm giving her my power!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f8",
+    "en": ">{MG} fused with {Fe}.{WT}{PG}{Fe}'s abilities all increased{CR}by 1.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02f9",
+    "en": "{PG}>You hear {MG}'s voice...{WT}{PG}{MG}'s Voice: ...I can... I can{CR}save that girl...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02fa",
+    "en": "{PG}{Fe}: ...Huh?{CR}What was I doing...?{WT}Ever since they brought me{CR}to Factory, it felt as if{CR}something was controlling me.{WT}You saved me, didn't you?{CR}Thank you, {SY}.{WT}{PG}But how did you know where I was?{TI}{CR}...You met Mekata!?{WT}Then we have to find him at once.{CR}He must know the truth...{CR}the truth I've been searching for.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02fb",
+    "en": ">Someone is inside.{CR}Set them free?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02fc",
+    "en": "Man: Where do you think{CR}you're taking me?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02fd",
+    "en": "Man: H-Help me!{CR}Get me out of here!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02fe",
+    "en": "Man: You saved me!{CR}I came to my senses and found{CR}myself locked in this dump.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x02ff",
+    "en": "Man: What? Where are you taking me?{CR}My duty is to work here for{CR}the good of the people.{WT}{ED}",
+    "fr": ""
+  }
+]

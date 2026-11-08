@@ -1,0 +1,33 @@
+# Données du jeu : jamais dans le dépôt
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.pbp
+*.ecm
+*.STR
+*.str
+*.xdelta
+*.sav
+*.mcr
+*.mcd
+*.sstate
+
+# Sorties du build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Éditeurs / système
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

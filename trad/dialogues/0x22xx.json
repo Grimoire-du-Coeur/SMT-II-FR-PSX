@@ -1,0 +1,547 @@
+[
+  {
+    "id": "0x2200",
+    "en": "Any challengers? C'mon!{CR}Hey, you there, kid! How about{CR}a round of Russian Roulette?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2201",
+    "en": "{PG}Well? What's it gonna be?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2202",
+    "en": "{PG}Can't play without an opponent.{CR}Anyone wanna take on this kid?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2203",
+    "en": "{PG}Voice: I'll take him on.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2204",
+    "en": "Well, if it isn't Lucky Khan!{CR}This guy's got luck to spare.{CR}Now this oughta be a show!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2205",
+    "en": "{PG}Voice: That demon is mine.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2206",
+    "en": "That voice... Mr. DNA!{CR}This guy's a serious gambler.{CR}Don't let him take you for a ride.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2207",
+    "en": "{PG}Voice: Your demons are mine...{CR}and my demons are mine...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2208",
+    "en": "Timing X... You're alive?{CR}Still as nasty as ever.{CR}All right, let's see what you got.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2209",
+    "en": "{PG}Voice: You sure you have time{CR}to mess around here, {SY}?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220a",
+    "en": "You two know each other?{CR}Don't expect me to go easy on you.{WT}{PG}{FO}: So we meet in battle again.{CR}Sorry, but I need a strong demon{CR}if I'm going to protect Hanoun.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220b",
+    "en": "{PG}If we survive, we'll meet again.{CR}Ha ha ha!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220c",
+    "en": "{PG}Each player enters one demon.{WT}{PG}One bullet goes in a six-shot{CR}revolver. The demons take turns{CR}until one dies.{WT}{PG}The winner takes the dead demon.{CR}Cold feet? Try it. You'll be hooked.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220d",
+    "en": "{MG}: You're Lucifer's human?{WT}No human should threaten me,{CR}but he ordered me not to hold back.{WT}At last, I can fight at full power!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220e",
+    "en": "Are you truly human?{CR}Such strength... Holding back was{CR}never even an option...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x220f",
+    "en": ">There is a magic box here.{WT}{PG}Open it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2210",
+    "en": "{PG}>Obtained the gem \"{IT}.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2211",
+    "en": "{PG}>There was no gem inside.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2212",
+    "en": "{PG}{MG}: Hey, mister!{CR}That pretty \"{IT}\"...{CR}Will you give it to me?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2213",
+    "en": "{PG}Yaaay! Thank you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2214",
+    "en": "{PG}Waaah! You're so mean! So mean!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2215",
+    "en": "You won't do what I say{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2216",
+    "en": ", huh?{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2217",
+    "en": "Then...{WT}{PG}Will you die for me?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2218",
+    "en": "Man: Lord Gabriel brought me{CR}all the way here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2219",
+    "en": "I thought Millennium itself was{CR}wrong. Then I heard{CR}the voice of God.{WT}{PG}We who heard God's true word were{CR}chosen to build a new world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221a",
+    "en": "Woman: People who heard God's true{CR}word have been gathered here, no{CR}matter their origin or social rank.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221b",
+    "en": "Old Man: To think He would choose{CR}someone with so little time left...{CR}I'll spend my remaining days{CR}helping build the new world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221c",
+    "en": "Worker: I heard God's voice.{CR}An angel appeared and brought me{CR}to Eden. Now I'll work to build{CR}the new world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221d",
+    "en": "Woman: I can't believe I'm{CR}actually in Eden!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221e",
+    "en": "Warrior: I only know fighting,{CR}yet God's voice led me to Eden.{WT}{PG}I don't know my role in the new{CR}world. Perhaps this is fate.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x221f",
+    "en": "Man: Now I understand why Gabriel{CR}brought me here.{WT}{PG}I was destined to live in the{CR}new world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2220",
+    "en": ">The petrified {MG}{CR}is no longer here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2221",
+    "en": ">There is a stone statue of{CR}{MG},{CR}one of the Kunitsukami.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2222",
+    "en": "Hiruko's Voice: Restore it{CR}from stone.{WT}{PG}>{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2223",
+    "en": "Restore the petrified {MG}{CR}to normal?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2224",
+    "en": "{PG}{SY} checked for{CR}the \"{IT}\" and{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2225",
+    "en": " used it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2226",
+    "en": " did not have it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2227",
+    "en": "{PG}{SY} had a demon cast{CR}Petradi.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2228",
+    "en": "{PG}>The petrified {MG}{CR}returned to normal.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2229",
+    "en": "{MG}:{CR}Thank you for freeing me{CR}from petrification.{WT}But I have only just returned to{CR}normal, and my body will not move.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222a",
+    "en": "{MG}:{CR}Did Hiruko mention me?{CR}Then take this: \"{IT}.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222b",
+    "en": "{MG}:{CR}Leave this place at once!{CR}Otherwise, I'll arrange a date{CR}with Yomotsu-Shikome in Yomi!{WT}{PG}>Back down quietly?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222c",
+    "en": "{MG}:{CR}Then you won't leave here alive!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222d",
+    "en": "{MG}: You defeated him?{CR}Excellent work.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222e",
+    "en": "{MG}: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x222f",
+    "en": "Did Hiruko tell you what to do?{CR}Then you already know how this{CR}should be used.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2230",
+    "en": ">{MG} is not here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2231",
+    "en": "{MG}: I won't give this up!{CR}Not to anyone! Never!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2232",
+    "en": "{MG}: Gwaaagh...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2233",
+    "en": "I...{TI}{CR}What in the world was I doing...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2234",
+    "en": "I see. This is what you seek.{CR}Isn't it?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2235",
+    "en": ">The shrine entrance is sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2236",
+    "en": "Hiruko's Voice: Enter that shrine.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2237",
+    "en": ">Enter the shrine?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2238",
+    "en": "{MG}:{CR}You there! Please help me!{WT}I'm lost and can't find my way out.{CR}Take me with you. I beg you!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2239",
+    "en": "...I see. You have too many demons.{CR}Come back after making room.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223a",
+    "en": ">{MG} joined you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223b",
+    "en": "{MG}: Who are you? You know{CR}I am {MG}, yet approach?{WT}...You seem free of evil.{WT}I was sealed here and cannot{CR}escape. You'll help? My thanks.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223c",
+    "en": "Then return after making room{CR}among your demons.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223d",
+    "en": "{MG}: Ah, what a relief!{CR}Here. Take this as my thanks.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223e",
+    "en": "{MG}: At last, I am free!{CR}You have my gratitude.{WT}Take this. It will grant you{CR}a fearsome power.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x223f",
+    "en": "Manor Master: You found every{CR}part of Lord Masakado's body!{CR}Please let me fuse them.{WT}Reviving him would crown my{CR}life's work. I beg you!{WT}{PG}>Fuse Lord Masakado's body?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2240",
+    "en": "Manor Master: Come back after{CR}making room among your demons.{CR}Or shall I fuse the demons you have?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2241",
+    "en": "I{TI} am{TI} Taira{TI} no{TI} Masa{TI}ka{TI}do{TI}.{TI}.{TI}.{TI}{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2242",
+    "en": "{PG}>{SY} obtained the{CR}\"{IT}.\"{WT}{PG}Manor Master: Hmm... Lord Masakado's{CR}body is complete, but something{CR}still seems to be missing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2243",
+    "en": ">The stone door is sealed tight.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2244",
+    "en": "Hiruko: My lord, please open{CR}this door.{WT}{PG}Lord Masakado: As you wish, Hiruko.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2245",
+    "en": "Lord Masakado: My work is done,{CR}but my new body is exhausted.{WT}I must thank {SY}{CR}for restoring me.{WT}Accept these two treasures.{WT}{PG}>Obtained the \"{IT}\" and{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2246",
+    "en": "the \"{IT}.\"{WT}{PG}Lord Masakado: Now I shall rest{CR}for a time. Farewell.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2247",
+    "en": "{PG}Hiruko: The Amatsukami are sealed{CR}beyond the stone door. Hurry!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2248",
+    "en": "Hiruko: Enter the stone door?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2249",
+    "en": ">Enter beyond the stone door?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224a",
+    "en": "{MG}: Hiruko...{WT}{PG}Hiruko: {MG}...{CR}You are as radiant as ever.{CR}Without light, all the world{CR}is darkness...{WT}{PG}{MG}: Hiruko...{CR}You have suffered as well.{CR}To think you asked these two{CR}to break even our seals...{WT}{PG}{SY}. {Fe}.{CR}Now it is you who appear{CR}to shine so brightly.{WT}You have our thanks once more.{WT}{PG}Come, Hiruko. Let us journey{CR}to the Diamond Realm and heal{CR}our wounded bodies...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224b",
+    "en": "{MG}: Listen, human.{WT}Do you know why the sovereign{CR}gods of Yamato were sealed?{WT}{PG}The Kunitsukami rebelled against{CR}us, borrowing Hebrew power to{CR}seal the Amatsukami.{WT}{PG}Yet they never replaced us.{CR}The Hebrew gods sealed them too,{CR}having used them as mere tools.{WT}{PG}We both belong to Yamato and{CR}had no cause to feud.{CR}We were utter fools.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224c",
+    "en": "{MG}:{CR}You would break my seal?{CR}What manner of human child wields{CR}such power?{WT}It rivals even that of my brother,{CR}Susano-o. {WT}{SY}... You have my thanks.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224d",
+    "en": ">{MG} has already been{CR}released from the seal.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224e",
+    "en": ">{MG} is sealed here.{WT}{PG}Break {MG}'s seal?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x224f",
+    "en": "{MG}: You broke my seal?{CR}You have my thanks.{WT}Tell me, has my sister Amaterasu{CR}already been saved? If not, hurry{CR}and free her from her bonds.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2250",
+    "en": "{MG}: Damn them!{CR}Whoever deceived and sealed me{CR}will feel my wrath! Out of my way!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2251",
+    "en": "{PG}>{MG} ran off...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2252",
+    "en": "{MG}: Our feud with the{CR}Kunitsukami was used against us...{CR}Thank you for freeing me.{WT}In return, know this: any god{CR}you free can then be fused.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2253",
+    "en": "{MG}:{CR}You have my gratitude.{CR}It is shameful that my power failed{CR}me and I was so easily sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2254",
+    "en": ">There is no one here...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2255",
+    "en": ">{MG} is no longer here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2256",
+    "en": "{PG}>Obtained the \"{IT}.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2257",
+    "en": "{MG}: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2258",
+    "en": "Temple Knight: This area is{CR}off-limits.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2259",
+    "en": "Temple Knight: We have received{CR}word from the Center.{CR}You may pass.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225a",
+    "en": ">An earthquake struck!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225b",
+    "en": "Underworlder: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225c",
+    "en": ">There is an oddly shaped stone...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225d",
+    "en": "...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225e",
+    "en": "Messian: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x225f",
+    "en": "Messian{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2260",
+    "en": "{PG}{AG} took damage.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2261",
+    "en": "{PG}{AG} fell asleep.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2262",
+    "en": "{PG}{AG} had their magic sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2263",
+    "en": "{PG}{AG} was poisoned.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2264",
+    "en": "{PG}>Record Stone{CR}Record your journey?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2265",
+    "en": "Arcadia Citizen: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2266",
+    "en": "King Muscle: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2267",
+    "en": ">You sense the presence of{CR}a terrifying demon...{WT}Remain here?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2268",
+    "en": "{PG}Are you certain you wish to stay?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2269",
+    "en": "{PG}>All of {SY}'s abilities{CR}increased by 1!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x226a",
+    "en": "{PG}>Open the door and leave?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x226b",
+    "en": "{PG}>{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x226c",
+    "en": "Temple Knight: {ED}",
+    "fr": ""
+  }
+]

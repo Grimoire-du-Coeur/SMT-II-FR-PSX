@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "0x0300",
+    "en": "Man: You'll let me out of here?{CR}Please! I want to be free.{CR}I want to help people of{CR}my own free will.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0301",
+    "en": "Thank you. I thought I would be{CR}trapped here until I died.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0302",
+    "en": "Woman: Stop!{CR}Where are you taking me?!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0303",
+    "en": "Woman: Help! Please save me!{CR}Get me out of here!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0304",
+    "en": "Oh, thank goodness... This place{CR}is awful! They make us work{CR}26 hours a day!{CR}I nearly worked myself to death!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0305",
+    "en": "Child: You're a demon, aren't you?{CR}Where are you taking me?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0306",
+    "en": "Child: Help me!{CR}Get me out of here!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0307",
+    "en": "Thanks! They made me work here{CR}for ages without paying me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0308",
+    "en": "Go Mifune: Hey, you!{CR}Open this door!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0309",
+    "en": "Damn it...{TI}{CR}They tricked a former Champion{CR}and worked me to the bone...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030a",
+    "en": "Go Mifune: Ah, it feels so good{CR}to work hard for everyone's sake.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030b",
+    "en": "Thomas Tank: I killed many people{CR}in battle, even if it was only{CR}to survive... Now I pray here{CR}for their souls.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030c",
+    "en": "Thomas Tank: I'm finished...{CR}They drained all my MAG.{WT}I fought for years, and this{CR}is my reward...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030d",
+    "en": "Thomas Tank: .........{WT}{PG}>It appears he is dead.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030e",
+    "en": ">The door is sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x030f",
+    "en": ">Open the door and go inside?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0310",
+    "en": "Man: {FI} left this message: {WT}{PG}\"Do not enter that door yet.{CR}Raise your Intelligence first.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0311",
+    "en": "{FI}: ...I never imagined the{CR}watchtower's guardian was a demon.{CR}What is the Center thinking...?{WT}Be careful. It's strong.{CR}I couldn't beat it alone...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0312",
+    "en": "{MG}: Heh heh heh...{CR}You're the second person{CR}to make it here.{WT}Reaching this tower at all is{CR}impressive, but the first person{CR}ran away with his tail tucked!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0313",
+    "en": "Such power...{CR}And so many demons at your command...{CR}Just who are you...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0314",
+    "en": ">{MG} has already been defeated.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0315",
+    "en": ">A magical force seals the way.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0316",
+    "en": "{FI}: I knew you'd{CR}come, {SY}.{WT} Come on! Let's free the people{CR}in this prison!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0317",
+    "en": ">{FI} went inside.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0318",
+    "en": ">{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0319",
+    "en": "Go inside?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031a",
+    "en": "{FI}: I'll free the people{CR}deeper inside. {WT}{SY}, you help{CR}everyone else.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031b",
+    "en": "{FI}: ...Why?{CR}Why won't anyone try to escape?{TI}{CR}...The tower! Something must{CR}be happening at the top!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031c",
+    "en": ">The demon Siren is here.{WT}She sings in a mournful voice...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031d",
+    "en": "{PG}Petersen: Siren!{TI}{CR}Your sad song ends now!{TI}{TI}{CR}...I'm right here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031e",
+    "en": "{PG}Siren: Is it you? {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x031f",
+    "en": "Is it really you?{TI}{CR}I thought I'd never see you again...{WT}{PG}Petersen: Siren!{WT}{PG}Siren: My love!{WT}{PG}Petersen: ......{WT}{PG}Siren: ......{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0320",
+    "en": "Petersen: .........{TI}{CR}{SY}...{CR}Thank you.{WT}We're returning to the Underworld.{CR}We will never be separated again.{TI}{CR}...Farewell.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0321",
+    "en": ">Siren is gone.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0322",
+    "en": "The Factory is currently closed{CR}to civilians.{CR}We apologize for the inconvenience.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0323",
+    "en": "Thank you for your service,{CR}{SY}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0324",
+    "en": "Thank you. Thanks to you, peace{CR}has returned to the Factory.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0325",
+    "en": "COMP: Enter Arcadia?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0326",
+    "en": "Unable to enter Arcadia.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0327",
+    "en": "Connect your Arm Terminal{CR}to access the system.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0328",
+    "en": "COMP: Leave Arcadia?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0329",
+    "en": "Please visit us again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032a",
+    "en": ">There is a distortion in space.{WT}{PG}Enter it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032b",
+    "en": ">The distortion in space is gone.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032c",
+    "en": ">It no longer leads to{CR}the Underworld.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032d",
+    "en": "{SN}: It's been a long time,{CR}{SY}.{CR}It's me, {SN}.{WT} What do you think of Arcadia?{WT}While you were missing, I turned{CR}this area into an ideal world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032e",
+    "en": "{PG}You know that Millennium seeks{CR}to realize the Thousand-Year{CR}Kingdom, don't you?{WT}{PG}Arcadia is a test case.{CR}It shows us what the world could be{CR}once that Kingdom becomes real.{WT}{PG}Here there are no battles{CR}with demons, and no conflict{CR}between human beings.{WT}Everyone lives together in peace.{WT}When the entire world becomes{CR}like Arcadia, only then can we say{CR}the Kingdom has been achieved.{WT}{PG}If you like it here, {SY},{CR}come back whenever you please.{CR}You will always be welcome.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x032f",
+    "en": "{SN}: Want to hear all that{CR}one more time?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0330",
+    "en": "Then would you tell {FI}{CR}at the Center that Arcadia{CR}is a complete success?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0331",
+    "en": "Everything is going perfectly{CR}in Arcadia. I hope the rest of{CR}the world follows suit soon.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0332",
+    "en": "{SN}: You saw it...{CR}You saw the true face of{CR}the Arcadia I created.{WT}{PG}As you can see, this isn't{CR}a true ideal world.{WT}It's nothing but a lie{CR}called virtual reality.{WT}{PG}But even if it is a lie, is it{CR}wrong to give people the peaceful{CR}world they long for?{WT}What people want to believe...{CR}that is the truth for them.{WT}{PG}But now you've seen a truth{CR}that must never be revealed.{WT}I cannot allow you to live.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0333",
+    "en": "COMP: Savior {SN} has been{CR}deleted. Enter the name of{CR}the new savior.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0334",
+    "en": "The new savior is {SY}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0335",
+    "en": "COMP: All praise our new savior,{CR}{SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0336",
+    "en": "Main system damaged. Initiating{CR}immediate shut...{TI}{CR}down...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0337",
+    "en": ">The computer has been destroyed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0338",
+    "en": "{SN}: {SY}...{CR}I heard {FI}'s broadcast, too.{WT}{PG}Why would he say such things?{CR}Weren't we supposed to work{CR}together to build the Kingdom?{WT}It truly saddens me.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0339",
+    "en": "I am the Champion,{CR}the strongest man in Valhalla!{WT}A powerful beauty like me{CR}was born to live in Arcadia!{WT}Behold this magnificent body!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033a",
+    "en": "If there's no Messiah, perhaps{CR}I should become the new one.{CR}I'd be the strongest Messiah ever!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033b",
+    "en": "Long live the new Messiah!{CR}Long live {SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033c",
+    "en": ".........{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033d",
+    "en": "{FI}?{CR}He's nothing but a weakling{CR}with a big mouth. Want me{CR}to take care of him?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033e",
+    "en": "Oh, glorious Arcadia...{CR}This truly is the ideal world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x033f",
+    "en": "What am I supposed to do{CR}now that our savior is gone?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0340",
+    "en": "Oh, our savior,{CR}{SY}!{CR}Thanks to you, we can live{CR}here in peace.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0341",
+    "en": "I-It hurts...{CR}What's happening to me?{CR}What am I supposed to do?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0342",
+    "en": "No matter what {FI} says,{CR}Arcadia is an ideal world.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0343",
+    "en": "Our peaceful lives{CR}are all{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0344",
+    "en": " thanks to {SN}. {WT}{SN}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0345",
+    "en": " is the true savior.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0346",
+    "en": "............... is our savior.{WT}...............{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0347",
+    "en": "It's all thanks to {SY}. {WT}{SY}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0348",
+    "en": "...O savior...{CR}Please... help us...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0349",
+    "en": "{SN} is in the manor beyond{CR}the path through the trees.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034a",
+    "en": "The words of {SN} mean{CR}everything to us.{WT}Anything {FI} says must be a lie.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034b",
+    "en": "Arcadia shields us from every{CR}calamity but death.{WT}With immortality, we would{CR}have nothing to fear.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034c",
+    "en": "What will become of Arcadia's{CR}peace without our savior?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034d",
+    "en": "{SY}...{CR}O savior, {SY}...{CR}Grant us immortality.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034e",
+    "en": "At last...{CR}Death has come for me...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x034f",
+    "en": "{FI} may spew wicked lies,{CR}but {SN} will destroy him.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0350",
+    "en": "Thanks to our savior,{CR}{SN}, we live without{CR}wanting for a thing.{WT}And yet some people still ask{CR}for immortality.{WT}Human beings are so greedy.{CR}I'm perfectly happy as I am.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0351",
+    "en": "Our savior,{CR}{SN}, is gone...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0352",
+    "en": "Long live our savior,{CR}{SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0353",
+    "en": "...............{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0354",
+    "en": "We believe in our savior,{CR}{SN}, so we aren't worried.{WT}It doesn't matter what {FI} says.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0355",
+    "en": "{MG}: Hmph! As if I'd ever{CR}join you! Bleh!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0356",
+    "en": "{MG}: You're pretty handsome.{CR}I like you, so I'll join you!{WT}{PG}>Let {MG} join you?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0357",
+    "en": "{MG}: Ooh, you'll take me with you?{CR}Thank you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0358",
+    "en": "{MG}: What? A handsome man{CR}shouldn't be so shy!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0359",
+    "en": "{PG}>Fairy {MG} joined as an ally.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035a",
+    "en": "{PG}{MG}: You want to reach{CR}the prison, right? I'll show you{CR}a perfect shortcut!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035b",
+    "en": "{PG}{MG}: What? You don't have room{CR}for me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035c",
+    "en": "Nadja: There he is.{CR}That idiot guard is right there.{WT}Don't bother with him.{CR}This way! Come on!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035d",
+    "en": "{MG}: You want to pass{CR}through here?{CR}{MG}: Think you're getting past us?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035e",
+    "en": "We can't allow that!{CR}Not a chance!{WT}{PG}We can do anything we want{CR}to anyone who tries.{WT}{PG}O-ho-ho!{CR}Hee-hee-hee!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x035f",
+    "en": "{PG}What? You're turning back?{CR}Running away, are you?{WT}{PG}How boring.{CR}What a letdown.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0360",
+    "en": ">The passage beyond the bars{CR}appears to lead somewhere.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0361",
+    "en": "Nadja: This passage leads to{CR}the Factory prison. Want to use it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0362",
+    "en": ">There is a passage into{CR}the prison. Enter it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0363",
+    "en": "Nadja: So we're not going{CR}to the prison?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0364",
+    "en": ">Go beyond the iron bars?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0365",
+    "en": "{FO}: There you are!{TI}{CR}{SY}! This time, I'll{CR}throw a wrench in your plans!{WT}I won't lay a finger on you.{CR}You won't even realize you've{CR}been sabotaged.{TI}{CR}But this will hurt you more{CR}than anything I've tried before!{WT}Puck! Now!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0366",
+    "en": "Puck: You got it!{CR}Time to make you feel real good!{WT}Here goes!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0367",
+    "en": "{PG}>Puck struck {SY}{CR}with the \"{IT}\"!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0368",
+    "en": "{PG}{Fe}: Look out!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0369",
+    "en": "{PG}>The \"{IT}\" struck {Fe}!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036a",
+    "en": "{PG}Puck: Oh no! It missed!{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036b",
+    "en": "Sorry! Sorry...{TI}{TI}{CR}Well, see you around!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036c",
+    "en": ">Puck ran away.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036d",
+    "en": "{PG}{FO}: Grrr!{CR}That fool Puck missed!{CR}How could this happen?!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036e",
+    "en": "{PG}{Fe}: Oh...{TI}{CR}{FO}...{WT} You're the one I've been{CR}searching for all this time...{WT}{PG}{FO}: Th-This is bad...{TI}{CR}Stay back! Don't come near me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x036f",
+    "en": "{PG}>{FO} ran away.{WT}{PG}{Fe}: Where are you going?!{CR}{FO}! Wait for me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0370",
+    "en": "{PG}>{Fe} ran off after{CR}{FO}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0371",
+    "en": "{PG}Fairy Girl: U-Um... Well...{WT}Puck's \"{IT}\" is a magical{CR}love potion.{WT}It makes you fall in love{CR}with whoever you see first.{WT}It was supposed to hit you...{TI}{CR}I-I'm Hanoun...{TI}{CR}You were supposed to fall{CR}in love with me.{WT}I... The truth is...{TI}{TI}{CR}I-I'm sorry!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0372",
+    "en": "Hanoun: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0373",
+    "en": "{TI}Voice: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0374",
+    "en": "Oh! I'm sorry...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0375",
+    "en": "The shop is currently...{CR}Oh! {SY}...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0376",
+    "en": "Um, this is a shop that sells{CR}all kinds of potions, but...{WT}I've been very busy lately,{CR}so the shop is closed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0377",
+    "en": "Only Oberon, the fairy king,{CR}can undo the \"{IT}\".{WT}I could ask him to break{CR}the spell...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0378",
+    "en": "Th-Then I'll ask Oberon{CR}on your behalf.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0379",
+    "en": "I see...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037a",
+    "en": "Um...{CR}Have you spoken with Oberon yet?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037b",
+    "en": "Hanoun: I'm so happy.{CR}I get to live here together{CR}with {FO}...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037c",
+    "en": "Oh!{TI}{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037d",
+    "en": "{SY}...{WT}{FO} is traveling far and wide{CR}to help the fairies.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037e",
+    "en": "{FO}: Staying here and helping{CR}the fairies has restored{CR}something precious I'd lost.{WT}{PG}When we fought, I dropped{CR}the \"{IT}\".{WT}It was meant to open the way{CR}into the Underworld.{WT}I was furious to lose it then,{CR}but I have no use for it now.{WT}{PG}Come to think of it, I once heard{CR}that another Pillar like it was{CR}dug up at Factory's excavation site.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x037f",
+    "en": "{MG}: Hanoun has told me everything.{CR}That wretched Puck is up to{CR}his tricks again...{WT}He fled east after leaving{CR}the first floor, thinking he could{CR}escape my punishment.{WT}{PG}Human, capture Puck and recover{CR}the \"{IT}\" from him.{CR}Do you understand?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0380",
+    "en": "{MG}: I am king of the fairies.{CR}Why should I grant the wish of{CR}a human with no fairy companion?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0381",
+    "en": "{MG}: So a fairy has joined you.{WT}I might grant a fairy's wish,{CR}but that one seems to have{CR}no particular request.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0382",
+    "en": "{MG}: Hurry and retrieve{CR}the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0383",
+    "en": "{MG}: You recovered{CR}the \"{IT}\". Well done.{WT}Now I shall free {Fe}{CR}from the spell.{WT}...Go to {Fe}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0384",
+    "en": "Puck: Aw, you found me...{CR}You're after the \"{IT}\", right?{CR}It's yours for ћ10,000.{WT}{PG}>Give Puck ћ10,000?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0385",
+    "en": "{PG}Puck: Heh heh! That's what{CR}I wanted to hear.{CR}The \"{IT}\" is all yours.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0386",
+    "en": ">{SY} obtained the{CR}\"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0387",
+    "en": "Puck: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0388",
+    "en": "You don't have ћ10,000?{CR}Bring the money and I'll{CR}hand it over.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0389",
+    "en": "Puck: Did you bring ћ10,000?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038a",
+    "en": "Puck: ...Sorry! It was a joke!{CR}You can have the \"{IT}\".{WT}{PG}>Puck is holding out{CR}the \"{IT}\".{WT}{PG}Take it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038b",
+    "en": "Puck: ...You're still mad, huh?{CR}I'll give you ћ10,000,{CR}so please forgive me!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038c",
+    "en": "{PG}Puck: I'll give it to you now.{CR}Can we call it even?{WT}{PG}>{SY} obtained{CR}ћ10,000.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038d",
+    "en": "Puck: I-I'm sorry! Forgive me!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038e",
+    "en": ">Puck ran away...{WT}{PG}Puck's Voice: ...If you want{CR}the \"{IT}\", just take it...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x038f",
+    "en": "Puck: The \"{IT}\" is gone.{CR}Those aren't easy to find, you know.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0390",
+    "en": "{Fe}: Oh...{CR}{FO}...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0391",
+    "en": "{TI}{CR}Just thinking about you{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0392",
+    "en": " makes my heart feel like{CR}it's about to{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0393",
+    "en": " burst...{TI}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0394",
+    "en": "{FO}: Hey! Stop that!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0395",
+    "en": "{CR}Quit clinging to me!{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0396",
+    "en": "{CR}Aah! Stay away from me!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0397",
+    "en": "{TI}{PG}...Hm? {SY}?{TI}{CR}This woman is... {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0398",
+    "en": "{TI}completely obsessed with me.{TI}{CR}You may as well give up.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x0399",
+    "en": "{Fe}: What are you doing?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039a",
+    "en": "{CR}How dare you drag me here!{CR}You creep! You groper! You pervert!{WT}{PG}{FO}: What?! You came willingly!{CR}I did nothing!{WT}{PG}...What's gotten into her...?{WT}{PG}{Fe}: {SY}! You came to save me!{TI}{CR}{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039b",
+    "en": ">{Fe} returned to {SY}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039c",
+    "en": "{PG}>Hanoun used the \"{IT}\"{CR}on {FO}!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039d",
+    "en": "{FO}: ...Oh...{TI}{CR}What a beautiful fairy you are.{TI}{CR}I devote my whole being{CR}to your beauty.{WT}{PG}Hanoun: Y-You really mean that...?{TI}{CR}I'm so happy...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039e",
+    "en": "...{SY}.{CR}Thank you for everything.{CR}Please take good care of {Fe}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x039f",
+    "en": "Hanoun: Um... {Fe}{CR}and {FO} are both inside.{WT}Oberon sent me here, but...{WT}Please come inside with me,{CR}{SY}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a0",
+    "en": "Puck: Ah! You're {SY}!{CR}This is bad!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a1",
+    "en": "{PG}Puck ran away...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a2",
+    "en": "I'm sorry I used the \"{IT}\"{CR}on your friend!{WT}But {FO} threatened me!{CR}I didn't have a choice!{CR}Please forgive me!{WT}{PG}>Stop chasing Puck?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a3",
+    "en": "Puck: Heh heh! Thanks!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a4",
+    "en": "Puck: Please! Forgive me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a5",
+    "en": "{PG}>Puck{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a6",
+    "en": " threw a bomb!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a7",
+    "en": " released sleeping gas!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a8",
+    "en": " used a Magic-Sealing Orb!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03a9",
+    "en": " threw a bottle of poison!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03aa",
+    "en": "Man: I hear the scientist working{CR}for Madam is up to something.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ab",
+    "en": "Man: Apparently, demons started{CR}appearing all over Valhalla because{CR}that scientist escaped.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ac",
+    "en": "Man: I'd love to meet Madam.{CR}Being ruled by a beautiful woman{CR}sounds pretty good to me.{WT}{PG}Her manor is northeast, but{CR}they turned me away.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ad",
+    "en": "Man: Congratulations!{CR}Now that you're Champion, Madam{CR}will invite you to her manor, right?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ae",
+    "en": "Man: Even if demons appear in{CR}Valhalla, Madam will handle them.{WT}With her around, who needs{CR}a Messiah?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03af",
+    "en": "Woman: Hawk! The final's today!{CR}Win, and you'll become a citizen{CR}of the Center. Give it your all!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b0",
+    "en": "Woman: Hawk! You did it!{CR}I always knew there was something{CR}special about you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b1",
+    "en": "Woman: Hawk!{CR}You're going to fight again?!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b2",
+    "en": "Woman: I can't believe you're{CR}the Messiah. I sure know how{CR}to spot talent, don't I?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b3",
+    "en": "Old Man: Seems like they're holding{CR}fewer tournaments lately.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b4",
+    "en": "You might just be the last{CR}Champion Valhalla ever sees.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b5",
+    "en": "Old Man: You're the Messiah?{CR}That's only what the Center{CR}decided to call you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b6",
+    "en": "God will soon send the Messiah{CR}to us. All who believe in God{CR}shall be saved.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b7",
+    "en": "Even if demons appear,{CR}there is nothing to fear.{WT}They cannot harm those who{CR}place their faith in God.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b8",
+    "en": "Gaean: Ever since Millennium was{CR}built, the Gaean faith has been{CR}in steady decline.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03b9",
+    "en": "Gaean: The Center abandoned{CR}Valhalla.{WT}Perhaps those blindly following{CR}the Messians will finally{CR}open their eyes...{TI}{CR}But it's too late now...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ba",
+    "en": "Woman: For consumables, choose{CR}the item, then the quantity.{WT}{PG}You'll need plenty, so buy{CR}in bulk.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03bb",
+    "en": "Man: Millennium's currency is Macca.{CR}It's the only money accepted here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03bc",
+    "en": "Woman: They say Lucifuge, one of{CR}Lucifer's servants, produces Macca{CR}in the Underworld.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03bd",
+    "en": "Man: Demons used to appear all{CR}over town. These days, you only{CR}see a few.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03be",
+    "en": "I hear Madam has one of her{CR}scientists summon the demons{CR}used in the Colosseum.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03bf",
+    "en": "Man: So now demons are roaming{CR}the streets of Valhalla, too...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c0",
+    "en": "Man: Tokyo Millennium is divided{CR}into several areas.{WT}The \"Center\" controls them all.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c1",
+    "en": "Man: Valhalla is a free area.{CR}Even the Center can't touch us!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c2",
+    "en": "Man: Damn the Center! They fed{CR}all of Valhalla to the Demon King{CR}Abaddon...{TI}{CR}They got us good!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c3",
+    "en": "Man: I won! I won!{CR}I made a fortune at the casino!{CR}Wahahahaha!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c4",
+    "en": "Man: Damn it!{CR}Again...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c5",
+    "en": "Again!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c6",
+    "en": "{CR}I lost every last Macca!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c7",
+    "en": "Man: All kinds of people gather{CR}at the Bar. If you want information,{CR}that's the place to go.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c8",
+    "en": "This game is a work of fiction.{CR}Any relation to real people or{CR}groups is purely coincidental.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03c9",
+    "en": "{PG}The \"Plasma Sword\"?{CR}Let's see...{WT}{PG}Plasma Sword       Type: Sword{CR}Attack: 45          Hit: 43{CR}Attacks: 2-4{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03ca",
+    "en": "{PG}The \"Gyro Jet\"?{CR}Let's see...{WT}{PG}Gyro Jet            Type: Gun{CR}Attack: 75          Hit: 20{CR}Attacks: 1{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03cb",
+    "en": "{PG}The \"Giga Smasher\"?{CR}Let's see...{WT}{PG}Giga Smasher        Type: Gun{CR}Attack: 150         Hit: 38{CR}Targets: All Enemies{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03cc",
+    "en": "{PG}The \"Railgun\"?{CR}Let's see...{WT}{PG}Railgun             Type: Gun{CR}Attack: 80          Hit: 60{CR}Attacks: 5-7{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x03cd",
+    "en": "{PG}The \"Blaster Gun\"?{CR}Let's see...{WT}{PG}Blaster Gun         Type: Gun{CR}Attack: 200         Hit: 70{CR}Attacks: 2-3{WT}{PG}{ED}",
+    "fr": ""
+  }
+]

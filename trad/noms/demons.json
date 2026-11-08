@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "0",
+    "en": "Satan",
+    "fr": ""
+  },
+  {
+    "id": "1",
+    "en": "Metatron",
+    "fr": ""
+  },
+  {
+    "id": "2",
+    "en": "Kamael",
+    "fr": ""
+  },
+  {
+    "id": "3",
+    "en": "Sariel",
+    "fr": ""
+  },
+  {
+    "id": "4",
+    "en": "Kushiel",
+    "fr": ""
+  },
+  {
+    "id": "5",
+    "en": "Ophanim",
+    "fr": ""
+  },
+  {
+    "id": "6",
+    "en": "Raguel",
+    "fr": ""
+  },
+  {
+    "id": "7",
+    "en": "Haniel",
+    "fr": ""
+  },
+  {
+    "id": "8",
+    "en": "Tzaphkiel",
+    "fr": ""
+  },
+  {
+    "id": "9",
+    "en": "Remiel",
+    "fr": ""
+  },
+  {
+    "id": "10",
+    "en": "Amaterasu",
+    "fr": ""
+  },
+  {
+    "id": "11",
+    "en": "Tsukuyomi",
+    "fr": ""
+  },
+  {
+    "id": "12",
+    "en": "Takemikazuchi",
+    "fr": ""
+  },
+  {
+    "id": "13",
+    "en": "Hinokagutsuchi",
+    "fr": ""
+  },
+  {
+    "id": "14",
+    "en": "Omoikane",
+    "fr": ""
+  },
+  {
+    "id": "15",
+    "en": "Tajikarao",
+    "fr": ""
+  },
+  {
+    "id": "16",
+    "en": "Ameno Torifune",
+    "fr": ""
+  },
+  {
+    "id": "17",
+    "en": "Garuda",
+    "fr": ""
+  },
+  {
+    "id": "18",
+    "en": "Suzaku",
+    "fr": ""
+  },
+  {
+    "id": "19",
+    "en": "Yatagarasu",
+    "fr": ""
+  },
+  {
+    "id": "20",
+    "en": "Phoenix",
+    "fr": ""
+  },
+  {
+    "id": "21",
+    "en": "Suparna",
+    "fr": ""
+  },
+  {
+    "id": "22",
+    "en": "Lakshmi",
+    "fr": ""
+  },
+  {
+    "id": "23",
+    "en": "Parvati",
+    "fr": ""
+  },
+  {
+    "id": "24",
+    "en": "Freyja",
+    "fr": ""
+  },
+  {
+    "id": "25",
+    "en": "Sarasvati",
+    "fr": ""
+  },
+  {
+    "id": "26",
+    "en": "Arianrhod",
+    "fr": ""
+  },
+  {
+    "id": "27",
+    "en": "Ame-no-Uzume",
+    "fr": ""
+  },
+  {
+    "id": "28",
+    "en": "Ardha",
+    "fr": ""
+  },
+  {
+    "id": "29",
+    "en": "Virocana",
+    "fr": ""
+  },
+  {
+    "id": "30",
+    "en": "Kalki",
+    "fr": ""
+  },
+  {
+    "id": "31",
+    "en": "Baal",
+    "fr": ""
+  },
+  {
+    "id": "32",
+    "en": "Atavaka",
+    "fr": ""
+  },
+  {
+    "id": "33",
+    "en": "Odin",
+    "fr": ""
+  },
+  {
+    "id": "34",
+    "en": "Ashtar",
+    "fr": ""
+  },
+  {
+    "id": "35",
+    "en": "Horus",
+    "fr": ""
+  },
+  {
+    "id": "36",
+    "en": "Thor",
+    "fr": ""
+  },
+  {
+    "id": "37",
+    "en": "Indra",
+    "fr": ""
+  },
+  {
+    "id": "38",
+    "en": "Barong",
+    "fr": ""
+  },
+  {
+    "id": "39",
+    "en": "Genbu",
+    "fr": ""
+  },
+  {
+    "id": "40",
+    "en": "Anubis",
+    "fr": ""
+  },
+  {
+    "id": "41",
+    "en": "Narasinha",
+    "fr": ""
+  },
+  {
+    "id": "42",
+    "en": "Sphinx",
+    "fr": ""
+  },
+  {
+    "id": "43",
+    "en": "Nandi",
+    "fr": ""
+  },
+  {
+    "id": "44",
+    "en": "Byakko",
+    "fr": ""
+  },
+  {
+    "id": "45",
+    "en": "Pabilsag",
+    "fr": ""
+  },
+  {
+    "id": "46",
+    "en": "Bastet",
+    "fr": ""
+  },
+  {
+    "id": "47",
+    "en": "Apis",
+    "fr": ""
+  },
+  {
+    "id": "48",
+    "en": "Unicorn",
+    "fr": ""
+  },
+  {
+    "id": "49",
+    "en": "Heqet",
+    "fr": ""
+  },
+  {
+    "id": "50",
+    "en": "Salamander",
+    "fr": ""
+  },
+  {
+    "id": "51",
+    "en": "Undine",
+    "fr": ""
+  },
+  {
+    "id": "52",
+    "en": "Sylph",
+    "fr": ""
+  },
+  {
+    "id": "53",
+    "en": "Gnome",
+    "fr": ""
+  },
+  {
+    "id": "54",
+    "en": "Flaemis",
+    "fr": ""
+  },
+  {
+    "id": "55",
+    "en": "Aquans",
+    "fr": ""
+  },
+  {
+    "id": "56",
+    "en": "Aeros",
+    "fr": ""
+  },
+  {
+    "id": "57",
+    "en": "Erthys",
+    "fr": ""
+  },
+  {
+    "id": "58",
+    "en": "Shiva",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "Susano-o",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "Seiten Taisei",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Chernobog",
+    "fr": ""
+  },
+  {
+    "id": "62",
+    "en": "Ares",
+    "fr": ""
+  },
+  {
+    "id": "63",
+    "en": "Ananta",
+    "fr": ""
+  },
+  {
+    "id": "64",
+    "en": "Rahabh",
+    "fr": ""
+  },
+  {
+    "id": "65",
+    "en": "Itzamna",
+    "fr": ""
+  },
+  {
+    "id": "66",
+    "en": "Seiryuu",
+    "fr": ""
+  },
+  {
+    "id": "67",
+    "en": "Quetzalcoatl",
+    "fr": ""
+  },
+  {
+    "id": "68",
+    "en": "Baek Yong",
+    "fr": ""
+  },
+  {
+    "id": "69",
+    "en": "Maya",
+    "fr": ""
+  },
+  {
+    "id": "70",
+    "en": "Kali",
+    "fr": ""
+  },
+  {
+    "id": "71",
+    "en": "Ishtar",
+    "fr": ""
+  },
+  {
+    "id": "72",
+    "en": "Durga",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Kikuri-hime",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Hariti",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "Taueret",
+    "fr": ""
+  },
+  {
+    "id": "76",
+    "en": "Arahabaki",
+    "fr": ""
+  },
+  {
+    "id": "77",
+    "en": "Take-Minakata",
+    "fr": ""
+  },
+  {
+    "id": "78",
+    "en": "Okuninushi",
+    "fr": ""
+  },
+  {
+    "id": "79",
+    "en": "Kotoshironushi",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "Sarutahiko",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "Hitokoto-Nushi",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "Sukuna-Hikona",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "Ouyamatsumi",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Dominion",
+    "fr": ""
+  },
+  {
+    "id": "85",
+    "en": "Virtue",
+    "fr": ""
+  },
+  {
+    "id": "86",
+    "en": "Power",
+    "fr": ""
+  },
+  {
+    "id": "87",
+    "en": "Principality",
+    "fr": ""
+  },
+  {
+    "id": "88",
+    "en": "Archangel",
+    "fr": ""
+  },
+  {
+    "id": "89",
+    "en": "Angel",
+    "fr": ""
+  },
+  {
+    "id": "90",
+    "en": "Morrigan",
+    "fr": ""
+  },
+  {
+    "id": "91",
+    "en": "Macha",
+    "fr": ""
+  },
+  {
+    "id": "92",
+    "en": "Nemhain",
+    "fr": ""
+  },
+  {
+    "id": "93",
+    "en": "Aello",
+    "fr": ""
+  },
+  {
+    "id": "94",
+    "en": "Celaeno",
+    "fr": ""
+  },
+  {
+    "id": "95",
+    "en": "Ocypete",
+    "fr": ""
+  },
+  {
+    "id": "96",
+    "en": "Bennu",
+    "fr": ""
+  },
+  {
+    "id": "97",
+    "en": "Adept",
+    "fr": ""
+  },
+  {
+    "id": "98",
+    "en": "Terminator",
+    "fr": ""
+  },
+  {
+    "id": "99",
+    "en": "Gyrator",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "Temple Knight",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Executioner",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "Neophyte",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "Butcher",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "Yamata-no-Orochi",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "Vritra",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "Raja Naga",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "Otohime",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "Mizuchi",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "Naga",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Nozuchi",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Hanuman",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Ganesha",
+    "fr": ""
+  },
+  {
+    "id": "113",
+    "en": "Jinn",
+    "fr": ""
+  },
+  {
+    "id": "114",
+    "en": "Tengu",
+    "fr": ""
+  },
+  {
+    "id": "115",
+    "en": "Haokah",
+    "fr": ""
+  },
+  {
+    "id": "116",
+    "en": "Mercurius",
+    "fr": ""
+  },
+  {
+    "id": "117",
+    "en": "Cerberus",
+    "fr": ""
+  },
+  {
+    "id": "118",
+    "en": "Gdon",
+    "fr": ""
+  },
+  {
+    "id": "119",
+    "en": "Selket",
+    "fr": ""
+  },
+  {
+    "id": "120",
+    "en": "Orthrus",
+    "fr": ""
+  },
+  {
+    "id": "121",
+    "en": "Nekomata",
+    "fr": ""
+  },
+  {
+    "id": "122",
+    "en": "Cu Sith",
+    "fr": ""
+  },
+  {
+    "id": "123",
+    "en": "Cait Sith",
+    "fr": ""
+  },
+  {
+    "id": "124",
+    "en": "Nyx",
+    "fr": ""
+  },
+  {
+    "id": "125",
+    "en": "Vampire",
+    "fr": ""
+  },
+  {
+    "id": "126",
+    "en": "Lilim",
+    "fr": ""
+  },
+  {
+    "id": "127",
+    "en": "Nightmare",
+    "fr": ""
+  },
+  {
+    "id": "128",
+    "en": "Empusa",
+    "fr": ""
+  },
+  {
+    "id": "129",
+    "en": "Alp",
+    "fr": ""
+  },
+  {
+    "id": "130",
+    "en": "Titan",
+    "fr": ""
+  },
+  {
+    "id": "131",
+    "en": "Ubelluris",
+    "fr": ""
+  },
+  {
+    "id": "132",
+    "en": "Tsuchigumo",
+    "fr": ""
+  },
+  {
+    "id": "133",
+    "en": "Duergar",
+    "fr": ""
+  },
+  {
+    "id": "134",
+    "en": "Sudama",
+    "fr": ""
+  },
+  {
+    "id": "135",
+    "en": "Knocker",
+    "fr": ""
+  },
+  {
+    "id": "136",
+    "en": "Titania",
+    "fr": ""
+  },
+  {
+    "id": "137",
+    "en": "Oberon",
+    "fr": ""
+  },
+  {
+    "id": "138",
+    "en": "Cu Chulain",
+    "fr": ""
+  },
+  {
+    "id": "139",
+    "en": "Nadja",
+    "fr": ""
+  },
+  {
+    "id": "140",
+    "en": "Banshee",
+    "fr": ""
+  },
+  {
+    "id": "141",
+    "en": "Dark Elf",
+    "fr": ""
+  },
+  {
+    "id": "142",
+    "en": "Pyro Jack",
+    "fr": ""
+  },
+  {
+    "id": "143",
+    "en": "Jack Frost",
+    "fr": ""
+  },
+  {
+    "id": "144",
+    "en": "High Pixie",
+    "fr": ""
+  },
+  {
+    "id": "145",
+    "en": "Frankie",
+    "fr": ""
+  },
+  {
+    "id": "146",
+    "en": "Demi-Nandi",
+    "fr": ""
+  },
+  {
+    "id": "147",
+    "en": "Heracles",
+    "fr": ""
+  },
+  {
+    "id": "148",
+    "en": "Slave",
+    "fr": ""
+  },
+  {
+    "id": "149",
+    "en": "Oracles",
+    "fr": ""
+  },
+  {
+    "id": "150",
+    "en": "Spartan",
+    "fr": ""
+  },
+  {
+    "id": "151",
+    "en": "Agares",
+    "fr": ""
+  },
+  {
+    "id": "152",
+    "en": "Gaap",
+    "fr": ""
+  },
+  {
+    "id": "153",
+    "en": "Berith",
+    "fr": ""
+  },
+  {
+    "id": "154",
+    "en": "Baphomet",
+    "fr": ""
+  },
+  {
+    "id": "155",
+    "en": "Eligor",
+    "fr": ""
+  },
+  {
+    "id": "156",
+    "en": "Betelgeuse",
+    "fr": ""
+  },
+  {
+    "id": "157",
+    "en": "Gagyson",
+    "fr": ""
+  },
+  {
+    "id": "158",
+    "en": "Ukobach",
+    "fr": ""
+  },
+  {
+    "id": "159",
+    "en": "Yaksha",
+    "fr": ""
+  },
+  {
+    "id": "160",
+    "en": "Shuten-Doji",
+    "fr": ""
+  },
+  {
+    "id": "161",
+    "en": "Yakshini",
+    "fr": ""
+  },
+  {
+    "id": "162",
+    "en": "Turdak",
+    "fr": ""
+  },
+  {
+    "id": "163",
+    "en": "Hannya",
+    "fr": ""
+  },
+  {
+    "id": "164",
+    "en": "Azumi",
+    "fr": ""
+  },
+  {
+    "id": "165",
+    "en": "Ihika",
+    "fr": ""
+  },
+  {
+    "id": "166",
+    "en": "Rangda",
+    "fr": ""
+  },
+  {
+    "id": "167",
+    "en": "Volvo",
+    "fr": ""
+  },
+  {
+    "id": "168",
+    "en": "Gorgon",
+    "fr": ""
+  },
+  {
+    "id": "169",
+    "en": "Cailleach Bheare",
+    "fr": ""
+  },
+  {
+    "id": "170",
+    "en": "Arachne",
+    "fr": ""
+  },
+  {
+    "id": "171",
+    "en": "Lamia",
+    "fr": ""
+  },
+  {
+    "id": "172",
+    "en": "Hag",
+    "fr": ""
+  },
+  {
+    "id": "173",
+    "en": "Kamen-Hijiri",
+    "fr": ""
+  },
+  {
+    "id": "174",
+    "en": "Ashura",
+    "fr": ""
+  },
+  {
+    "id": "175",
+    "en": "Onmyoji",
+    "fr": ""
+  },
+  {
+    "id": "176",
+    "en": "Jiraiya",
+    "fr": ""
+  },
+  {
+    "id": "177",
+    "en": "Kugutsushi",
+    "fr": ""
+  },
+  {
+    "id": "178",
+    "en": "Cthulhu",
+    "fr": ""
+  },
+  {
+    "id": "179",
+    "en": "Pazuzu",
+    "fr": ""
+  },
+  {
+    "id": "180",
+    "en": "Nyarlathotep",
+    "fr": ""
+  },
+  {
+    "id": "181",
+    "en": "Tezcatlipoca",
+    "fr": ""
+  },
+  {
+    "id": "182",
+    "en": "Naragiri",
+    "fr": ""
+  },
+  {
+    "id": "183",
+    "en": "Hraesvelgr",
+    "fr": ""
+  },
+  {
+    "id": "184",
+    "en": "Anzu",
+    "fr": ""
+  },
+  {
+    "id": "185",
+    "en": "Gurr",
+    "fr": ""
+  },
+  {
+    "id": "186",
+    "en": "Furiae",
+    "fr": ""
+  },
+  {
+    "id": "187",
+    "en": "Chon Chon",
+    "fr": ""
+  },
+  {
+    "id": "188",
+    "en": "Medusa",
+    "fr": ""
+  },
+  {
+    "id": "189",
+    "en": "Rabbi",
+    "fr": ""
+  },
+  {
+    "id": "190",
+    "en": "Golem",
+    "fr": ""
+  },
+  {
+    "id": "191",
+    "en": "Junk",
+    "fr": ""
+  },
+  {
+    "id": "192",
+    "en": "Iron Maiden",
+    "fr": ""
+  },
+  {
+    "id": "193",
+    "en": "Crazy Dummy",
+    "fr": ""
+  },
+  {
+    "id": "194",
+    "en": "Police",
+    "fr": ""
+  },
+  {
+    "id": "195",
+    "en": "Jaws",
+    "fr": ""
+  },
+  {
+    "id": "196",
+    "en": "Hecatonchires",
+    "fr": ""
+  },
+  {
+    "id": "197",
+    "en": "Girimehkala",
+    "fr": ""
+  },
+  {
+    "id": "198",
+    "en": "Ekimmu",
+    "fr": ""
+  },
+  {
+    "id": "199",
+    "en": "Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "200",
+    "en": "Rakshasa",
+    "fr": ""
+  },
+  {
+    "id": "201",
+    "en": "Ogre",
+    "fr": ""
+  },
+  {
+    "id": "202",
+    "en": "Wendigo",
+    "fr": ""
+  },
+  {
+    "id": "203",
+    "en": "Gremlin",
+    "fr": ""
+  },
+  {
+    "id": "204",
+    "en": "Behemoth",
+    "fr": ""
+  },
+  {
+    "id": "205",
+    "en": "Manticore",
+    "fr": ""
+  },
+  {
+    "id": "206",
+    "en": "Scylla",
+    "fr": ""
+  },
+  {
+    "id": "207",
+    "en": "Black Widow",
+    "fr": ""
+  },
+  {
+    "id": "208",
+    "en": "Gyu-Ki",
+    "fr": ""
+  },
+  {
+    "id": "209",
+    "en": "Nue",
+    "fr": ""
+  },
+  {
+    "id": "210",
+    "en": "Bicorn",
+    "fr": ""
+  },
+  {
+    "id": "211",
+    "en": "Garm",
+    "fr": ""
+  },
+  {
+    "id": "212",
+    "en": "Yggdrasil",
+    "fr": ""
+  },
+  {
+    "id": "213",
+    "en": "Alraune",
+    "fr": ""
+  },
+  {
+    "id": "214",
+    "en": "Mandrake",
+    "fr": ""
+  },
+  {
+    "id": "215",
+    "en": "Audrey",
+    "fr": ""
+  },
+  {
+    "id": "216",
+    "en": "Corpses",
+    "fr": ""
+  },
+  {
+    "id": "217",
+    "en": "Zombie Priest",
+    "fr": ""
+  },
+  {
+    "id": "218",
+    "en": "Workaholic",
+    "fr": ""
+  },
+  {
+    "id": "219",
+    "en": "Bodyconian",
+    "fr": ""
+  },
+  {
+    "id": "220",
+    "en": "Zombie",
+    "fr": ""
+  },
+  {
+    "id": "221",
+    "en": "Zombie Dog",
+    "fr": ""
+  },
+  {
+    "id": "222",
+    "en": "Lucifer",
+    "fr": ""
+  },
+  {
+    "id": "223",
+    "en": "Beelzebub",
+    "fr": ""
+  },
+  {
+    "id": "224",
+    "en": "Mara",
+    "fr": ""
+  },
+  {
+    "id": "225",
+    "en": "Bael",
+    "fr": ""
+  },
+  {
+    "id": "226",
+    "en": "Astaroth",
+    "fr": ""
+  },
+  {
+    "id": "227",
+    "en": "Loki",
+    "fr": ""
+  },
+  {
+    "id": "228",
+    "en": "Hecate",
+    "fr": ""
+  },
+  {
+    "id": "229",
+    "en": "Tiamat",
+    "fr": ""
+  },
+  {
+    "id": "230",
+    "en": "Kingu",
+    "fr": ""
+  },
+  {
+    "id": "231",
+    "en": "Nidhoggr",
+    "fr": ""
+  },
+  {
+    "id": "232",
+    "en": "Tarasque",
+    "fr": ""
+  },
+  {
+    "id": "233",
+    "en": "Wyvern",
+    "fr": ""
+  },
+  {
+    "id": "234",
+    "en": "Worm",
+    "fr": ""
+  },
+  {
+    "id": "235",
+    "en": "Vetara",
+    "fr": ""
+  },
+  {
+    "id": "236",
+    "en": "Yaka",
+    "fr": ""
+  },
+  {
+    "id": "237",
+    "en": "Man Eater",
+    "fr": ""
+  },
+  {
+    "id": "238",
+    "en": "Ghoulette",
+    "fr": ""
+  },
+  {
+    "id": "239",
+    "en": "Ghoul",
+    "fr": ""
+  },
+  {
+    "id": "240",
+    "en": "Preta",
+    "fr": ""
+  },
+  {
+    "id": "241",
+    "en": "Legion",
+    "fr": ""
+  },
+  {
+    "id": "242",
+    "en": "Inferno",
+    "fr": ""
+  },
+  {
+    "id": "243",
+    "en": "Depth",
+    "fr": ""
+  },
+  {
+    "id": "244",
+    "en": "Hanged Man",
+    "fr": ""
+  },
+  {
+    "id": "245",
+    "en": "Poltergeist",
+    "fr": ""
+  },
+  {
+    "id": "246",
+    "en": "Old One",
+    "fr": ""
+  },
+  {
+    "id": "247",
+    "en": "Doppelganger",
+    "fr": ""
+  },
+  {
+    "id": "248",
+    "en": "Black Ooze",
+    "fr": ""
+  },
+  {
+    "id": "249",
+    "en": "Chris the Car",
+    "fr": ""
+  },
+  {
+    "id": "250",
+    "en": "Jack the Ripper",
+    "fr": ""
+  },
+  {
+    "id": "251",
+    "en": "Slime",
+    "fr": ""
+  },
+  {
+    "id": "252",
+    "en": "Andromeda",
+    "fr": ""
+  },
+  {
+    "id": "253",
+    "en": "Spider",
+    "fr": ""
+  },
+  {
+    "id": "254",
+    "en": "Moebius",
+    "fr": ""
+  },
+  {
+    "id": "255",
+    "en": "--------",
+    "fr": ""
+  },
+  {
+    "id": "256",
+    "en": "Red Bear",
+    "fr": ""
+  },
+  {
+    "id": "257",
+    "en": "Mercurius",
+    "fr": ""
+  },
+  {
+    "id": "258",
+    "en": "Basilisk",
+    "fr": ""
+  },
+  {
+    "id": "259",
+    "en": "King Frost",
+    "fr": ""
+  },
+  {
+    "id": "260",
+    "en": "Demi-Nandi",
+    "fr": ""
+  },
+  {
+    "id": "261",
+    "en": "Betelgeuse",
+    "fr": ""
+  },
+  {
+    "id": "262",
+    "en": "Daleth",
+    "fr": ""
+  },
+  {
+    "id": "263",
+    "en": "Janus",
+    "fr": ""
+  },
+  {
+    "id": "264",
+    "en": "Zayin",
+    "fr": ""
+  },
+  {
+    "id": "265",
+    "en": "Daleth",
+    "fr": ""
+  },
+  {
+    "id": "266",
+    "en": "Baphomet",
+    "fr": ""
+  },
+  {
+    "id": "267",
+    "en": "Sarutahiko",
+    "fr": ""
+  },
+  {
+    "id": "268",
+    "en": "Daleth",
+    "fr": ""
+  },
+  {
+    "id": "269",
+    "en": "Belphegor",
+    "fr": ""
+  },
+  {
+    "id": "270",
+    "en": "Gimmel",
+    "fr": ""
+  },
+  {
+    "id": "271",
+    "en": "Uriel",
+    "fr": ""
+  },
+  {
+    "id": "272",
+    "en": "Raphael",
+    "fr": ""
+  },
+  {
+    "id": "273",
+    "en": "Michael",
+    "fr": ""
+  },
+  {
+    "id": "274",
+    "en": "Lucifuge",
+    "fr": ""
+  },
+  {
+    "id": "275",
+    "en": "Hecate",
+    "fr": ""
+  },
+  {
+    "id": "276",
+    "en": "Atavaka",
+    "fr": ""
+  },
+  {
+    "id": "277",
+    "en": "Master Therion",
+    "fr": ""
+  },
+  {
+    "id": "278",
+    "en": "Abaddon",
+    "fr": ""
+  },
+  {
+    "id": "279",
+    "en": "Astaroth",
+    "fr": ""
+  },
+  {
+    "id": "280",
+    "en": "Kumbhira",
+    "fr": ""
+  },
+  {
+    "id": "281",
+    "en": "Vajra",
+    "fr": ""
+  },
+  {
+    "id": "282",
+    "en": "Mihira",
+    "fr": ""
+  },
+  {
+    "id": "283",
+    "en": "Andira",
+    "fr": ""
+  },
+  {
+    "id": "284",
+    "en": "Majira",
+    "fr": ""
+  },
+  {
+    "id": "285",
+    "en": "Sandira",
+    "fr": ""
+  },
+  {
+    "id": "286",
+    "en": "Indara",
+    "fr": ""
+  },
+  {
+    "id": "287",
+    "en": "Pajra",
+    "fr": ""
+  },
+  {
+    "id": "288",
+    "en": "Makura",
+    "fr": ""
+  },
+  {
+    "id": "289",
+    "en": "Sindura",
+    "fr": ""
+  },
+  {
+    "id": "290",
+    "en": "Catura",
+    "fr": ""
+  },
+  {
+    "id": "291",
+    "en": "Vikarala",
+    "fr": ""
+  },
+  {
+    "id": "292",
+    "en": "Tiamat",
+    "fr": ""
+  },
+  {
+    "id": "293",
+    "en": "Virocana",
+    "fr": ""
+  },
+  {
+    "id": "294",
+    "en": "Mara",
+    "fr": ""
+  },
+  {
+    "id": "295",
+    "en": "Lucifer",
+    "fr": ""
+  },
+  {
+    "id": "296",
+    "en": "Kuzuryu",
+    "fr": ""
+  },
+  {
+    "id": "297",
+    "en": "Sabaoth",
+    "fr": ""
+  },
+  {
+    "id": "298",
+    "en": "Shaddai",
+    "fr": ""
+  },
+  {
+    "id": "299",
+    "en": "Elohim",
+    "fr": ""
+  },
+  {
+    "id": "300",
+    "en": "Satan",
+    "fr": ""
+  },
+  {
+    "id": "301",
+    "en": "YHVH",
+    "fr": ""
+  },
+  {
+    "id": "302",
+    "en": "YHVH",
+    "fr": ""
+  },
+  {
+    "id": "303",
+    "en": "Beelzebub",
+    "fr": ""
+  },
+  {
+    "id": "304",
+    "en": "Alice",
+    "fr": ""
+  },
+  {
+    "id": "305",
+    "en": "Ghost Q",
+    "fr": ""
+  },
+  {
+    "id": "306",
+    "en": "Sage of Time",
+    "fr": ""
+  },
+  {
+    "id": "307",
+    "en": "Hell Biker",
+    "fr": ""
+  },
+  {
+    "id": "308",
+    "en": "Matador",
+    "fr": ""
+  },
+  {
+    "id": "309",
+    "en": "Gabriel",
+    "fr": ""
+  },
+  {
+    "id": "310",
+    "en": "Gomory",
+    "fr": ""
+  }
+]

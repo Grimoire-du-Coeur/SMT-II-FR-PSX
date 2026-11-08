@@ -1,0 +1,672 @@
+[
+  {
+    "id": "1",
+    "en": "Call Ally",
+    "fr": ""
+  },
+  {
+    "id": "2",
+    "en": "Return Ally",
+    "fr": ""
+  },
+  {
+    "id": "3",
+    "en": "Dismiss Ally",
+    "fr": ""
+  },
+  {
+    "id": "4",
+    "en": "Analyze Spell",
+    "fr": ""
+  },
+  {
+    "id": "5",
+    "en": "Auto-Map",
+    "fr": ""
+  },
+  {
+    "id": "6",
+    "en": "Devil Analysis",
+    "fr": ""
+  },
+  {
+    "id": "7",
+    "en": "Config",
+    "fr": ""
+  },
+  {
+    "id": "8",
+    "en": "Analyze Item",
+    "fr": ""
+  },
+  {
+    "id": "9",
+    "en": "Set Marker",
+    "fr": ""
+  },
+  {
+    "id": "10",
+    "en": "Use",
+    "fr": ""
+  },
+  {
+    "id": "11",
+    "en": "Sort",
+    "fr": ""
+  },
+  {
+    "id": "12",
+    "en": "Arrange",
+    "fr": ""
+  },
+  {
+    "id": "13",
+    "en": "Discard",
+    "fr": ""
+  },
+  {
+    "id": "14",
+    "en": "Equip",
+    "fr": ""
+  },
+  {
+    "id": "15",
+    "en": "Unequip",
+    "fr": ""
+  },
+  {
+    "id": "16",
+    "en": "Buy",
+    "fr": ""
+  },
+  {
+    "id": "17",
+    "en": "Sell",
+    "fr": ""
+  },
+  {
+    "id": "18",
+    "en": "Explain",
+    "fr": ""
+  },
+  {
+    "id": "19",
+    "en": "View Status",
+    "fr": ""
+  },
+  {
+    "id": "20",
+    "en": "Leave Shop",
+    "fr": ""
+  },
+  {
+    "id": "21",
+    "en": "RAM Check",
+    "fr": ""
+  },
+  {
+    "id": "22",
+    "en": "Item",
+    "fr": ""
+  },
+  {
+    "id": "23",
+    "en": "Equipment",
+    "fr": ""
+  },
+  {
+    "id": "24",
+    "en": "Drink",
+    "fr": ""
+  },
+  {
+    "id": "25",
+    "en": "Listen",
+    "fr": ""
+  },
+  {
+    "id": "26",
+    "en": "Restore HP/MP",
+    "fr": ""
+  },
+  {
+    "id": "27",
+    "en": "Buy Item",
+    "fr": ""
+  },
+  {
+    "id": "28",
+    "en": "Heal Status",
+    "fr": ""
+  },
+  {
+    "id": "29",
+    "en": "View Status",
+    "fr": ""
+  },
+  {
+    "id": "30",
+    "en": "Revive",
+    "fr": ""
+  },
+  {
+    "id": "31",
+    "en": "Exit",
+    "fr": ""
+  },
+  {
+    "id": "32",
+    "en": "Uncurse",
+    "fr": ""
+  },
+  {
+    "id": "33",
+    "en": "Save",
+    "fr": ""
+  },
+  {
+    "id": "34",
+    "en": "Training",
+    "fr": ""
+  },
+  {
+    "id": "35",
+    "en": "Plasma Sword",
+    "fr": ""
+  },
+  {
+    "id": "36",
+    "en": "Gyro Jet",
+    "fr": ""
+  },
+  {
+    "id": "37",
+    "en": "Giga Smasher",
+    "fr": ""
+  },
+  {
+    "id": "38",
+    "en": "Railgun",
+    "fr": ""
+  },
+  {
+    "id": "39",
+    "en": "Blaster Gun",
+    "fr": ""
+  },
+  {
+    "id": "40",
+    "en": "Haggle",
+    "fr": ""
+  },
+  {
+    "id": "41",
+    "en": "Threaten",
+    "fr": ""
+  },
+  {
+    "id": "42",
+    "en": "Give Up",
+    "fr": ""
+  },
+  {
+    "id": "43",
+    "en": "Drag Out",
+    "fr": ""
+  },
+  {
+    "id": "44",
+    "en": "Enter Name",
+    "fr": ""
+  },
+  {
+    "id": "45",
+    "en": "Destroy COMP",
+    "fr": ""
+  },
+  {
+    "id": "46",
+    "en": "Virtual Battle",
+    "fr": ""
+  },
+  {
+    "id": "47",
+    "en": "LEVEL 1",
+    "fr": ""
+  },
+  {
+    "id": "48",
+    "en": "LEVEL 2",
+    "fr": ""
+  },
+  {
+    "id": "49",
+    "en": "LEVEL 3",
+    "fr": ""
+  },
+  {
+    "id": "50",
+    "en": "Fuse 2 Demons",
+    "fr": ""
+  },
+  {
+    "id": "51",
+    "en": "Fuse 3 Demons",
+    "fr": ""
+  },
+  {
+    "id": "52",
+    "en": "Fuse 2 Swords",
+    "fr": ""
+  },
+  {
+    "id": "53",
+    "en": "LEVEL 4",
+    "fr": ""
+  },
+  {
+    "id": "54",
+    "en": "Cathedral",
+    "fr": ""
+  },
+  {
+    "id": "55",
+    "en": "LAW",
+    "fr": ""
+  },
+  {
+    "id": "56",
+    "en": "CHAOS",
+    "fr": ""
+  },
+  {
+    "id": "57",
+    "en": "Battle",
+    "fr": ""
+  },
+  {
+    "id": "58",
+    "en": "BGM1",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "BGM2",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "BGM3",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Friendly",
+    "fr": ""
+  },
+  {
+    "id": "62",
+    "en": "Threatening",
+    "fr": ""
+  },
+  {
+    "id": "63",
+    "en": "Game Start",
+    "fr": ""
+  },
+  {
+    "id": "64",
+    "en": "Hear Advice",
+    "fr": ""
+  },
+  {
+    "id": "65",
+    "en": "Teleport",
+    "fr": ""
+  },
+  {
+    "id": "66",
+    "en": "Sword-Demon Fuse",
+    "fr": ""
+  },
+  {
+    "id": "67",
+    "en": "2 Sword-Demon",
+    "fr": ""
+  },
+  {
+    "id": "68",
+    "en": "Trade for Coins",
+    "fr": ""
+  },
+  {
+    "id": "69",
+    "en": "Trade for Items",
+    "fr": ""
+  },
+  {
+    "id": "70",
+    "en": "Trade for Spirits",
+    "fr": ""
+  },
+  {
+    "id": "71",
+    "en": "Code Breaker",
+    "fr": ""
+  },
+  {
+    "id": "72",
+    "en": "Slot 1",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Slot 2",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Slot 3",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "KENO",
+    "fr": ""
+  },
+  {
+    "id": "76",
+    "en": "Baccarat",
+    "fr": ""
+  },
+  {
+    "id": "77",
+    "en": "Big or Small",
+    "fr": ""
+  },
+  {
+    "id": "78",
+    "en": "Russian Roulette",
+    "fr": ""
+  },
+  {
+    "id": "79",
+    "en": "Slot Check 1",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "Slot Check 2",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "Slot Check 3",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "Casino Call 0",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "Casino Call 1",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Tiferet",
+    "fr": ""
+  },
+  {
+    "id": "85",
+    "en": "Netzach",
+    "fr": ""
+  },
+  {
+    "id": "86",
+    "en": "Hod",
+    "fr": ""
+  },
+  {
+    "id": "87",
+    "en": "Yesod",
+    "fr": ""
+  },
+  {
+    "id": "88",
+    "en": "Machine 1",
+    "fr": ""
+  },
+  {
+    "id": "89",
+    "en": "Machine 2",
+    "fr": ""
+  },
+  {
+    "id": "90",
+    "en": "Machine 3",
+    "fr": ""
+  },
+  {
+    "id": "91",
+    "en": "Machine 4",
+    "fr": ""
+  },
+  {
+    "id": "92",
+    "en": "Go Back",
+    "fr": ""
+  },
+  {
+    "id": "93",
+    "en": "Repair Garage",
+    "fr": ""
+  },
+  {
+    "id": "94",
+    "en": "Use Terminal",
+    "fr": ""
+  },
+  {
+    "id": "95",
+    "en": "Return",
+    "fr": ""
+  },
+  {
+    "id": "96",
+    "en": "Gaia Temple",
+    "fr": ""
+  },
+  {
+    "id": "97",
+    "en": "Level 1 - 20ћ",
+    "fr": ""
+  },
+  {
+    "id": "98",
+    "en": "Level 2 - 30ћ",
+    "fr": ""
+  },
+  {
+    "id": "99",
+    "en": "Level 3 - 40ћ",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "Level 4 - 50ћ",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Level 1 - 45ћ",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "Level 2 - 55ћ",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "Level 3 - 65ћ",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "Level 4 - 75ћ",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "Level 1 - 80ћ",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "Level 2 - 100ћ",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "Level 3 - 120ћ",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "Level 4 - 140ћ",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "Level 1 - 100ћ",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Level 2 - 150ћ",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Level 3 - 200ћ",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Level 4 - 250ћ",
+    "fr": ""
+  },
+  {
+    "id": "113",
+    "en": "Level 1 - 200ћ",
+    "fr": ""
+  },
+  {
+    "id": "114",
+    "en": "Level 2 - 300ћ",
+    "fr": ""
+  },
+  {
+    "id": "115",
+    "en": "Level 3 - 400ћ",
+    "fr": ""
+  },
+  {
+    "id": "116",
+    "en": "Level 4 - 500ћ",
+    "fr": ""
+  },
+  {
+    "id": "117",
+    "en": "BGM4",
+    "fr": ""
+  },
+  {
+    "id": "118",
+    "en": "BGM5",
+    "fr": ""
+  },
+  {
+    "id": "119",
+    "en": "BGM6",
+    "fr": ""
+  },
+  {
+    "id": "120",
+    "en": "BGM7",
+    "fr": ""
+  },
+  {
+    "id": "121",
+    "en": "BGM8",
+    "fr": ""
+  },
+  {
+    "id": "122",
+    "en": "BGM9",
+    "fr": ""
+  },
+  {
+    "id": "123",
+    "en": "BGM10",
+    "fr": ""
+  },
+  {
+    "id": "124",
+    "en": "BGM11",
+    "fr": ""
+  },
+  {
+    "id": "125",
+    "en": "BGM12",
+    "fr": ""
+  },
+  {
+    "id": "126",
+    "en": "BGM13",
+    "fr": ""
+  },
+  {
+    "id": "127",
+    "en": "BGM14",
+    "fr": ""
+  },
+  {
+    "id": "128",
+    "en": "BGM15",
+    "fr": ""
+  },
+  {
+    "id": "129",
+    "en": "BGM16",
+    "fr": ""
+  },
+  {
+    "id": "130",
+    "en": "BGM17",
+    "fr": ""
+  },
+  {
+    "id": "131",
+    "en": "BGM18",
+    "fr": ""
+  },
+  {
+    "id": "132",
+    "en": "BGM19",
+    "fr": ""
+  },
+  {
+    "id": "133",
+    "en": "NORMAL",
+    "fr": ""
+  },
+  {
+    "id": "134",
+    "en": "EXPERT",
+    "fr": ""
+  }
+]
