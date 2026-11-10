@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "0x3000",
+    "en": "{PG}Fortune-Teller: I shall dispel{CR}your doubts and worries, and guide{CR}you down the proper path.{ED}",
+    "fr": "",
+    "note": "---- Bank 3: story / broadcasts / events (retranslated from Japanese; SU=amount) ----"
+  },
+  {
+    "id": "0x3001",
+    "en": "{PG}If you desire my guidance,{CR}you must offer ћ100.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3002",
+    "en": "{PG}Without Macca,{CR}I cannot help you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3003",
+    "en": "{PG}Return whenever doubt or worry{CR}clouds your way.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3004",
+    "en": "{PG}Hmm... Yes, I see...{CR}The path you must take is...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3005",
+    "en": "Try a Virtual Battle.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3006",
+    "en": "Walk around town for a while.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3007",
+    "en": "Go to the Colosseum and fight.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3008",
+    "en": "Ah! It seems Madam{CR}is calling for you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3009",
+    "en": "You must set foot in the Slums.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300a",
+    "en": "Go to the frozen district.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300b",
+    "en": "Walk the streets of Holy Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300c",
+    "en": "Go to the Center immediately.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300d",
+    "en": "You have business at the Factory.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300e",
+    "en": "Your path leads to{CR}beautiful Arcadia...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x300f",
+    "en": "Fortune smiles upon Valhalla.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3010",
+    "en": "Go to Valhalla's filthy streets.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3011",
+    "en": "There is a woman only you can save.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3012",
+    "en": "Go to the place once called{CR}Shinjuku.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3013",
+    "en": "I see... Roppongi.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3014",
+    "en": "Go to the Cathedral of Shadows.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3015",
+    "en": "It seems you must visit a shrine.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3016",
+    "en": "Something awaits in the{CR}Great Cathedral.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3017",
+    "en": "Go to the stone door{CR}in the world below.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3018",
+    "en": "It seems you must go{CR}to the Underworld.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3019",
+    "en": "Open the path to the Underworld{CR}from the underground.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301a",
+    "en": "You have business in{CR}the Underworld...{CR}but I can see no more than that.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301b",
+    "en": "Press onward beyond Yesod.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301c",
+    "en": "Go to Hod Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301d",
+    "en": "Go to Netzach Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301e",
+    "en": "The gate... You must open the gate.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x301f",
+    "en": "Fortune smiles upon Tiferet.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3020",
+    "en": "Venture deeper into the Underworld.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3021",
+    "en": "It is beside Tiferet Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3022",
+    "en": "You must pass Geburah Fortress.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3023",
+    "en": "What is this...? A wicked desire?{CR}I see a woman bathing...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3024",
+    "en": "Go to the tower in Chokmah.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3025",
+    "en": "Fortune-Teller: The destiny upon{CR}your shoulders is far too great...{TI}{CR}It lies beyond my sight...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3026",
+    "en": "Someone awaits you in Eden...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3027",
+    "en": ">There is an elevator.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3028",
+    "en": "Go up?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3029",
+    "en": "Go down?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302a",
+    "en": ">This Terminal is out of service...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302b",
+    "en": "Virtual Girl: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302c",
+    "en": "Welcooome!{CR}In virtual space, anyone can{CR}be a hero!{CR}{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302d",
+    "en": "{PG}Sooo, what'll it be?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302e",
+    "en": "Which LEVEL do you want?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x302f",
+    "en": "LEVEL 1 is ћ{SU}.{CR}Thank yooou! This one's a breeze,{CR}so have fun!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3030",
+    "en": "LEVEL 2 is ћ{SU}.{CR}Thank you kindly!{CR}You'll be fine. Good luck!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3031",
+    "en": "LEVEL 3 is ћ{SU}.{CR}Thanks!... Hmm, this one might{CR}be a little tough. Careful, now!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3032",
+    "en": "LEVEL 4 is ћ{SU}.{CR}Thanks! ...You won't really die{CR}in here, but don't overdo it!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3033",
+    "en": "{PG}Oh my, you're a bit short.{CR}Come back with more ћ, okay?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3034",
+    "en": "In a Virtual Battle, you fight{CR}demons inside a simulated world.{WT}Aside from the fact that losing{CR}won't kill you, it's just like{CR}a real fight. Great training!{WT}{PG}You can earn EXP without risking{CR}your life, but be careful: any{CR}items you use are really gone.{WT}{PG}If your HP reaches 0,{CR}it's GAME OVER.{WT}Your goal is to defeat the boss{CR}of each LEVEL...{WT}Though if you can actually pull{CR}that off, I'll be impressed...{CR}Got all that?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3035",
+    "en": "Come back soon!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3036",
+    "en": "Nice work out there!{CR}Did you enjoy yourself?{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3037",
+    "en": "Leaving so soon?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3038",
+    "en": "Okamoto: What, quitting already?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3039",
+    "en": "You did it! Amazing!{CR}Taking down {MG}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303a",
+    "en": "{PG}Care to keep going?{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303b",
+    "en": "Congratulations!{CR}You beat {MG}. You're a{CR}Virtual Master now!{WT}Nothing left to fear!{CR}...In virtual space, anyway...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303c",
+    "en": "Next up is LEVEL 2, but...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303d",
+    "en": "Next up is LEVEL 3, but...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303e",
+    "en": "Next up is LEVEL 4, but...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x303f",
+    "en": "Then give it your best!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3040",
+    "en": "Okamoto: All right, that's enough!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3041",
+    "en": "You were our true savior{CR}all along, weren't you?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3042",
+    "en": "{PG}Oh, if it isn't {SY}! How've{CR}you been?{WT}{PG}Sorry, hon. Chairman Okamoto says{CR}nobody plays for free.{CR}That includes you, I'm afraid.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3043",
+    "en": "Those from Valhalla are barred{CR}from entering the Center.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3044",
+    "en": "{FI}: This is terrible!{CR}The Demon King Abaddon{CR}has swallowed all of Valhalla!{WT}{PG}...It appears the Center{CR}ordered him to do it.{WT}They'll stop at nothing now{CR}to complete their{CR}Thousand-Year Kingdom.{WT}We can't simply stand by{CR}and let the Center continue.{WT}Someone has to...{CR}Someone has to stop them...{WT}{PG}But...{TI}{CR}where is Abaddon?{CR}Could he be in the Underworld...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3045",
+    "en": "Voice: Hey, you! Aren't you {SY}?{CR}It's me! It's me...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3046",
+    "en": "It's me, {MG}!{WT}{PG}>{ZK} {MG} appeared!{WT}{PG}{MG}:{CR}Abaddon nearly swallowed me{CR}with Valhalla.{WT}Madam and her manor were taken.{CR}I had no time to save her.{WT}{PG}Why not let me join you?{CR}I like strong types like you.{WT}Madam was strong too...{TI}{CR}C'mon, you won't regret it.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3047",
+    "en": ">{MG} joined as an ally.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3048",
+    "en": "{MG}: You won't have me{CR}as an ally, then...?{TI}{CR}Next we meet, we may well be foes.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3049",
+    "en": ">The Valhalla area was swallowed{CR}by the Demon King Abaddon.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304a",
+    "en": "News Anchor: This is M.N.N.,{CR}the Millennium News Network,{CR}with the latest from Millennium.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304b",
+    "en": "{PG}An elderly Factory worker has{CR}generously donated ћ10,000{CR}to the Messian Church.{WT}Mr. Takemura, age 78, brought{CR}the Church the ћ10,000 he slowly{CR}saved over 50 years of labor.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304c",
+    "en": "{PG}Thirteen Gaeans attempting to{CR}build a heathen temple in Holy Town{CR}were slain by the Temple Knights.{WT}We must never tolerate heretics{CR}who threaten Millennium's peace.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304d",
+    "en": "{PG}It has been revealed that Hawk,{CR}champion of the Colosseum{CR}tournament,{CR}is actually {SY},{CR}a citizen of the Center.{WT}He has received a new ID Card{CR}and now resides in the Center.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304e",
+    "en": "{PG}And now, today's demon report.{CR}No district is currently under{CR}a demon advisory.{WT}The danger level remains at 1 or{CR}lower throughout Millennium.{CR}Let us pray to God for another{CR}safe and peaceful day.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x304f",
+    "en": "{PG}A man rumored to be the Messiah{CR}after saving many lives throughout{CR}Millennium has appeared at{CR}Valhalla's Colosseum.{WT}He apparently wishes to fight {SY},{CR}who is also rumored to be{CR}the Messiah.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3050",
+    "en": "{PG}The Messiah has appeared at{CR}Valhalla's Colosseum: {SY}!{WT} He defeated {FO}, the man who{CR}claimed to be the Messiah.{WT}Just as Messian scripture foretells:{CR}\"When a false Messiah appears,{CR}the true Messiah shall strike him down.\"{WT}The true Messiah, {SY},{CR}has finally appeared...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3051",
+    "en": "{PG}A regrettable report:{CR}{FI} betrayed the Center. {WT}{FI} spreads baseless rumors.{CR}This betrayal is unforgivable.{CR}His claims are nothing but lies {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3052",
+    "en": "and fabrications. Do not believe{CR}a word he says. {WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3053",
+    "en": "Bishop: A message to {FI}.{TI}{CR}Report to the Center today.{WT}Refuse, and we cut Holy Town's{CR}air. Everyone there will die.{WT}I repeat, {FI}.{TI}{CR}Surrender immediately... {WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3054",
+    "en": ">The Messian broadcast is no longer{CR}on the air.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3055",
+    "en": "Stalker: TV frozen solid.{CR}Nothing shows.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3056",
+    "en": "{FI}: ...I will reveal the Center's{CR}true purpose in ruling Millennium. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3057",
+    "en": "The Center claims it is building{CR}a peaceful Thousand-Year Kingdom,{CR}but only a chosen few{CR}will be allowed to live there. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3058",
+    "en": "Millennium was created solely{CR}to select who would be allowed{CR}into that kingdom. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3059",
+    "en": "Once that selection is complete,{CR}Millennium will be useless. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305a",
+    "en": "And then...{CR}it will all be destroyed! {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305b",
+    "en": "Valhalla was no longer needed.{CR}The Demon King Abaddon swallowed{CR}the entire district, erasing it. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305c",
+    "en": "Valhalla's fate will be the fate{CR}of every district tomorrow... {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305d",
+    "en": "{FI}: ...The Center calls it{CR}the Factory, but it is really{CR}a forced-labor camp! {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305e",
+    "en": "Everyone sent there is worked{CR}until the day they die. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x305f",
+    "en": "Unless we act, the victims will{CR}only continue to multiply... {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3060",
+    "en": "{FI}: Listen to me!{CR}It was the Center who ordered{CR}Abaddon to swallow Valhalla!{CR}And why?!{WT}Because Valhalla had outlived{CR}its usefulness to them!{WT}This is not someone else's problem!{CR}Valhalla's fate today will become{CR}Holy Town's fate tomorrow!{WT}The Center is merely exploiting{CR}every other district in Millennium!{WT}The only people who will live{CR}within the true{CR}Thousand-Year Kingdom are...{TI}{CR}the Center's own citizens!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3061",
+    "en": "{PG}Hello, {SY}.{CR}So you heard what I had to say.{WT}I've decided to confront{CR}the Center directly.{WT}I'll reveal their true intentions{CR}to everyone and force them{CR}to change their ways.{WT}The Center has lost its way.{CR}If nothing changes, nearly all{CR}of Millennium will be abandoned...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3062",
+    "en": "{FI}: The people who keep the{CR}Factory producing... the people{CR}forced to work until they die...{CR}We must save them!{WT}We'll liberate the prison camp{CR}they call the Factory!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3063",
+    "en": "{PG}...{SY}.{CR}As you heard, I'm going{CR}to the Factory.{WT}If you have any compassion, help me{CR}save the people imprisoned there!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3064",
+    "en": "{FI}: The Senate will erase{CR}Holy Town just to silence me.{WT}I will fight them at the Center{CR}and end their corrupt rule and{CR}Thousand-Year Kingdom plan.{WT}Everyone... farewell...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3065",
+    "en": "Voice: Stay back!{CR}Do not come near me!{WT}{PG}Mutant: Leave!{CR}Turn back quietly, or you will{CR}regret it!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3066",
+    "en": "{TI}{PG}Voice: ...Wait!{CR}You do not seem to be after{CR}my life...{WT}{PG}Are you the humans who came{CR}to this underground world...?{CR}Will you grant me one request?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3067",
+    "en": "So you will hear me out.{CR}{SY}, was it...?{CR}My name is...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3068",
+    "en": "Hiruko...{TI} My request is this.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3069",
+    "en": "Hiruko: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306a",
+    "en": "...You must revive Lord Masakado.{WT}Lord Masakado, the guardian{CR}of Tokyo, was torn into six pieces.{WT}He fell victim to a feud among{CR}the gods of Yamato.{WT}{PG}Long ago, Okuninushi of Izumo{CR}ceded the land to the Amatsukami.{CR}Since then, they have stood{CR}above the Kunitsukami and ruled{CR}over the land of Yamato.{WT}{PG}But at the end of the century,{CR}hordes of demons appeared{CR}throughout Yamato and plunged{CR}the land into chaos.{WT}The Kunitsukami saw their chance.{WT}{PG}Long resigned to their place{CR}as gods of the earth, they sought{CR}to overturn the old order.{WT}They sealed away the Amatsukami,{CR}intending to reclaim Yamato{CR}for themselves.{WT}{PG}But the demons turned the{CR}Kunitsukami's deepest desire{CR}against them.{WT}Lord Masakado was torn apart,{CR}and the Kunitsukami themselves{CR}were sealed within shrines{CR}across this underground world.{WT}{PG}Before they were sealed, however,{CR}they secretly gathered the pieces{CR}of Lord Masakado's body.{WT}Each sealed Kunitsukami now holds{CR}one part of his body.{WT}{PG}Unless their seals are broken{CR}and Lord Masakado is revived,{CR}Tokyo's turmoil will never end.{WT}{PG}...Nor can I atone for my sin:{CR}betraying the Amatsukami{CR}and leaving an opening{CR}for the demons to exploit...{WT}{PG}Would you hear my story again?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306b",
+    "en": "{PG}Then, will you free the{CR}Kunitsukami from their seals{CR}and revive Lord Masakado?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306c",
+    "en": "Ah, so you will!{TI}{CR}Then take my place and see it{CR}through. I'm counting on you...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306d",
+    "en": "You mean to refuse...?{CR}But the day will surely come when{CR}you need Lord Masakado's power...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306e",
+    "en": "I see...{CR}So you will not even hear me out...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x306f",
+    "en": "Hiruko: To revive Lord Masakado,{CR}his spirit, which I carry, must{CR}be returned to his body.{WT}You have done well to gather{CR}all the pieces of his body.{CR}Now I shall reunite his body{CR}and spirit.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3070",
+    "en": "{PG}Hiruko: Lord Masakado{CR}has returned!{WT}{PG}Lord Masakado: Ah! Strength{CR}surges through my whole body!{WT}Is that you, Hiruko?{CR}Was it you who revived me?{WT}{PG}Hiruko: My lord, your return{CR}is thanks to {SY}.{WT}{PG}Lord Masakado: I see.{CR}{SY}, was it? You have my thanks.{WT}Now, Hiruko, we must hurry,{CR}must we not?{WT}{PG}Hiruko: Let us go at once{CR}to the stone door.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3071",
+    "en": "Hiruko: We must revive{CR}Lord Masakado without delay.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3072",
+    "en": "Hiruko: You have gathered every{CR}part of Lord Masakado's body.{CR}Next, you must have the parts{CR}fused together.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3073",
+    "en": "Mutant Elder: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3074",
+    "en": "...This underground world{CR}was once the city of Tokyo.{WT}But disaster followed disaster.{CR}The city was destroyed, then sank{CR}deep beneath the earth.{WT}{PG}Millennium was built on top{CR}of the ruins, sealing the old city{CR}completely underground.{WT}{PG}The Center would not allow{CR}mutants such as us to remain{CR}within Millennium. They cast us out.{WT}{PG}We barely escaped down here...{CR}and though we were shut away{CR}from the light, we survived.{WT}We ask for nothing. We desire{CR}nothing. We only wish to see{CR}the light one more time...{WT}{PG}Forgive an old man for airing{CR}his grievances. And thank you{CR}for hearing me to the end.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3075",
+    "en": "...What? A huge tower appeared{CR}on the surface?{WT}{TI}That must be Demon King Moloch's{CR}tail. Moloch himself should be{CR}in the Underworld.{WT}{PG}Take this. You'll need it{CR}to enter the Underworld.{WT}{PG}>The Elder gave you the{CR}\"{IT}\".{WT}{PG}Mutant Elder: There are said{CR}to be seven Pillars in all.{CR}One alone is useless.{WT}{PG}Even so, I entrust it to you...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3076",
+    "en": "Are we forever barred from living{CR}on the surface...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3077",
+    "en": "Mekata: It's been a long time,{CR}{SY}. It's me...{TI}{CR}though you may not remember.{WT}{PG}You've grown even stronger{CR}than I had hoped.{CR}Have your memories returned?{WT}{PG}The time has come to tell you{CR}the truth about yourself.{WT}{PG}But first, I need a favor.{WT}Remember the woman from{CR}the Center who came to see you?{CR}She's being held at the Factory.{WT}{PG}She left the Center to search{CR}for a missing boy, and they{CR}branded her a deserter.{WT}{PG}Please rescue her, {SY}.{CR}Then I will tell you everything...{WT}{PG}You can only reach her by taking{CR}the underground passage.{WT}Find the man on the westernmost road{CR}between Valhalla and the Center.{CR}He will know the way.{WT}Please. You are my only hope.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3078",
+    "en": "{PG}You can only reach her by taking{CR}the underground passage.{WT}Find the man on the westernmost road{CR}between Valhalla and the Center.{CR}He will know the way.{WT}Please. You are my only hope.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3079",
+    "en": "Mekata: Please hurry and rescue{CR}{Fe}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307a",
+    "en": "Mekata: Oh... {SY}.{CR}You came all the way inside{CR}{MG}'s stomach.{WT}{PG}I never imagined the Center...{CR}No, the Senate would have {MG}{CR}swallow all of Valhalla.{WT}{PG}The Senate wanted to prevent{CR}you and me from ever meeting.{WT}They knew I was hiding somewhere{CR}in Valhalla, but they could not{CR}manage to find me.{WT}{PG}And by then, Valhalla itself{CR}had outlived its usefulness{CR}to the Center.{WT}So they ordered the Demon King{CR}{MG}{CR}to swallow the entire district.{WT}That allowed them to erase both{CR}an inconvenient man and an area{CR}they no longer needed at once.{WT}{PG}But seeing the two of you together{CR}means you rescued {Fe}{CR}from the prison camp.{WT}Then it is time I told you{CR}the whole truth.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307b",
+    "en": "{PG}Mekata: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307c",
+    "en": "{SY}.{CR}You are a human being created{CR}by the Center to serve{CR}as its Messiah.{WT}{PG}After the Great Destruction,{CR}the world was left in ruins.{WT}To save humanity, the Messians{CR}set out to build the{CR}Thousand-Year Kingdom themselves.{CR}That became TOKYO Millennium.{WT}{PG}They waited for the Messiah{CR}who was meant to appear...{CR}but the savior they longed for{CR}never came.{WT}{PG}So the Center's Senate decided{CR}to create their ideal Messiah{CR}with their own hands.{WT}That Messiah was you, {SY}.{WT}{PG}At the same time, biotechnology{CR}was used to create four others{CR}whose lives would revolve{CR}around your own.{WT}{PG}{NI} was to be your partner.{WT}{PG}{SN} was the Messiah of{CR}a virtual world designed to test{CR}the Thousand-Year Kingdom.{WT}{PG}{FO} was the Anti-Messiah{CR}you would defeat to heighten{CR}your charisma as the savior.{WT}{PG}And {FI}...{CR}was assigned to watch over you.{WT}{PG}But you alone were different.{WT}A human embryo was enhanced{CR}inside the Bio Lab, then implanted{CR}in the body of a gifted{CR}young woman.{WT}That is how you were born.{WT}{PG}You were taken from the woman{CR}who bore you immediately after birth,{CR}then aged more than ten years{CR}in the span of a single day...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307d",
+    "en": "Hear my story again?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307e",
+    "en": "{Fe}: ...N-No...{CR}That can't... That can't be true...{WT}{PG}Mekata: ...It is.{CR}{Fe}'s child is {SY}.{WT}{PG}{Fe}: ...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x307f",
+    "en": "{PG}Mekata: Until then, I had obeyed{CR}the Center's every command{CR}without ever questioning it...{WT}But I could not accept{CR}the Messiah Project.{WT}{PG}They took it upon themselves{CR}to manufacture a savior...{CR}{TI}and they used my own daughter{CR}for their project.{WT}I could endure none of it.{WT}{PG}Hanada and I erased your memory,{CR}created the commotion over{CR}the explosion, and escaped{CR}from the Center. {WT}{Fe}...{WT} I wanted to take you with us.{CR}But there was no time to erase{CR}the memories they had implanted{CR}in you as a Temple Knight.{WT}{PG}And yet, you set out on your own{CR}to search for {SY}.{WT} That was something even I{CR}could never have anticipated.{WT}{PG}Now, anything swallowed{CR}by the Demon King Abaddon{CR}will soon vanish completely.{WT}It seems my end has come.{CR}The two of you must escape at once.{WT}{PG}Take this \"{IT}.\"{WT}It can force Abaddon to assume{CR}a physical form. Defeat him{CR}and make your escape.{WT}{PG}>Obtained the \"{IT}.\"{WT}{PG}Mekata: Farewell, my greatest{CR}creation... Prototype 1...{WT}And farewell...{CR}my beloved daughter...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3080",
+    "en": "{Fe}: Wait! Tell me more!{TI}{CR}I need to know!{CR}You were my father...{TI}{CR}{SY} is my child...{CR}What does any of this mean?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3081",
+    "en": "Tell me!{TI}{CR}You can't just disappear!{TI}{TI}{CR}...You coward!!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3082",
+    "en": "{MG}: Not that way!{CR}Right! Go right!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3083",
+    "en": "{MG}: The scent is coming{CR}from the left.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3084",
+    "en": "{MG}: Go forward,{CR}then turn right.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3085",
+    "en": "{MG}: Go right{CR}and take the stairs in back.{CR}The scent is coming{CR}from the floor below.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3086",
+    "en": "Someone has tried to open{CR}a gateway to the Underworld here.{WT}{PG}Use the four dolls to open it?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3087",
+    "en": "{PG}Use the \"{IT}\"?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3088",
+    "en": "{PG}>Placed the \"{IT}.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3089",
+    "en": "{PG}The gateway failed to open...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308a",
+    "en": "{PG}The gateway to the Underworld{CR}opened.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308b",
+    "en": "Enter the Underworld?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308c",
+    "en": "Leave the Underworld and return{CR}to Millennium?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308d",
+    "en": "You can no longer return{CR}to Millennium.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308e",
+    "en": "Petersen: From the mortal world?{TI}{CR}Do you know my beloved's fate?{WT}{PG}Siren was taken there, likely{CR}to control people with her song.{WT}Her song bewitched me too, but{CR}we fell in love over the years.{WT}{PG}Now I am only a helpless spirit.{CR}The sorrow... the frustration...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x308f",
+    "en": "Please take me to her.{CR}I beg you.{WT}{PG}>Take Petersen to Siren?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3090",
+    "en": "Petersen: You will take me?{CR}Thank you.{WT}I can do nothing to help,{CR}but I will follow you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3091",
+    "en": "Petersen: Of course...{CR}Forgive me for asking{CR}the impossible...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3092",
+    "en": "Petersen: Please hurry{CR}and take me to Siren...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3093",
+    "en": "Petersen: Thank you.{CR}Because of you, we are happy{CR}together once more. She, too,{CR}sings now from joy.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3094",
+    "en": ">Seth lies sealed in slumber.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3095",
+    "en": ">Seth's body is moving faintly.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3096",
+    "en": ">Seth has already flown away.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3097",
+    "en": "Gomory: We're going to seal Seth.{CR}Do you mean to interfere?!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3098",
+    "en": "Gomory: You let Seth escape...{CR}Now Satan will return.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x3099",
+    "en": "Louis Cyphre: We failed to prevent{CR}Seth's awakening...{CR}Will Satan truly return...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309a",
+    "en": ">Seth is beginning to awaken...!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309b",
+    "en": ">Seth flew away...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309c",
+    "en": "Arcadia Citizen: I came from{CR}Arcadia in search of a spell{CR}that grants immortality.{WT}Could it be here? If I find it,{CR}Arcadia will become a truly{CR}perfect world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309d",
+    "en": "Arcadia Citizen: Where am I?{CR}I've wandered into a strange place.{CR}It feels as though I have no body.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309e",
+    "en": "Junk Dealer: ...Hold on.{CR}Since you came all this way,{CR}I'll give you something good.{CR}Keep bringing me your business.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x309f",
+    "en": ">\"{IT}\"{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a0",
+    "en": " began to shine.{WT}{PG}Place the \"{IT}\"?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a1",
+    "en": ">Placed it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a2",
+    "en": ">Used nothing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a3",
+    "en": ">There is an Altar Stone...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a4",
+    "en": " rests upon it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a5",
+    "en": ">Enter the Underworld?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a6",
+    "en": ">The \"{IT}\" began to shine.{WT}{PG}{SY} and the others{CR}placed the \"{IT}.\"{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a8",
+    "en": "Crowley: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30a9",
+    "en": "A precious FULL MOON...{CR}the perfect night for a Sabbath,{CR}and Lucifer forbids me from{CR}holding one!{WT}Graaah! I can't take it anymore!{CR}I'll make a blood sacrifice{CR}out of every one of you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30aa",
+    "en": "...Guh... I thought the Underworld{CR}would be one endless Sabbath...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ab",
+    "en": ">Crowley is no longer here...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ac",
+    "en": ">The gate to Tiferet{CR}has two keyholes.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ad",
+    "en": "{PG}>Inserted the \"{IT}\"{CR}into a keyhole.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ae",
+    "en": "{PG}The gate to Tiferet opened.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30af",
+    "en": "{PG}You do not have the other key.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b0",
+    "en": ">The gate to Tiferet is sealed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b1",
+    "en": ">{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b2",
+    "en": "Enter Tiferet?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b3",
+    "en": "Leave Tiferet?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b4",
+    "en": "Gomory: So you're {SY}.{CR}I see why Lucifer doubts you.{WT}{PG}I am his servant Gomory.{CR}By his order, come with me{CR}to Keter Castle.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b5",
+    "en": "Louis Cyphre: {SY}.{CR}I came to bid you farewell today.{WT}{PG}This is where we part forever.{WT}Because I am going{CR}to take your life!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b6",
+    "en": "{MG}: Ho ho ho ho ho!{CR}You walked right into my grasp.{WT}Lord Lucifer has placed far too{CR}much faith in a child like you.{WT}{PG}You could never be Satan.{CR}And you certainly could never{CR}be the Messiah.{WT}{PG}You are nothing but a foolish{CR}human. And I shall grant you{CR}a death befitting one!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b7",
+    "en": "It seems you were no ordinary{CR}child of man after all.{WT}Satan or Messiah... It matters not.{WT}{PG}Use that power to restore my true{CR}form... Ishtar, beautiful goddess{CR}of abundant harvests...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b8",
+    "en": "Louis Cyphre: Unharmed, {SY}?{WT} That Astaroth... To think he{CR}would impersonate me.{WT}I warned him a cheap ambush would{CR}never work against you.{WT}And still, you defeated him.{CR}I want your power more than ever.{WT}{PG}Walk beside me into Chaos{CR}and toward a world reborn.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30b9",
+    "en": "{PG}Excellent!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ba",
+    "en": "{PG}Then I will await you at{CR}Keter Castle. Come at once.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30bb",
+    "en": "Heh... Our paths were incompatible{CR}after all. A pity.{WT}I had hoped not to make you{CR}an enemy...{CR}The next time we meet will be{CR}your last.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30bc",
+    "en": "{FI}: {SY}, you met Lucifer,{CR}didn't you? You heard what he said.{WT}{PG}Surely you didn't accept{CR}his invitation.{WT}{PG}He means to destroy Millennium{CR}to prevent a peaceful world{CR}from ever being born.{WT}{PG}The Senate certainly went too far.{CR}But Millennium allowed humanity{CR}to survive.{WT}{PG}We cannot let him destroy it.{CR}Too many lives have already{CR}been sacrificed.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30bd",
+    "en": "{SY}...{CR}Will you help me?{WT}{PG}Let us defeat Lucifer, rebuild{CR}Millennium, and create the true{CR}Thousand-Year Kingdom, an ideal{CR}world where all can live in peace.{WT}Please help me, {SY}!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30be",
+    "en": "You'll lend me your strength?!{CR}Thank you! Together, we'll build{CR}a new and true{CR}Thousand-Year Kingdom.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30bf",
+    "en": "But Lucifer intends to destroy{CR}Millennium completely.{WT}{PG}He means to awaken Seth, who sleeps{CR}in Tiferet in the Underworld.{WT}I cannot leave Eden while it remains{CR}incomplete.{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c0",
+    "en": "I am sorry, but will you go{CR}to Seth?{WT}We must learn what Lucifer's agents{CR}are plotting...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c1",
+    "en": "{FI}: {SY}{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c2",
+    "en": "{FI}: ...I see.{CR}Seth has been revived...{TI}{CR}Seth...{TI} revived...{WT}{PG}I feel as though I am about{CR}to remember something...{CR}Perhaps Seth will fly here{CR}to find me...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c3",
+    "en": "Let us fight together to attain{CR}true peace, {SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c4",
+    "en": "And you, {SY}!{CR}It seems you have sided with{CR}the destruction Lucifer plots.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c5",
+    "en": "{PG}...{TI}{TI}You clearly do not belong{CR}in Eden. How unfortunate.{CR}You will leave this place at once.{WT}{PG}Like Adam and Eve of old, you shall{CR}be cast out of paradise.{CR}Farewell, {SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c6",
+    "en": ">{SY} and the others{CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c7",
+    "en": "were thrown outside the Center!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c8",
+    "en": "{FI}: {SY}.{CR}At last, I understand who I am.{WT}{PG}I know why I was born{CR}into this world, what I must do,{CR}and where my path will lead.{WT}{PG}Now I shall reclaim{CR}my true form.{WT}Look... My...{TI}{CR}No, my lost other half{CR}has finally come for me!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30c9",
+    "en": "{PG}{MG}: I am Satan.{CR}I was sent into this world to judge{CR}both humanity and demonkind.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ca",
+    "en": "Defilers of paradise! Fall{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30cb",
+    "en": "{CR}into the depths of the abyss!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30cc",
+    "en": ">You were cast into{CR}the underground!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30cd",
+    "en": "STEVEN: Satan appeared and wasted{CR}no time giving you trouble.{CR}But you have no time to rest.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ce",
+    "en": "Kuzuryu, filled with the energy{CR}Moloch gathered on Lucifer's orders,{CR}is about to run wild.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30cf",
+    "en": "You must defeat Kuzuryu,{CR}or the consequences will be dire.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d0",
+    "en": "Look. It appears he has already{CR}begun to move.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d1",
+    "en": "And aboard that vessel{CR}is something else...{CR}the Megiddo Ark.{WT}{PG}The Megiddo Ark is a beam{CR}of tremendous energy.{WT}If it is fired, everything{CR}on the surface will vanish.{WT}{PG}Satan will use it without{CR}a moment's hesitation...{CR}for that is the will of the One God.{WT}And there is no one else{CR}who can stop him.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d2",
+    "en": "Gomory: Satan has finally returned.{CR}Lord Lucifer awaits you.{CR}Hurry to Keter Castle.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d3",
+    "en": "Lend your strength to my judgment.{CR}Together, we shall bring divine{CR}punishment upon Lucifer.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d4",
+    "en": "{PG}>{ZK} {MG} joined you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d5",
+    "en": "If you have no room among{CR}your demons, make room and return.{CR}Do not forget. I will be waiting.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d6",
+    "en": "I have awaited you, {SY}.{CR}Come. For the sake of a new world!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d7",
+    "en": "Cherub: Eden's gates open only{CR}for those who have been chosen.{CR}We know who the chosen are.{WT}You are... {TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d8",
+    "en": "not one of them. You may not{CR}enter paradise.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30d9",
+    "en": "Ah! You are indeed one of{CR}the chosen. Enter paradise.{WT}{PG}>Houri's Hagoromo allowed you{CR}to escape the Cherub's scrutiny.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30da",
+    "en": "Cherub: Welcome, chosen one.{CR}The paradise of Eden will always{CR}await your return.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30db",
+    "en": "Cherub: ...You are {SY}.{CR}You deceived us long enough.{WT}But no longer. We will not be{CR}fooled again. You are forbidden{CR}from entering paradise!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30dc",
+    "en": "Gabriel: Hurry to {FI}.{CR}He has been waiting for you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30dd",
+    "en": "Gabriel: You are not permitted{CR}to enter this place.{WT}...{FI} is to the south.{CR}Go and meet him.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30de",
+    "en": "Gabriel: This place is not yet{CR}complete. You cannot enter.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30df",
+    "en": "...{FI} is to the south.{CR}Go and meet him.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e0",
+    "en": ">Enter?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e1",
+    "en": "{MG}: You defeated{CR}all Twelve Divine Generals.{WT}But by Lord Lucifer's command,{CR}I will not let you pass!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e2",
+    "en": "{MG}: So you are{CR}{SY}.{WT} By Lord Lucifer's command,{CR}I shall test your strength.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e3",
+    "en": "{MG}: By Lucifer's order,{CR}I barred all who could not{CR}defeat me. You have won. Pass.{WT}Go now, to Lord Lucifer.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e4",
+    "en": "I, the Great Marshal {MG},{CR}defeated by a mere human{CR}and his demons...{WT}{PG}...Glory... to Lord Lucifer...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e5",
+    "en": "{MG}: Reporting in!{CR}{ZK} {MG}.{CR}By honor of the Twelve Generals,{CR}I will bar your way!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e6",
+    "en": "{MG}: {SY}!{CR}I, {ZK} {MG},{CR}shall test your strength!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e7",
+    "en": "{MG}: You have won.{CR}Your strength lives up{CR}to the rumors.{CR}You may pass.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e8",
+    "en": "...{ZK} {MG}{CR}falls here...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30e9",
+    "en": "{MG}: I am Virocana.{CR}I grant salvation to all who pray{CR}to me, whether righteous or wicked.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ea",
+    "en": "Are you an agent of the One God,{CR}who persecutes the malformed and{CR}saves only His chosen?{CR}Then receive my radiant light!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30eb",
+    "en": "Though you have taken countless{CR}lives, you seem capable of accepting{CR}my salvation.{WT}Recognize your sins, and never{CR}forget them.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ec",
+    "en": "{MG}: I now walk beside you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ed",
+    "en": "{MG}: {SY}.{CR}Never forget the karmic weight{CR}of the lives you have taken.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ee",
+    "en": "{NI}: {SY}? D-Don't tell me...{WT}Thank goodness you're alive.{WT}I am dead and cannot help...{TI}{CR}Wait. I can do one last thing.{CR}Take the rest of my power...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ef",
+    "en": "...Now I can never see you again.{WT}But I'm glad I got to see you{CR}once more... and help you{CR}one last time.{WT}Goodbye... {SY}...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f0",
+    "en": "Man's Spirit: Only after I died{CR}did I understand how sinful I was.{CR}I came to confess before{CR}Lord {MG}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f1",
+    "en": "Man's Spirit: They say {MG}{CR}will save even the wicked.{CR}What a merciful god.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f2",
+    "en": "{MG}'s Spirit: You are{CR}{SY}!{WT} Because of you, I never made it{CR}to the Center!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f3",
+    "en": "Gaean's Spirit: The Center's{CR}Temple Knights killed me.{WT}They tried to erase the Gaean{CR}faith from this world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f4",
+    "en": " Spirit: The Gaeans used demons{CR}to wreak havoc across Millennium.{WT}They even attacked Holy Town's{CR}church. More than my own death,{CR}I lament the church's destruction.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f5",
+    "en": "Ozawa: I ruled Shinjuku in peace{CR}after the Great Destruction.{WT}Then some wicked demon summoner{CR}came along, shattered that peace,{CR}and took my life!{WT}{PG}And after falling all the way here...{CR}even my old underlings treat me{CR}like an outcast.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f6",
+    "en": "Henchman A: We followed Ozawa,{CR}then a missile came flying in. BOOM!{WT}{PG}Henchman B: He outlived us, so{CR}I ignore that old geezer.{WT}We've nothing to discuss.{WT}{PG}Fat Man: I'm hungry...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f7",
+    "en": "Gotou: My plan was flawless!{CR}It should have succeeded, but those{CR}two strange interlopers ruined it!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f8",
+    "en": "{MG}: {SY}.{CR}Hear my plea. Help me reclaim{CR}my true form in this place.{WT}{PG}>Grant {MG}'s request?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30f9",
+    "en": "{MG}: A-At last!{CR}I can reclaim my true form!{CR}Ho ho ho ho ho!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30fa",
+    "en": "{MN}: At last, I am free!{CR}I am the Deity {MN}.{CR}Thank you, {SY}!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30fb",
+    "en": ">{MN} departed.{WT}{PG}{MG}: ...I am{CR}{ZK} {MG}.{WT} Long ago, the One God stole{CR}my freedom and fused me together{CR}with {MN}.{WT}{PG}I was reduced to the form{CR}of the Demon King Astaroth.{WT}At last, I have regained{CR}my true form.{WT}{PG}No amount of gratitude could{CR}ever repay what you have done{CR}for me, {SY}.{WT} Thank you. Truly.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30fc",
+    "en": "{PG}>{MG}'s radiance filled{CR}{SY} and the others{CR}with power.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30fd",
+    "en": "{MG}: I wish I could stay{CR}and restore the Underworld,{CR}but for now, I will follow you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30fe",
+    "en": "{MG}: Welcome, {SY}.{WT} The seas of the Underworld are{CR}slowly regaining their abundance.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x30ff",
+    "en": ">Houri is bathing.{WT}{ED}",
+    "fr": ""
+  }
+]

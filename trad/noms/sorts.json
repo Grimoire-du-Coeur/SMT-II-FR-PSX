@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "0",
+    "en": "Agi",
+    "fr": ""
+  },
+  {
+    "id": "1",
+    "en": "Agilao",
+    "fr": ""
+  },
+  {
+    "id": "2",
+    "en": "Maragi",
+    "fr": ""
+  },
+  {
+    "id": "3",
+    "en": "Maragion",
+    "fr": ""
+  },
+  {
+    "id": "4",
+    "en": "Bufu",
+    "fr": ""
+  },
+  {
+    "id": "5",
+    "en": "Bufula",
+    "fr": ""
+  },
+  {
+    "id": "6",
+    "en": "Mabufu",
+    "fr": ""
+  },
+  {
+    "id": "7",
+    "en": "Mabufula",
+    "fr": ""
+  },
+  {
+    "id": "8",
+    "en": "Zio",
+    "fr": ""
+  },
+  {
+    "id": "9",
+    "en": "Zionga",
+    "fr": ""
+  },
+  {
+    "id": "10",
+    "en": "Mazio",
+    "fr": ""
+  },
+  {
+    "id": "11",
+    "en": "Mazionga",
+    "fr": ""
+  },
+  {
+    "id": "12",
+    "en": "Zan",
+    "fr": ""
+  },
+  {
+    "id": "13",
+    "en": "Zanma",
+    "fr": ""
+  },
+  {
+    "id": "14",
+    "en": "Mazan",
+    "fr": ""
+  },
+  {
+    "id": "15",
+    "en": "Mazanma",
+    "fr": ""
+  },
+  {
+    "id": "16",
+    "en": "Tentarafoo",
+    "fr": ""
+  },
+  {
+    "id": "17",
+    "en": "Megido",
+    "fr": ""
+  },
+  {
+    "id": "18",
+    "en": "Megidolaon",
+    "fr": ""
+  },
+  {
+    "id": "19",
+    "en": "Dormina",
+    "fr": ""
+  },
+  {
+    "id": "20",
+    "en": "Shibaboo",
+    "fr": ""
+  },
+  {
+    "id": "21",
+    "en": "Pulinpa",
+    "fr": ""
+  },
+  {
+    "id": "22",
+    "en": "Happirma",
+    "fr": ""
+  },
+  {
+    "id": "23",
+    "en": "Marin Karin",
+    "fr": ""
+  },
+  {
+    "id": "24",
+    "en": "Makajam",
+    "fr": ""
+  },
+  {
+    "id": "25",
+    "en": "Mudo",
+    "fr": ""
+  },
+  {
+    "id": "26",
+    "en": "Mudoon",
+    "fr": ""
+  },
+  {
+    "id": "27",
+    "en": "Hama",
+    "fr": ""
+  },
+  {
+    "id": "28",
+    "en": "Mahama",
+    "fr": ""
+  },
+  {
+    "id": "29",
+    "en": "Tarunda",
+    "fr": ""
+  },
+  {
+    "id": "30",
+    "en": "Rakunda",
+    "fr": ""
+  },
+  {
+    "id": "31",
+    "en": "Sukunda",
+    "fr": ""
+  },
+  {
+    "id": "32",
+    "en": "Eltra",
+    "fr": ""
+  },
+  {
+    "id": "33",
+    "en": "Dekaja",
+    "fr": ""
+  },
+  {
+    "id": "34",
+    "en": "Dekunda",
+    "fr": ""
+  },
+  {
+    "id": "35",
+    "en": "Tetraja",
+    "fr": ""
+  },
+  {
+    "id": "36",
+    "en": "Tarukaja",
+    "fr": ""
+  },
+  {
+    "id": "37",
+    "en": "Rakukaja",
+    "fr": ""
+  },
+  {
+    "id": "38",
+    "en": "Sukukaja",
+    "fr": ""
+  },
+  {
+    "id": "39",
+    "en": "Makakaja",
+    "fr": ""
+  },
+  {
+    "id": "40",
+    "en": "Tetra",
+    "fr": ""
+  },
+  {
+    "id": "41",
+    "en": "Makarakarn",
+    "fr": ""
+  },
+  {
+    "id": "42",
+    "en": "Tetrakarn",
+    "fr": ""
+  },
+  {
+    "id": "43",
+    "en": "Dia",
+    "fr": ""
+  },
+  {
+    "id": "44",
+    "en": "Diarama",
+    "fr": ""
+  },
+  {
+    "id": "45",
+    "en": "Diarahan",
+    "fr": ""
+  },
+  {
+    "id": "46",
+    "en": "Media",
+    "fr": ""
+  },
+  {
+    "id": "47",
+    "en": "Mediarama",
+    "fr": ""
+  },
+  {
+    "id": "48",
+    "en": "Mediarahan",
+    "fr": ""
+  },
+  {
+    "id": "49",
+    "en": "Patra",
+    "fr": ""
+  },
+  {
+    "id": "50",
+    "en": "Me Patra",
+    "fr": ""
+  },
+  {
+    "id": "51",
+    "en": "Posumudi",
+    "fr": ""
+  },
+  {
+    "id": "52",
+    "en": "Paraladi",
+    "fr": ""
+  },
+  {
+    "id": "53",
+    "en": "Petradi",
+    "fr": ""
+  },
+  {
+    "id": "54",
+    "en": "Recarm",
+    "fr": ""
+  },
+  {
+    "id": "55",
+    "en": "Samarecarm",
+    "fr": ""
+  },
+  {
+    "id": "56",
+    "en": "Recarmdra",
+    "fr": ""
+  },
+  {
+    "id": "57",
+    "en": "Mapper",
+    "fr": ""
+  },
+  {
+    "id": "58",
+    "en": "Traesto",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "Traport",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "Trafuri",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Estoma",
+    "fr": ""
+  },
+  {
+    "id": "62",
+    "en": "Sabatma",
+    "fr": ""
+  },
+  {
+    "id": "63",
+    "en": "Necroma",
+    "fr": ""
+  },
+  {
+    "id": "64",
+    "en": "Paral Eye",
+    "fr": ""
+  },
+  {
+    "id": "65",
+    "en": "Petra Eye",
+    "fr": ""
+  },
+  {
+    "id": "66",
+    "en": "Hell's Eye",
+    "fr": ""
+  },
+  {
+    "id": "67",
+    "en": "Bael's Curse",
+    "fr": ""
+  },
+  {
+    "id": "68",
+    "en": "Sexy Dance",
+    "fr": ""
+  },
+  {
+    "id": "69",
+    "en": "Happy Dance",
+    "fr": ""
+  },
+  {
+    "id": "70",
+    "en": "Song of Joy",
+    "fr": ""
+  },
+  {
+    "id": "71",
+    "en": "Lullaby",
+    "fr": ""
+  },
+  {
+    "id": "72",
+    "en": "Panic Voice",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Bind Voice",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Bloodsucker",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "Fire Breath",
+    "fr": ""
+  },
+  {
+    "id": "76",
+    "en": "Ice Breath",
+    "fr": ""
+  },
+  {
+    "id": "77",
+    "en": "Poison Breath",
+    "fr": ""
+  },
+  {
+    "id": "78",
+    "en": "Shock",
+    "fr": ""
+  },
+  {
+    "id": "79",
+    "en": "Ice Bound",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "Poison Mist",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "Holy Light",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "Evil Gleam",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "Fool's Voice",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Devil Kiss",
+    "fr": ""
+  },
+  {
+    "id": "85",
+    "en": "Devil Smile",
+    "fr": ""
+  },
+  {
+    "id": "86",
+    "en": "Fog Breath",
+    "fr": ""
+  },
+  {
+    "id": "87",
+    "en": "Power Breath",
+    "fr": ""
+  },
+  {
+    "id": "88",
+    "en": "Dark Breath",
+    "fr": ""
+  },
+  {
+    "id": "89",
+    "en": "Water Wall",
+    "fr": ""
+  },
+  {
+    "id": "90",
+    "en": "Fire Wall",
+    "fr": ""
+  },
+  {
+    "id": "91",
+    "en": "Weird Wave",
+    "fr": ""
+  },
+  {
+    "id": "92",
+    "en": "Divine Wrath",
+    "fr": ""
+  },
+  {
+    "id": "93",
+    "en": "Death Touch",
+    "fr": ""
+  },
+  {
+    "id": "94",
+    "en": "Devil Kiss",
+    "fr": ""
+  },
+  {
+    "id": "95",
+    "en": "Howl",
+    "fr": ""
+  },
+  {
+    "id": "96",
+    "en": "Reverse Spin",
+    "fr": ""
+  },
+  {
+    "id": "97",
+    "en": "Hama Flash",
+    "fr": ""
+  },
+  {
+    "id": "98",
+    "en": "God Voice",
+    "fr": ""
+  },
+  {
+    "id": "99",
+    "en": "Sabaoth Voice",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "Shaddai Eye",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Elohim Light",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "God's Judgment",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "God Voice",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "Bite",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "Poison Bite",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "Paralyze Bite",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "Petrify Bite",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "Charm Bite",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "Scratch",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Poison Scratch",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Paralyze Scratch",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Poison Needle",
+    "fr": ""
+  },
+  {
+    "id": "113",
+    "en": "Paralyze Needle",
+    "fr": ""
+  },
+  {
+    "id": "114",
+    "en": "Coil",
+    "fr": ""
+  },
+  {
+    "id": "115",
+    "en": "Hell Thrust",
+    "fr": ""
+  },
+  {
+    "id": "116",
+    "en": "Scanning",
+    "fr": ""
+  },
+  {
+    "id": "117",
+    "en": "Feather Dance",
+    "fr": ""
+  },
+  {
+    "id": "118",
+    "en": "Flurry",
+    "fr": ""
+  },
+  {
+    "id": "119",
+    "en": "Wind Strike",
+    "fr": ""
+  },
+  {
+    "id": "120",
+    "en": "Thunder Strike",
+    "fr": ""
+  },
+  {
+    "id": "121",
+    "en": "Digest Fluid",
+    "fr": ""
+  },
+  {
+    "id": "122",
+    "en": "Charm Mist",
+    "fr": ""
+  },
+  {
+    "id": "123",
+    "en": "Wing Flap",
+    "fr": ""
+  },
+  {
+    "id": "124",
+    "en": "99 Needles",
+    "fr": ""
+  },
+  {
+    "id": "125",
+    "en": "Tackle",
+    "fr": ""
+  },
+  {
+    "id": "126",
+    "en": "Rampage",
+    "fr": ""
+  },
+  {
+    "id": "127",
+    "en": "Crush",
+    "fr": ""
+  },
+  {
+    "id": "128",
+    "en": "Sweep",
+    "fr": ""
+  },
+  {
+    "id": "129",
+    "en": "Showtime",
+    "fr": ""
+  },
+  {
+    "id": "130",
+    "en": "Punch",
+    "fr": ""
+  },
+  {
+    "id": "131",
+    "en": "Backhand",
+    "fr": ""
+  },
+  {
+    "id": "132",
+    "en": "Iron Fist",
+    "fr": ""
+  },
+  {
+    "id": "133",
+    "en": "Akasha Arts",
+    "fr": ""
+  },
+  {
+    "id": "134",
+    "en": "Kick",
+    "fr": ""
+  },
+  {
+    "id": "135",
+    "en": "Roundhouse",
+    "fr": ""
+  },
+  {
+    "id": "136",
+    "en": "Flying Kick",
+    "fr": ""
+  },
+  {
+    "id": "137",
+    "en": "Aimed Shot",
+    "fr": ""
+  },
+  {
+    "id": "138",
+    "en": "Rapid Fire",
+    "fr": ""
+  },
+  {
+    "id": "139",
+    "en": "Buckshot",
+    "fr": ""
+  },
+  {
+    "id": "140",
+    "en": "Daruma Toss",
+    "fr": ""
+  },
+  {
+    "id": "141",
+    "en": "Hades Blast",
+    "fr": ""
+  },
+  {
+    "id": "142",
+    "en": "Spin Slash",
+    "fr": ""
+  },
+  {
+    "id": "143",
+    "en": "Bodhi Palm",
+    "fr": ""
+  },
+  {
+    "id": "144",
+    "en": "Bolt Kick",
+    "fr": ""
+  },
+  {
+    "id": "145",
+    "en": "Heat Wave",
+    "fr": ""
+  },
+  {
+    "id": "146",
+    "en": "Deathbound",
+    "fr": ""
+  },
+  {
+    "id": "147",
+    "en": "Hell Fang",
+    "fr": ""
+  },
+  {
+    "id": "148",
+    "en": "Belly Skewer",
+    "fr": ""
+  },
+  {
+    "id": "149",
+    "en": "Substitute",
+    "fr": ""
+  },
+  {
+    "id": "150",
+    "en": "Absorb",
+    "fr": ""
+  },
+  {
+    "id": "151",
+    "en": "Self-Destruct",
+    "fr": ""
+  },
+  {
+    "id": "152",
+    "en": "Suck",
+    "fr": ""
+  },
+  {
+    "id": "153",
+    "en": "Vacuum Throw",
+    "fr": ""
+  },
+  {
+    "id": "154",
+    "en": "Rest",
+    "fr": ""
+  },
+  {
+    "id": "155",
+    "en": "Suicide Wave",
+    "fr": ""
+  },
+  {
+    "id": "156",
+    "en": "Avalanche",
+    "fr": ""
+  },
+  {
+    "id": "157",
+    "en": "Guard",
+    "fr": ""
+  },
+  {
+    "id": "158",
+    "en": "Flee",
+    "fr": ""
+  },
+  {
+    "id": "159",
+    "en": "Call Ally",
+    "fr": ""
+  },
+  {
+    "id": "160",
+    "en": "Fire dmg, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "161",
+    "en": "Stronger Agi",
+    "fr": ""
+  },
+  {
+    "id": "162",
+    "en": "Agi, all foes",
+    "fr": ""
+  },
+  {
+    "id": "163",
+    "en": "Stronger Maragi",
+    "fr": ""
+  },
+  {
+    "id": "164",
+    "en": "Ice dmg; may FREEZE",
+    "fr": ""
+  },
+  {
+    "id": "165",
+    "en": "Stronger Bufu",
+    "fr": ""
+  },
+  {
+    "id": "166",
+    "en": "Bufu, all foes",
+    "fr": ""
+  },
+  {
+    "id": "167",
+    "en": "Stronger Mabufu",
+    "fr": ""
+  },
+  {
+    "id": "168",
+    "en": "Elec; may SHOCK",
+    "fr": ""
+  },
+  {
+    "id": "169",
+    "en": "Stronger Zio",
+    "fr": ""
+  },
+  {
+    "id": "170",
+    "en": "Zio, all foes",
+    "fr": ""
+  },
+  {
+    "id": "171",
+    "en": "Stronger Mazio",
+    "fr": ""
+  },
+  {
+    "id": "172",
+    "en": "Shockwave, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "173",
+    "en": "Stronger Zan",
+    "fr": ""
+  },
+  {
+    "id": "174",
+    "en": "Zan, all foes",
+    "fr": ""
+  },
+  {
+    "id": "175",
+    "en": "Stronger Mazan",
+    "fr": ""
+  },
+  {
+    "id": "176",
+    "en": "PANIC, all foes",
+    "fr": ""
+  },
+  {
+    "id": "177",
+    "en": "Almighty dmg, all foes",
+    "fr": ""
+  },
+  {
+    "id": "178",
+    "en": "Stronger Megido",
+    "fr": ""
+  },
+  {
+    "id": "179",
+    "en": "SLEEP, several foes",
+    "fr": ""
+  },
+  {
+    "id": "180",
+    "en": "BIND, several foes",
+    "fr": ""
+  },
+  {
+    "id": "181",
+    "en": "PANIC, several foes",
+    "fr": ""
+  },
+  {
+    "id": "182",
+    "en": "HAPPY, several foes",
+    "fr": ""
+  },
+  {
+    "id": "183",
+    "en": "CHARM, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "184",
+    "en": "CLOSE, several foes",
+    "fr": ""
+  },
+  {
+    "id": "185",
+    "en": "Curse-kill 2 foes",
+    "fr": ""
+  },
+  {
+    "id": "186",
+    "en": "Curse-kill several",
+    "fr": ""
+  },
+  {
+    "id": "187",
+    "en": "Expel 2 foes",
+    "fr": ""
+  },
+  {
+    "id": "188",
+    "en": "Hama, all foes",
+    "fr": ""
+  },
+  {
+    "id": "189",
+    "en": "Lowers foe attack",
+    "fr": ""
+  },
+  {
+    "id": "190",
+    "en": "Lowers foe defense",
+    "fr": ""
+  },
+  {
+    "id": "191",
+    "en": "Lowers foe hit rate",
+    "fr": ""
+  },
+  {
+    "id": "192",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "193",
+    "en": "Nulls all -kaja",
+    "fr": ""
+  },
+  {
+    "id": "194",
+    "en": "Restores -nda stats",
+    "fr": ""
+  },
+  {
+    "id": "195",
+    "en": "Nulls foe magic 1 turn",
+    "fr": ""
+  },
+  {
+    "id": "196",
+    "en": "Raises party attack",
+    "fr": ""
+  },
+  {
+    "id": "197",
+    "en": "Raises party defense",
+    "fr": ""
+  },
+  {
+    "id": "198",
+    "en": "Raises party hit rate",
+    "fr": ""
+  },
+  {
+    "id": "199",
+    "en": "Raises party magic",
+    "fr": ""
+  },
+  {
+    "id": "200",
+    "en": "Guards vs Drain",
+    "fr": ""
+  },
+  {
+    "id": "201",
+    "en": "Reflects magic 1 turn",
+    "fr": ""
+  },
+  {
+    "id": "202",
+    "en": "Reflects phys 1 turn",
+    "fr": ""
+  },
+  {
+    "id": "203",
+    "en": "Minor HP heal, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "204",
+    "en": "Big HP heal, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "205",
+    "en": "Full HP heal, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "206",
+    "en": "Dia, all allies",
+    "fr": ""
+  },
+  {
+    "id": "207",
+    "en": "Diarama, all allies",
+    "fr": ""
+  },
+  {
+    "id": "208",
+    "en": "Diarahan, all allies",
+    "fr": ""
+  },
+  {
+    "id": "209",
+    "en": "Cures minor ailment",
+    "fr": ""
+  },
+  {
+    "id": "210",
+    "en": "Cures party ailments",
+    "fr": ""
+  },
+  {
+    "id": "211",
+    "en": "Cures POISON, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "212",
+    "en": "Cures PALYZE, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "213",
+    "en": "Cures STONE, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "214",
+    "en": "Revive 1/4 HP, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "215",
+    "en": "Revive full HP, 1 ally",
+    "fr": ""
+  },
+  {
+    "id": "216",
+    "en": "Sacrifice: full party HP",
+    "fr": ""
+  },
+  {
+    "id": "217",
+    "en": "Map until new moon",
+    "fr": ""
+  },
+  {
+    "id": "218",
+    "en": "Exit dungeon",
+    "fr": ""
+  },
+  {
+    "id": "219",
+    "en": "Warp to last save",
+    "fr": ""
+  },
+  {
+    "id": "220",
+    "en": "Flee battle (not boss)",
+    "fr": ""
+  },
+  {
+    "id": "221",
+    "en": "Fewer weak foes",
+    "fr": ""
+  },
+  {
+    "id": "222",
+    "en": "Summon ally, no cost",
+    "fr": ""
+  },
+  {
+    "id": "223",
+    "en": "Revive ally in battle",
+    "fr": ""
+  },
+  {
+    "id": "224",
+    "en": "PALYZE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "225",
+    "en": "STONE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "226",
+    "en": "DEAD, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "227",
+    "en": "FLY, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "228",
+    "en": "CHARM, all foes",
+    "fr": ""
+  },
+  {
+    "id": "229",
+    "en": "HAPPY, all foes",
+    "fr": ""
+  },
+  {
+    "id": "230",
+    "en": "HAPPY, all foes",
+    "fr": ""
+  },
+  {
+    "id": "231",
+    "en": "SLEEP, all foes",
+    "fr": ""
+  },
+  {
+    "id": "232",
+    "en": "PANIC, all foes",
+    "fr": ""
+  },
+  {
+    "id": "233",
+    "en": "BIND, all foes",
+    "fr": ""
+  },
+  {
+    "id": "234",
+    "en": "BAT, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "235",
+    "en": "Fire, several foes",
+    "fr": ""
+  },
+  {
+    "id": "236",
+    "en": "Ice, several foes",
+    "fr": ""
+  },
+  {
+    "id": "237",
+    "en": "Dmg+POISON, group",
+    "fr": ""
+  },
+  {
+    "id": "238",
+    "en": "Elec, several foes",
+    "fr": ""
+  },
+  {
+    "id": "239",
+    "en": "Ice, 1 group",
+    "fr": ""
+  },
+  {
+    "id": "240",
+    "en": "POISON, all foes",
+    "fr": ""
+  },
+  {
+    "id": "241",
+    "en": "CHARM, all foes",
+    "fr": ""
+  },
+  {
+    "id": "242",
+    "en": "CHARM, all foes",
+    "fr": ""
+  },
+  {
+    "id": "243",
+    "en": "CLOSE, all foes",
+    "fr": ""
+  },
+  {
+    "id": "244",
+    "en": "Drain: -1 Lv (female)",
+    "fr": ""
+  },
+  {
+    "id": "245",
+    "en": "Drain: -1 Lv (human)",
+    "fr": ""
+  },
+  {
+    "id": "246",
+    "en": "Halves foe hit rate",
+    "fr": ""
+  },
+  {
+    "id": "247",
+    "en": "Raises own atk/hit",
+    "fr": ""
+  },
+  {
+    "id": "248",
+    "en": "Raises own def/mag",
+    "fr": ""
+  },
+  {
+    "id": "249",
+    "en": "Fire shield",
+    "fr": ""
+  },
+  {
+    "id": "250",
+    "en": "Ice shield",
+    "fr": ""
+  },
+  {
+    "id": "251",
+    "en": "PANIC, all foes",
+    "fr": ""
+  },
+  {
+    "id": "252",
+    "en": "Dmg by alignment",
+    "fr": ""
+  },
+  {
+    "id": "253",
+    "en": "Drains HP to self",
+    "fr": ""
+  },
+  {
+    "id": "254",
+    "en": "Drain: -1 Lv (female)",
+    "fr": ""
+  },
+  {
+    "id": "255",
+    "en": "Advances moon 4",
+    "fr": ""
+  },
+  {
+    "id": "256",
+    "en": "Reset to battle start",
+    "fr": ""
+  },
+  {
+    "id": "257",
+    "en": "Dmg to demons only",
+    "fr": ""
+  },
+  {
+    "id": "258",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "259",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "260",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "261",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "262",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "263",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "264",
+    "en": "Bite, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "265",
+    "en": "Bite+POISON, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "266",
+    "en": "Bite+PALYZE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "267",
+    "en": "Bite+STONE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "268",
+    "en": "Bite+CHARM, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "269",
+    "en": "Scratch, 2 foes",
+    "fr": ""
+  },
+  {
+    "id": "270",
+    "en": "Scratch+POISON, 2",
+    "fr": ""
+  },
+  {
+    "id": "271",
+    "en": "Scratch+PALYZE, 2",
+    "fr": ""
+  },
+  {
+    "id": "272",
+    "en": "Dmg+POISON, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "273",
+    "en": "Dmg+PALYZE, group",
+    "fr": ""
+  },
+  {
+    "id": "274",
+    "en": "Coil+BIND, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "275",
+    "en": "Dmg+CLOSE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "276",
+    "en": "Hits 2; may PALYZE",
+    "fr": ""
+  },
+  {
+    "id": "277",
+    "en": "Dmg+PALYZE, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "278",
+    "en": "Dmg+CLOSE, all foes",
+    "fr": ""
+  },
+  {
+    "id": "279",
+    "en": "Hits all; may FREEZE",
+    "fr": ""
+  },
+  {
+    "id": "280",
+    "en": "Dmg+SHOCK, all foes",
+    "fr": ""
+  },
+  {
+    "id": "281",
+    "en": "Dmg+POISON, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "282",
+    "en": "Dmg+CHARM, all foes",
+    "fr": ""
+  },
+  {
+    "id": "283",
+    "en": "Dmg, all foes",
+    "fr": ""
+  },
+  {
+    "id": "284",
+    "en": "Dmg, several foes",
+    "fr": ""
+  },
+  {
+    "id": "285",
+    "en": "Charge dmg",
+    "fr": ""
+  },
+  {
+    "id": "286",
+    "en": "Dmg, all foes",
+    "fr": ""
+  },
+  {
+    "id": "287",
+    "en": "Crush, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "288",
+    "en": "Dmg, all foes",
+    "fr": ""
+  },
+  {
+    "id": "289",
+    "en": "Dmg, all foes + self",
+    "fr": ""
+  },
+  {
+    "id": "290",
+    "en": "Punch, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "291",
+    "en": "Stronger Punch",
+    "fr": ""
+  },
+  {
+    "id": "292",
+    "en": "Punch, several foes",
+    "fr": ""
+  },
+  {
+    "id": "293",
+    "en": "Punch, all foes",
+    "fr": ""
+  },
+  {
+    "id": "294",
+    "en": "Kick, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "295",
+    "en": "Stronger Kick",
+    "fr": ""
+  },
+  {
+    "id": "296",
+    "en": "Kick, several foes",
+    "fr": ""
+  },
+  {
+    "id": "297",
+    "en": "Gun, 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "298",
+    "en": "Gun, several foes",
+    "fr": ""
+  },
+  {
+    "id": "299",
+    "en": "Gun, all foes",
+    "fr": ""
+  },
+  {
+    "id": "300",
+    "en": "Dmg, 1 foe (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "301",
+    "en": "Dmg, several (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "302",
+    "en": "Dmg, several (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "303",
+    "en": "Dmg, 1 foe (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "304",
+    "en": "Dmg, 2 foes (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "305",
+    "en": "Dmg, 1 foe (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "306",
+    "en": "Dmg, several (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "307",
+    "en": "Dmg, several (by HP)",
+    "fr": ""
+  },
+  {
+    "id": "308",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "309",
+    "en": "Draws foe hits 1 turn",
+    "fr": ""
+  },
+  {
+    "id": "310",
+    "en": "Fuse 2 same demons",
+    "fr": ""
+  },
+  {
+    "id": "311",
+    "en": "LOST; battle ends",
+    "fr": ""
+  },
+  {
+    "id": "312",
+    "en": "Heal 1/2 dmg dealt",
+    "fr": ""
+  },
+  {
+    "id": "313",
+    "en": "Removes 1 foe",
+    "fr": ""
+  },
+  {
+    "id": "314",
+    "en": "Heal 3x HP spent",
+    "fr": ""
+  },
+  {
+    "id": "315",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "316",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "317",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "318",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "319",
+    "en": "-----",
+    "fr": ""
+  },
+  {
+    "id": "320",
+    "en": "Agi",
+    "fr": ""
+  }
+]

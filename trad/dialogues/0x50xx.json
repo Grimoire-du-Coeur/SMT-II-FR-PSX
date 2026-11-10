@@ -1,0 +1,495 @@
+[
+  {
+    "id": "0x5000",
+    "en": "Again... {A14}",
+    "fr": "",
+    "note": "---- Bank 5: battle-command / event fragments (A/B tree; no C/D ED) ---- These connective records can be followed immediately by a separately selected bank-4 line. Keep each one self-contained and leave an explicit separator for the next record; 0x5006, for example, feeds directly into the contribution prompt at 0x47d2/0x47d3."
+  },
+  {
+    "id": "0x5001",
+    "en": "One more... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5002",
+    "en": "One more thing... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5003",
+    "en": "This time... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5004",
+    "en": "Something else... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5005",
+    "en": "Anything... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5006",
+    "en": "For now... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5007",
+    "en": "{A6B}... {A0F}",
+    "fr": "",
+    "note": "These topic fragments appear alone until the player advances the text. The following result is appended to the same line, preserving the suspense of Japanese \"[name] wa...\" without forcing an English tense."
+  },
+  {
+    "id": "0x5008",
+    "en": "{A6E}... {A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5009",
+    "en": "{A63} also... {A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500a",
+    "en": "{A63}... {A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500b",
+    "en": "{A6B}'s gun{A65} opened fire!{A67}The shot exploded at {A63}'s feet!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500c",
+    "en": "{A6B}'s gun{A65} opened fire!{A67}The shot exploded at {A63}'s feet!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500d",
+    "en": "Held out the stone.{A67}{A66}Concentrate on it...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500e",
+    "en": "The stone developed tiny cracks!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x500f",
+    "en": "The stone didn't even crack.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5010",
+    "en": "Shattered the stone!{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5011",
+    "en": "Couldn't shatter the stone...{A61}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5012",
+    "en": "Began a strange dance{A65}{A0E}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5013",
+    "en": "With wild abandon...{A0E}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5014",
+    "en": "Danced up a storm!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5015",
+    "en": "Danced seductively!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5016",
+    "en": "Started dancing along.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5017",
+    "en": "Oops! Bumped into {A63}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5018",
+    "en": "They're completely out of it...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5019",
+    "en": "{A68}...{A68}...{A68}...{A68}...{A68}...{A68}...{A0E}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x501a",
+    "en": "{A68}...{A68}...{A68}...{A68}...{A68}... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x501b",
+    "en": ">Accept it?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x501c",
+    "en": ">Dance?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x501d",
+    "en": ">What will you do?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x501e",
+    "en": ">What will you perform?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x501f",
+    "en": ">Which technique?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5020",
+    "en": ">What will you say?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5021",
+    "en": ">Who will do it?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5022",
+    "en": ">Try something?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5023",
+    "en": "This is getting awkward...{A67}{A66}>What will you do?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5024",
+    "en": "You've been utterly humiliated.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5025",
+    "en": "Couldn't catch up!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5026",
+    "en": "Caught them!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5027",
+    "en": "No good! They're out of control!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5028",
+    "en": "No good! Can't reach them!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5029",
+    "en": "They're smirking.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502a",
+    "en": "Urgh... The poison!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502b",
+    "en": "It's no use! Can't move!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502c",
+    "en": "They're picking up Macca...{A67}{A66}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502d",
+    "en": "Stared in fascination{A65}{A0E}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502e",
+    "en": "They're wide open!{A67}{A66}>Attack?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x502f",
+    "en": "Headbutted the stone!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5030",
+    "en": "Collapsed!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5031",
+    "en": "{A63}{A65} punched {A6B}!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5032",
+    "en": "{A6B} and the others fell over!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5033",
+    "en": "downed the liquor in one gulp!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5034",
+    "en": "looks satisfied.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5035",
+    "en": "calmed down.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5036",
+    "en": "happened to have some liquor.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5037",
+    "en": "went berserk!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5038",
+    "en": "is reeling.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5039",
+    "en": "looks utterly exasperated.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503a",
+    "en": "The other party looks bored.{A61}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503b",
+    "en": "They tossed Macca{A67}at your feet.{A61}{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503c",
+    "en": "Held out a Diamond.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503d",
+    "en": "Amused,{A67}they offered more and more food!{A67}{A66}>Eat it?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503e",
+    "en": "{A6B}{A67}passed on from a single touch!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x503f",
+    "en": "Suddenly closed in!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5040",
+    "en": "is removing their gun.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5041",
+    "en": "pulled off twenty backflips in a row!{A65}...{A68}...{A68}...{A68}What a show!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5042",
+    "en": "Whoa!{A67}And then... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5043",
+    "en": "Stuck the landing!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5044",
+    "en": "Wiped out!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5045",
+    "en": "Started wolfing it down! {A61}{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5046",
+    "en": "They're glaring at you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5047",
+    "en": "{A6B}{A65}drew in an instant!{A67}{A66}{A63}{A65}sprang aside!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5048",
+    "en": "{A63} and the others{A67}drifted into peaceful sleep...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5049",
+    "en": "{A63} and the others{A67}were charmed by {A6E}!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x504a",
+    "en": "{A6B} was charmed!{A0F}{A0F}",
+    "fr": "",
+    "note": "This route first selects/displays A6B as the affected party member, then applies charm. A63 is the opposing demon and reported the wrong recipient."
+  },
+  {
+    "id": "0x504b",
+    "en": "{A63}'s mood{A65}seems to have soured...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x504c",
+    "en": "{A63}{A67}was showered with praise!{A61}{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x504d",
+    "en": "{A63} was harshly criticized!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x504e",
+    "en": "{A6E}: Excuse me?!{A67}{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x504f",
+    "en": "{A6E}'s elbow strike exploded! {A61}{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5050",
+    "en": "{A6E}'s elbow strike{A65}hit with megaton force! {A61}{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5051",
+    "en": "{A6E}: No. I won't.{A61}{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5052",
+    "en": "{A6E}: What are you thinking?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5053",
+    "en": "{A6E}: You must be joking!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5054",
+    "en": "Raging {A68}Su-{A68}{A68}per {A68}{A68}Dynamite {A68}{A65}Special {A68}{A68}{A6E}{A68}{A68} Pu-{A68}u-{A68}unch! {A61}{A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x5055",
+    "en": "{A63}'s XXXX was{A67}XXXXed!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5056",
+    "en": "{A6E}'s sweet song{A67}touched {A63}'s heart.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5057",
+    "en": "Stepped forward{A67}and caught {A63} off guard!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5058",
+    "en": "A voice rang out in song{A68}...{A68}...{A68}...{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A68}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5059",
+    "en": "Chance!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505a",
+    "en": "Choose a demon to dismiss.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505b",
+    "en": "Your demon roster seems full.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505c",
+    "en": "{A63} cut in!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505d",
+    "en": "Imitated Chairman Okamoto...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505e",
+    "en": "This is going nowhere!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x505f",
+    "en": "Fell asleep!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5060",
+    "en": "In return,{A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x5061",
+    "en": ">What will you do?{A0F}",
+    "fr": ""
+  }
+]

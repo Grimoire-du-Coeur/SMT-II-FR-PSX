@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "0x4800",
+    "en": "A Life Stone...{A68}...{A68}...{A68}How does that sound?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4801",
+    "en": "A Life Stone...{A68}...{A68}...{A68}How does that sound?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4802",
+    "en": "Surely you would not kill a human?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4803",
+    "en": "Surely you would not kill a human?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4804",
+    "en": "How unfortunate.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4805",
+    "en": "How unfortunate.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4806",
+    "en": "But you show promise.{A65}I shall let you go.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4807",
+    "en": "But you show promise.{A65}I shall let you go.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480a",
+    "en": "I shall claim your life!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480b",
+    "en": "I shall claim your life!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480c",
+    "en": "I like you! {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480d",
+    "en": "I like you! {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480e",
+    "en": "Ha ha ha!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x480f",
+    "en": "Ha ha ha!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4810",
+    "en": "Do not get smart with me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4811",
+    "en": "Insolent wretch!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4812",
+    "en": "Will you come a little closer?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4813",
+    "en": "Will you come a little closer?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4814",
+    "en": "It is useless to lie!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4815",
+    "en": "It is useless to lie!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4816",
+    "en": "You can be reasoned with.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4817",
+    "en": "You are quite endearing.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4818",
+    "en": "It is only proper to set down your gun first.{A65}Will you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4819",
+    "en": "It is only proper to set down your gun first.{A65}Will you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481a",
+    "en": "I have seen your face somewhere. Your name?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481b",
+    "en": "I have seen your face somewhere. Your name?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481c",
+    "en": "You ask me to betray my fellow demons!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481d",
+    "en": "You ask me to betray my fellow demons!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481e",
+    "en": "Even so, I cannot trust you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x481f",
+    "en": "Even so, I cannot trust you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4820",
+    "en": "An honest man, aren't you? {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4821",
+    "en": "An honest man, aren't you? {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4822",
+    "en": "Then, as proof of your faith,{A65}may I take your Macca?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4823",
+    "en": "Then, as proof of your faith,{A65}may I take your Macca?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4824",
+    "en": "I know nothing of it... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4825",
+    "en": "I know nothing of it... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4826",
+    "en": "I see. So you are {A6B}.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4827",
+    "en": "I see. So you are {A6B}.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4828",
+    "en": "Please.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4829",
+    "en": "Please.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x482a",
+    "en": "Impossible.{A67}{A66}I cannot accompany you after all.{A65}Forgive me, but it cannot be helped.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x482b",
+    "en": "Impossible.{A67}{A66}I cannot accompany you after all.{A65}Forgive me, but it cannot be helped.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x482c",
+    "en": "M-My demons! {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x482d",
+    "en": "M-My demons! {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x4832",
+    "en": "I'm sorry, but... Is that really true? {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4833",
+    "en": "I'm sorry, but... Is that really true? {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4836",
+    "en": "In exchange...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4837",
+    "en": "In exchange...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4838",
+    "en": "And next time... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x4839",
+    "en": "And next time... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x483a",
+    "en": "We need only return the surface to the rule of the old gods.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x483b",
+    "en": "Follow us, and God's salvation is assured.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x483c",
+    "en": "You have my gratitude for your cooperation.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x483d",
+    "en": "You have my gratitude for your cooperation.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x483e",
+    "en": "You! You're a Messian, aren't you?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x483f",
+    "en": "You're not a Gaean, are you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4840",
+    "en": "That is what you think, is it not?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4841",
+    "en": "That is what you think, is it not?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4842",
+    "en": "Have you no Gaean spirit?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4843",
+    "en": "And you call yourself a Messian!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4844",
+    "en": "Do you admit{A65}that we are all children of Gaia?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4845",
+    "en": "Will you seek refuge{A65}in the Church of Messiah?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4846",
+    "en": "Will you now get out of my sight?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4847",
+    "en": "Will you now get out of my sight?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4848",
+    "en": "You have some nerve...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4849",
+    "en": "You have some nerve...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484a",
+    "en": "How deplorable...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484b",
+    "en": "How deplorable...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484c",
+    "en": "I have no business with fools...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484d",
+    "en": "I have no business with fools...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484e",
+    "en": "It is not too late! Will you repent?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x484f",
+    "en": "It is not too late! Will you repent?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4850",
+    "en": "Is there nothing amusing to do?{A65}I know!{A67}{A66}Make that woman perform for me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4851",
+    "en": "Is there nothing amusing to do?{A65}I know!{A67}{A66}Make that woman perform for me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4852",
+    "en": "Is there nothing amusing to do?{A65}I know!{A67}{A66}Make that woman perform for me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4853",
+    "en": "Is there nothing amusing to do?{A65}I know!{A67}{A66}Make that woman perform for me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4854",
+    "en": "Listen carefully!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4855",
+    "en": "Listen carefully!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4856",
+    "en": "Hmph. Coward...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4857",
+    "en": "Hmph. Coward...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4858",
+    "en": "You show promise!{A67}{A66}What is your name?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4859",
+    "en": "You show promise!{A67}{A66}What is your name?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485a",
+    "en": "I see. It is a fine name, is it not?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485b",
+    "en": "I see. It is a fine name, is it not?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485c",
+    "en": "I believe I can expect great things from you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485d",
+    "en": "I believe I can expect great things from you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485e",
+    "en": "You are an impressive man.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x485f",
+    "en": "You are an impressive man.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4860",
+    "en": "Do you seek refuge in the teachings of Gaia?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4861",
+    "en": "Do you seek refuge in the teachings of Gaia?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4862",
+    "en": "Do you seek refuge in the teachings of Gaia?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4863",
+    "en": "You have reconsidered the Messiah's teachings?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4864",
+    "en": "I have heard that name before.{A67}{A66}Could you be that demon hunter...?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4865",
+    "en": "I have heard that name before.{A67}{A66}Could you be that demon hunter...?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4866",
+    "en": "I have heard that name before.{A67}{A66}Could you be that demon hunter...?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4867",
+    "en": "I have heard that name before.{A67}{A66}Could you be that demon hunter...?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4868",
+    "en": "You said that with a straight face. I'm impressed.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4869",
+    "en": "You will be a terror in years to come.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486a",
+    "en": "The cross you bear is stained with blood: {A65}the brutal path of one who slays his own kind...{A65}Go, and walk the road fate has chosen for you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486b",
+    "en": "The cross you bear is stained with blood: {A65}the brutal path of one who slays his own kind...{A65}Go, and walk the road fate has chosen for you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486c",
+    "en": "What the hell would you know?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486d",
+    "en": "What the hell would you know?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486e",
+    "en": "What the hell would you know?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x486f",
+    "en": "Hmph. You speak as though you understand...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4870",
+    "en": "Ugh. You make my skin crawl.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4871",
+    "en": "Hmph. Hypocrite!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4872",
+    "en": "You do not even realize you are being manipulated...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4873",
+    "en": "You do not even realize you are being manipulated...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4874",
+    "en": "All proceeding according to plan? Splendid.{A65}If so, we shall gladly lend our aid.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4875",
+    "en": "All proceeding according to plan? Splendid.{A65}If so, we shall gladly lend our aid.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4876",
+    "en": "All proceeding according to plan? Splendid.{A65}If so, we shall gladly lend our aid.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4877",
+    "en": "All proceeding according to plan? Splendid.{A65}If so, we shall gladly lend our aid.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4878",
+    "en": "Do your utmost{A65}for the sake of the people.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4879",
+    "en": "Do your utmost{A65}for the sake of the people.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487a",
+    "en": "Do not speak to me without a reason!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487b",
+    "en": "Do not speak to me without a reason!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487c",
+    "en": "You dare ignore me!?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487d",
+    "en": "You dare ignore me!?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487e",
+    "en": "In that case, I shall reconsider my position.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x487f",
+    "en": "In that case, I shall reconsider my position.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4880",
+    "en": "Would you care to play a little game?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4881",
+    "en": "Allow me to test your strength.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4882",
+    "en": "Do not worry. It is quite simple. {A0E}",
+    "fr": ""
+  },
+  {
+    "id": "0x4883",
+    "en": "Try to shatter this stone with your mind.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4884",
+    "en": "Impressive. Very well.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4885",
+    "en": "Impressive. Very well.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4886",
+    "en": "Return when you are ready.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4887",
+    "en": "Return when you are ready.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4888",
+    "en": "I see, I see.{A65}So you would {A0E}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4889",
+    "en": "You would spurn my kindness...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488a",
+    "en": "By the way, do you have any liquor?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488b",
+    "en": "By the way, do you have any liquor?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488c",
+    "en": "No more liquor?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488d",
+    "en": "No more liquor?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488e",
+    "en": "Do you have any more liquor?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x488f",
+    "en": "Do you have any more liquor?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4890",
+    "en": "Excellent liquor! I feel marvelous!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4891",
+    "en": "Excellent liquor! I feel marvelous!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4892",
+    "en": "What? You have none!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4893",
+    "en": "What? You have none!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4894",
+    "en": "What? You have none!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4895",
+    "en": "What? You have none!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4896",
+    "en": "I have had enough. {A0E}",
+    "fr": ""
+  },
+  {
+    "id": "0x4897",
+    "en": "I shall take my leave.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4898",
+    "en": "I was a fool to place my faith in you!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4899",
+    "en": "I was a fool to place my faith in you!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489a",
+    "en": "How dull...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489b",
+    "en": "How dull...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489c",
+    "en": "Ugh!{A68}...{A68}...{A68}...{A68}...{A68}Phew...{A67}{A66}Tee-hee!{A68}{A65}Please let me join you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489d",
+    "en": "Ugh!{A68}...{A68}...{A68}...{A68}...{A68}Phew...{A67}{A66}Tee-hee!{A68}{A65}Please let me join you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489e",
+    "en": "So you do not trust me.{A65}Then neither can I trust you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x489f",
+    "en": "So you do not trust me.{A65}Then neither can I trust you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a0",
+    "en": "You understand, yet meekly accept it?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a1",
+    "en": "You understand, yet meekly accept it?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a2",
+    "en": "You simply lack the wit to understand.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a3",
+    "en": "You simply lack the wit to understand.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a4",
+    "en": "That girl is from the Center.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a5",
+    "en": "That woman there{A65}has yet to realize it herself...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a6",
+    "en": "Lord Satan will soon deliver us.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a7",
+    "en": "Heh heh heh!{A65}In time, you will come to understand.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a8",
+    "en": "What would I gain{A67}{A66}by joining forces with you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48a9",
+    "en": "What would I gain{A67}{A66}by joining forces with you?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48aa",
+    "en": "Then show me proof of your claim.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ab",
+    "en": "Then show me proof of your claim.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ac",
+    "en": "This would be treason...{A65}But with your support,{A65}it may not be impossible...{A68}...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ad",
+    "en": "This would be treason...{A65}But with your support,{A65}it may not be impossible...{A68}...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ae",
+    "en": "This would be treason...{A65}But with your support,{A65}it may not be impossible...{A68}...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48af",
+    "en": "This would be treason...{A65}But with your support,{A65}it may not be impossible...{A68}...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b0",
+    "en": "What an absurd notion.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b1",
+    "en": "What an absurd notion.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b2",
+    "en": "If freedom came so easily,{A65}we would never have suffered.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b3",
+    "en": "You claim that would bring about peace!?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b4",
+    "en": "Joining you would merely make enemies of many.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b5",
+    "en": "Joining you would merely make enemies of many.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b6",
+    "en": "Do not underestimate our power.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b7",
+    "en": "You know what will happen{A65}if you defy me, yes?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b8",
+    "en": "Perhaps...{A68}...{A68}...{A68}we should strike a bargain.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48b9",
+    "en": "Perhaps...{A68}...{A68}...{A68}we should strike a bargain.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ba",
+    "en": "With you, I may be able{A65}to reclaim all that I have lost.{A65}Shall I join you?",
+    "fr": ""
+  },
+  {
+    "id": "0x48bb",
+    "en": "What say you? Will you let me join you?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48bc",
+    "en": "I shall make sure your body learns the lesson.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48bd",
+    "en": "I shall make sure your body learns the lesson.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48be",
+    "en": "It cannot be helped.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48bf",
+    "en": "It cannot be helped.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c0",
+    "en": "You dare insult one such as I, a {A64}?{A65}I shall make you regret it!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c1",
+    "en": "You dare insult one such as I, a {A64}?{A65}I shall make you regret it!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c2",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c3",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c4",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c5",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c6",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c7",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c8",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48c9",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ca",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48cb",
+    "en": "I see. How unfortunate...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48cc",
+    "en": "Hmph...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48cd",
+    "en": "Hmph...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ce",
+    "en": "The earth itself{A65}will surely watch over you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48cf",
+    "en": "The earth itself{A65}will surely watch over you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d0",
+    "en": "The earth itself{A65}will surely watch over you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d1",
+    "en": "You shall surely{A65}receive God's protection.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d2",
+    "en": "Will you make a charitable offering?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d3",
+    "en": "You will make a donation?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d4",
+    "en": "Wait!{A67}{A66}There are still things{A65}I must accomplish!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d5",
+    "en": "I beg of you!{A67}{A66}I...{A68}...{A68}...{A68}{A65}I do not want to die!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d6",
+    "en": "Gutter rats like you{A65}are unworthy even of life...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d7",
+    "en": "Gutter rats like you{A65}are unworthy even of life...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d8",
+    "en": "Gutter rats like you{A65}are unworthy even of life...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48d9",
+    "en": "Gutter rats like you{A65}are unworthy even of life...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48da",
+    "en": "If you desire our power,{A65}you must first change yourself...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48db",
+    "en": "If you desire our power,{A65}you must first change yourself...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48dc",
+    "en": "Then I shall sever{A65}the thread of your fate this instant!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48dd",
+    "en": "Then I shall sever{A65}the thread of your fate this instant!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48de",
+    "en": "You... You insist upon fighting me!?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48df",
+    "en": "You... You insist upon fighting me!?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e2",
+    "en": "What business do you have with me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e3",
+    "en": "What business do you have with me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e4",
+    "en": "I have no business with the likes of you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e5",
+    "en": "I have no business with the likes of you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e6",
+    "en": "Make it brief...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e7",
+    "en": "Make it brief...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e8",
+    "en": "What? Is that supposed to be a joke?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48e9",
+    "en": "What? Is that supposed to be a joke?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ea",
+    "en": "You heathen!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48eb",
+    "en": "You heathen!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ec",
+    "en": "Why do you fight?{A67}{A66}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ed",
+    "en": "Why do you fight?{A67}{A66}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ee",
+    "en": "You need not tell me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ef",
+    "en": "You need not tell me!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f0",
+    "en": "Since you are here,{A65}will you stay and talk a little longer?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f1",
+    "en": "Since you are here,{A65}will you stay and talk a little longer?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f2",
+    "en": "Will you die and become one of us?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f3",
+    "en": "Why don't you become one of us?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f4",
+    "en": "Gya ha ha ha ha!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f5",
+    "en": "Kya ha ha ha!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f6",
+    "en": "The more companions, the merrier...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f7",
+    "en": "It really is better with more company.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f8",
+    "en": "You're mine!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48f9",
+    "en": "Go! Go!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48fa",
+    "en": "Now...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48fb",
+    "en": "Well? What are you waiting for?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48fc",
+    "en": "Fine, then I'm coming for you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48fd",
+    "en": "Quit wasting time.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48fe",
+    "en": "Thought so.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x48ff",
+    "en": "Nooo...{A0F}",
+    "fr": ""
+  }
+]

@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "0x2000",
+    "en": "Attendant: Welcome to the Casino,{CR}the House of Fortune!{WT}Exchange Macca for Coins at{CR}the cashier, and enjoy yourself!{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 2: Valhalla casino / Moonlight Rave (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x2001",
+    "en": "{PG}Okamoto: {SY}!!{CR}If you've got time to fool around{CR}in a place like this, get back{CR}to the gym! Now!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2002",
+    "en": "Man: We hope you'll visit again.{CR}May fortune smile upon you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2003",
+    "en": "{PG}Bunny: Welcome!{CR}This is the cashier.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2004",
+    "en": "The casino uses Coins.{CR}I'll exchange your Macca at ћ{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2005",
+    "en": "1{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2006",
+    "en": "10{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2007",
+    "en": "0 for one {CR}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2008",
+    "en": "Dark {ED}",
+    "fr": "",
+    "note": "The cashier dynamically inserts Dark/Gold between 0x2004/0x2007/0x200a when explaining the exchange rate, directly before 0x200b in the usage warning, and between 0x2016/0x2017 when reporting the player's balance. Keep the trailing space usable by every stock fragment sequence, and begin each following fragment with \"Coin(s)\" for English word order."
+  },
+  {
+    "id": "0x2009",
+    "en": "Gold {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200a",
+    "en": "Coin.{WT}Win enough Coins and you can{CR}trade them for fabulous prizes!{WT}We'll hold on to any Coins{CR}you have left over.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200b",
+    "en": "Coins can only be used{CR}here in the casino, so keep that in mind.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200c",
+    "en": "{PG}What would you like to do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200d",
+    "en": "{PG}Each Coin costs ћ{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200e",
+    "en": "0.{WT}How many would you like?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x200f",
+    "en": "{PG}Buy {SU} Coins?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2010",
+    "en": "{PG}Oh, you don't have enough Macca.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2011",
+    "en": "{PG}You can't carry that many.{WT}The limit is 999,999 Coins.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2012",
+    "en": "{PG}You can exchange for no more than{CR}50,000 Coins at a time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2013",
+    "en": "{PG}Trade Coins for a prize?{WT}Which one would you like?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2014",
+    "en": "{PG}You don't have enough Coins.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2015",
+    "en": "{PG}You can't carry any more items.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2016",
+    "en": "{PG}Your {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2017",
+    "en": "Coin balance is {KO}.{CR}Come again!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2018",
+    "en": "Bunny: Welcome to a dazzling{CR}world of chance! This slot machine{CR}is a little tricky!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2019",
+    "en": "{PG}What would you like to do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201a",
+    "en": "{PG}Which machine would you like?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201b",
+    "en": "{PG}You have {KO} Coins.{CR}We'll keep them safe for you.{CR}Come back soon!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201c",
+    "en": "{PG}SUPER 27 costs 1 Coin{CR}per game. It features both{CR}HOLD and BONUS games.{WT}{PG}During a HOLD game, you can{CR}hold any reels you want to keep.{CR}Stop them from left to right{CR}with SQUARE, X, and CIRCLE.{WT}{PG}You can't use HOLD twice{CR}in a row. If two symbols match,{CR}holding them is your best bet.{WT}The rest is up to you!{WT}{PG}Line up matching symbols{CR}across the center to win and{CR}unlock the BONUS game.{WT}{PG}BONUS games cost 5 Coins.{CR}All 27 lines are active, so{CR}you can win across any row.{WT}However, HOLD is disabled.{WT}{PG}The six symbols other than{CR}the one that started the BONUS{CR}become Challenge Symbols.{WT}{PG}A light for each Challenge{CR}Symbol appears below the reels.{CR}Win with one to turn it off.{WT}{PG}The BONUS ends when all six{CR}lights go out, your WIN reaches{CR}zero, or you win 1,000 Coins.{WT}{PG}The JP symbol pays on any row,{CR}even outside the BONUS game.{CR}The payout is a surprise!{WT}{PG}If you decline the BONUS, press{CR}DOWN to TAKE SCORE. Press L1{CR}if you want to quit early.{WT}{PG}Press R1 to start.{CR}LET'S TRY IT!!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201d",
+    "en": "Bunny: Welcome!{CR}This machine is brand-new!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201e",
+    "en": "{PG}What would you like to do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x201f",
+    "en": "{PG}Choose any machine you like.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2020",
+    "en": "{PG}Finished? We'll hold your{CR}{KO} Coins for you.{CR}They'll be here whenever you return.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2021",
+    "en": "{PG}LUCKY SYMBOL costs 1 Coin{CR}per game. This new machine{CR}also features a Numbers Game.{WT}{PG}Match at least three symbols{CR}inside the center frame to win.{CR}Get four 7s and you could hit{CR}the 10,000-Coin jackpot!{WT}{PG}Now for the Numbers Game.{WT}Add the values of the twelve{CR}number symbols in the frame.{CR}The total triggers a feature.{WT}{PG}0, 1, or 2: No prize.{CR}3: RAISE multiplies the odds{CR}for Lucky Symbols by 2 to 5.{WT}{PG}4 or 5: HOLD lets you keep{CR}up to three reels next game.{CR}Use TRIANGLE, SQUARE, X, and{CR}CIRCLE from left to right.{WT}{PG}6: The DOUBLE light comes on.{CR}Your next win pays double.{WT}{PG}7 or 8: The symbols currently{CR}in the center frame light up.{CR}Win with a lit symbol to earn{CR}the odds raised by RAISE.{WT}{PG}A win of 100 Coins or more{CR}turns off every symbol light.{WT}{PG}9 through 12: You win between{CR}5 and 100 Coins.{WT}{PG}Press L1 when you want to quit.{CR}Press R1 to start. Good luck!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2022",
+    "en": "Sybil: Welcome.{CR}Please enjoy yourself.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2023",
+    "en": "{PG}What would you like to do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2024",
+    "en": "{PG}Which machine would you prefer?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2025",
+    "en": "{PG}You have {KO} Coins remaining.{CR}We'll keep them safe for you.{CR}Please visit again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2026",
+    "en": "JOKER AND STARS is a nine-reel,{CR}eight-line slot machine. Each{CR}game costs 1 to 8 Coins and{CR}includes ANY and STAR games.{WT}{PG}Match three identical symbols{CR}along any active line to win.{CR}Your wager determines how many{CR}of the eight lines are active.{WT}{PG}CIRCLE raises your wager, while{CR}X lowers it. Press SELECT to{CR}automatically wager 8 Coins.{WT}Press R1 to start.{WT}{PG}In the ANY game, four or more{CR}7 or BAR symbols win. For every{CR}other symbol, you need five.{WT}{PG}Four or more Stars trigger{CR}a special STAR game. Every STAR{CR}game is a free replay, so it{CR}doesn't consume any Coins.{WT}{PG}Four Stars: STAR HOLD keeps{CR}all Stars and spins the rest.{WT}{PG}Five Stars: 7 HOLD keeps{CR}all 7s and spins the rest.{WT}{PG}Six Stars: The center reel{CR}changes into a Joker.{WT}{PG}A Joker is wild. If the symbols{CR}on both sides match, the Joker{CR}completes a set of three.{WT}{PG}Seven Stars: The four reels{CR}above, below, left, and right{CR}of center become Jokers.{WT}{PG}Eight Stars: All four corner{CR}reels become Jokers.{WT}{PG}Any non-Star symbol between{CR}two Jokers also counts as a set{CR}of three matching symbols.{WT}{PG}Press L1 when you want to quit.{CR}Now press R1 and enjoy!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2027",
+    "en": "Rory: Yeah! It's KINO!{CR}KINO yesterday, KINO today...{CR}Hey, you're supposed to laugh!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2028",
+    "en": "{PG}Yeah! What'll it be?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2029",
+    "en": "{PG}It's spelled KENO, but said KINO!{CR}Call it KENO if you want.{CR}See you around!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202a",
+    "en": "{PG}KENO draws 16 numbers from{CR}a pool of 1 through 64. Try to{CR}predict which ones will appear.{WT}{PG}You may choose anywhere from{CR}one to sixteen numbers.{WT}{PG}Highlight NO. SEL and press{CR}CIRCLE to move the cursor onto{CR}the number board.{WT}{PG}Press CIRCLE to select a number.{CR}Your selection will glow red.{CR}Press CIRCLE again to cancel it{CR}and turn off the light.{WT}{PG}Once you choose a number, the{CR}odds table appears on the right.{CR}For example, 1 x4 means that{CR}one match pays four times your bet.{WT}{PG}When you're done choosing, press{CR}X to move to BET. Add 1 Coin{CR}with CIRCLE or 10 with TRIANGLE.{WT}{PG}Remove 1 Coin with X or 10 with{CR}SQUARE. The maximum bet is 100.{WT}{PG}ERASE clears every selection{CR}so you can start over.{WT}{PG}RESULT shows previous drawings.{CR}Red numbers appeared often, blue{CR}ones rarely, and green normally.{CR}Study them before you choose!{WT}{PG}Press R1 to start or L1 to quit.{CR}The top prize is 999,999 Coins!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202b",
+    "en": "Dealer: Baccarat, the KING OF GAMES.{CR}Even Mr. Hama is a regular here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202c",
+    "en": "{PG}What would you like to do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202d",
+    "en": "{PG}You currently have{CR}{KO} Coins.{CR}Please visit us again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202e",
+    "en": "{PG}Baccarat uses A, 2 through 10,{CR}J, Q, and K. Aces count as 1;{CR}10s and face cards count as 0.{WT}{PG}The BANKER and PLAYER compete.{CR}Bet on which hand will win.{WT}{PG}Each side may receive up to{CR}three cards. The hand with a total{CR}closest to 9 is the winner.{WT}{PG}Only the last digit of a total{CR}counts. So 10 becomes 0, 11{CR}becomes 1, 12 becomes 2, and{CR}so on.{WT}{PG}Both sides begin with two cards.{CR}Whether they draw a third is set{CR}by the rules for the best odds.{WT}{PG}The PLAYER acts first, drawing{CR}on 5 or less and standing on 6{CR}or more.{WT}{PG}The BANKER draws on 2 or less.{CR}From 3 through 6, the PLAYER's{CR}third card determines the play.{CR}The BANKER stands on 7.{WT}{PG}A two-card total of 8 or 9{CR}is a NATURAL. Neither side draws{CR}again; those two cards decide it.{WT}{PG}Use UP and DOWN to choose a bet.{CR}CIRCLE and TRIANGLE add Coins;{CR}X and SQUARE remove them.{WT}{PG}You may bet BANKER and TIE{CR}together, or PLAYER and TIE, but{CR}never BANKER and PLAYER together.{WT}{PG}Once your wager is set, press R1{CR}to start, then R1 to continue.{CR}Press L1 when you want to quit.{WT}{PG}BANKER has a slight advantage,{CR}so the house takes a 5 percent{CR}commission from BANKER wins.{WT}{PG}A tie returns your main wager.{CR}If you also bet on TIE, that wager{CR}pays nine times its value.{WT}{PG}RESULT displays earlier hands.{CR}Following the history as you make{CR}your predictions is half the fun.{WT}{PG}Now, please enjoy the game.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x202f",
+    "en": "Hunter Hiroshi: I've been waiting!{CR}Play BIG AND SMALL for your big{CR}HUNTER CHANCE!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2030",
+    "en": "{PG}HUNTER CHANCE! What will you do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2031",
+    "en": "{PG}BIG AND SMALL means{CR}HUNTER CHANCE! See you tomorrow!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2032",
+    "en": "{PG}Each play costs 10 Coins.{CR}Guess BIG or SMALL: {CR}5-9 are BIG; 0-4 are SMALL.{WT}Each win doubles your Coins,{CR}but one loss takes everything.{WT}{PG}Win big prizes in{CR}HUNTER CHANCE!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2033",
+    "en": "Mr. Nandi: Namaste!{CR}I am Mr. Nandi from India!{WT}If we've met before, long time no see!{WT}Play Code Breaker, yes?{CR}Guess the number using hints.{CR}Very easy!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2034",
+    "en": "{PG}What will you do?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2035",
+    "en": "{PG}Come again with Metal Card.{CR}Namaste!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2036",
+    "en": "One game costs one {IT}.{CR}Mr. Nandi chooses a{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2037",
+    "en": " 3-digit number using 1 to 5.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2038",
+    "en": " 4-digit number using 1 to 7.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2039",
+    "en": " 5-digit number using 1 to 8.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203a",
+    "en": "Enter your guess under ANSWER.{WT}{PG}R1 begins. UP/DOWN changes a{CR}number; LEFT/RIGHT moves;{CR}CIRCLE confirms.{WT}H: right number and place.{CR}B: right number, wrong place.{CR}Make them all H to win!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203b",
+    "en": "{PG}HINT checks a number: {CR}double circle: right place;{CR}circle: elsewhere; X: absent.{WT}Use the hints to find the answer!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203c",
+    "en": "{PG}There are no HINTS here.{CR}Study only the H and B results{CR}under JUDGE and find the answer.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203d",
+    "en": "{PG}The faster you solve it,{CR}the better your prize. Good luck!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203e",
+    "en": "{PG}You don't have a {IT}.{CR}You cannot play Code Breaker.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x203f",
+    "en": "Attendant: Welcome.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2040",
+    "en": ">The way ahead is frozen solid.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2041",
+    "en": "TONY: Hey! Are you feeling it?!{CR}All right! Request some music{CR}and keep this party moving!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2042",
+    "en": "What do you want to request?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2043",
+    "en": "{PG}All right! Let's get the next song{CR}started! Are you ready?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2044",
+    "en": "{PG}All right! Come back again!{CR}BYE-BYE!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2045",
+    "en": "{PG}NOW PLAYING{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2046",
+    "en": ">Everyone is dancing wildly.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2047",
+    "en": ">{MG} is dancing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2048",
+    "en": ">{MG} and {MN}{CR}are dancing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2049",
+    "en": "Woman: I'm still the best!{CR}How do you like this dance{CR}powered by 9 Magic?{CR}I'll be the star of the next{CR}rave, too!{WT}I can't wait for the full moon.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204a",
+    "en": "Man: The full moon is here!{CR}Time for the Moonlight Rave!{WT}First, the dance contest!{CR}Starting with Entry No. 1...{WT}{PG}LET'S DANCE!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204b",
+    "en": "{PG}Man: Walk-on entries are welcome!{CR}A fabulous prize is waiting!{CR}Anyone want to join?!{WT}{PG}>Enter the contest?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204c",
+    "en": "Yes, you there!{CR}LET'S DANCE!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204d",
+    "en": "{PG}>{SY} danced wildly!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204e",
+    "en": "Our walk-on contestant wins!{CR}Congratulations!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x204f",
+    "en": "\"{IT}\"{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2050",
+    "en": " is your prize!{CR}CONGRATULATIONS!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2051",
+    "en": "ћ5,000{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2052",
+    "en": ">{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2053",
+    "en": " obtained.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2054",
+    "en": "Entry No. {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2055",
+    "en": "1{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2056",
+    "en": "2{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2057",
+    "en": "4{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2058",
+    "en": "6{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2059",
+    "en": " wins!{CR}Congratulations!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x205a",
+    "en": "{PG}...And now, the winner!{CR}First place goes to...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x205b",
+    "en": "Louis Cyphre: Well, we meet{CR}again, {SY}. I never thought{CR}we'd run into each other here.{WT}It is an honor that you accepted{CR}my invitation...{TI}{CR}What? Gomory dragged you here{CR}against your will?{WT}Surely she wasn't too rough{CR}with you.{WT}...No matter. Either way, you{CR}were in no position to refuse.{WT}The great Demon King {MG}...{ED}",
+    "fr": "",
+    "note": "---- Bank 2: Lucifer / Keter Castle / Steven upgrades (retranslated from Japanese) ----"
+  },
+  {
+    "id": "0x205c",
+    "en": "{PG}{MG}: ...No one can refuse{CR}an invitation from me.{WT}{PG}Now then, {SY}.{WT} Those impudent angels created{CR}Millennium, believing themselves{CR}to be carrying out God's will.{WT}But their creation defied Him.{CR}I stayed my hand and watched,{CR}knowing God would pass judgment{CR}upon them in due time.{WT}{PG}And yet, who defeated those{CR}angels? You did, {SY}.{WT} Just who are you?{WT}You even destroyed the false{CR}One God born from the thoughts{CR}of angels abandoned by God.{WT}{PG}Were you Satan, sent forth{CR}as the Judge? I brought you here{CR}to learn the truth.{WT}...Fortunately, it appears{CR}you are not Satan.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x205d",
+    "en": "{PG}Even so, I have discovered{CR}several signs that Satan will{CR}soon appear. Seth's impending{CR}awakening is one of them.{WT}{PG}Seth is one half of Satan,{CR}defeated long ago and sealed{CR}away by God.{WT}Once Seth awakens, Satan's{CR}return will not be far behind.{WT}{PG}When Satan appears, he will pass{CR}judgment and erase all things{CR}from this world.{WT}Not only you humans, but we{CR}who inhabit the Underworld,{CR}the beings you call demons, will{CR}be erased all the same.{WT}{PG}I am the king of the Underworld.{WT}I will not sit idly by and wait{CR}for death. I shall challenge{CR}Satan to one final battle.{WT}And no matter the cost, I must win.{CR}Your power may prove necessary.{WT}{PG}But first, I must see whether{CR}you possess enough strength{CR}to be of use to me.{WT}{PG}{SY}.{WT} If you have the will and power{CR}to face Satan, then meet me here{CR}at Keter Castle once more.{CR}I shall be waiting.{WT}{PG}Come here by your own power...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x205e",
+    "en": "{MG}: So, you came...{WT}Humans truly are weak creatures.{CR}Unable to choose between siding{CR}with me or with Satan, you have{CR}wandered all the way here.{WT}{PG}A human who serves neither{CR}Archangel Michael nor the godly{CR}Satan dares to challenge{CR}the great {ZK} {MG}.{WT}{PG}Your strength is fearsome, but{CR}you have merely surrendered{CR}yourself to battle, forgetting{CR}truth, fear, and even yourself.{WT}{PG}I, the great {ZK} {MG},{CR}shall teach you true terror!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x205f",
+    "en": "{PG}{MG}: So, you have grown{CR}strong enough to defeat even me...{WT}But remember this: humans are{CR}not strong enough to survive{CR}entirely on their own.{WT}{PG}...I had Moloch gather Bio-MAG.{CR}That energy will awaken Kuzuryu,{CR}whose body forms the mountains{CR}of the Underworld.{WT}{PG}It was the One God who commanded{CR}me to unleash the true Great{CR}Destruction through Kuzuryu.{WT}I pretended to obey Him...{WT}{PG}The true Great Destruction would{CR}bring calamity upon the Underworld{CR}as well. I intended to wield{CR}Kuzuryu's power for its sake,{CR}not for the Great Destruction.{WT}{PG}When the One God discovered my{CR}rebellion, He ordered Gabriel to{CR}prepare a new instrument of{CR}destruction within Eden.{WT}The secret lies there...{WT}{PG}...Kuzuryu will soon awaken{CR}and destroy Millennium.{WT}{PG}{SY}... A human strong enough{CR}to defeat me should be able{CR}to bury Kuzuryu and Eden, just{CR}as you have buried me.{WT}That is your destiny...{WT}{PG}But never forget...{WT}Whenever humanity prospers,{CR}the Great Destruction will return.{CR}The cycle will begin anew...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2060",
+    "en": "{FO}: {SY}!{CR}You defeated {MG}, but don't{CR}let your guard down. {MG} has set{CR}Kuzuryu in motion.{WT}{PG}Unless you stop it, the Underworld,{CR}the surface, and the underground{CR}will all be destroyed.{WT}I came on behalf of everyone{CR}in the underground. Please defeat{CR}Kuzuryu!{WT}{PG}Hurry south through the underground!{CR}You're our only hope...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2061",
+    "en": "{MG}: So, you have come, Satan,{CR}to pass judgment even{CR}upon the great {ZK}{CR}{MG}.{WT} But is it right for you to accept{CR}the aid of those sinful humans?{WT}{PG}Satan: I will not hear that{CR}from an archangel who fell{CR}from grace. Do you intend{CR}to defy God's will to the end?{WT}{PG}{MG}: If God's will is to erase{CR}all life from the surface and{CR}tame humanity like sheep,{CR}then I cannot obey it.{WT}{PG}Satan. {SY}.{CR}There is nothing left to discuss.{WT}Know that you survived this long{CR}only because the great{CR}{ZK} {MG}{CR}chose to overlook you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2062",
+    "en": "{MG}: {CR}...With me gone, your scheme{CR}can finally be realized...{CR}Satan...{WT}{PG}{SY}.{CR}Watch closely and see what{CR}your actions have brought about...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2063",
+    "en": "You came all this way by your{CR}own power, just as I commanded.{WT}You have proven that you possess{CR}all the strength I require.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2064",
+    "en": "{SY}.{CR}It seems Satan's return is indeed{CR}close at hand.{WT}If he appears on the surface and{CR}carries out God's judgment...{CR}everything there will vanish.{WT}I have seen Satan standing{CR}within Eden.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2065",
+    "en": "Then...{TI}{SY}.{CR}Come with me.{WT}Together, we shall walk the road{CR}to our final battle!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2066",
+    "en": "{PG}>{MG} joined as an ally.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2067",
+    "en": "{MG}: {CR}...You are not yet prepared.{CR}Hurry. There is no time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2069",
+    "en": ">{MG} is no longer here...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206a",
+    "en": "I have awaited you.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206b",
+    "en": "Spirit of the Right Gate: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206c",
+    "en": "Spirit of the Left Gate: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206d",
+    "en": "Spirits of Both Gates: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206e",
+    "en": "This is Keter Castle.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x206f",
+    "en": "{MG} resides here.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2070",
+    "en": "{MG} ordered that no one{CR}be allowed to pass.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2071",
+    "en": "{MG} ordered that none but{CR}followers of Chaos may pass.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2072",
+    "en": "Would {MG}{CR}permit this one to pass?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2073",
+    "en": "{MG}{CR}will not permit this one to pass.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2074",
+    "en": "By order of {MG},{CR}you may not pass through the gate.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2075",
+    "en": ">The \"{IT}\" began to glow.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2076",
+    "en": "Gwaaah! That light!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2077",
+    "en": "S-So bright!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2078",
+    "en": "............{WT}{PG}>The light of the \"{IT}\"{CR}shone upon the gate,{CR}and it began to open...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2079",
+    "en": "{PG}After releasing its light,{CR}the \"{IT}\" crumbled into{CR}fragments of metal.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207a",
+    "en": "Satan: {MG}!{CR}Did you think this could stop me?!{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207b",
+    "en": ">Satan's power forced the gate{CR}open...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207c",
+    "en": "{MG}{CR}permits this one to pass.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207d",
+    "en": "By order of {MG},{CR}you are permitted to pass.{CR}We shall open the castle gate.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207e",
+    "en": ">Enter Keter Castle?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x207f",
+    "en": "Welcome to Keter Castle.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2080",
+    "en": "Welcome to Keter Castle.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2081",
+    "en": ">Return to Chokmah Tower?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2082",
+    "en": "{MG}: A pleasure to meet you.{CR}I am {MG}, servant of Lucifer,{CR}and mint Macca on his behalf.{WT}Remember me.{WT}{ED}{PG}Lord Lucifer ordered me to{CR}measure {SY}'s strength.{CR}Now, let me see...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2083",
+    "en": "{MG}: Back again?{CR}Have you gained a few levels?{CR}Let me see...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2084",
+    "en": "{PG}Incredible! What power!{CR}I must inform Lord Lucifer at once!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2085",
+    "en": "{PG}You are fairly strong for a human,{CR}but Lord Lucifer will not{CR}be satisfied with this.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2086",
+    "en": "{PG}Impressive. You have grown strong.{CR}Lord Lucifer should be satisfied.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2087",
+    "en": "{MG}: ...Who are you?{WT}You knowingly entered the chamber{CR}of the great Demon King{CR}{MG}?!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2088",
+    "en": "{PG}...You're {SY}!{WT} Why are you here? Did you come{CR}for Lord Lucifer to kill you?{WT}...No. There is no need to{CR}trouble Lord Lucifer.{CR}I will kill you myself!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2089",
+    "en": "...To think I would be the one{CR}to die... I underestimated you...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208a",
+    "en": "{PG}...Are you the {SY}{CR}Lord Lucifer spoke of?{WT}Reaching this place proves{CR}you are no ordinary human.{WT}Will you show {MG} more{CR}of your power?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208b",
+    "en": "Oh? An admirable answer.{CR}Then I will not hold back.{CR}Prepare yourself!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208c",
+    "en": "...I see why Lucifer noticed you.{CR}You won. This body is lost{CR}for now...{WT}Once reborn, I will lend you{CR}my power at the Cathedral{CR}of Shadows...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208d",
+    "en": "Ha ha ha ha!{CR}So you do value your life.{CR}Then leave at once.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208e",
+    "en": "{PG}...So you're Lucifer's favorite,{CR}{SY}.{WT} I will lend you my strength,{CR}but not freely.{WT}We meet next at the Cathedral{CR}of Shadows. Until then!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x208f",
+    "en": "Man in Wheelchair: Hello.{CR}Don't worry. I'm not a demon.{WT}I entered this simulated world{CR}because I wanted to meet you.{WT}{PG}My name is...{TI}{CR}You may call me STEVEN.{WT}I have something for you.{WT}Something I created...{CR}the Demon Summoning Program.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2090",
+    "en": "Before long, an incident will{CR}cause hordes of demons to flood{CR}Tokyo Millennium.{WT}{PG}Millennium has kept demons from{CR}appearing until now, but it can{CR}no longer hold them back.{WT}Nothing can stop them from{CR}entering our world now.{WT}{PG}If humanity is to survive, we must{CR}learn to harness the demons' power.{WT}To prepare for that day, I intend{CR}to entrust this program to someone{CR}capable of commanding demons.{WT}{PG}I don't know who you are,{CR}nor do I care to find out.{WT}I'm offering it to you for one{CR}reason alone. I believe you have{CR}the power to command demons.{WT}{PG}Do you understand what I'm saying?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2091",
+    "en": "{PG}Good. You catch on quickly.{WT}I'll transfer the Demon Summoning{CR}Program to your Arm Terminal.{CR}Take good care of it.{WT}{PG}>{SY} obtained{CR}the Demon Summoning Program.{WT}{PG}STEVEN: I have high hopes for you.{CR}I'm sure we'll meet again here{CR}in the Virtual Battler's{CR}simulated world.{WT}{PG}I look forward to working with you.{CR}Until next time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2092",
+    "en": ">...Something darted past ahead...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2093",
+    "en": "{PG}STEVEN: {ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2094",
+    "en": "Hello. Have you been training{CR}diligently in the Virtual Battler?{CR}Good, good.{WT}{PG}Is the Summoning Program running{CR}properly? I'm sure it is, but...{WT}{PG}I have something else for you{CR}today. It's called Devil Analysis.{WT}From now on, it will record data{CR}on every demon you encounter.{CR}It should prove useful.{WT}{PG}>{SY} obtained{CR}Devil Analysis.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2095",
+    "en": "I look forward to our next meeting.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2096",
+    "en": "I see you're still alive and well.{CR}Good, good.{WT}{PG}By now, you've probably found{CR}your current demon stock{CR}a little too small.{WT}So, I've prepared a new version{CR}of the Summoning Program that can{CR}store up to nine demons.{WT}I've managed to reduce the size{CR}of each demon's data.{WT}That means you can fit more{CR}demons into the same memory.{WT}{PG}>{SY} can now store{CR}up to nine demons.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2097",
+    "en": "I think I can compress the demon{CR}data even further.{CR}You can look forward to that.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2098",
+    "en": "We meet again.{WT}You've grown quite a bit stronger{CR}since our last meeting.{WT}{PG}Today, I'm adding a new feature{CR}to Devil Analysis.{CR}{WT}{PG}It will tell you how many types{CR}of demons exist in this world.{WT}Perhaps that knowledge will make{CR}each new encounter a little{CR}more exciting.{CR}{WT}Good luck out there.{CR}{WT}{PG}>{SY} obtained{CR}the Devil Database.{WT}The Devil Analysis display{CR}has been expanded.{CR}{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x2099",
+    "en": "Until next time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209a",
+    "en": "It's finally ready!{WT}This is the latest version{CR}of the Demon Summoning Program,{CR}with even smaller demon data.{WT}You can now keep as many as{CR}twelve demons in your stock.{WT}{PG}>{SY} can now store{CR}up to twelve demons.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209b",
+    "en": "Unfortunately, it seems{CR}I won't be able to see you{CR}again for some time.{WT}It's a shame, but it can't{CR}be helped.{WT}Someday, somewhere,{CR}I'm sure we'll meet again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209c",
+    "en": "Bartender: Welcome...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209d",
+    "en": "...What can I do for you?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209e",
+    "en": "What will you drink?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x209f",
+    "en": ">There are no other customers.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a0",
+    "en": ">Talk to whom?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a1",
+    "en": "Thanks...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a2",
+    "en": "Shabby Man: The moment this place{CR}became safe, everyone came running.{CR}What a bunch of opportunists.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a3",
+    "en": "Warrior: I came here hoping{CR}to strike it rich.{CR}You here for the same thing?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a4",
+    "en": "Shady Man: I hear you defeated{CR}King Frost.{CR}Are you the Messiah or something?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a5",
+    "en": "Drunk: I saw the Messiah! Hic!{CR}He beat the demons and saved{CR}everyone... What a thrill!{WT}His name was {FO}, right?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a6",
+    "en": "Blond Man: Hello...{TI}{CR}This is the first time we've met...{TI}{CR}isn't it?{WT}My name is Louis Cyphre.{CR}I hope we'll get along...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a7",
+    "en": "Louis Cyphre: I know you,{CR}{SY}. You've been busy.{WT}I came to see the Messians'{CR}Millennium, but Center security{CR}was too tight even for me.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a8",
+    "en": "Shabby Man: You're the Messiah?{CR}Then save a poor man like me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20a9",
+    "en": "Warrior: I came all this way,{CR}but nothing's working out...{TI}{CR}Maybe I should quit being a warrior.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20aa",
+    "en": "Shady Man: There's good money{CR}to be made underground...{WT}But those Stalkers won't let anyone{CR}use the passage in the Cathedral.{CR}Damn them!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ab",
+    "en": "Drunk: These days... Hic...{CR}everyone's a worthless piece{CR}of trash!{WT}If they're no use to Millennium,{CR}they oughta go underground!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ac",
+    "en": "Shabby Man: Valhalla disappeared?{CR}That's a load off my mind.{WT}I skipped out without paying{CR}my casino debts there.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ad",
+    "en": "Louis Cyphre: Feeding Valhalla{CR}to Abaddon...{CR}They are capable of terrifying acts.{WT}I believe Abaddon was in{CR}the underground world, though...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ae",
+    "en": "Shady Man: These constant{CR}earthquakes aren't normal.{WT}The Stalkers blocking the Cathedral{CR}are finally gone, but it's too{CR}dangerous to go underground now.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20af",
+    "en": "Junk Dealer: Hanada gathered{CR}dolls to open the Underworld.{WT}But he used the Dancing Doll{CR}instead of the Sleeping Doll,{CR}so the ritual failed.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b0",
+    "en": "Shabby Man: Did you see the public{CR}broadcast? {WT}{FI} had plenty{CR}to say, and now I see the Center{CR}really is as rotten as they say.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b1",
+    "en": "Warrior: To hell with the Center!{CR}I stand with {FI}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b2",
+    "en": "Shady Man: They say a strange{CR}signal fills the Factory.{CR}Anyone with less than 10{CR}Intelligence loses their mind.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b3",
+    "en": "Drunk: {FI}... You really{CR}trust that guy? Hic...{TI}{CR}He used to be one of{CR}the Center's lackeys, you know.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b4",
+    "en": "Drunk: Hey! I've got a great story!{WT}First, buy your old pal{CR}a Miracle Tonic.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b5",
+    "en": "Much obliged. Now listen up.{WT}{PG}What flows through the Factory{CR}isn't a radio signal, but a song: {CR}Siren's song, which steals{CR}the hearts of all who hear it.{WT}Siren once lived happily with{CR}her lover in the Underworld.{CR}But they tore the two apart{CR}and brought her to the Factory.{WT}Ever since, her song has filled{CR}the place, and the people there{CR}have lived under its spell.{WT}But Siren never meant to control{CR}anyone. She only sings because{CR}her sorrow is too great to bear.{WT}Poor Siren...{CR}Maybe singing is all she has left.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b6",
+    "en": "What a cheapskate...{TI}{CR}Can't even buy a man one drink.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b7",
+    "en": "Drunk: I don't need you{CR}to buy my drinks.{CR}I'll pay with my own Macca.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b8",
+    "en": "Shabby Man: This can't be happening!{CR}First Valhalla, and now this place{CR}is going to disappear?!{CR}What are we supposed to do?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20b9",
+    "en": "Warrior: I want {FI} to stand{CR}and fight the Center openly, but{CR}everyone's lives are at stake...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ba",
+    "en": "Shady Man: Everyone talked big,{CR}but when it came down to it,{CR}they valued their own lives.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20bb",
+    "en": "Louis Cyphre: The time has come...{TI}{CR}Cornered at last, they will reveal{CR}their true nature...{WT}The Senate that has controlled{CR}the Center from the shadows.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20bc",
+    "en": "Shabby Man: Let's forget all of it.{CR}We never stood a chance against{CR}the Center in the first place.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20bd",
+    "en": "Warrior: In the end, I couldn't{CR}do a thing...{TI}{CR}I'm a disgrace as a warrior.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20be",
+    "en": "Shabby Man: Maybe I'm relieved{CR}this place was spared, but lately{CR}I feel like all my strength is gone.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20bf",
+    "en": "Shady Man: That enormous tower{CR}seems to be draining our strength.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c0",
+    "en": "Drunk: Louis Cyphre says that tower{CR}is the tail of Moloch, all the way{CR}in the Underworld.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c1",
+    "en": "Drunk: I can't... drink anymore...{CR}Please... make it stop...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c2",
+    "en": "Bartender: Welcome.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c3",
+    "en": "What can I do for you?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c4",
+    "en": "Which would you like?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c5",
+    "en": ">There are no other customers.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c6",
+    "en": ">Talk to whom?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c7",
+    "en": "Thank you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c8",
+    "en": "Welcome back,{CR}{SY}.{CR}Let us work together for Millennium.{WT}{PG}By the way, do you remember{CR}the passcode for the stairs{CR}to the 21st floor?{TI}{CR}It is 5261.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20c9",
+    "en": "Center Woman: I'm so fortunate{CR}to live in the Center.{CR}No hardship, no demons...{CR}It's perfect.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ca",
+    "en": "{PG}Come to think of it, people have{CR}started settling in Holy Town.{CR}I would never live in such a place.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20cb",
+    "en": "Refined Man: The Center has{CR}four entrances: {WT}north to Valhalla, east to{CR}Arcadia, west to Holy Town,{CR}and south to the Factory.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20cc",
+    "en": "Shady Man: I hear Basilisk is{CR}spreading poison gas throughout{CR}Holy Town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20cd",
+    "en": "I hear you defeated King Frost.{CR}Impressive as always, {SY}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ce",
+    "en": "The Factory is a vital area{CR}that produces everything{CR}Millennium needs.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20cf",
+    "en": "We Temple Knights are always{CR}prepared to battle demons.{TI}{CR}...Even while drinking at the Bar.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d0",
+    "en": "This is terrible!{CR}A false Messiah has appeared,{CR}while demons run rampant{CR}inside the Center!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d1",
+    "en": "Shady Man: Demons in the Center...{CR}I can't believe it.{CR}I won't let them kill me.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d2",
+    "en": "To think that you were{CR}the Messiah all along!{CR}I'm overwhelmed!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d3",
+    "en": "Center Woman: The false Messiah{CR}may be gone, but the demons remain.{CR}What will happen to us?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d4",
+    "en": "Refined Man: Everyone!{CR}Let us raise a toast to the Messiah{CR}who has finally appeared!{WT}{PG}With the Messiah among us,{CR}we have nothing to fear from demons!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d5",
+    "en": "Shady Man: The Messiah and Center{CR}are both being controlled by them.{CR}No one understands a thing.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d6",
+    "en": "We will never forgive the traitor{CR}{FI}.{WT} But he knew passcode 5261,{CR}so he escaped to the 21st floor.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d7",
+    "en": "Shady Man: The Senate doing{CR}whatever they pleased is what{CR}caused this entire disaster.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d8",
+    "en": "Shady Man: {FI} climbed above{CR}the Center to seize control.{WT}{PG}His passcode was... 347...{CR}What was the last digit?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20d9",
+    "en": "Bartender: Come on in, darling.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20da",
+    "en": "What can I get you, darling?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20db",
+    "en": "Go on, place your order, darling.{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20dc",
+    "en": ">There are no other customers.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20dd",
+    "en": ">Talk to whom?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20de",
+    "en": "Come again, darling.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20df",
+    "en": "Retired Dwarf: The weapons buried{CR}around here are our treasure.{WT}Apparently, a would-be rebel{CR}stockpiled them long ago.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e0",
+    "en": "Dwarf Chief: Demons sealed away{CR}the gods of Yamato in places{CR}all across the underground world.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e1",
+    "en": "Kobold: Lord Masakado, who once{CR}protected Tokyo, was torn{CR}into pieces.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e2",
+    "en": "Kobold: Some guy named {FO}{CR}ran into the western dungeon{CR}with a woman chasing him.{WT}Must be nice to be so popular.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e3",
+    "en": "Dwarf Chief: I heard something{CR}new recently.{WT}The sealed gods of Yamato{CR}and Lord Masakado's dismemberment{CR}may be connected somehow.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e4",
+    "en": "Kobold: Hey! That woman!{CR}She's the one who was chasing{CR}{FO}, right?{WT}{TI}...Huh. Already traded him in{CR}for somebody else?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e5",
+    "en": "Louis Cyphre: {SY}, Abaddon{CR}has left the underground.{WT}He swallowed Valhalla for the{CR}Center, then they betrayed him.{WT}He should be in the Underworld now.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e6",
+    "en": "Dwarf Chief: Lord Masakado{CR}has been revived...{WT}In that case...{CR}could you send me back{CR}to the Underworld?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e7",
+    "en": "Kobold: We can rest easy now.{CR}No great catastrophe will strike{CR}Tokyo while Lord Masakado lives...{TI}{CR}I think.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e8",
+    "en": "Kobold: Well, look at you two!{CR}Always getting along so well!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20e9",
+    "en": "Kobold: I've heard how to reach{CR}the Underworld, too.{WT}You gather seven Pillars...{TI}{WT}Then...{TI}{CR}um...{TI} one of them...{TI} I think...{CR}Mutant...{TI} elder...{TI}{CR}...{TI}Nope. I forgot.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ea",
+    "en": "Kobold: Wow. You reached{CR}the Underworld from down here...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20eb",
+    "en": "Kobold: Lately, being alone{CR}has started getting to me...{TI}{CR}Damn it! Another night of{CR}drinking myself senseless!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ec",
+    "en": "Retired Dwarf: What a terrible{CR}earthquake! I thought the entire{CR}underground world was finished!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ed",
+    "en": "Dwarf Chief: The way everything{CR}shook, I thought the whole world{CR}was ending.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ee",
+    "en": "Kobold: That was no ordinary quake.{CR}Kuzuryu must have moved.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ef",
+    "en": "Kobold: If that quake had destroyed{CR}Millennium, maybe sunlight would{CR}reach us again.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f0",
+    "en": "Man: The Stalkers are still{CR}ransacking places all over town.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f1",
+    "en": "Man: The broadcast said {FI}{CR}betrayed the Center.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f2",
+    "en": "Man: Hijacking the Messian{CR}broadcast?{CR}{FI} has some nerve!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f3",
+    "en": "Man: Did you see the Messian{CR}broadcast?! How can the Center{CR}get away with something like that?!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f4",
+    "en": "Man: They couldn't stop the air{CR}flowing in here, but who knows{CR}what they'll do next...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f5",
+    "en": "Man: Is the Center responsible{CR}for that strange tower, too?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f6",
+    "en": "Man: It started when that tower{CR}appeared... All the strength{CR}left my body...{TI}{CR}I realized... too late...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f7",
+    "en": "Man: Someone around here once said{CR}he was going to the Underworld.{WT}He rambled about the Cathedral{CR}and some dolls. I couldn't make{CR}sense of it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f8",
+    "en": "Man: I ran into that fellow who{CR}wanted to reach the Underworld{CR}again recently...{CR}He looked exhausted.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20f9",
+    "en": "Man: {FI} is incredible, taking{CR}the Center on directly.{WT}No one here trusts the Center,{CR}so plenty of us support {FI}.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20fa",
+    "en": "Man: Those Center bastards{CR}fight dirty...{WT}With the lives of Holy Town's{CR}people held hostage, {FI}{CR}can't make a move...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20fb",
+    "en": "Man: The Center hasn't done{CR}anything since {FI} went there...{TI}{CR}What happened...?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20fc",
+    "en": "Man: Damn it...{CR}I don't have any strength left...{CR}I can't go anywhere like this...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20fd",
+    "en": "Thanks to you defeating the demons,{CR}people have gathered here again{CR}and rebuilt the town.{WT}Now we can spread the Messian{CR}faith among them. Thank you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20fe",
+    "en": "If dying here is also{CR}part of God's plan...{TI}{CR}then we must accept it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x20ff",
+    "en": "No matter what happens...{TI}{CR}never forget to pray to God.{WT}{ED}",
+    "fr": ""
+  }
+]

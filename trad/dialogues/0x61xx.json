@@ -1,0 +1,232 @@
+[
+  {
+    "id": "0x6100",
+    "en": "Enveloped by {IT}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6101",
+    "en": "{AG} was shrouded in mist.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6102",
+    "en": "{AL} emerged from the box.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6103",
+    "en": "The surroundings came into view.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6104",
+    "en": "Protected by {IT}.{TW}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6105",
+    "en": "I am {ZK} {MG}.{WT} I trust we'll work well together.{WT}{ED}",
+    "fr": "",
+    "note": "-- demon recruit greetings (spoken aloud: each keeps its own voice) --"
+  },
+  {
+    "id": "0x6106",
+    "en": "I'm {ZK} {MG}.{WT} Well, you'd better take care of me.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6107",
+    "en": "I'm {ZK} {MG}, hee-ho!{WT} Let's get along, hee-ho!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6108",
+    "en": "I AM {ZK} {MG}.{WT} LET US GET ALONG.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6109",
+    "en": "I am {ZK} {MG}.{WT} I pledge my loyalty{WT} and shall be your shield.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610a",
+    "en": "I am {ZK} {MG}.{WT} I pledge my loyalty to you!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610b",
+    "en": "I am {MG} of the {ZK}.{WT} I look forward to working with you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610c",
+    "en": "I am {ZK} {MG}.{WT} I trust we shall work well together.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610d",
+    "en": "I am {ZK} {MG}.{WT} I hope we'll get along.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610e",
+    "en": "I'm {ZK} {MG}!{WT} Be gentle with me, okay?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x610f",
+    "en": "I've been known as {MG}{WT} for many years! Good to meet you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6110",
+    "en": "I've been known as {MG}{WT} for many years! Good to meet you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6111",
+    "en": "{MG}: By Lord Lucifer's command,{CR}none shall pass!{WT}{ED}",
+    "fr": "",
+    "note": "-- Keter Castle gatekeeper (Lucifer's guard) --"
+  },
+  {
+    "id": "0x6112",
+    "en": "Even without moonlight, you are{CR}no match for me.{CR}Prepare yourselves!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6113",
+    "en": "Your power cannot even touch{CR}this body, veiled in moonlight!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6114",
+    "en": "...Lord Lucifer,{TI}{CR}this one is... s-so strong...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6115",
+    "en": ">Where will you go?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6116",
+    "en": "Gomory: So {SY} was not{CR}Satan after all... What a relief.{WT}Like Lord Lucifer, I await your{CR}return to Keter Castle.{CR}Do try your best.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6117",
+    "en": "Voice: ...So it was you after all.{WT}{PG}{ED}",
+    "fr": "",
+    "note": "-- Gabriel / Eden --"
+  },
+  {
+    "id": "0x6118",
+    "en": "Gabriel: {SY},{CR}it has been a long time. {WT}{FI} wishes to see you.{CR}Come with me.{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6119",
+    "en": "{PG}Gabriel: This is Eden, modeled{CR}after the ancient paradise.{WT}Now, {FI} awaits you{CR}over there.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x611a",
+    "en": "Dwarf: Weapons come up when ya dig.{CR}Sell 'em for a tidy profit.{CR}More than we can ever dig out.{WT}{PG}Truth is, we're short on hands.{CR}Care to pitch in?{ED}",
+    "fr": "",
+    "note": "-- Dwarf dig site --"
+  },
+  {
+    "id": "0x611b",
+    "en": "{PG}Ah, much obliged.{CR}Then dig right around here.{CR}I'm countin' on ya.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x611c",
+    "en": "{PG}>...{TI}...{TI}...{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x611d",
+    "en": "...{TI}...{TI}...{TI}...{TI}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x611e",
+    "en": "{PG}Dwarf: Fine work, friend.{CR}Ya really helped us out.{CR}Here, take this as thanks.{WT}{PG}>Obtained the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x611f",
+    "en": "{PG}Dwarf: If we're ever short on{CR}hands again, come lend us one.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6120",
+    "en": "{PG}If ya won't dirty yer own hands{CR}and do an honest day's work,{CR}the gods'll punish ya.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6121",
+    "en": "Smith: Can't ya see I'm busy?{CR}If yer just browsin', get out.{WT}{ED}",
+    "fr": "",
+    "note": "-- Dwarf blacksmith --"
+  },
+  {
+    "id": "0x6122",
+    "en": "Smith: What have you got!?{CR}That's the \"{IT}\"!{CR}Hand it over!{WT}{PG}>The smith snatched the{CR}\"{IT}\" away.{WT}{PG}Smith: I'll forge ya somethin' fine.{CR}Sit tight.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6123",
+    "en": "Smith: Not yet!{WT}Good work takes time.{CR}Don't rush me!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6124",
+    "en": "Smith: It's done... Here.{WT}{PG}>{SY} obtained{CR}the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6125",
+    "en": "{PG}Smith: Never thought I'd forge{CR}a blade like that in my life.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6126",
+    "en": "Smith: ...Come back when you've{CR}got room for it.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6127",
+    "en": "What will you do?{0xc096,True}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6128",
+    "en": "Which one will you analyze?{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x6129",
+    "en": "I-I'm... {ZK}... {MG}.{WT} I-I'll be your ally...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x612a",
+    "en": "You cannot use magic here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x612b",
+    "en": "{PG}You cannot carry any more.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x612c",
+    "en": "Try entering it again?{ED}",
+    "fr": ""
+  }
+]

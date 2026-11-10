@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "0x4300",
+    "en": "My brethren{A65}are afflicted!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4301",
+    "en": "What?!{A65}What happened to my ally?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4302",
+    "en": "My comrade{A65}has been wounded!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4303",
+    "en": "How naive.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4304",
+    "en": "You are naive.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4305",
+    "en": "Naive! Far too naive!!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4306",
+    "en": "What did you say?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4307",
+    "en": "What?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4308",
+    "en": "What?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4309",
+    "en": "I cannot allow this...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430a",
+    "en": "I won't forgive you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430b",
+    "en": "Unforgivable!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430c",
+    "en": "Divine retribution is at hand!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430d",
+    "en": "You appear eager to die!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430e",
+    "en": "You appear eager to die!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x430f",
+    "en": "Shall I show you true power?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4310",
+    "en": "Shall I show you my power?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4311",
+    "en": "Shall I show you my power?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4312",
+    "en": "Very well.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4313",
+    "en": "So be it.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4314",
+    "en": "So be it.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4315",
+    "en": "I am {A64} {A63}.{A65}{A67}I pledge you my loyalty{A65}and shall serve as your guardian.{A67}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4316",
+    "en": "I am {A64} {A63}.{A65}{A67}I pledge you my loyalty!{A67}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4317",
+    "en": "My name is {A63}, of the {A64}.{A65}{A67}I look forward to serving you.{A67}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4318",
+    "en": "Now, if you will excuse me.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4319",
+    "en": "Farewell.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431a",
+    "en": "Farewell.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431b",
+    "en": "Your demon roster appears full...{A65}Will you dismiss someone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431c",
+    "en": "Your demon roster is full...{A65}Will you dismiss someone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431d",
+    "en": "Your demon roster is full...{A65}Will you dismiss someone?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431e",
+    "en": "We have nothing more to discuss.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x431f",
+    "en": "I have no further business with you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4320",
+    "en": "I have no further business with you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4321",
+    "en": "I have received proof of your sincerity.{A65}{A67}{A66}May we meet again.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4322",
+    "en": "You have saved me...{A67}{A66}Until we meet again!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4323",
+    "en": "I shall remember you!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4324",
+    "en": "How merciless...{A65}I want nothing to do with one such as you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4325",
+    "en": "I was a fool to expect anything of you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4326",
+    "en": "You heartless wretch... I am through with you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4327",
+    "en": "Are you truly {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4328",
+    "en": "Are you truly {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4329",
+    "en": "Are you truly {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x432a",
+    "en": "Such folly shall be your undoing!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x432b",
+    "en": "You fool!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x432c",
+    "en": "You fool!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x432d",
+    "en": "How deplorable... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x432e",
+    "en": "You are beyond salvation... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x432f",
+    "en": "How absurd... {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x4330",
+    "en": "Splendid...{A65}Your convictions are worthy of praise.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4331",
+    "en": "You are quite commendable.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4332",
+    "en": "You are quite commendable.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4333",
+    "en": "I entrust my brethren to you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4334",
+    "en": "Take good care of my ally!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4335",
+    "en": "I entrust my comrade to you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4336",
+    "en": "I shall bestow this upon you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4337",
+    "en": "You may have this.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4338",
+    "en": "You may have this.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4339",
+    "en": "Will this persuade you to spare me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433a",
+    "en": "Take this and spare me.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433b",
+    "en": "Will this satisfy you?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433c",
+    "en": "It cannot be helped. Take this.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433d",
+    "en": "How pitiful. Here, take this.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433e",
+    "en": "Pitiful would-be savior of man...{A65}You may have this.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x433f",
+    "en": "{A69} Macca...{A65}Will that suffice?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4340",
+    "en": "May I have {A69} Macca?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4341",
+    "en": "May I have {A69} Macca?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4342",
+    "en": "You do not intend to fight?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4343",
+    "en": "...{A68}...{A68}You claim you will not fight?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4344",
+    "en": "...{A68}...{A68}You claim you will not fight?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4345",
+    "en": "One more thing.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4346",
+    "en": "Then, one more thing.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4347",
+    "en": "Then, one more thing.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4348",
+    "en": "Will you offer me something?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4349",
+    "en": "Might I have something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434a",
+    "en": "Do you intend to offer something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434b",
+    "en": "You desire my cooperation?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434c",
+    "en": "You wish to rely on me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434d",
+    "en": "You desire{A65}my assistance?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434e",
+    "en": "Do you want something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x434f",
+    "en": "Are you after something?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4350",
+    "en": "What are you after?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4351",
+    "en": "Do you seek salvation in me{A65}to escape this world's corruption?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4352",
+    "en": "Could you be one of my admirers?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4353",
+    "en": "You beheld my form and could not help but call out?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4354",
+    "en": "Will you show me a holy dance{A65}to ascend the heavens?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4355",
+    "en": "Will you show me a bewitching dance{A65}to set my blood aflame?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4356",
+    "en": "Will you show me a bewitching dance{A65}to set my blood aflame?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4357",
+    "en": "My heart is now entirely at peace.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4358",
+    "en": "That was rather pleasant.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4359",
+    "en": "Indeed! I am in excellent spirits!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435a",
+    "en": "You wish me to lend you my strength?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435b",
+    "en": "You would make me your servant?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435c",
+    "en": "You would make me your servant?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435d",
+    "en": "Thank you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435e",
+    "en": "You have my gratitude.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x435f",
+    "en": "Much obliged.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4360",
+    "en": "My brethren appear gravely ill...{A65}I fear leaving them in your care.{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x4361",
+    "en": "Your demon appears unwell...{A65}See to them quickly.{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x4362",
+    "en": "Your demon appears unwell...{A65}See to them quickly.{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x4363",
+    "en": "I must decline.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4364",
+    "en": "I categorically refuse!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4365",
+    "en": "I categorically refuse!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4366",
+    "en": "Y-You demon!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4367",
+    "en": "W-What manner of monster are you?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4368",
+    "en": "GRAAAH!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4369",
+    "en": "So that is your true intent!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436a",
+    "en": "You... You mean to fight?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436b",
+    "en": "You... You mean to fight?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436c",
+    "en": "I was mistaken.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436d",
+    "en": "I was in the wrong.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436e",
+    "en": "...You have my apologies.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x436f",
+    "en": "You lack MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4370",
+    "en": "You lack MAG?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4371",
+    "en": "You lack MAG?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4372",
+    "en": "You have no Life Stones?{A61}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4373",
+    "en": "No Life Stones?!{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x4374",
+    "en": "No Life Stones?!{A61}",
+    "fr": ""
+  },
+  {
+    "id": "0x4375",
+    "en": "{A69} MAG...{A65}Will that suffice?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4376",
+    "en": "May I have {A69} MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4377",
+    "en": "May I have {A69} MAG?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4378",
+    "en": "In that case, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x4379",
+    "en": "Then, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x437a",
+    "en": "Then, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x437b",
+    "en": "A gem... Will that suffice?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x437c",
+    "en": "May I have a gem?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x437d",
+    "en": "May I have a gem?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x437e",
+    "en": "It is still insufficient.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x437f",
+    "en": "Hmm... Still not enough.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4380",
+    "en": "I remain unsatisfied.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4381",
+    "en": "Such a thing cannot satisfy my heart.{A65}I am an angel, after all!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4382",
+    "en": "You believe such a worthless trinket{A65}could satisfy me?!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4383",
+    "en": "Grrr...{A65}I am through with this farce!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4384",
+    "en": "A Life Stone...{A65}Will that suffice?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4385",
+    "en": "May I have a Life Stone?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4386",
+    "en": "May I have a Life Stone?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4387",
+    "en": "You intend to raise a hand{A65}against us angels?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4388",
+    "en": "You mean to kill me?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4389",
+    "en": "You would claim my soul?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438a",
+    "en": "Please, do not say such things...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438b",
+    "en": "Come now. Do not be like that.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438c",
+    "en": "Come now. Do not be like that.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438d",
+    "en": "I shall overlook this{A65}for today.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438e",
+    "en": "I shall spare you this time.{A65}Do not expect another chance.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x438f",
+    "en": "I shall spare you this time.{A65}Do not expect another chance.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4390",
+    "en": "Your arrogant heart...{A68}...{A68}...{A68}{A67}{A66}shall receive judgment!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4391",
+    "en": "This is the last time{A67}{A66}you will ever posture so proudly!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4392",
+    "en": "This is the last time{A67}{A66}you will ever posture so proudly!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4393",
+    "en": "I shall claim your soul.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4394",
+    "en": "I shall take your life!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4395",
+    "en": "Shall I claim your soul?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4396",
+    "en": "Ha... Ha... Ha...{A65}How very amusing...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4397",
+    "en": "Amusing! Most impressive.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4398",
+    "en": "Most entertaining!{A65}You could rival Salome herself!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x4399",
+    "en": "Heh heh heh...{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439a",
+    "en": "Hahahahaha!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439b",
+    "en": "HAAHAHAHA!!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439c",
+    "en": "So you claim to fear nothing.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439d",
+    "en": "You have courage!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439e",
+    "en": "You have courage!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x439f",
+    "en": "Your presence cannot reach me from there.{A65}Would you come a little closer?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a0",
+    "en": "We cannot speak at this distance.{A65}Will you come a little closer?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a1",
+    "en": "This is no way to converse.{A65}Will you come closer?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a2",
+    "en": "To deceive an angel...{A65}What foolishness...{A68}...{A68}...{A68}{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a3",
+    "en": "I cannot trust{A65}such empty words!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a4",
+    "en": "I cannot trust{A65}such empty words!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a5",
+    "en": "I shall believe you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a6",
+    "en": "You have a discerning eye.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a7",
+    "en": "Indeed!{A65}You show great promise.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a8",
+    "en": "Will you first lay down your weapon?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43a9",
+    "en": "Will you first lower your gun?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43aa",
+    "en": "Will you first lower your gun?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ab",
+    "en": "Tell me your name.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ac",
+    "en": "I would know your name.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ad",
+    "en": "Speak your name unto me.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ae",
+    "en": "You ask me to defy the Lord?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43af",
+    "en": "That would mean betraying my allies.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b0",
+    "en": "You would have me{A67}{A66}turn my back on my brethren?!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b1",
+    "en": "Your tainted soul{A65}must face judgment.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b2",
+    "en": "I cannot trust the likes of you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b3",
+    "en": "I cannot trust the likes of you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b4",
+    "en": "How careless.{A67}{A66}That life...{A65}does not belong to you alone.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b5",
+    "en": "How naive!{A65}Your life is not yours alone.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b6",
+    "en": "How naive!{A65}Your life is not yours alone.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b7",
+    "en": "Will you show me{A65}the sincerity in your heart?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b8",
+    "en": "I prefer to settle our business quickly.{A65}...{A68}...{A68}...{A68}You understand?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43b9",
+    "en": "I prefer to settle our business quickly.{A65}...{A68}...{A68}...{A68}You understand?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ba",
+    "en": "I have no time{A67}{A66}to consort with humans!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43bb",
+    "en": "I have no time{A67}{A66}to speak with a worm like you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43bc",
+    "en": "I have no time{A67}{A66}to speak with a worm like you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43bd",
+    "en": "Just as I thought.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43be",
+    "en": "Just as I thought...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43bf",
+    "en": "Just as I thought...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c0",
+    "en": "Please.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c1",
+    "en": "I beg you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c2",
+    "en": "I beg you.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c3",
+    "en": "I cannot!{A67}{A66}It defies the will of God.{A65}I cannot accompany you after all.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c4",
+    "en": "Impossible!{A67}{A66}I cannot join forces with you.{A67}{A66}Not as you are now...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c5",
+    "en": "Impossible!{A67}{A66}I cannot join forces with you.{A67}{A66}Not as you are now...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c6",
+    "en": "M-My...{A68}...{A68}...{A68} brethren!! {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c7",
+    "en": "M-My...{A68}...{A68}...{A68} brethren!! {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c8",
+    "en": "M-My...{A68}...{A68}...{A68} brethren!! {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43c9",
+    "en": "And one more thing. {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ca",
+    "en": "One more thing. {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43cb",
+    "en": "One more thing. {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43cc",
+    "en": "One more. {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43cd",
+    "en": "One more. {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ce",
+    "en": "One more. {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43cf",
+    "en": "Unfortunately, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d0",
+    "en": "Unfortunately, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d1",
+    "en": "Unfortunately, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d2",
+    "en": "Then, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d3",
+    "en": "In that case, {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d4",
+    "en": "In that case, {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d5",
+    "en": "In return, {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d6",
+    "en": "In exchange, {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d7",
+    "en": "In exchange, {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d8",
+    "en": "This time, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43d9",
+    "en": "This time, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43da",
+    "en": "This time, {A14}",
+    "fr": ""
+  },
+  {
+    "id": "0x43db",
+    "en": "Only the Lord may command me!{A0E}",
+    "fr": ""
+  },
+  {
+    "id": "0x43dc",
+    "en": "I will not take orders from you!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43dd",
+    "en": "I will not be ordered about by a mere human!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43de",
+    "en": "Whatever you are,{A65}will you take this{A67}{A66}and begone from my sight?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43df",
+    "en": "What are you?!{A67}{A66}Will you take this and leave?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e0",
+    "en": "What are you?!{A67}{A66}Will you take this and leave?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e1",
+    "en": "So mellow... What a sublime aroma!{A65}Please, just a little more...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e2",
+    "en": "So mellow... What a sublime aroma!{A65}Please, just a little more...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e3",
+    "en": "So mellow... What a sublime aroma!{A65}Please, just a little more...{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e4",
+    "en": "So mellow... What a sublime aroma!{A65}May I have just a little more?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e5",
+    "en": "Fine liquor. May I have another cup?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e6",
+    "en": "Fine liquor...{A68}...{A68}...{A68}May I have more?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e7",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e8",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43e9",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ea",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43eb",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ec",
+    "en": "Hmph... {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ed",
+    "en": "Follow the voice within you.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ee",
+    "en": "Do as your heart desires.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ef",
+    "en": "Do as your heart desires.{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f0",
+    "en": "But{A65}those who stray shall face God's judgment!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f1",
+    "en": "But{A65}those without strength shall die!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f2",
+    "en": "But{A65}those without strength shall die!{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f3",
+    "en": "That is quite a fine weapon {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f4",
+    "en": "That is quite a fine weapon {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f5",
+    "en": "That is quite a fine weapon {A14}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f6",
+    "en": "You would sway me with such a thing?{A65}How foolish!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f7",
+    "en": "You would sway me with such a thing?{A65}How foolish!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f8",
+    "en": "How dull.{A65}Next time, I shall make you dance to death!{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43f9",
+    "en": "I have no business with cowards.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43fa",
+    "en": "I have no use for a coward.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43fb",
+    "en": "I have no use for a coward.{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43fc",
+    "en": "Do you find me frightening?{A0F}{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43fd",
+    "en": "Have you lost your nerve?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43fe",
+    "en": "Have you lost your nerve?{A0F}",
+    "fr": ""
+  },
+  {
+    "id": "0x43ff",
+    "en": "Yes!{A65}To the woman over there, {A14}",
+    "fr": ""
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "0x0bdc",
+    "en": "Memory Card is damaged.",
+    "fr": ""
+  },
+  {
+    "id": "0x0bf8",
+    "en": "Could not format card.",
+    "fr": ""
+  },
+  {
+    "id": "0x0c5c",
+    "en": "with at least 2 blocks",
+    "fr": ""
+  },
+  {
+    "id": "0x0cc8",
+    "en": "Could not load data.",
+    "fr": ""
+  },
+  {
+    "id": "0x0ce0",
+    "en": "Could not save data.",
+    "fr": ""
+  },
+  {
+    "id": "0x0cf8",
+    "en": "No suspend data found.",
+    "fr": ""
+  },
+  {
+    "id": "0x0d10",
+    "en": "No save data was found.",
+    "fr": ""
+  },
+  {
+    "id": "0x0d2c",
+    "en": "Shin Megami Tensei II",
+    "fr": ""
+  },
+  {
+    "id": "0x0d44",
+    "en": "Insert Memory Card in slot 1.",
+    "fr": ""
+  },
+  {
+    "id": "0x0d90",
+    "en": "Free space needed.",
+    "fr": ""
+  },
+  {
+    "id": "0x0da4",
+    "en": "Saving needs at least 2 free blocks.",
+    "fr": ""
+  },
+  {
+    "id": "0x0dcc",
+    "en": "is too low.",
+    "fr": ""
+  },
+  {
+    "id": "0x0ddc",
+    "en": "Memory Card free space",
+    "fr": ""
+  },
+  {
+    "id": "0x0e18",
+    "en": "Memory Card must be in slot 1",
+    "fr": ""
+  },
+  {
+    "id": "0x0e70",
+    "en": "Suspend save will be disabled.",
+    "fr": ""
+  },
+  {
+    "id": "0x0e90",
+    "en": "Not enough free blocks.",
+    "fr": ""
+  },
+  {
+    "id": "0x0eac",
+    "en": "This save may prevent suspending.",
+    "fr": ""
+  },
+  {
+    "id": "0x0f60",
+    "en": "Loading erases suspend data.",
+    "fr": ""
+  },
+  {
+    "id": "0x0f84",
+    "en": "Load this file.",
+    "fr": ""
+  },
+  {
+    "id": "0x0fbc",
+    "en": "Suspend data exists.",
+    "fr": ""
+  },
+  {
+    "id": "0x0ff0",
+    "en": "Proceed?",
+    "fr": ""
+  },
+  {
+    "id": "0x1094",
+    "en": "For save and suspend data,",
+    "fr": ""
+  },
+  {
+    "id": "0x10b4",
+    "en": "there are too few free blocks.",
+    "fr": ""
+  },
+  {
+    "id": "0x1878",
+    "en": "Cannot summon this demon.",
+    "fr": ""
+  },
+  {
+    "id": "0x1894",
+    "en": "Magic cannot be used now.",
+    "fr": ""
+  },
+  {
+    "id": "0x18d8",
+    "en": "Curse prevents removal!",
+    "fr": ""
+  },
+  {
+    "id": "0x18f4",
+    "en": "No usable magic available.",
+    "fr": ""
+  },
+  {
+    "id": "0x191c",
+    "en": "Wrong alignment. Can't summon.",
+    "fr": ""
+  },
+  {
+    "id": "0x193c",
+    "en": "No items can be reordered.",
+    "fr": ""
+  },
+  {
+    "id": "0x1974",
+    "en": "Demon cannot leave.",
+    "fr": ""
+  },
+  {
+    "id": "0x19c8",
+    "en": "Cannot use that here.",
+    "fr": ""
+  },
+  {
+    "id": "0x19f8",
+    "en": "No demons can be analyzed.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a18",
+    "en": "No items can be discarded.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a5c",
+    "en": "No demons can leave.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a74",
+    "en": "No demons can return.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a8c",
+    "en": "No demons can be summoned.",
+    "fr": ""
+  },
+  {
+    "id": "0x1c60",
+    "en": "Cannot remove: cursed",
+    "fr": ""
+  },
+  {
+    "id": "0x1c78",
+    "en": "Inventory full; cannot remove.",
+    "fr": ""
+  },
+  {
+    "id": "0x1c98",
+    "en": "Nothing available to equip.",
+    "fr": ""
+  },
+  {
+    "id": "0x23f4",
+    "en": "Change formation.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a08",
+    "en": "Keep your heading at map top.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a28",
+    "en": "Keep north at map top.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a9c",
+    "en": "Repeat the last action.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ab8",
+    "en": "Swords/guns/basic only",
+    "fr": ""
+  }
+]

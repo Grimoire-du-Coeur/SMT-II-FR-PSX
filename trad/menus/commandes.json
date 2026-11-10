@@ -1,0 +1,672 @@
+[
+  {
+    "id": "1",
+    "en": "Call Ally",
+    "fr": "Invoquer"
+  },
+  {
+    "id": "2",
+    "en": "Return Ally",
+    "fr": "Rappeler"
+  },
+  {
+    "id": "3",
+    "en": "Dismiss Ally",
+    "fr": "Congédier"
+  },
+  {
+    "id": "4",
+    "en": "Analyze Spell",
+    "fr": "Analyse sort"
+  },
+  {
+    "id": "5",
+    "en": "Auto-Map",
+    "fr": "Carte auto"
+  },
+  {
+    "id": "6",
+    "en": "Devil Analysis",
+    "fr": "Analyse démon"
+  },
+  {
+    "id": "7",
+    "en": "Config",
+    "fr": "Options"
+  },
+  {
+    "id": "8",
+    "en": "Analyze Item",
+    "fr": "Analyse objet"
+  },
+  {
+    "id": "9",
+    "en": "Set Marker",
+    "fr": "Placer repère"
+  },
+  {
+    "id": "10",
+    "en": "Use",
+    "fr": "Utiliser"
+  },
+  {
+    "id": "11",
+    "en": "Sort",
+    "fr": "Trier"
+  },
+  {
+    "id": "12",
+    "en": "Arrange",
+    "fr": "Ranger"
+  },
+  {
+    "id": "13",
+    "en": "Discard",
+    "fr": "Jeter"
+  },
+  {
+    "id": "14",
+    "en": "Equip",
+    "fr": "Équiper"
+  },
+  {
+    "id": "15",
+    "en": "Unequip",
+    "fr": "Retirer"
+  },
+  {
+    "id": "16",
+    "en": "Buy",
+    "fr": "Acheter"
+  },
+  {
+    "id": "17",
+    "en": "Sell",
+    "fr": "Vendre"
+  },
+  {
+    "id": "18",
+    "en": "Explain",
+    "fr": "Détails"
+  },
+  {
+    "id": "19",
+    "en": "View Status",
+    "fr": "Statut"
+  },
+  {
+    "id": "20",
+    "en": "Leave Shop",
+    "fr": "Sortir"
+  },
+  {
+    "id": "21",
+    "en": "RAM Check",
+    "fr": "Vérif. RAM"
+  },
+  {
+    "id": "22",
+    "en": "Item",
+    "fr": "Objet"
+  },
+  {
+    "id": "23",
+    "en": "Equipment",
+    "fr": "Équipement"
+  },
+  {
+    "id": "24",
+    "en": "Drink",
+    "fr": "Boisson"
+  },
+  {
+    "id": "25",
+    "en": "Listen",
+    "fr": "Écouter"
+  },
+  {
+    "id": "26",
+    "en": "Restore HP/MP",
+    "fr": "Soins HP/MP"
+  },
+  {
+    "id": "27",
+    "en": "Buy Item",
+    "fr": "Acheter objet"
+  },
+  {
+    "id": "28",
+    "en": "Heal Status",
+    "fr": "Soigner état"
+  },
+  {
+    "id": "29",
+    "en": "View Status",
+    "fr": "Statut"
+  },
+  {
+    "id": "30",
+    "en": "Revive",
+    "fr": "Réanimer"
+  },
+  {
+    "id": "31",
+    "en": "Exit",
+    "fr": "Sortir"
+  },
+  {
+    "id": "32",
+    "en": "Uncurse",
+    "fr": "Exorciser"
+  },
+  {
+    "id": "33",
+    "en": "Save",
+    "fr": "Sauver"
+  },
+  {
+    "id": "34",
+    "en": "Training",
+    "fr": "Entraînement"
+  },
+  {
+    "id": "35",
+    "en": "Plasma Sword",
+    "fr": "Épée plasma"
+  },
+  {
+    "id": "36",
+    "en": "Gyro Jet",
+    "fr": "Gyro Jet"
+  },
+  {
+    "id": "37",
+    "en": "Giga Smasher",
+    "fr": "Giga Smasher"
+  },
+  {
+    "id": "38",
+    "en": "Railgun",
+    "fr": "Railgun"
+  },
+  {
+    "id": "39",
+    "en": "Blaster Gun",
+    "fr": "Blaster"
+  },
+  {
+    "id": "40",
+    "en": "Haggle",
+    "fr": "Marchander"
+  },
+  {
+    "id": "41",
+    "en": "Threaten",
+    "fr": "Menacer"
+  },
+  {
+    "id": "42",
+    "en": "Give Up",
+    "fr": "Abandonner"
+  },
+  {
+    "id": "43",
+    "en": "Drag Out",
+    "fr": "Temporiser"
+  },
+  {
+    "id": "44",
+    "en": "Enter Name",
+    "fr": "Nommer"
+  },
+  {
+    "id": "45",
+    "en": "Destroy COMP",
+    "fr": "Détruire COMP"
+  },
+  {
+    "id": "46",
+    "en": "Virtual Battle",
+    "fr": "Combat virtuel"
+  },
+  {
+    "id": "47",
+    "en": "LEVEL 1",
+    "fr": "NIVEAU 1"
+  },
+  {
+    "id": "48",
+    "en": "LEVEL 2",
+    "fr": "NIVEAU 2"
+  },
+  {
+    "id": "49",
+    "en": "LEVEL 3",
+    "fr": "NIVEAU 3"
+  },
+  {
+    "id": "50",
+    "en": "Fuse 2 Demons",
+    "fr": "Fusion à 2"
+  },
+  {
+    "id": "51",
+    "en": "Fuse 3 Demons",
+    "fr": "Fusion à 3"
+  },
+  {
+    "id": "52",
+    "en": "Fuse 2 Swords",
+    "fr": "Fusion d'épées"
+  },
+  {
+    "id": "53",
+    "en": "LEVEL 4",
+    "fr": "NIVEAU 4"
+  },
+  {
+    "id": "54",
+    "en": "Cathedral",
+    "fr": "Cathédrale"
+  },
+  {
+    "id": "55",
+    "en": "LAW",
+    "fr": "LOI"
+  },
+  {
+    "id": "56",
+    "en": "CHAOS",
+    "fr": "CHAOS"
+  },
+  {
+    "id": "57",
+    "en": "Battle",
+    "fr": "Combat"
+  },
+  {
+    "id": "58",
+    "en": "BGM1",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "BGM2",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "BGM3",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Friendly",
+    "fr": "Amical"
+  },
+  {
+    "id": "62",
+    "en": "Threatening",
+    "fr": "Menaçant"
+  },
+  {
+    "id": "63",
+    "en": "Game Start",
+    "fr": "Commencer"
+  },
+  {
+    "id": "64",
+    "en": "Hear Advice",
+    "fr": "Conseils"
+  },
+  {
+    "id": "65",
+    "en": "Teleport",
+    "fr": "Téléport"
+  },
+  {
+    "id": "66",
+    "en": "Sword-Demon Fuse",
+    "fr": "Fusion épée-démon"
+  },
+  {
+    "id": "67",
+    "en": "2 Sword-Demon",
+    "fr": "2 épées-démon"
+  },
+  {
+    "id": "68",
+    "en": "Trade for Coins",
+    "fr": "Contre jetons"
+  },
+  {
+    "id": "69",
+    "en": "Trade for Items",
+    "fr": "Contre objets"
+  },
+  {
+    "id": "70",
+    "en": "Trade for Spirits",
+    "fr": "Contre alcools"
+  },
+  {
+    "id": "71",
+    "en": "Code Breaker",
+    "fr": "Casse-code"
+  },
+  {
+    "id": "72",
+    "en": "Slot 1",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Slot 2",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Slot 3",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "KENO",
+    "fr": "KENO"
+  },
+  {
+    "id": "76",
+    "en": "Baccarat",
+    "fr": "Baccarat"
+  },
+  {
+    "id": "77",
+    "en": "Big or Small",
+    "fr": "Grand ou petit"
+  },
+  {
+    "id": "78",
+    "en": "Russian Roulette",
+    "fr": "Roulette russe"
+  },
+  {
+    "id": "79",
+    "en": "Slot Check 1",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "Slot Check 2",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "Slot Check 3",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "Casino Call 0",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "Casino Call 1",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Tiferet",
+    "fr": "Tiferet"
+  },
+  {
+    "id": "85",
+    "en": "Netzach",
+    "fr": "Netzach"
+  },
+  {
+    "id": "86",
+    "en": "Hod",
+    "fr": "Hod"
+  },
+  {
+    "id": "87",
+    "en": "Yesod",
+    "fr": "Yesod"
+  },
+  {
+    "id": "88",
+    "en": "Machine 1",
+    "fr": "Machine 1"
+  },
+  {
+    "id": "89",
+    "en": "Machine 2",
+    "fr": "Machine 2"
+  },
+  {
+    "id": "90",
+    "en": "Machine 3",
+    "fr": "Machine 3"
+  },
+  {
+    "id": "91",
+    "en": "Machine 4",
+    "fr": "Machine 4"
+  },
+  {
+    "id": "92",
+    "en": "Go Back",
+    "fr": "Retour"
+  },
+  {
+    "id": "93",
+    "en": "Repair Garage",
+    "fr": "Garage"
+  },
+  {
+    "id": "94",
+    "en": "Use Terminal",
+    "fr": "Terminal"
+  },
+  {
+    "id": "95",
+    "en": "Return",
+    "fr": "Retour"
+  },
+  {
+    "id": "96",
+    "en": "Gaia Temple",
+    "fr": "Temple Gaïa"
+  },
+  {
+    "id": "97",
+    "en": "Level 1 - 20ћ",
+    "fr": "Niv. 1 - 20ћ"
+  },
+  {
+    "id": "98",
+    "en": "Level 2 - 30ћ",
+    "fr": "Niv. 2 - 30ћ"
+  },
+  {
+    "id": "99",
+    "en": "Level 3 - 40ћ",
+    "fr": "Niv. 3 - 40ћ"
+  },
+  {
+    "id": "100",
+    "en": "Level 4 - 50ћ",
+    "fr": "Niv. 4 - 50ћ"
+  },
+  {
+    "id": "101",
+    "en": "Level 1 - 45ћ",
+    "fr": "Niv. 1 - 45ћ"
+  },
+  {
+    "id": "102",
+    "en": "Level 2 - 55ћ",
+    "fr": "Niv. 2 - 55ћ"
+  },
+  {
+    "id": "103",
+    "en": "Level 3 - 65ћ",
+    "fr": "Niv. 3 - 65ћ"
+  },
+  {
+    "id": "104",
+    "en": "Level 4 - 75ћ",
+    "fr": "Niv. 4 - 75ћ"
+  },
+  {
+    "id": "105",
+    "en": "Level 1 - 80ћ",
+    "fr": "Niv. 1 - 80ћ"
+  },
+  {
+    "id": "106",
+    "en": "Level 2 - 100ћ",
+    "fr": "Niv. 2 - 100ћ"
+  },
+  {
+    "id": "107",
+    "en": "Level 3 - 120ћ",
+    "fr": "Niv. 3 - 120ћ"
+  },
+  {
+    "id": "108",
+    "en": "Level 4 - 140ћ",
+    "fr": "Niv. 4 - 140ћ"
+  },
+  {
+    "id": "109",
+    "en": "Level 1 - 100ћ",
+    "fr": "Niv. 1 - 100ћ"
+  },
+  {
+    "id": "110",
+    "en": "Level 2 - 150ћ",
+    "fr": "Niv. 2 - 150ћ"
+  },
+  {
+    "id": "111",
+    "en": "Level 3 - 200ћ",
+    "fr": "Niv. 3 - 200ћ"
+  },
+  {
+    "id": "112",
+    "en": "Level 4 - 250ћ",
+    "fr": "Niv. 4 - 250ћ"
+  },
+  {
+    "id": "113",
+    "en": "Level 1 - 200ћ",
+    "fr": "Niv. 1 - 200ћ"
+  },
+  {
+    "id": "114",
+    "en": "Level 2 - 300ћ",
+    "fr": "Niv. 2 - 300ћ"
+  },
+  {
+    "id": "115",
+    "en": "Level 3 - 400ћ",
+    "fr": "Niv. 3 - 400ћ"
+  },
+  {
+    "id": "116",
+    "en": "Level 4 - 500ћ",
+    "fr": "Niv. 4 - 500ћ"
+  },
+  {
+    "id": "117",
+    "en": "BGM4",
+    "fr": ""
+  },
+  {
+    "id": "118",
+    "en": "BGM5",
+    "fr": ""
+  },
+  {
+    "id": "119",
+    "en": "BGM6",
+    "fr": ""
+  },
+  {
+    "id": "120",
+    "en": "BGM7",
+    "fr": ""
+  },
+  {
+    "id": "121",
+    "en": "BGM8",
+    "fr": ""
+  },
+  {
+    "id": "122",
+    "en": "BGM9",
+    "fr": ""
+  },
+  {
+    "id": "123",
+    "en": "BGM10",
+    "fr": ""
+  },
+  {
+    "id": "124",
+    "en": "BGM11",
+    "fr": ""
+  },
+  {
+    "id": "125",
+    "en": "BGM12",
+    "fr": ""
+  },
+  {
+    "id": "126",
+    "en": "BGM13",
+    "fr": ""
+  },
+  {
+    "id": "127",
+    "en": "BGM14",
+    "fr": ""
+  },
+  {
+    "id": "128",
+    "en": "BGM15",
+    "fr": ""
+  },
+  {
+    "id": "129",
+    "en": "BGM16",
+    "fr": ""
+  },
+  {
+    "id": "130",
+    "en": "BGM17",
+    "fr": ""
+  },
+  {
+    "id": "131",
+    "en": "BGM18",
+    "fr": ""
+  },
+  {
+    "id": "132",
+    "en": "BGM19",
+    "fr": ""
+  },
+  {
+    "id": "133",
+    "en": "NORMAL",
+    "fr": "NORMAL"
+  },
+  {
+    "id": "134",
+    "en": "EXPERT",
+    "fr": "EXPERT"
+  }
+]

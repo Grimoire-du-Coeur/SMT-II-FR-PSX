@@ -1,0 +1,37 @@
+name: "Bug en jeu"
+description: "Plantage, texte illisible ou corrompu, caractère manquant, écran figé."
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Les bugs de la base anglaise sont à signaler chez
+        [Roman215](https://github.com/Roman215/smt2-psx-translation/issues) : si possible,
+        vérifiez d'abord que le problème n'existe pas aussi dans la version anglaise.
+  - type: textarea
+    id: quoi
+    attributes:
+      label: "Que se passe-t-il ?"
+      description: "Et à quel moment : lieu, personnage, action."
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Version du patch"
+      placeholder: "v0.1.0, ou le commit si vous avez construit vous-même"
+    validations:
+      required: true
+  - type: input
+    id: emulateur
+    attributes:
+      label: "Émulateur ou console"
+      placeholder: "DuckStation 0.1-xxxx, PS2 réelle…"
+    validations:
+      required: true
+  - type: textarea
+    id: capture
+    attributes:
+      label: "Capture d'écran ou sauvegarde"
+      description: "Une sauvegarde juste avant le bug fait gagner un temps précieux."

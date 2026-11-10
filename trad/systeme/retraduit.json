@@ -1,0 +1,437 @@
+[
+  {
+    "id": "0x1558",
+    "en": "Is this OK?",
+    "fr": ""
+  },
+  {
+    "id": "0x16f4",
+    "en": "Summon whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x1718",
+    "en": " appears.",
+    "fr": ""
+  },
+  {
+    "id": "0x1730",
+    "en": "Replace whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x174c",
+    "en": "Which slot?",
+    "fr": ""
+  },
+  {
+    "id": "0x1764",
+    "en": "Send back?",
+    "fr": ""
+  },
+  {
+    "id": "0x1780",
+    "en": " returned",
+    "fr": ""
+  },
+  {
+    "id": "0x179c",
+    "en": "Who leaves?",
+    "fr": ""
+  },
+  {
+    "id": "0x17e8",
+    "en": " removed.",
+    "fr": ""
+  },
+  {
+    "id": "0x1800",
+    "en": " left.",
+    "fr": ""
+  },
+  {
+    "id": "0x182c",
+    "en": "Analyze whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x1848",
+    "en": "Use it on whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x185c",
+    "en": "Mimic whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x1878",
+    "en": "This demon cannot be summoned.",
+    "fr": ""
+  },
+  {
+    "id": "0x1894",
+    "en": "Magic cannot be used right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x18b4",
+    "en": "The COMP cannot be used right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x18d8",
+    "en": "The curse prevents you from removing it!",
+    "fr": ""
+  },
+  {
+    "id": "0x18f4",
+    "en": "You do not have any usable magic.",
+    "fr": ""
+  },
+  {
+    "id": "0x191c",
+    "en": "Its alignment prevents summoning.",
+    "fr": ""
+  },
+  {
+    "id": "0x193c",
+    "en": "You have no items that can be reordered.",
+    "fr": ""
+  },
+  {
+    "id": "0x1974",
+    "en": "This demon cannot leave the party.",
+    "fr": ""
+  },
+  {
+    "id": "0x198c",
+    "en": "The COMP cannot be used here.",
+    "fr": ""
+  },
+  {
+    "id": "0x19b0",
+    "en": "No usable magic.",
+    "fr": ""
+  },
+  {
+    "id": "0x19c8",
+    "en": "You cannot use that here.",
+    "fr": ""
+  },
+  {
+    "id": "0x19e0",
+    "en": "You have no items.",
+    "fr": ""
+  },
+  {
+    "id": "0x19f8",
+    "en": "There are no demons you can analyze.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a18",
+    "en": "You have no items that can be discarded.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a3c",
+    "en": "You have no usable items.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a5c",
+    "en": "No demons can leave the party.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a74",
+    "en": "No demons can be returned to the COMP.",
+    "fr": ""
+  },
+  {
+    "id": "0x1a8c",
+    "en": "There are no demons you can summon.",
+    "fr": ""
+  },
+  {
+    "id": "0x1ac0",
+    "en": "Who casts?",
+    "fr": ""
+  },
+  {
+    "id": "0x1ad8",
+    "en": "Cast what?",
+    "fr": ""
+  },
+  {
+    "id": "0x1af8",
+    "en": "Which item?",
+    "fr": ""
+  },
+  {
+    "id": "0x1b1c",
+    "en": "Move which item?",
+    "fr": ""
+  },
+  {
+    "id": "0x1b40",
+    "en": "Move it where?",
+    "fr": ""
+  },
+  {
+    "id": "0x1b64",
+    "en": "Discard what?",
+    "fr": ""
+  },
+  {
+    "id": "0x1c60",
+    "en": "The curse prevents you from removing it.",
+    "fr": ""
+  },
+  {
+    "id": "0x1c78",
+    "en": "Inventory full. It cannot be removed.",
+    "fr": ""
+  },
+  {
+    "id": "0x1c98",
+    "en": "You have nothing this character can equip.",
+    "fr": ""
+  },
+  {
+    "id": "0x1cbc",
+    "en": "Whose stats?",
+    "fr": ""
+  },
+  {
+    "id": "0x1d5c",
+    "en": "Points",
+    "fr": ""
+  },
+  {
+    "id": "0x1e00",
+    "en": "Gun",
+    "fr": ""
+  },
+  {
+    "id": "0x1e08",
+    "en": "Arm",
+    "fr": ""
+  },
+  {
+    "id": "0x1e10",
+    "en": "Hlm",
+    "fr": ""
+  },
+  {
+    "id": "0x1e18",
+    "en": "Leg",
+    "fr": ""
+  },
+  {
+    "id": "0x1e20",
+    "en": "Bdy",
+    "fr": ""
+  },
+  {
+    "id": "0x1e28",
+    "en": "Swd",
+    "fr": ""
+  },
+  {
+    "id": "0x1e4c",
+    "en": "Reposition",
+    "fr": ""
+  },
+  {
+    "id": "0x1e64",
+    "en": "Open the Config menu.",
+    "fr": ""
+  },
+  {
+    "id": "0x1e80",
+    "en": "Load save data.",
+    "fr": ""
+  },
+  {
+    "id": "0x1e9c",
+    "en": "Create suspend data.",
+    "fr": ""
+  },
+  {
+    "id": "0x1eec",
+    "en": "Short on ћ.",
+    "fr": ""
+  },
+  {
+    "id": "0x1f0c",
+    "en": "Enter:",
+    "fr": ""
+  },
+  {
+    "id": "0x22f8",
+    "en": "Buy",
+    "fr": ""
+  },
+  {
+    "id": "0x2300",
+    "en": "Sell",
+    "fr": ""
+  },
+  {
+    "id": "0x201c",
+    "en": "Use it on whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x2308",
+    "en": "Leave",
+    "fr": ""
+  },
+  {
+    "id": "0x23dc",
+    "en": "Sorting complete.",
+    "fr": ""
+  },
+  {
+    "id": "0x23f4",
+    "en": "Change the party formation.",
+    "fr": ""
+  },
+  {
+    "id": "0x2408",
+    "en": "View detailed stats.",
+    "fr": ""
+  },
+  {
+    "id": "0x2424",
+    "en": "Change equipment.",
+    "fr": ""
+  },
+  {
+    "id": "0x2438",
+    "en": "Use, organize, reorder, or discard items.",
+    "fr": ""
+  },
+  {
+    "id": "0x2464",
+    "en": "Use magic.",
+    "fr": ""
+  },
+  {
+    "id": "0x2478",
+    "en": "Access the COMP.",
+    "fr": ""
+  },
+  {
+    "id": "0x2944",
+    "en": "Return to the System menu.",
+    "fr": ""
+  },
+  {
+    "id": "0x2964",
+    "en": "Exit the Config menu.",
+    "fr": ""
+  },
+  {
+    "id": "0x2980",
+    "en": "Play sound in stereo.",
+    "fr": ""
+  },
+  {
+    "id": "0x29a0",
+    "en": "Play sound in mono.",
+    "fr": ""
+  },
+  {
+    "id": "0x29c0",
+    "en": "Use only magic for Auto-Recover.",
+    "fr": ""
+  },
+  {
+    "id": "0x29e4",
+    "en": "Use items for Auto-Recover.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a08",
+    "en": "Show your heading at the top of the map.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a28",
+    "en": "Display the map with north at the top.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a48",
+    "en": "Defend if the item or MP runs out.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a70",
+    "en": "Attack if the item or MP runs out.",
+    "fr": ""
+  },
+  {
+    "id": "0x2a9c",
+    "en": "Repeat the previous action.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ab8",
+    "en": "Use only swords, guns, and basic attacks.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ad0",
+    "en": "Hide attack effects.",
+    "fr": ""
+  },
+  {
+    "id": "0x2af8",
+    "en": "Show attack effects.",
+    "fr": ""
+  },
+  {
+    "id": "0x2b14",
+    "en": "Show battle messages faster than normal.",
+    "fr": ""
+  },
+  {
+    "id": "0x2b4c",
+    "en": "Display battle messages at normal speed.",
+    "fr": ""
+  },
+  {
+    "id": "0x2b78",
+    "en": "Display messages faster than normal.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ba4",
+    "en": "Display messages at normal speed.",
+    "fr": ""
+  },
+  {
+    "id": "0x2bc8",
+    "en": "Sort demons by alignment.",
+    "fr": ""
+  },
+  {
+    "id": "0x2be4",
+    "en": "Sort demons by level.",
+    "fr": ""
+  },
+  {
+    "id": "0x2c00",
+    "en": "Sort demons alphabetically.",
+    "fr": ""
+  },
+  {
+    "id": "0x2c24",
+    "en": "Sort demons by race.",
+    "fr": ""
+  }
+]

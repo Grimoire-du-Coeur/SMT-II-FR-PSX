@@ -1,0 +1,577 @@
+[
+  {
+    "id": "0",
+    "en": "Smile",
+    "fr": ""
+  },
+  {
+    "id": "1",
+    "en": "Pretend to flinch",
+    "fr": ""
+  },
+  {
+    "id": "2",
+    "en": "Flatter",
+    "fr": ""
+  },
+  {
+    "id": "3",
+    "en": "Stare",
+    "fr": ""
+  },
+  {
+    "id": "4",
+    "en": "Soothe",
+    "fr": ""
+  },
+  {
+    "id": "5",
+    "en": "Laugh",
+    "fr": ""
+  },
+  {
+    "id": "6",
+    "en": "Approach",
+    "fr": ""
+  },
+  {
+    "id": "7",
+    "en": "Ignore",
+    "fr": ""
+  },
+  {
+    "id": "8",
+    "en": "Introduce yourself",
+    "fr": ""
+  },
+  {
+    "id": "9",
+    "en": "Ask to join",
+    "fr": ""
+  },
+  {
+    "id": "10",
+    "en": "Macca",
+    "fr": ""
+  },
+  {
+    "id": "11",
+    "en": "Magnetite",
+    "fr": ""
+  },
+  {
+    "id": "12",
+    "en": "Go away",
+    "fr": ""
+  },
+  {
+    "id": "13",
+    "en": "Yes",
+    "fr": ""
+  },
+  {
+    "id": "14",
+    "en": "No",
+    "fr": ""
+  },
+  {
+    "id": "15",
+    "en": "Perform a trick",
+    "fr": ""
+  },
+  {
+    "id": "16",
+    "en": "Dance",
+    "fr": ""
+  },
+  {
+    "id": "17",
+    "en": "Imitate",
+    "fr": ""
+  },
+  {
+    "id": "18",
+    "en": "Acrobatics",
+    "fr": ""
+  },
+  {
+    "id": "19",
+    "en": "Do it",
+    "fr": ""
+  },
+  {
+    "id": "20",
+    "en": "Stop",
+    "fr": ""
+  },
+  {
+    "id": "21",
+    "en": "Join me",
+    "fr": ""
+  },
+  {
+    "id": "22",
+    "en": "Give me something",
+    "fr": ""
+  },
+  {
+    "id": "23",
+    "en": "A demon",
+    "fr": ""
+  },
+  {
+    "id": "24",
+    "en": "A girl",
+    "fr": ""
+  },
+  {
+    "id": "25",
+    "en": "Charming",
+    "fr": ""
+  },
+  {
+    "id": "26",
+    "en": "Frightening",
+    "fr": ""
+  },
+  {
+    "id": "27",
+    "en": "Just prey",
+    "fr": ""
+  },
+  {
+    "id": "28",
+    "en": "Because I like you",
+    "fr": ""
+  },
+  {
+    "id": "29",
+    "en": "It was fate",
+    "fr": ""
+  },
+  {
+    "id": "30",
+    "en": "For everyone's happiness",
+    "fr": ""
+  },
+  {
+    "id": "31",
+    "en": "Nothing in particular",
+    "fr": ""
+  },
+  {
+    "id": "32",
+    "en": "I was captivated",
+    "fr": ""
+  },
+  {
+    "id": "33",
+    "en": "Because I need you",
+    "fr": ""
+  },
+  {
+    "id": "34",
+    "en": "Frightening",
+    "fr": ""
+  },
+  {
+    "id": "35",
+    "en": "Just a hobby",
+    "fr": ""
+  },
+  {
+    "id": "36",
+    "en": "Threaten with gun",
+    "fr": ""
+  },
+  {
+    "id": "37",
+    "en": "Glare",
+    "fr": ""
+  },
+  {
+    "id": "38",
+    "en": "Chase",
+    "fr": ""
+  },
+  {
+    "id": "39",
+    "en": "Give up",
+    "fr": ""
+  },
+  {
+    "id": "40",
+    "en": "Goodbye",
+    "fr": ""
+  },
+  {
+    "id": "41",
+    "en": "Wait",
+    "fr": ""
+  },
+  {
+    "id": "42",
+    "en": "Not worth mentioning",
+    "fr": ""
+  },
+  {
+    "id": "43",
+    "en": "Scold",
+    "fr": ""
+  },
+  {
+    "id": "44",
+    "en": "I don't trust you",
+    "fr": ""
+  },
+  {
+    "id": "45",
+    "en": "Come here",
+    "fr": ""
+  },
+  {
+    "id": "46",
+    "en": "Humans and demons are friends",
+    "fr": ""
+  },
+  {
+    "id": "47",
+    "en": "Show a skill",
+    "fr": ""
+  },
+  {
+    "id": "48",
+    "en": "Sing",
+    "fr": ""
+  },
+  {
+    "id": "49",
+    "en": "Speed-eat",
+    "fr": ""
+  },
+  {
+    "id": "50",
+    "en": "Quick draw",
+    "fr": ""
+  },
+  {
+    "id": "51",
+    "en": "Break a boulder",
+    "fr": ""
+  },
+  {
+    "id": "52",
+    "en": "Laugh again",
+    "fr": ""
+  },
+  {
+    "id": "53",
+    "en": "Laugh proudly",
+    "fr": ""
+  },
+  {
+    "id": "54",
+    "en": "You're right",
+    "fr": ""
+  },
+  {
+    "id": "55",
+    "en": "You're wrong",
+    "fr": ""
+  },
+  {
+    "id": "56",
+    "en": "Persuade",
+    "fr": ""
+  },
+  {
+    "id": "57",
+    "en": "Fight",
+    "fr": ""
+  },
+  {
+    "id": "58",
+    "en": "Chuckle",
+    "fr": ""
+  },
+  {
+    "id": "59",
+    "en": "Compliment",
+    "fr": ""
+  },
+  {
+    "id": "60",
+    "en": "Grin",
+    "fr": ""
+  },
+  {
+    "id": "61",
+    "en": "Angry face",
+    "fr": ""
+  },
+  {
+    "id": "62",
+    "en": "That's right",
+    "fr": ""
+  },
+  {
+    "id": "63",
+    "en": "Maybe",
+    "fr": ""
+  },
+  {
+    "id": "64",
+    "en": "Say it",
+    "fr": ""
+  },
+  {
+    "id": "65",
+    "en": "Refuse",
+    "fr": ""
+  },
+  {
+    "id": "66",
+    "en": "I'll make it worth your while",
+    "fr": ""
+  },
+  {
+    "id": "67",
+    "en": "That won't happen",
+    "fr": ""
+  },
+  {
+    "id": "68",
+    "en": "That's right",
+    "fr": ""
+  },
+  {
+    "id": "69",
+    "en": "Nothing special",
+    "fr": ""
+  },
+  {
+    "id": "70",
+    "en": "Ask",
+    "fr": ""
+  },
+  {
+    "id": "71",
+    "en": "Smirk",
+    "fr": ""
+  },
+  {
+    "id": "72",
+    "en": "I guess",
+    "fr": ""
+  },
+  {
+    "id": "73",
+    "en": "Not really",
+    "fr": ""
+  },
+  {
+    "id": "74",
+    "en": "Warning shot",
+    "fr": ""
+  },
+  {
+    "id": "75",
+    "en": "Let's stay friends",
+    "fr": ""
+  },
+  {
+    "id": "76",
+    "en": "Apologize",
+    "fr": ""
+  },
+  {
+    "id": "77",
+    "en": "I want to live",
+    "fr": ""
+  },
+  {
+    "id": "78",
+    "en": "Charming",
+    "fr": ""
+  },
+  {
+    "id": "79",
+    "en": "Useful",
+    "fr": ""
+  },
+  {
+    "id": "80",
+    "en": "A funny story",
+    "fr": ""
+  },
+  {
+    "id": "81",
+    "en": "A rumor",
+    "fr": ""
+  },
+  {
+    "id": "82",
+    "en": "About life",
+    "fr": ""
+  },
+  {
+    "id": "83",
+    "en": "The Messiah",
+    "fr": ""
+  },
+  {
+    "id": "84",
+    "en": "Me",
+    "fr": ""
+  },
+  {
+    "id": "85",
+    "en": "Just a human",
+    "fr": ""
+  },
+  {
+    "id": "86",
+    "en": "Make money",
+    "fr": ""
+  },
+  {
+    "id": "87",
+    "en": "Be free",
+    "fr": ""
+  },
+  {
+    "id": "88",
+    "en": "Nothing",
+    "fr": ""
+  },
+  {
+    "id": "89",
+    "en": "Maybe so",
+    "fr": ""
+  },
+  {
+    "id": "90",
+    "en": "Absolutely not",
+    "fr": ""
+  },
+  {
+    "id": "91",
+    "en": "What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "92",
+    "en": "Friendly",
+    "fr": ""
+  },
+  {
+    "id": "93",
+    "en": "Intimidating",
+    "fr": ""
+  },
+  {
+    "id": "94",
+    "en": "Put it to rest",
+    "fr": ""
+  },
+  {
+    "id": "95",
+    "en": "Let it eat",
+    "fr": ""
+  },
+  {
+    "id": "96",
+    "en": "Something nice",
+    "fr": ""
+  },
+  {
+    "id": "97",
+    "en": "Gladly",
+    "fr": ""
+  },
+  {
+    "id": "98",
+    "en": "Thank you",
+    "fr": ""
+  },
+  {
+    "id": "99",
+    "en": "More than a name",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "Myself",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Act affectionate",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "You're a champ",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "Sulk",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "You got me",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "Just saying hello",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "I need to talk",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "Don't mess with me",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "Just business",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "In my pocket",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Accept the challenge",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Look away",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Of course",
+    "fr": ""
+  },
+  {
+    "id": "113",
+    "en": "An item",
+    "fr": ""
+  },
+  {
+    "id": "114",
+    "en": "Smile",
+    "fr": ""
+  }
+]

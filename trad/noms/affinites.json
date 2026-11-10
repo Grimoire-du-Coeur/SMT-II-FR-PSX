@@ -1,0 +1,207 @@
+[
+  {
+    "id": "破魔が無効",
+    "en": "Null Expel",
+    "fr": ""
+  },
+  {
+    "id": "破魔・物理に強い",
+    "en": "Str: Expel, Phys",
+    "fr": ""
+  },
+  {
+    "id": "魔法に強い",
+    "en": "Str: Magic",
+    "fr": ""
+  },
+  {
+    "id": "突撃を吸収/魔法に強い",
+    "en": "Absorb Charge\nStr: Magic",
+    "fr": ""
+  },
+  {
+    "id": "呪殺・魔力に弱く/ガンに強い",
+    "en": "Wk: Death, Magic\nStr: Gun",
+    "fr": ""
+  },
+  {
+    "id": "神経・呪殺/魔力・緊縛に強い",
+    "en": "Str: Nerve, Death,\nMagic, Bind",
+    "fr": ""
+  },
+  {
+    "id": "呪殺を反射/電撃に強い",
+    "en": "Reflect Death\nStr: Elec",
+    "fr": ""
+  },
+  {
+    "id": "火炎吸収/打撃系技反射",
+    "en": "Absorb Fire\nReflect Strike",
+    "fr": ""
+  },
+  {
+    "id": "ガン以外の/物理攻撃に強い",
+    "en": "Str: Phys (not Gun)",
+    "fr": ""
+  },
+  {
+    "id": "火炎・破魔に弱く/神経に強い",
+    "en": "Wk: Fire, Expel\nStr: Nerve",
+    "fr": ""
+  },
+  {
+    "id": "破魔・呪殺/魔力を反射",
+    "en": "Reflect Expel,\nDeath, Magic",
+    "fr": ""
+  },
+  {
+    "id": "電撃反射/破魔に強い",
+    "en": "Reflect Elec\nStr: Expel",
+    "fr": ""
+  },
+  {
+    "id": "電撃・衝撃/物理に強い",
+    "en": "Str: Elec, Force,\nPhys",
+    "fr": ""
+  },
+  {
+    "id": "氷結吸収/火炎に弱い",
+    "en": "Absorb Ice\nWk: Fire",
+    "fr": ""
+  },
+  {
+    "id": "物理に強く/魔力に弱い",
+    "en": "Str: Phys\nWk: Magic",
+    "fr": ""
+  },
+  {
+    "id": "物理に強い",
+    "en": "Str: Phys",
+    "fr": ""
+  },
+  {
+    "id": "電撃に弱い",
+    "en": "Wk: Elec",
+    "fr": ""
+  },
+  {
+    "id": "剣に強く/他の物理無効",
+    "en": "Str: Sword\nNull other Phys",
+    "fr": ""
+  },
+  {
+    "id": "魔法を反射/物理に弱い",
+    "en": "Reflect Magic\nWk: Phys",
+    "fr": ""
+  },
+  {
+    "id": "魔法吸収/物理に弱い",
+    "en": "Absorb Magic\nWk: Phys",
+    "fr": ""
+  },
+  {
+    "id": "電撃に強い",
+    "en": "Str: Elec",
+    "fr": ""
+  },
+  {
+    "id": "火炎吸収/氷結に弱い",
+    "en": "Absorb Fire\nWk: Ice",
+    "fr": ""
+  },
+  {
+    "id": "火炎・氷結/電撃に弱い",
+    "en": "Wk: Fire, Ice,\nElec",
+    "fr": ""
+  },
+  {
+    "id": "全体的に強い/破魔が無効",
+    "en": "Str overall\nNull Expel",
+    "fr": ""
+  },
+  {
+    "id": "火炎に強い",
+    "en": "Str: Fire",
+    "fr": ""
+  },
+  {
+    "id": "氷結反射/火炎に弱い",
+    "en": "Reflect Ice\nWk: Fire",
+    "fr": ""
+  },
+  {
+    "id": "物理を反射/魔法に弱い",
+    "en": "Reflect Phys\nWk: Magic",
+    "fr": ""
+  },
+  {
+    "id": "物理に強く/電撃に弱い",
+    "en": "Str: Phys\nWk: Elec",
+    "fr": ""
+  },
+  {
+    "id": "破魔に弱く/物理に強い",
+    "en": "Wk: Expel\nStr: Phys",
+    "fr": ""
+  },
+  {
+    "id": "神経・破魔/魔力が無効",
+    "en": "Null Nerve,\nExpel, Magic",
+    "fr": ""
+  },
+  {
+    "id": "火炎を吸収/氷結に弱い",
+    "en": "Absorb Fire\nWk: Ice",
+    "fr": ""
+  },
+  {
+    "id": "電撃を吸収/衝撃に弱い",
+    "en": "Absorb Elec\nWk: Force",
+    "fr": ""
+  },
+  {
+    "id": "火炎反射/氷結に弱い",
+    "en": "Reflect Fire\nWk: Ice",
+    "fr": ""
+  },
+  {
+    "id": "電撃に弱く/破魔に強い",
+    "en": "Wk: Elec\nStr: Expel",
+    "fr": ""
+  },
+  {
+    "id": "破魔・魔力/緊縛に弱い",
+    "en": "Wk: Expel,\nMagic, Bind",
+    "fr": ""
+  },
+  {
+    "id": "精神系魔法を反射/物理に弱い",
+    "en": "Reflect Mind\nWk: Phys",
+    "fr": ""
+  },
+  {
+    "id": "火炎・氷結/呪殺反射/破魔に弱い",
+    "en": "Refl Fire,Ice\nDeath\nWk: Expel",
+    "fr": ""
+  },
+  {
+    "id": "衝撃・突撃に強い",
+    "en": "Str: Force, Charge",
+    "fr": ""
+  },
+  {
+    "id": "氷結に強い",
+    "en": "Str: Ice",
+    "fr": ""
+  },
+  {
+    "id": "火炎・氷結に強く/物理に弱い",
+    "en": "Str: Fire, Ice\nWk: Phys",
+    "fr": ""
+  },
+  {
+    "id": "呪殺が効きにくい",
+    "en": "Resist Death",
+    "fr": ""
+  }
+]

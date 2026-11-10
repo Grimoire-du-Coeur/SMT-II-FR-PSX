@@ -1,0 +1,21 @@
+name: "Outils et dépôt"
+description: "Problème avec le validateur, l'injection, le build, la CI ou la documentation."
+title: "[Outils] "
+labels: ["outils"]
+body:
+  - type: textarea
+    id: quoi
+    attributes:
+      label: "Que se passe-t-il ?"
+    validations:
+      required: true
+  - type: textarea
+    id: commande
+    attributes:
+      label: "Commande lancée et message obtenu"
+      render: text
+  - type: input
+    id: env
+    attributes:
+      label: "Système et version de Python"
+      placeholder: "Windows 11, Python 3.12"

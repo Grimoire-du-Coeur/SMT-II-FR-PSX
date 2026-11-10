@@ -1,0 +1,117 @@
+[
+  {
+    "id": "0",
+    "en": "Dandy",
+    "fr": "Dandy"
+  },
+  {
+    "id": "1",
+    "en": "Old Man",
+    "fr": "Vieillard"
+  },
+  {
+    "id": "2",
+    "en": "Madwoman",
+    "fr": "Folle"
+  },
+  {
+    "id": "3",
+    "en": "Shady Man",
+    "fr": "Type louche"
+  },
+  {
+    "id": "4",
+    "en": "Templar",
+    "fr": "Templier"
+  },
+  {
+    "id": "5",
+    "en": "Center Gal",
+    "fr": "Citadine"
+  },
+  {
+    "id": "6",
+    "en": "Gentleman",
+    "fr": "Monsieur"
+  },
+  {
+    "id": "7",
+    "en": "Vagrant",
+    "fr": "Vagabond"
+  },
+  {
+    "id": "8",
+    "en": "Warrior",
+    "fr": "Guerrier"
+  },
+  {
+    "id": "9",
+    "en": "Drunk",
+    "fr": "Ivrogne"
+  },
+  {
+    "id": "10",
+    "en": "Blond Man",
+    "fr": "Blond"
+  },
+  {
+    "id": "11",
+    "en": "Junkman",
+    "fr": "Fripier"
+  },
+  {
+    "id": "12",
+    "en": "Laborer",
+    "fr": "Ouvrier"
+  },
+  {
+    "id": "13",
+    "en": "Workwoman",
+    "fr": "Ouvrière"
+  },
+  {
+    "id": "14",
+    "en": "Drunkard",
+    "fr": "Pochard"
+  },
+  {
+    "id": "15",
+    "en": "Old Dwarf",
+    "fr": "Vieux nain"
+  },
+  {
+    "id": "16",
+    "en": "Boss Dwarf",
+    "fr": "Chef nain"
+  },
+  {
+    "id": "17",
+    "en": "Kobold Y.",
+    "fr": "Kobold J."
+  },
+  {
+    "id": "18",
+    "en": "Kobold G.",
+    "fr": "Kobold V."
+  },
+  {
+    "id": "19",
+    "en": "Fiend Man",
+    "fr": "Démon"
+  },
+  {
+    "id": "20",
+    "en": "Fiendess",
+    "fr": "Démone"
+  },
+  {
+    "id": "21",
+    "en": "Ghoul",
+    "fr": "Goule"
+  },
+  {
+    "id": "22",
+    "en": "Skeleton",
+    "fr": "Squelette"
+  }
+]

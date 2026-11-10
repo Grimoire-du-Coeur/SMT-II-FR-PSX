@@ -1,0 +1,218 @@
+[
+  {
+    "id": "0x1000",
+    "en": "Man: Finally! Now I can devote{CR}myself completely to my research.{CR}Don't bother me. Keh heh heh!{WT}{ED}",
+    "fr": "",
+    "note": "---- Bank 1: Hanada's lab / former appraiser / STEVEN ----"
+  },
+  {
+    "id": "0x1001",
+    "en": "Man: Hey! I told you,{CR}you can't come in here!{WT}My master will have my head{CR}if I let anyone through.{CR}Go on! Get out of here!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1002",
+    "en": "Hanada: You! This laboratory{CR}belongs to the greatest genius{CR}alive, the illustrious{CR}Dr. Hanada!{WT}Stay out! I'm at the most{CR}critical stage of my work!{WT}{PG}What!? You've come to take me back?{CR}A genius of my caliber should{CR}be free to research as he pleases!{WT}{PG}Neither the fools at the Center{CR}nor that old hag Madam could{CR}understand something so simple.{WT}So I resolved to continue{CR}my research alone!{WT}{PG}And now I have created a tunnel{CR}straight into the Underworld!{WT}No more tedious old rituals!{CR}From now on, I can summon{CR}as many demons as I desire!{WT}First, I assembled the following{CR}components...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1003",
+    "en": "First, the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1004",
+    "en": "Next, the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1005",
+    "en": "Then, the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1006",
+    "en": "And finally, the \"{IT}\".{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1007",
+    "en": "I placed those four vessels,{CR}each overflowing with spiritual{CR}power, at a point where our world{CR}draws close to the Underworld.{WT}Do that, and a gateway between{CR}the two worlds opens before you!{WT}Behold!{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1008",
+    "en": "Hanada: Now, {MG}!{CR}Kill these interlopers who dare{CR}to interfere with my work...{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1009",
+    "en": "W-W-Wait...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100a",
+    "en": "{PG}K-K-Kill...{CR}You're not supposed to kill me...{WT}{PG}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100b",
+    "en": ">The four dolls Hanada used{CR}are lying here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100c",
+    "en": "The \"{IT}\"...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100d",
+    "en": "were obtained.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100e",
+    "en": "{PG}>This is the exit Hanada opened{CR}from the Underworld.{WT}It appears to be one-way only.{WT}{PG}...A demon is coming through!{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x100f",
+    "en": "Former Appraiser: I used to run{CR}an appraisal shop, but there{CR}wasn't much money in it.{WT}So I finally closed up for good.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1010",
+    "en": "Just press the TRIANGLE button.{CR}It'll explain all sorts of things{CR}so we don't have to.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1011",
+    "en": "...Just leave me alone.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1012",
+    "en": "I'd like to try my luck{CR}at the casino at least once.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1013",
+    "en": "I hear there's somewhere you can{CR}play Code Breaker.{WT}Apparently, you need something{CR}called a \"Metal Card.\"{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1014",
+    "en": "Former Appraiser: The appraisal{CR}business couldn't keep pace{CR}with the changing times...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1015",
+    "en": "My family's been appraising goods{CR}since my father's day.{WT}But I suppose that tradition{CR}ends with me...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1016",
+    "en": "...I have nothing to tell you.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1017",
+    "en": "You save your game regularly, right?{CR}Well... Maybe that's none{CR}of my business.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1018",
+    "en": "I hear all those old... issues{CR}have been fixed.{WT}No idea what that means, though.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1019",
+    "en": "Former Appraiser: Sorry, but{CR}the shop closed yesterday.{WT}You'll have to try somewhere else...{CR}Though I imagine they're all{CR}in the same boat.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101a",
+    "en": "...I'm trying to think.{CR}Would you leave me alone?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101b",
+    "en": "Achoo! ...I've caught a cold.{CR}Any idea what might've caused it?{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101c",
+    "en": "Some strange-looking fellow came{CR}in for an appraisal earlier.{WT}He left looking disappointed.{CR}Called himself a Stalker, I think...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101d",
+    "en": "Former Appraiser: This is{CR}the fairies' town.{WT}Some are fond of pranks,{CR}but it's a pleasant place to live.{WT}Hm? An appraisal?{CR}I quit that ages ago.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101e",
+    "en": "Say, do you know Hanoun,{CR}the apothecary?{WT}If only I had a girlfriend{CR}like her...{WT}Ah, Hanoun...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x101f",
+    "en": "Come to think of it, a human man{CR}wandered into town long ago.{WT}His name was Shee...{CR}Shee-something, I think.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1020",
+    "en": "Here's a useful tip.{CR}Magic Stones are among a demon's{CR}favorite things.{WT}If you have any, don't waste them.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1021",
+    "en": "Former Appraiser: This is{CR}an appraisal shop.{WT}Or it was, before I retired.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1022",
+    "en": "The Jirae live in this town.{CR}They spend every spare moment{CR}drinking themselves silly.{WT}Honestly, I'm jealous.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1023",
+    "en": "Here's a useful tip.{CR}You can cast -kaja spells{CR}multiple times to stack them.{WT}That'll give you an edge in battle.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1024",
+    "en": "I hear Hanoun, the apothecary{CR}in the fairies' town,{CR}has found herself a boyfriend...{WT}And I had my eye on her, too...{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1025",
+    "en": "Former Appraiser: Welcome to{CR}what used to be an appraisal shop.{CR}The times changed, and my{CR}profession became obsolete.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1026",
+    "en": "Here's a useful tip.{CR}Some demons can attack you{CR}by draining your level.{WT}Keep your guard up.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1027",
+    "en": "Mutants live in this town.{CR}Apparently, they have a reason{CR}for settling here.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1028",
+    "en": "Word on the street is that{CR}Hanoun has a boyfriend now...{WT}Guess this is the end{CR}of her fan club.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x1029",
+    "en": "STEVEN: We meet again.{CR}{WT}You've grown quite a bit stronger{CR}since our last meeting.{WT}{PG}Today, I'm adding a new feature{CR}to Devil Analysis.{CR}{WT}{PG}It will tell you how many types{CR}of demons exist in this world.{WT}Perhaps that knowledge will make{CR}each new encounter a little{CR}more exciting.{CR}{WT}Good luck out there.{CR}{WT}{PG}>{SY} obtained{CR}the Devil Database.{WT}The Devil Analysis display{CR}has been expanded.{CR}{WT}{PG}STEVEN: Until next time.{WT}{ED}",
+    "fr": ""
+  },
+  {
+    "id": "0x102a",
+    "en": "Your match is coming up.{CR}You really shouldn't be drinking.{ED}",
+    "fr": ""
+  }
+]

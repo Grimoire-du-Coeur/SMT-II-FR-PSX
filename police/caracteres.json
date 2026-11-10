@@ -1,0 +1,20 @@
+{
+  "_doc": "Caractères du français au-delà de ce que l'encodeur de Roman215 sait écrire. Voir police/README.md.",
+  "accents": "éèêëàâäùûüôöîïçÉÈÊËÀÂÔÎÏÙÛÇ",
+  "interdits": {
+    "œ": "oe (pas de glyphe œ : on écrit « coeur », « soeur »)",
+    "Œ": "OE",
+    "æ": "ae",
+    "«": "\" (guillemets droits, comme P1)",
+    "»": "\"",
+    "“": "\"",
+    "”": "\"",
+    "’": "' (apostrophe droite)",
+    "‘": "'",
+    " ": "une espace normale (et pas d'espace avant ! ? :)",
+    " ": "une espace normale (et pas d'espace avant ! ? :)",
+    "—": "- (tiret simple)",
+    "–": "-",
+    "\t": "rien : pas de tabulation"
+  }
+}

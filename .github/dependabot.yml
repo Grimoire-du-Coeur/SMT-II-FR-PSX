@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+  # Garde un oeil sur les nouvelles versions de Roman215 : la PR qui en
+  # résulte doit être suivie de  python outils/extraire.py  (docs/TECHNIQUE.md).
+  - package-ecosystem: gitsubmodule
+    directory: /
+    schedule:
+      interval: weekly

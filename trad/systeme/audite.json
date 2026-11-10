@@ -1,0 +1,1357 @@
+[
+  {
+    "id": "0x1964",
+    "en": "Not enough ћ.",
+    "fr": ""
+  },
+  {
+    "id": "0x2314",
+    "en": "Items",
+    "fr": ""
+  },
+  {
+    "id": "0x231c",
+    "en": "Spirits",
+    "fr": ""
+  },
+  {
+    "id": "0x2c40",
+    "en": "Analyze defeated demons.",
+    "fr": ""
+  },
+  {
+    "id": "0x2c60",
+    "en": "Auto-Recover the entire party.",
+    "fr": ""
+  },
+  {
+    "id": "0x2c88",
+    "en": "View maps of places visited.",
+    "fr": ""
+  },
+  {
+    "id": "0x2cb0",
+    "en": "Remove a demon from party.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ccc",
+    "en": "Return a demon to COMP.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ce8",
+    "en": "Summon a demon from COMP.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d08",
+    "en": "Discard an item.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d20",
+    "en": "Reorder your items.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d38",
+    "en": "Sort your items.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d50",
+    "en": "Use an item.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d68",
+    "en": "Configure Auto-Battle.",
+    "fr": ""
+  },
+  {
+    "id": "0x2d88",
+    "en": "Set battle message speed.",
+    "fr": ""
+  },
+  {
+    "id": "0x2db0",
+    "en": "Configure attack effects.",
+    "fr": ""
+  },
+  {
+    "id": "0x2dd0",
+    "en": "Repeat last action; defend if resources run out.",
+    "fr": ""
+  },
+  {
+    "id": "0x2e10",
+    "en": "Repeat last action; attack if resources run out.",
+    "fr": ""
+  },
+  {
+    "id": "0x2e58",
+    "en": "Use basic attacks, then repeat last action.",
+    "fr": ""
+  },
+  {
+    "id": "0x2e88",
+    "en": "Battle settings.",
+    "fr": ""
+  },
+  {
+    "id": "0x2e9c",
+    "en": "Return a demon to COMP.",
+    "fr": ""
+  },
+  {
+    "id": "0x2eb8",
+    "en": "Use a skill.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ecc",
+    "en": "Basic attack.",
+    "fr": ""
+  },
+  {
+    "id": "0x2ee0",
+    "en": "Defend.",
+    "fr": ""
+  },
+  {
+    "id": "0x2eec",
+    "en": "Attack: Gun",
+    "fr": ""
+  },
+  {
+    "id": "0x2efc",
+    "en": "Attack: Sword",
+    "fr": ""
+  },
+  {
+    "id": "0x2f0c",
+    "en": "Start Auto-Battle.",
+    "fr": ""
+  },
+  {
+    "id": "0x2f28",
+    "en": "Escape from battle.",
+    "fr": ""
+  },
+  {
+    "id": "0x2f40",
+    "en": "Talk to the demon.",
+    "fr": ""
+  },
+  {
+    "id": "0x2f54",
+    "en": "Start battle.",
+    "fr": ""
+  },
+  {
+    "id": "0x3058",
+    "en": "Normal",
+    "fr": ""
+  },
+  {
+    "id": "0x3048",
+    "en": "Res Fire",
+    "fr": ""
+  },
+  {
+    "id": "0x3038",
+    "en": "Res Ice",
+    "fr": ""
+  },
+  {
+    "id": "0x3028",
+    "en": "Res Elec",
+    "fr": ""
+  },
+  {
+    "id": "0x3018",
+    "en": "Res Force",
+    "fr": ""
+  },
+  {
+    "id": "0x3008",
+    "en": "Res Mind",
+    "fr": ""
+  },
+  {
+    "id": "0x2ff8",
+    "en": "Res Phys",
+    "fr": ""
+  },
+  {
+    "id": "0x2fe8",
+    "en": "Res Elec/Force",
+    "fr": ""
+  },
+  {
+    "id": "0x2fd8",
+    "en": "Res Fire/Ice",
+    "fr": ""
+  },
+  {
+    "id": "0x2fc8",
+    "en": "Repel Mind",
+    "fr": ""
+  },
+  {
+    "id": "0x2fb8",
+    "en": "Repel Phys",
+    "fr": ""
+  },
+  {
+    "id": "0x2fa8",
+    "en": "Drain Fire",
+    "fr": ""
+  },
+  {
+    "id": "0x2f98",
+    "en": "Drain Elec",
+    "fr": ""
+  },
+  {
+    "id": "0x2f88",
+    "en": "Demonic Ward",
+    "fr": ""
+  },
+  {
+    "id": "0x2f78",
+    "en": "Holy Ward",
+    "fr": ""
+  },
+  {
+    "id": "0x2f68",
+    "en": "Res All",
+    "fr": ""
+  },
+  {
+    "id": "0x3068",
+    "en": "Sorry... Your level is too low.",
+    "fr": ""
+  },
+  {
+    "id": "0x3094",
+    "en": "Its alignment differs. You cannot summon it. Proceed anyway?",
+    "fr": ""
+  },
+  {
+    "id": "0x30d4",
+    "en": "Your inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x30f0",
+    "en": "That demon is with you.",
+    "fr": ""
+  },
+  {
+    "id": "0x310c",
+    "en": "Sorry. Not the demon you expected.",
+    "fr": ""
+  },
+  {
+    "id": "0x31d0",
+    "en": "Battle settings.",
+    "fr": ""
+  },
+  {
+    "id": "0x31e4",
+    "en": "Effect settings.",
+    "fr": ""
+  },
+  {
+    "id": "0x3200",
+    "en": "Message speed settings.",
+    "fr": ""
+  },
+  {
+    "id": "0x3224",
+    "en": "Auto-Battle settings.",
+    "fr": ""
+  },
+  {
+    "id": "0x3a90",
+    "en": "Which slot?",
+    "fr": ""
+  },
+  {
+    "id": "0x3df0",
+    "en": "Exit",
+    "fr": ""
+  },
+  {
+    "id": "0x3f2c",
+    "en": "Lucky Khan",
+    "fr": ""
+  },
+  {
+    "id": "0x3f40",
+    "en": "Mr. DNA",
+    "fr": ""
+  },
+  {
+    "id": "0x3f50",
+    "en": "Timing X",
+    "fr": ""
+  },
+  {
+    "id": "0x3fd8",
+    "en": "C",
+    "fr": ""
+  },
+  {
+    "id": "0x4b68",
+    "en": "Action?",
+    "fr": ""
+  },
+  {
+    "id": "0x4b78",
+    "en": ": Action?",
+    "fr": ""
+  },
+  {
+    "id": "0x4bb0",
+    "en": "COMP Active",
+    "fr": ""
+  },
+  {
+    "id": "0x5230",
+    "en": "F.Swd",
+    "fr": ""
+  },
+  {
+    "id": "0x5288",
+    "en": "F.Swd",
+    "fr": ""
+  },
+  {
+    "id": "0x5294",
+    "en": "F.Gun",
+    "fr": ""
+  },
+  {
+    "id": "0x529c",
+    "en": "Arms",
+    "fr": ""
+  },
+  {
+    "id": "0x52a4",
+    "en": "Head",
+    "fr": ""
+  },
+  {
+    "id": "0x52ac",
+    "en": "Legs",
+    "fr": ""
+  },
+  {
+    "id": "0x52b4",
+    "en": "Body",
+    "fr": ""
+  },
+  {
+    "id": "0x52bc",
+    "en": "First demon?",
+    "fr": ""
+  },
+  {
+    "id": "0x52d8",
+    "en": "Next demon?",
+    "fr": ""
+  },
+  {
+    "id": "0x52f0",
+    "en": "Final demon?",
+    "fr": ""
+  },
+  {
+    "id": "0x5310",
+    "en": "Sword 1?",
+    "fr": ""
+  },
+  {
+    "id": "0x5324",
+    "en": "Fuse with whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x5344",
+    "en": "Pick sword?",
+    "fr": ""
+  },
+  {
+    "id": "0x535c",
+    "en": "Demon to fuse?",
+    "fr": ""
+  },
+  {
+    "id": "0x537c",
+    "en": "Second sword?",
+    "fr": ""
+  },
+  {
+    "id": "0x53e4",
+    "en": "This one?",
+    "fr": ""
+  },
+  {
+    "id": "0x53fc",
+    "en": "Fuse now!",
+    "fr": ""
+  },
+  {
+    "id": "0x5410",
+    "en": "Cost",
+    "fr": ""
+  },
+  {
+    "id": "0x546c",
+    "en": "'s curse is gone!",
+    "fr": ""
+  },
+  {
+    "id": "0x5480",
+    "en": " was revived!",
+    "fr": ""
+  },
+  {
+    "id": "0x5490",
+    "en": " recovered HP and MP!",
+    "fr": ""
+  },
+  {
+    "id": "0x54ac",
+    "en": " was cured!",
+    "fr": ""
+  },
+  {
+    "id": "0x54c0",
+    "en": " fully healed!",
+    "fr": ""
+  },
+  {
+    "id": "0x54d0",
+    "en": "Uncurse whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x54ec",
+    "en": "Revive whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x5504",
+    "en": "Treat whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x551c",
+    "en": "Restore whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x5534",
+    "en": "Whose curse shall I lift?",
+    "fr": ""
+  },
+  {
+    "id": "0x5554",
+    "en": "Whom shall I revive?",
+    "fr": ""
+  },
+  {
+    "id": "0x5570",
+    "en": "Whom shall I treat?",
+    "fr": ""
+  },
+  {
+    "id": "0x558c",
+    "en": "Whom shall I restore?",
+    "fr": ""
+  },
+  {
+    "id": "0x55a8",
+    "en": "Uncurse whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x55c0",
+    "en": "Revive whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x55d8",
+    "en": "Treat whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x55ec",
+    "en": "Restore whom?",
+    "fr": ""
+  },
+  {
+    "id": "0x5604",
+    "en": "Whose curse shall we lift?",
+    "fr": ""
+  },
+  {
+    "id": "0x5620",
+    "en": "Whom shall we revive?",
+    "fr": ""
+  },
+  {
+    "id": "0x563c",
+    "en": "Whom shall we treat?",
+    "fr": ""
+  },
+  {
+    "id": "0x5658",
+    "en": "Whom shall we restore?",
+    "fr": ""
+  },
+  {
+    "id": "0x5674",
+    "en": "Not enough ћ!",
+    "fr": ""
+  },
+  {
+    "id": "0x5684",
+    "en": "You're short on cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x569c",
+    "en": "You can't carry more.",
+    "fr": ""
+  },
+  {
+    "id": "0x56b4",
+    "en": "That's the total. Okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x56d0",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x56e4",
+    "en": "For healing, try items too!",
+    "fr": ""
+  },
+  {
+    "id": "0x5708",
+    "en": "Choose:",
+    "fr": ""
+  },
+  {
+    "id": "0x571c",
+    "en": "You're short on cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5734",
+    "en": "You can't carry any more.",
+    "fr": ""
+  },
+  {
+    "id": "0x5750",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x5764",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5774",
+    "en": "Come by anytime!",
+    "fr": ""
+  },
+  {
+    "id": "0x5790",
+    "en": "Which one, then?",
+    "fr": ""
+  },
+  {
+    "id": "0x57a8",
+    "en": "Not enough.",
+    "fr": ""
+  },
+  {
+    "id": "0x57b8",
+    "en": "You can't carry more.",
+    "fr": ""
+  },
+  {
+    "id": "0x57d0",
+    "en": "Come back if you want more.",
+    "fr": ""
+  },
+  {
+    "id": "0x57f0",
+    "en": "Which one?",
+    "fr": ""
+  },
+  {
+    "id": "0x5804",
+    "en": "Your offering is lacking.",
+    "fr": ""
+  },
+  {
+    "id": "0x5820",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5834",
+    "en": "Return whenever you have need.",
+    "fr": ""
+  },
+  {
+    "id": "0x5854",
+    "en": "Choose:",
+    "fr": ""
+  },
+  {
+    "id": "0x5868",
+    "en": "Can't equip it. Still buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x5884",
+    "en": "You aren't in any state to shop.",
+    "fr": ""
+  },
+  {
+    "id": "0x58a8",
+    "en": "You can't carry more cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x58c8",
+    "en": "You're short on cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x58e0",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x58f8",
+    "en": "Equip it now?",
+    "fr": ""
+  },
+  {
+    "id": "0x5908",
+    "en": "Total is... OK?",
+    "fr": ""
+  },
+  {
+    "id": "0x591c",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5930",
+    "en": "Thanks a bunch!",
+    "fr": ""
+  },
+  {
+    "id": "0x5944",
+    "en": "Whatcha selling?",
+    "fr": ""
+  },
+  {
+    "id": "0x5958",
+    "en": "I can't buy anything you have. Sorry.",
+    "fr": ""
+  },
+  {
+    "id": "0x5984",
+    "en": "So, what will you buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x59a0",
+    "en": "Junk Shop: Step right up!",
+    "fr": ""
+  },
+  {
+    "id": "0x59c0",
+    "en": "Equip it right away?",
+    "fr": ""
+  },
+  {
+    "id": "0x59d8",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x59f0",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5a04",
+    "en": "Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "0x5a10",
+    "en": "Sell what?",
+    "fr": ""
+  },
+  {
+    "id": "0x5a20",
+    "en": "I can't buy any of that. Bring me something worthwhile.",
+    "fr": ""
+  },
+  {
+    "id": "0x5a64",
+    "en": "Buy what?",
+    "fr": ""
+  },
+  {
+    "id": "0x5a74",
+    "en": "Armor Shop: Need something tough?",
+    "fr": ""
+  },
+  {
+    "id": "0x5a98",
+    "en": "Can't equip it. Still buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x5ab4",
+    "en": "You can't shop now. Come back later.",
+    "fr": ""
+  },
+  {
+    "id": "0x5ae0",
+    "en": "You can't carry more cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5b00",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x5b18",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x5b2c",
+    "en": "Thanks. Come again.",
+    "fr": ""
+  },
+  {
+    "id": "0x5b44",
+    "en": "Got something to sell?",
+    "fr": ""
+  },
+  {
+    "id": "0x5b60",
+    "en": "Nothing I can buy. Bring me something good next time.",
+    "fr": ""
+  },
+  {
+    "id": "0x5b9c",
+    "en": "All are fine weapons.",
+    "fr": ""
+  },
+  {
+    "id": "0x5bb4",
+    "en": "Weapon Shop: Good gear",
+    "fr": ""
+  },
+  {
+    "id": "0x5bcc",
+    "en": "Can't equip it. Still purchase?",
+    "fr": ""
+  },
+  {
+    "id": "0x5bf0",
+    "en": "You are in no state to shop.",
+    "fr": ""
+  },
+  {
+    "id": "0x5c10",
+    "en": "You cannot carry any more cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5c34",
+    "en": "You lack the funds.",
+    "fr": ""
+  },
+  {
+    "id": "0x5c4c",
+    "en": "Your inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x5c68",
+    "en": "Equip it immediately?",
+    "fr": ""
+  },
+  {
+    "id": "0x5c84",
+    "en": "That is the total. Proceed?",
+    "fr": ""
+  },
+  {
+    "id": "0x5ca4",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5cb4",
+    "en": "Thank you very much.",
+    "fr": ""
+  },
+  {
+    "id": "0x5cd0",
+    "en": "What would you like to sell?",
+    "fr": ""
+  },
+  {
+    "id": "0x5cf0",
+    "en": "I cannot buy any of that. Bring me other goods.",
+    "fr": ""
+  },
+  {
+    "id": "0x5d24",
+    "en": "What would you like?",
+    "fr": ""
+  },
+  {
+    "id": "0x5d3c",
+    "en": "Armor Shop: Gear stops any attack!",
+    "fr": ""
+  },
+  {
+    "id": "0x5d60",
+    "en": "You can't equip it. Is that okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x5d84",
+    "en": "You can't shop right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x5da0",
+    "en": "You can't carry so much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5dc0",
+    "en": "Sorry, but I can't lower the price any further.",
+    "fr": ""
+  },
+  {
+    "id": "0x5df4",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x5e0c",
+    "en": "That is the total. Proceed?",
+    "fr": ""
+  },
+  {
+    "id": "0x5e2c",
+    "en": "Thank you. Please come again.",
+    "fr": ""
+  },
+  {
+    "id": "0x5e50",
+    "en": "Which item will you sell me?",
+    "fr": ""
+  },
+  {
+    "id": "0x5e70",
+    "en": "What will you buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x5e84",
+    "en": "Weapon Shop: Finest weapons here.",
+    "fr": ""
+  },
+  {
+    "id": "0x5ea8",
+    "en": "Y-You can't carry that much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5ecc",
+    "en": "Y-You need more cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x5ee4",
+    "en": "Y-You can't carry more.",
+    "fr": ""
+  },
+  {
+    "id": "0x5f00",
+    "en": "Th-That's the total. Is it okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x5f24",
+    "en": "H-How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x5f3c",
+    "en": "Th-Thank you very much.",
+    "fr": ""
+  },
+  {
+    "id": "0x5f58",
+    "en": "Wh-What will you sell?",
+    "fr": ""
+  },
+  {
+    "id": "0x5f78",
+    "en": "I-I can't buy that. Please bring something else.",
+    "fr": ""
+  },
+  {
+    "id": "0x5fac",
+    "en": "Wh-What will you buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x5fc8",
+    "en": "Hanoun: O-Oh! Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "0x5fec",
+    "en": "Can't equip it. Still buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x6008",
+    "en": "No shopping until you heal up.",
+    "fr": ""
+  },
+  {
+    "id": "0x602c",
+    "en": "Macca's maxed out. Don't be greedy.",
+    "fr": ""
+  },
+  {
+    "id": "0x6054",
+    "en": "Not enough cash. Bring more.",
+    "fr": ""
+  },
+  {
+    "id": "0x607c",
+    "en": "Bag's full. Don't be greedy.",
+    "fr": ""
+  },
+  {
+    "id": "0x609c",
+    "en": "Equip it now?",
+    "fr": ""
+  },
+  {
+    "id": "0x60b0",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x60c4",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x60d0",
+    "en": "Much obliged.",
+    "fr": ""
+  },
+  {
+    "id": "0x60e4",
+    "en": "Sell what?",
+    "fr": ""
+  },
+  {
+    "id": "0x60f0",
+    "en": "Nothing I can buy. Bring me goods.",
+    "fr": ""
+  },
+  {
+    "id": "0x6118",
+    "en": "Buy what?",
+    "fr": ""
+  },
+  {
+    "id": "0x6128",
+    "en": "Armor Shop: Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "0x6140",
+    "en": "You can't carry so much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x6160",
+    "en": "You need more cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x617c",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x6194",
+    "en": "Equip it right away?",
+    "fr": ""
+  },
+  {
+    "id": "0x61ac",
+    "en": " Is that OK?",
+    "fr": ""
+  },
+  {
+    "id": "0x61c8",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x61dc",
+    "en": "Thank you very much.",
+    "fr": ""
+  },
+  {
+    "id": "0x61f4",
+    "en": "What will you sell?",
+    "fr": ""
+  },
+  {
+    "id": "0x6210",
+    "en": "I can't buy that. Please bring other goods.",
+    "fr": ""
+  },
+  {
+    "id": "0x6240",
+    "en": "What would you like?",
+    "fr": ""
+  },
+  {
+    "id": "0x625c",
+    "en": "Researcher: See our latest work.",
+    "fr": ""
+  },
+  {
+    "id": "0x6280",
+    "en": "Can't equip it. Still buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x629c",
+    "en": "Can't shop right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x62b4",
+    "en": "You can't carry so much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x62d4",
+    "en": "Not enough cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x62e8",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x6300",
+    "en": "Equip it right away?",
+    "fr": ""
+  },
+  {
+    "id": "0x6318",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x6330",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x6344",
+    "en": "Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "0x6350",
+    "en": "What are you selling me?",
+    "fr": ""
+  },
+  {
+    "id": "0x636c",
+    "en": "Nothing I can buy. Bring me goods.",
+    "fr": ""
+  },
+  {
+    "id": "0x6394",
+    "en": "What will you buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x63a8",
+    "en": "Junk Shop: You buying?",
+    "fr": ""
+  },
+  {
+    "id": "0x63c4",
+    "en": "Can't equip it. Still want it?",
+    "fr": ""
+  },
+  {
+    "id": "0x63e8",
+    "en": "You can't shop right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x6404",
+    "en": "You can't carry so much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x6424",
+    "en": "You're short on cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x643c",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x6454",
+    "en": "Equip it right away, dear?",
+    "fr": ""
+  },
+  {
+    "id": "0x6470",
+    "en": "That's the total. All right?",
+    "fr": ""
+  },
+  {
+    "id": "0x6490",
+    "en": "How many would you like?",
+    "fr": ""
+  },
+  {
+    "id": "0x64ac",
+    "en": "Thanks! Come again, dear.",
+    "fr": ""
+  },
+  {
+    "id": "0x64cc",
+    "en": "What would you like to sell?",
+    "fr": ""
+  },
+  {
+    "id": "0x64ec",
+    "en": "Nothing I can buy, dear. Bring me something else.",
+    "fr": ""
+  },
+  {
+    "id": "0x6520",
+    "en": "What would you like, dear?",
+    "fr": ""
+  },
+  {
+    "id": "0x653c",
+    "en": "Armor Shop: Welcome, dear!",
+    "fr": ""
+  },
+  {
+    "id": "0x655c",
+    "en": "Can't equip it. Still buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x6578",
+    "en": "You can't shop right now.",
+    "fr": ""
+  },
+  {
+    "id": "0x6594",
+    "en": "You can't carry so much cash.",
+    "fr": ""
+  },
+  {
+    "id": "0x65b4",
+    "en": "Not enough money.",
+    "fr": ""
+  },
+  {
+    "id": "0x65c8",
+    "en": "Inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "0x65e0",
+    "en": "Equip it now?",
+    "fr": ""
+  },
+  {
+    "id": "0x65f8",
+    "en": "Total okay?",
+    "fr": ""
+  },
+  {
+    "id": "0x6610",
+    "en": "How many?",
+    "fr": ""
+  },
+  {
+    "id": "0x6624",
+    "en": "Thanks. Come again.",
+    "fr": ""
+  },
+  {
+    "id": "0x663c",
+    "en": "Anything to sell me?",
+    "fr": ""
+  },
+  {
+    "id": "0x6658",
+    "en": "Nothing I can buy. Please bring me something.",
+    "fr": ""
+  },
+  {
+    "id": "0x6694",
+    "en": "What will you buy?",
+    "fr": ""
+  },
+  {
+    "id": "0x66a8",
+    "en": "Weapon Shop: Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "0x66cc",
+    "en": "OWN",
+    "fr": ""
+  },
+  {
+    "id": "0x6700",
+    "en": "Attack",
+    "fr": ""
+  },
+  {
+    "id": "0x6708",
+    "en": "Hit",
+    "fr": ""
+  },
+  {
+    "id": "0x6710",
+    "en": "Hits",
+    "fr": ""
+  },
+  {
+    "id": "0x671c",
+    "en": "DEF",
+    "fr": ""
+  },
+  {
+    "id": "0x6724",
+    "en": "Evade",
+    "fr": ""
+  },
+  {
+    "id": "0x672c",
+    "en": "Affin.",
+    "fr": ""
+  },
+  {
+    "id": "0x6734",
+    "en": "Effect",
+    "fr": ""
+  },
+  {
+    "id": "0x6740",
+    "en": "Align",
+    "fr": ""
+  },
+  {
+    "id": "0x6778",
+    "en": "What now?",
+    "fr": ""
+  },
+  {
+    "id": "0x67c8",
+    "en": "Curse prevents removal!",
+    "fr": ""
+  },
+  {
+    "id": "0x6840",
+    "en": "...Wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "0x685c",
+    "en": "You came all this way. Take this.",
+    "fr": ""
+  },
+  {
+    "id": "0x6884",
+    "en": "Keep coming back, all right?",
+    "fr": ""
+  },
+  {
+    "id": "0x68b0",
+    "en": ">Obtained the \"Mercury Pillar.\"",
+    "fr": ""
+  },
+  {
+    "id": "0x6a20",
+    "en": "Load File 1.",
+    "fr": ""
+  },
+  {
+    "id": "0x6a3c",
+    "en": "Proceed?",
+    "fr": ""
+  },
+  {
+    "id": "0x6a54",
+    "en": "Load File 2.",
+    "fr": ""
+  },
+  {
+    "id": "0x6a70",
+    "en": "Load File 3.",
+    "fr": ""
+  },
+  {
+    "id": "0x75a8",
+    "en": ">An earthquake struck!",
+    "fr": ""
+  }
+]
