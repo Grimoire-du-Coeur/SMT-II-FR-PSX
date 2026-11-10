@@ -3,14 +3,14 @@
 > Fichier **généré** par `outils/stats.py`. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    5 %      253 / 4 914 textes
+Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    6 %      300 / 4 914 textes
 Système        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 554 textes
 Menus          ██████████░░░░░░░░░░░░░░   42 %      107 / 249 textes
 Noms           █░░░░░░░░░░░░░░░░░░░░░░░    4 %       48 / 1 114 textes
 Cartes         ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 142 textes
 Équipe         ████████████████████████  100 %        7 / 7 textes
 
-Total          █░░░░░░░░░░░░░░░░░░░░░░░    5 %      415 / 6 980 textes
+Total          ██░░░░░░░░░░░░░░░░░░░░░░    6 %      462 / 6 980 textes
 ```
 
 Une entrée compte comme traduite dès que son champ `fr` est rempli. Sans traduction, le jeu affiche l'anglais de Roman215 : le patch reste jouable à chaque étape.
@@ -21,7 +21,7 @@ Une entrée compte comme traduite dès que son champ `fr` est rempli. Sans tradu
 |---|---:|---:|
 | [`cartes/lieux.json`](trad/cartes/lieux.json) | 0 / 142 | 0 % |
 | [`dialogues/0x00xx.json`](trad/dialogues/0x00xx.json) | 251 / 256 | 98 % |
-| [`dialogues/0x01xx.json`](trad/dialogues/0x01xx.json) | 2 / 256 | 0 % |
+| [`dialogues/0x01xx.json`](trad/dialogues/0x01xx.json) | 49 / 256 | 19 % |
 | [`dialogues/0x02xx.json`](trad/dialogues/0x02xx.json) | 0 / 256 | 0 % |
 | [`dialogues/0x03xx.json`](trad/dialogues/0x03xx.json) | 0 / 206 | 0 % |
 | [`dialogues/0x10xx.json`](trad/dialogues/0x10xx.json) | 0 / 43 | 0 % |

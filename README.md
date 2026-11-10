@@ -34,14 +34,14 @@ choisir.
 
 <!-- avancement:debut -->
 ```text
-Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    5 %      253 / 4 914 textes
+Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    6 %      300 / 4 914 textes
 Système        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 554 textes
 Menus          ██████████░░░░░░░░░░░░░░   42 %      107 / 249 textes
 Noms           █░░░░░░░░░░░░░░░░░░░░░░░    4 %       48 / 1 114 textes
 Cartes         ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 142 textes
 Équipe         ████████████████████████  100 %        7 / 7 textes
 
-Total          █░░░░░░░░░░░░░░░░░░░░░░░    5 %      415 / 6 980 textes
+Total          ██░░░░░░░░░░░░░░░░░░░░░░    6 %      462 / 6 980 textes
 ```
 <!-- avancement:fin -->
 
