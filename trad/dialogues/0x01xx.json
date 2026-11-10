@@ -2,152 +2,152 @@
   {
     "id": "0x0100",
     "en": "Old Man: That Cathedral of{CR}Shadows in the Slums is bizarre.{WT}They tell you to bring demons!{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: La Cathédrale{CR}des Ombres dans les taudis est{WT}bizzare. Tu dois ramener des démons!{WT}{ED}"
   },
   {
     "id": "0x0101",
     "en": "Madwoman: You did it, Hawk!{CR}Our new Champion! You're amazing!{WT}{ED}",
-    "fr": ""
+    "fr": "Folle: Tu as réussi, Hawk!{CR}Notre nouveau Champion! Incroyable!{WT}{ED}"
   },
   {
     "id": "0x0102",
     "en": "Shady Man: When will they hold{CR}the next tournament?{WT}{ED}",
-    "fr": ""
+    "fr": "Type Louche: C'est pour quand{CR}le prochain tournoi?{WT}{ED}"
   },
   {
     "id": "0x0103",
     "en": "Dapper Man: A man who fled{CR}Madam's manor is supposedly{CR}hiding beneath the Slums.{WT}{ED}",
-    "fr": ""
+    "fr": "Homme Chic: Un mec qui s'est{CR}Enfui du manoir de Madame{CR}est cachl dans les taudis.{WT}{ED}"
   },
   {
     "id": "0x0104",
     "en": "Madwoman: You really met Madam?{CR}That's incredible!{WT}And she gave you a job?{CR}That's even more incredible!{WT}{ED}",
-    "fr": ""
+    "fr": "Folle: T'as vraiment rencontré{CR}Madame? Cool! Et...{WT}elle t'as donné un job?{CR}Encore plus cool!{WT}{ED}"
   },
   {
     "id": "0x0105",
     "en": "Dapper Man: Demons here...{CR}So nowhere is safe anymore.{WT}{ED}",
-    "fr": ""
+    "fr": "Homme Chic: Des démons...{CR}Aucun endroit est "
   },
   {
     "id": "0x0106",
     "en": "Old Man: Won't someone rid us{CR}of all these demons?{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: Que quelqu'un tue{CR}tous ces démons!{WT}{ED}"
   },
   {
     "id": "0x0107",
     "en": "Shady Man: This demon outbreak{CR}is Hanada's fault, isn't it?{WT}{ED}",
-    "fr": ""
+    "fr": "Type Louche: Cette invasion est{CR}la faute d'Hanada, pas vrai?{WT}{ED}"
   },
   {
     "id": "0x0108",
     "en": "Dapper Man: All Valhalla{CR}is talking about one thing...{WT}The Colosseum special match!{CR}Messiah {FO} versus{CR}Hawk, now known as {SY}!{WT}{ED}",
-    "fr": ""
+    "fr": "Homme Chic: Tout Valhalla{CR}ne parle que d'une chose...{WT}Le match spécial du Colisée!{CR}Messie {FO} contre{CR}Hawk, aussi appelé {SY}!{WT}{ED}"
   },
   {
     "id": "0x0109",
     "en": "Old Man: So who's the real{CR}Messiah, you or {FO}?{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: C'est qui le{CR}vrai Messie, toi ou{FO}?{WT}{ED}"
   },
   {
     "id": "0x010a",
     "en": "Madwoman: {FO} says he's{CR}going to crush you!{WT}You'd better win, Hawk!{WT}{ED}",
-    "fr": ""
+    "fr": "Folle: {FO} dit qu'il va{CR}te détruire!{WT}T'as intérêt à gagner, Hawk!{WT}{ED}"
   },
   {
     "id": "0x010b",
     "en": "Shady Man: {FO} should already{CR}be at the Colosseum.{WT}{ED}",
-    "fr": ""
+    "fr": "Type Louche: {FO} devrait déja{CR}être au Colisée.{WT}{ED}"
   },
   {
     "id": "0x010c",
     "en": "Old Man: If you're the Messiah,{CR}wipe out all the demons.{WT}{ED}",
-    "fr": ""
+    "fr": "Vieillard: Si tu es le Messie,{CR}tue les démons.{WT}{ED}"
   },
   {
     "id": "0x010d",
     "en": "Madwoman: Hawk, the Messiah?{CR}I always knew you were special.{WT}{ED}",
-    "fr": ""
+    "fr": "Folle: Hawk, le Messie? Je{CR}savais qu tu étais spécial.{WT}{ED}"
   },
   {
     "id": "0x010e",
     "en": "Sword{ED}",
-    "fr": ""
+    "fr": "Épée{ED}"
   },
   {
     "id": "0x010f",
     "en": "Gun{ED}",
-    "fr": ""
+    "fr": "Pistolet{ED}"
   },
   {
     "id": "0x0110",
     "en": "Ammo{ED}",
-    "fr": ""
+    "fr": "Munitions{ED}"
   },
   {
     "id": "0x0111",
     "en": "Head armor{ED}",
-    "fr": ""
+    "fr": "Casque{ED}"
   },
   {
     "id": "0x0112",
     "en": "Body armor{ED}",
-    "fr": ""
+    "fr": "Plastron{ED}"
   },
   {
     "id": "0x0113",
     "en": "Arm armor{ED}",
-    "fr": ""
+    "fr": "Brassards{ED}"
   },
   {
     "id": "0x0114",
     "en": "Leg armor{ED}",
-    "fr": ""
+    "fr": "Jambières{ED}"
   },
   {
     "id": "0x0115",
     "en": "Item{ED}",
-    "fr": ""
+    "fr": "Objet{ED}"
   },
   {
     "id": "0x0116",
     "en": "It has a potent effect.{WT}{ED}",
-    "fr": ""
+    "fr": "Il a un effet redoutable.{WT}{ED}"
   },
   {
     "id": "0x0117",
     "en": "It has a powerful effect.{WT}{ED}",
-    "fr": ""
+    "fr": "Il a un effet puissant.{WT}{ED}"
   },
   {
     "id": "0x0118",
     "en": "It is incredible.{WT}{ED}",
-    "fr": ""
+    "fr": "Il est incroyable.{WT}{ED}"
   },
   {
     "id": "0x0119",
     "en": "It is excellent.{WT}{ED}",
-    "fr": ""
+    "fr": "Il est excellent.{WT}{ED}"
   },
   {
     "id": "0x011a",
     "en": "It is very stylish.{WT}{ED}",
-    "fr": ""
+    "fr": "Il est stylé.{WT}{ED}"
   },
   {
     "id": "0x011b",
     "en": "It seems to be a healing item.{WT}{ED}",
-    "fr": ""
+    "fr": "On dirait un objet de soin.{WT}{ED}"
   },
   {
     "id": "0x011c",
     "en": "It must be an attack item!{WT}{ED}",
-    "fr": ""
+    "fr": "On dirait un objet d'attaque!{WT}{ED}"
   },
   {
     "id": "0x011d",
     "en": "I hope it is armor.{WT}{ED}",
-    "fr": ""
+    "fr": "J'espère que c'est une armure.{WT}{ED}"
   },
   {
     "id": "0x011e",
@@ -158,87 +158,87 @@
   {
     "id": "0x011f",
     "en": "{PG}What will you do?{ED}",
-    "fr": ""
+    "fr": "{PG}Que vas-tu faire?{ED}"
   },
   {
     "id": "0x0120",
     "en": "{PG}Everyone seems healthy...{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme...{WT}{ED}"
   },
   {
     "id": "0x0121",
     "en": "{PG}Everyone seems healthy...{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme...{WT}{ED}"
   },
   {
     "id": "0x0122",
     "en": "{PG}Everyone seems to be alive...{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en vie...{WT}{ED}"
   },
   {
     "id": "0x0123",
     "en": "{PG}May God's grace go with you.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Que Dieu vous accompagne.{WT}{ED}"
   },
   {
     "id": "0x0124",
     "en": "{PG}No one is cursed.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Personne n'est maudit.{WT}{ED}"
   },
   {
     "id": "0x0125",
     "en": "Choose whom?{ED}",
-    "fr": ""
+    "fr": "Qui choisir?"
   },
   {
     "id": "0x0126",
     "en": "Priest: One so full of Chaos{CR}may not enter this church.{WT}{ED}",
-    "fr": ""
+    "fr": "Prêtre: Ceux consumés par le{CR}Chaos ne peuvent entrer.{WT}{ED}"
   },
   {
     "id": "0x0127",
     "en": "{PG}Priest: This is a Gaia Temple.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Prêtre: Ceci est un Temple de Gaïa.{WT}{ED}"
   },
   {
     "id": "0x0128",
     "en": "{PG}What do you want?{ED}",
-    "fr": ""
+    "fr": "{PG}Que veux-tu?{ED}"
   },
   {
     "id": "0x0129",
     "en": "{PG}Everyone is healthy.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme.{WT}{ED}"
   },
   {
     "id": "0x012a",
     "en": "{PG}Everyone is healthy.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme.{WT}{ED}"
   },
   {
     "id": "0x012b",
     "en": "{PG}Everyone is alive.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en vie.{WT}{ED}"
   },
   {
     "id": "0x012c",
     "en": "{PG}May we bring Chaos to this world.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Nous apporterons le chaos à ce monde.{WT}{ED}"
   },
   {
     "id": "0x012d",
     "en": "{PG}No one is cursed.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Personne n'est maudit.{WT}{ED}"
   },
   {
     "id": "0x012e",
     "en": "Choose whom?{ED}",
-    "fr": ""
+    "fr": "Qui choisir?{ED}"
   },
   {
     "id": "0x012f",
     "en": "Priest: You apostle of Law!{CR}You wretched pawn of God!{CR}{ED}",
-    "fr": ""
+    "fr": "Prêtre: Toi, apôtre de la Loi!{CR}Misérable pantin de Dieu!{CR}{ED}"
   },
   {
     "id": "0x0130",
