@@ -243,493 +243,493 @@
   {
     "id": "0x0130",
     "en": "{PG}...is what I would say.{CR}But with a fitting offering,{CR}I might let you pass.{WT}{PG}>Pay ћ1,000 to enter?{ED}",
-    "fr": ""
+    "fr": "{PG}...Est ce que je dirais.{CR}Mais, on peut s'arranger{CR}avec une petite offre.{WT}{PG}>Payer ћ1,000 pour entrer?{ED}"
   },
   {
     "id": "0x0131",
     "en": "{PG}If you will not pay,{CR}{ED}",
-    "fr": ""
+    "fr": "{PG}Si vous ne payez pas,{CR}{ED}"
   },
   {
     "id": "0x0132",
     "en": "then leave at once!{WT}{ED}",
-    "fr": ""
+    "fr": "Sortez d'ici!{WT}{ED}"
   },
   {
     "id": "0x0133",
     "en": "{PG}Master: Welcome to the{CR}Repair Garage!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Maître: Bienvenue chez{CR}le Répareur!{WT}{ED}"
   },
   {
     "id": "0x0134",
     "en": "{PG}What can I fix up for you?{ED}",
-    "fr": ""
+    "fr": "{PG}Que puis-je réparer pour vous?{ED}"
   },
   {
     "id": "0x0135",
     "en": "{PG}Everyone is fine!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde va bien!{WT}{ED}"
   },
   {
     "id": "0x0136",
     "en": "{PG}Everyone is fine!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde va bien!{WT}{ED}"
   },
   {
     "id": "0x0137",
     "en": "{PG}Everyone is fine!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde va bien!{WT}{ED}"
   },
   {
     "id": "0x0138",
     "en": "{PG}Everyone is fine!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde va bien!{WT}{ED}"
   },
   {
     "id": "0x0139",
     "en": "{PG}Thanks a bunch!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Merci Beaucoup!{WT}{ED}"
   },
   {
     "id": "0x013a",
     "en": "Choose whom?{ED}",
-    "fr": ""
+    "fr": "Qui choisir?{ED}"
   },
   {
     "id": "0x013b",
     "en": "{PG}Bunny: Welcome to the{CR}Healing Spring!{CR}{ED}",
-    "fr": ""
+    "fr": "{PG}Lapin: Bienveue aux{CR}Sources Curatives!{CR}{ED}"
   },
   {
     "id": "0x013c",
     "en": "We heal, revive, and lift{CR}curses for Law-aligned guests!{WT}{ED}",
-    "fr": ""
+    "fr": "On soigne, ressucite, et{CR}enlève les malédictions pour les{CR}hôtes de la Loi!{WT}{ED}"
   },
   {
     "id": "0x013d",
     "en": "{PG}Chaos-aligned guests{CR}may not enter.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Les hôtes du Chaos{CR}ne peuvent entrer.{WT}{ED}"
   },
   {
     "id": "0x013e",
     "en": "We heal, revive, and lift{CR}curses for Chaos-aligned guests!{WT}{ED}",
-    "fr": ""
+    "fr": "On soigne, ressucite, et{CR}enlève les malédictions pour les{CR}hôtes du Chaos!{WT}{ED}""
   },
   {
     "id": "0x013f",
     "en": "Law-aligned guests must pay{CR}ћ1,000 to enter.{WT}{PG}>Pay ћ1,000?{ED}",
-    "fr": ""
+    "fr": "Les hôtes de la Loi doivent{CR}payer ћ1,000 pour entrer.{WT}{PG}>Payer ћ1,000?{ED}"
   },
   {
     "id": "0x0140",
     "en": "Bunny: Come in and relax!{WT}{ED}",
-    "fr": ""
+    "fr": "Lapin: Entrez et reposez-vous!{WT}{ED}"
   },
   {
     "id": "0x0141",
     "en": "Bunny: Sorry! No Macca, no soak!{WT}{ED}",
-    "fr": ""
+    "fr": "Lapin: Désolé! Pas de macca, pas{CR}de soins!{WT}{ED}"
   },
   {
     "id": "0x0142",
     "en": "We heal, revive, and{CR}lift curses!{WT}{ED}",
-    "fr": ""
+    "fr": "On soigne, ressucite,{CR}et enlève les malédictions!{WT}{ED}"
   },
   {
     "id": "0x0143",
     "en": "{PG}What will you do?{ED}",
-    "fr": ""
+    "fr": "{PG}Qu'allez-vous faire?{ED}"
   },
   {
     "id": "0x0144",
     "en": "{PG}Everyone's healthy!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme!{WT}{ED}"
   },
   {
     "id": "0x0145",
     "en": "{PG}Everyone's healthy!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en forme!{WT}{ED}"
   },
   {
     "id": "0x0146",
     "en": "{PG}Everyone's alive!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Tout le monde est en vie!{WT}{ED}"
   },
   {
     "id": "0x0147",
     "en": "{PG}Come back anytime!{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Revenez bientôt!{WT}{ED}"
   },
   {
     "id": "0x0148",
     "en": "{PG}No one is cursed.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Personne n'est maudit.{WT}{ED}"
   },
   {
     "id": "0x0149",
     "en": "Choose whom?{ED}",
-    "fr": ""
+    "fr": "Qui choisir?{ED}"
   },
   {
     "id": "0x014a",
     "en": "Mysterious Voice: Welcome to{CR}the Cathedral of Shadows, where{CR}demons gather...{WT}{ED}",
-    "fr": ""
+    "fr": "Voix Mystérieuse: Bienvenue{CR}dans la Cathédrale des ombres, où{CR}les démons s'unissent...{WT}{ED}"
   },
   {
     "id": "0x014b",
     "en": "Return with more demons.{WT}{ED}",
-    "fr": ""
+    "fr": "Ramenez plus de démons.{WT}{ED}"
   },
   {
     "id": "0x014c",
     "en": "What is your desire?{ED}",
-    "fr": ""
+    "fr": "Que voulez-vous?{ED}"
   },
   {
     "id": "0x014d",
     "en": "Choose the first demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le premier.{ED}"
   },
   {
     "id": "0x014e",
     "en": "Choose the second demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le second.{ED}"
   },
   {
     "id": "0x014f",
     "en": "Choose the third demon.{ED}",
-    "fr": ""
+    "fr": "Choisissez le troisième.{ED}"
   },
   {
     "id": "0x0150",
     "en": "Choose a sword.{ED}",
-    "fr": ""
+    "fr": "Choisissez une épée.{ED}"
   },
   {
     "id": "0x0151",
     "en": "Is this acceptable?{ED}",
-    "fr": ""
+    "fr": "Tout est bon?{ED}"
   },
   {
     "id": "0x0152",
     "en": "Then let the fusion begin.{ED}",
-    "fr": ""
+    "fr": "Commencons la fusion.{ED}"
   },
   {
     "id": "0x0153",
     "en": "I am {ZK} {MG}.{CR}I look forward to serving you!{WT}{ED}",
-    "fr": ""
+    "fr": "Je suis {ZK} {MG}.{CR}ravi de vous servir!{WT}{ED}"
   },
   {
     "id": "0x0154",
     "en": "Checking RAM cartridge.{WT}{PG}Checking now!{ED}",
-    "fr": ""
+    "fr": "Vérif. de la cartouche RAM.{WT}{PG}Vérification!{ED}"
   },
   {
     "id": "0x0155",
     "en": "{PG}The RAM is functioning normally.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}La RAM foctionne correctement.{WT}{ED}"
   },
   {
     "id": "0x0156",
     "en": "{PG}An error was found.{WT}{ED}",
-    "fr": ""
+    "fr": "{PG}Erreur détectée.{WT}{ED}"
   },
   {
     "id": "0x0157",
     "en": "Godly{ED}",
-    "fr": "",
+    "fr": "Divin{ED}",
     "note": "---- Bank 0: race labels / treasure / Rag's exchange ----"
   },
   {
     "id": "0x0158",
     "en": "Herald{ED}",
-    "fr": ""
+    "fr": "Héraut{ED}"
   },
   {
     "id": "0x0159",
     "en": "Amatsu{ED}",
-    "fr": ""
+    "fr": "Amatsu{ED}"
   },
   {
     "id": "0x015a",
     "en": "Avian{ED}",
-    "fr": ""
+    "fr": "Avien{ED}"
   },
   {
     "id": "0x015b",
     "en": "Megami{ED}",
-    "fr": ""
+    "fr": "Megami{ED}"
   },
   {
     "id": "0x015c",
     "en": "Deity{ED}",
-    "fr": ""
+    "fr": "Déité{ED}"
   },
   {
     "id": "0x015d",
     "en": "Avatar{ED}",
-    "fr": ""
+    "fr": "Avatar{ED}"
   },
   {
     "id": "0x015e",
     "en": "Holy{ED}",
-    "fr": ""
+    "fr": "Sacré{ED}"
   },
   {
     "id": "0x015f",
     "en": "Element{ED}",
-    "fr": ""
+    "fr": "Élément{ED}"
   },
   {
     "id": "0x0160",
     "en": "Fury{ED}",
-    "fr": ""
+    "fr": "Furie{ED}"
   },
   {
     "id": "0x0161",
     "en": "Dragon{ED}",
-    "fr": ""
+    "fr": "Dragon{ED}"
   },
   {
     "id": "0x0162",
     "en": "Lady{ED}",
-    "fr": ""
+    "fr": "Dame{ED}"
   },
   {
     "id": "0x0163",
     "en": "Kunitsu{ED}",
-    "fr": ""
+    "fr": "Kunitsu{ED}"
   },
   {
     "id": "0x0164",
     "en": "Divine{ED}",
-    "fr": ""
+    "fr": "Divinité{ED}"
   },
   {
     "id": "0x0165",
     "en": "Flight{ED}",
-    "fr": ""
+    "fr": "Volatile{ED}"
   },
   {
     "id": "0x0166",
     "en": "Messian{ED}",
-    "fr": ""
+    "fr": "Messian{ED}"
   },
   {
     "id": "0x0167",
     "en": "Drake{ED}",
-    "fr": ""
+    "fr": "Drake{ED}"
   },
   {
     "id": "0x0168",
     "en": "Yoma{ED}",
-    "fr": ""
+    "fr": "Yoma{ED}"
   },
   {
     "id": "0x0169",
     "en": "Beast{ED}",
-    "fr": ""
+    "fr": "Bête{ED}"
   },
   {
     "id": "0x016a",
     "en": "Night{ED}",
-    "fr": ""
+    "fr": "Nocturne{ED}"
   },
   {
     "id": "0x016b",
     "en": "Jirae{ED}",
-    "fr": ""
+    "fr": "Jirae{ED}"
   },
   {
     "id": "0x016c",
     "en": "Fairy{ED}",
-    "fr": ""
+    "fr": "Fée{ED}"
   },
   {
     "id": "0x016d",
     "en": "Demonoid{ED}",
-    "fr": ""
+    "fr": "Démonoïde{ED}"
   },
   {
     "id": "0x016e",
     "en": "Fallen{ED}",
-    "fr": ""
+    "fr": "Déchu{ED}"
   },
   {
     "id": "0x016f",
     "en": "Brute{ED}",
-    "fr": ""
+    "fr": "Brute{ED}"
   },
   {
     "id": "0x0170",
     "en": "Femme{ED}",
-    "fr": ""
+    "fr": "Femme Fatale{ED}"
   },
   {
     "id": "0x0171",
     "en": "Gaean{ED}",
-    "fr": ""
+    "fr": "Gaïen{ED}"
   },
   {
     "id": "0x0172",
     "en": "Vile{ED}",
-    "fr": ""
+    "fr": "Infâme{ED}"
   },
   {
     "id": "0x0173",
     "en": "Raptor{ED}",
-    "fr": ""
+    "fr": "Rapace{ED}"
   },
   {
     "id": "0x0174",
     "en": "Machine{ED}",
-    "fr": ""
+    "fr": "Machine{ED}"
   },
   {
     "id": "0x0175",
     "en": "Vaccine{ED}",
-    "fr": ""
+    "fr": "Vaccin{ED}"
   },
   {
     "id": "0x0176",
     "en": "Jaki{ED}",
-    "fr": ""
+    "fr": "Jaki{ED}"
   },
   {
     "id": "0x0177",
     "en": "Wilder{ED}",
-    "fr": ""
+    "fr": "Sauvage{ED}"
   },
   {
     "id": "0x0178",
     "en": "Wood{ED}",
-    "fr": ""
+    "fr": "Arbre{ED}"
   },
   {
     "id": "0x0179",
     "en": "Undead{ED}",
-    "fr": ""
+    "fr": "Mort-Vivant{ED}"
   },
   {
     "id": "0x017a",
     "en": "Tyrant{ED}",
-    "fr": ""
+    "fr": "Tyran{ED}"
   },
   {
     "id": "0x017b",
     "en": "Snake{ED}",
-    "fr": ""
+    "fr": "Serpent{ED}"
   },
   {
     "id": "0x017c",
     "en": "Haunt{ED}",
-    "fr": ""
+    "fr": "Spectre{ED}"
   },
   {
     "id": "0x017d",
     "en": "Spirit{ED}",
-    "fr": ""
+    "fr": "Esprit{ED}"
   },
   {
     "id": "0x017e",
     "en": "Foul{ED}",
-    "fr": ""
+    "fr": "Immonde{ED}"
   },
   {
     "id": "0x017f",
     "en": "Virus{ED}",
-    "fr": ""
+    "fr": "Virus{ED}"
   },
   {
     "id": "0x0180",
     "en": "Warrior{ED}",
-    "fr": ""
+    "fr": "Guerrier{ED}"
   },
   {
     "id": "0x0181",
     "en": "Divine General{ED}",
-    "fr": ""
+    "fr": "Général Divin{ED}"
   },
   {
     "id": "0x0182",
     "en": "Fiend{ED}",
-    "fr": ""
+    "fr": "Démon Majeur{ED}"
   },
   {
     "id": "0x0183",
     "en": ">You found a chest. Open it?{ED}",
-    "fr": ""
+    "fr": ">Coffre trouvé. Voulez-vous l'ouvrir?{ED}"
   },
   {
     "id": "0x0184",
     "en": "{SY} left the chest alone.{WT}{ED}",
-    "fr": ""
+    "fr": "{SY} a laissé le coffre.{WT}{ED}"
   },
   {
     "id": "0x0185",
     "en": "The chest was empty.{WT}{ED}",
-    "fr": ""
+    "fr": "Le coffre était vide.{WT}{ED}"
   },
   {
     "id": "0x0186",
     "en": "{SY} opened the chest.{WT}{ED}",
-    "fr": ""
+    "fr": "{SY} a ouvert un coffre.{WT}{ED}"
   },
   {
     "id": "0x0187",
     "en": "{AG} obtained{CR}ћ{SU}.{WT}{ED}",
-    "fr": ""
+    "fr": "{AG} a obtenu{CR}ћ{SU}.{WT}{ED}"
   },
   {
     "id": "0x0188",
     "en": "{AG} obtained{CR}{SU} MAG.{WT}{ED}",
-    "fr": ""
+    "fr": "{AG} a obtenu{CR}{SU} MAG.{WT}{ED}"
   },
   {
     "id": "0x0189",
     "en": "{AG} obtained{CR}\"{IT}.\"{WT}{ED}",
-    "fr": ""
+    "fr": "{AG} a obtenu{CR}\"{IT}.\"{WT}{ED}"
   },
   {
     "id": "0x018a",
     "en": "A trap!{CR}{AG} took damage.{WT}{ED}",
-    "fr": ""
+    "fr": "Un piège!{CR}{AG} a pris des dégâts.{WT}{ED}"
   },
   {
     "id": "0x018b",
     "en": "Rag: Welcome. Glad you came.{WT}{ED}",
-    "fr": ""
+    "fr": "Rag: Bienvenue.{WT}{ED}"
   },
   {
     "id": "0x018c",
     "en": "What do you need?{ED}",
-    "fr": ""
+    "fr": "Qu'avez-vous besoin?{ED}"
   },
   {
     "id": "0x018d",
     "en": "A full moon is best{CR}for finding gems.{WT}{ED}",
-    "fr": ""
+    "fr": "Une pleine lune est{CR}permet de trouver plus de gemmes.{WT}{ED}"
   },
   {
     "id": "0x018e",
     "en": "All right. Trade for which gem?{ED}",
-    "fr": ""
+    "fr": "D'accord. Troquer contre quelles gemmes?{ED}"
   },
   {
     "id": "0x018f",
     "en": "You need to bring gems first.{WT}{ED}",
-    "fr": ""
+    "fr": "Tu dois ramener des gemmes.{WT}{ED}"
   },
   {
     "id": "0x0190",
     "en": "Trade for the {IT}?{ED}",
-    "fr": ""
+    "fr": "Troquer pour {IT}?{ED}"
   },
   {
     "id": "0x0191",
     "en": "{IT}, huh?{WT}{ED}",
-    "fr": ""
+    "fr": "{IT}, eh?{WT}{ED}"
   },
   {
     "id": "0x0192",
