@@ -734,83 +734,83 @@
   {
     "id": "0x0192",
     "en": "Offer the second gem.{ED}",
-    "fr": ""
+    "fr": "Donnez la deuxième gemme.{ED}"
   },
   {
     "id": "0x0193",
     "en": "Trade for {MG}?{ED}",
-    "fr": ""
+    "fr": "Troquer pour {MG}?{ED}"
   },
   {
     "id": "0x0194",
     "en": "Your party is full.{WT}{ED}",
-    "fr": ""
+    "fr": "Votre équipe est pleine.{WT}{ED}"
   },
   {
     "id": "0x0195",
     "en": "You already have that demon.{WT}{ED}",
-    "fr": ""
+    "fr": "Vous avez déja ce démon.{WT}{ED}"
   },
   {
     "id": "0x0196",
     "en": "Man: ...You're awake...{WT}Will you serve God or demons?{WT}All humanity's future{CR}hangs on this great gamble...{WT}{PG}{ED}",
-    "fr": "",
+    "fr": "Homme: Tu es éveillé...{WT}Serviras-tu Dieu ou les démons?{WT}Le futur de l'humanité{CR}repose sur ce choix...{WT}{PG}{ED}",
     "note": "---- Bank 0: opening vision / name entry / early fortune-teller prompts ----"
   },
   {
     "id": "0x0197",
     "en": "Now choose whatever name you wish.{ED}",
-    "fr": ""
+    "fr": "Maintenant, choisissez cotre nom.{ED}"
   },
   {
     "id": "0x0198",
     "en": "Your name is...{WT}{ED}",
-    "fr": ""
+    "fr": "Votre nom est...{WT}{ED}"
   },
   {
     "id": "0x0199",
     "en": "...So you will call yourself {SY}?{ED}",
-    "fr": ""
+    "fr": "Vous vous appelez {SY}?{ED}"
   },
   {
     "id": "0x019a",
     "en": "{SY}... A fine choice.{WT}{ED}",
-    "fr": ""
+    "fr": "{SY}... Bon choix.{WT}{ED}"
   },
   {
     "id": "0x019b",
     "en": "...What's wrong? Do you still not{CR}know who you are?{ED}",
-    "fr": ""
+    "fr": "...Qui y'a-t-il? Vous ne savez toujours{CR}pas qui vous êtes?{ED}"
   },
   {
     "id": "0x019c",
     "en": "I see...{CR}{TI}Then I shall tell you the name{CR}you were given.{WT}{PG}Your name is Aleph...{WT}{ED}",
-    "fr": ""
+    "fr": "Je vois...{CR}{TI}Je vais donc te dire ton nom{CR}original.{WT}{PG}Tu t'appeles Aleph...{WT}{ED}"
   },
   {
     "id": "0x019d",
     "en": "Man: ...She is your...{WT}{PG}{ED}",
-    "fr": ""
+    "fr": "Homme: ...Elle est ta...{WT}{PG}{ED}"
   },
   {
     "id": "0x019e",
     "en": "Give her a fitting name.{ED}",
-    "fr": ""
+    "fr": "Donne lui un beau nom.{ED}"
   },
   {
     "id": "0x019f",
     "en": "Her name is...{WT}{ED}",
-    "fr": ""
+    "fr": "Son nom est...{WT}{ED}"
   },
   {
     "id": "0x01a0",
     "en": "Will you call her {NI}?{ED}",
-    "fr": ""
+    "fr": "Allez-vous l'appeler{NI}?{ED}"
   },
   {
     "id": "0x01a1",
     "en": "{NI}... A fine name.{WT}{ED}",
-    "fr": ""
+    "fr": "{NI}... Quel beau nom.{WT}{ED}"
   },
   {
     "id": "0x01a2",
